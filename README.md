@@ -92,7 +92,7 @@ Six années de données, c'est peu : un seul mois exceptionnel suffit à déplac
 
 ### Les trades d'Amirou (détail dans [`analyses/TRADES_SEPTEMBRE.md`](analyses/TRADES_SEPTEMBRE.md))
 - **Tout le canal** : on relève **54 messages « TP touché » contre 72 « SL touché »**. L'audit d'Antigravity annonçait 167 gains pour 41 pertes, sans méthode.
-- **Septembres 2019-2026, vérifiés à la main** : environ 28 gains, souvent flottants ou non chiffrés, pour 14 à 16 pertes. Beaucoup d'ordres ne sont jamais déclenchés, et plusieurs pertes ne sont pas annoncées.
+- **Septembres 2019-2026, vérifiés à la main** : environ 29 gains, souvent flottants ou non chiffrés, pour 15 à 16 pertes. Beaucoup d'ordres ne sont jamais déclenchés, et plusieurs pertes ne sont pas annoncées.
 - **Point fort vérifiable : la lecture macro.** En septembre 2026 par exemple, toutes les décisions de banques centrales anticipées dans le canal (BCE, Fed, BoE, BoJ, RBA) se sont produites comme annoncé. Le dollar a monté comme prévu (EURUSD −240 pips).
 - **Point faible : le risque réel visible sur les captures.** On voit 120 lots avec un stop de 4 pips en 2020, et un compte de 100 $ qui risquait environ 80 % de son solde en 2026. C'est loin des 0,5 à 2 % recommandés en public.
 
