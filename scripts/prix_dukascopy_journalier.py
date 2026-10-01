@@ -14,6 +14,10 @@ Remarque : chez Dukascopy, une bougie journalière va de 00h à 24h UTC (et non 
 chez la plupart des courtiers). L'écart est de 2 heures sur 24. La courte bougie du dimanche soir est
 fusionnée avec celle du lundi.
 
+Année en cours : Dukascopy ne publie le fichier annuel qu'une fois l'année finie (404 sinon). Les jours
+manquants de l'année en cours sont alors reconstruits à partir des bougies horaires Yahoo
+(data/prix/yahoo/<PAIRE>_1h.csv, regroupées de 00h à 24h UTC comme chez Dukascopy).
+
 Usage : python scripts/prix_dukascopy_journalier.py [--debut 2010] [--paires EURUSD GBPUSD ...]
 """
 
@@ -29,6 +33,20 @@ from simuler_trades_dukascopy import BASE, CACHE, decoder, telecharger  # noqa: 
 PAIRES = ['EURUSD', 'GBPUSD', 'USDJPY', 'AUDUSD', 'NZDUSD', 'USDCAD', 'USDCHF', 'EURJPY', 'GBPJPY', 'AUDJPY',
           'EURGBP', 'EURAUD', 'EURNZD', 'GBPAUD', 'AUDNZD', 'XAUUSD']
 SORTIE = 'data/prix/journalier_dukascopy.csv'
+
+
+def depuis_yahoo(p, apres):
+    """Bougies journalières 00h-24h UTC reconstruites depuis l'horaire Yahoo, pour les jours > apres."""
+    import pandas as pd
+    fic = f'data/prix/yahoo/{"XAUUSD" if p == "XAUUSD" else p}_1h.csv'
+    if not os.path.exists(fic):
+        return []
+    h = pd.read_csv(fic, parse_dates=['date']).set_index('date').sort_index()
+    h = h[h.index.weekday < 5]                     # dimanche soir rattaché au lundi : ignoré ici (quelques heures)
+    d = h.resample('1D').agg({'open': 'first', 'high': 'max', 'low': 'min', 'close': 'last'}).dropna()
+    d = d[d.index > apres]
+    return [[p, t.strftime('%Y-%m-%d'), round(o, 6), round(hh, 6), round(l, 6), round(c, 6)]
+            for t, (o, hh, l, c) in d.iterrows()]
 
 
 def charger(paires=None):
@@ -61,7 +79,10 @@ def main():
                 dimanche = None
                 lignes.append([p, t.strftime('%Y-%m-%d'), round(o, 6), round(h, 6), round(l, 6), round(c, 6)])
                 n += 1
-        print(f"  {p} : {n} jours", flush=True)
+        dernier = max((l[1] for l in lignes if l[0] == p), default='2000-01-01')
+        complement = depuis_yahoo(p, dernier)
+        lignes += complement
+        print(f"  {p} : {n} jours Dukascopy + {len(complement)} jours Yahoo (après {dernier})", flush=True)
     lignes.sort()
     with open(args.sortie, 'w', newline='') as fh:
         w = csv.writer(fh)
