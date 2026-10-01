@@ -18,6 +18,7 @@ Le dépôt réunit trois choses :
 | [`data/telegram_messages.jsonl`](data/telegram_messages.jsonl) | **Source de référence** : le canal entier (14/03/2019 → 01/10/2026), un message par ligne |
 | [`data/trade_events.csv`](data/trade_events.csv) | Messages classés par événement de trade (entrée, TP, SL, BE, raté…) |
 | [`scripts/`](scripts/) | Scripts de conversion, d'extraction et de téléchargement (voir plus bas) |
+| [`analyses/TRADES_VS_SAISONNALITE.md`](analyses/TRADES_VS_SAISONNALITE.md) | **Tous les trades du canal confrontés à la saisonnalité**, causes des ratés, mois hors saison et faits inhabituels |
 | [`analyses/TRADES_SEPTEMBRE.md`](analyses/TRADES_SEPTEMBRE.md) | **Vérification des trades de chaque mois de septembre (2019-2026)** et statistiques sur tout le canal |
 | [`docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md`](docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md) | Vérification point par point des trois rapports d'Antigravity |
 | [`docs/STOCKAGE_IMAGES.md`](docs/STOCKAGE_IMAGES.md) | Tri des images, envoi vers S3 et allègement de GitHub |

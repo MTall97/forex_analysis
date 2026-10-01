@@ -27,6 +27,10 @@ L'utilisateur travaille en français.
 - **Accès réseau** : Yahoo Finance, Stooq et TradingView peuvent être bloqués dans l'environnement cloud. Dans ce cas, les données de cours ne sont pas vérifiables en direct ; le dire plutôt que deviner.
 - **Saisonnalité « du projet »** : uniquement ce que calcule le générateur (mois et jours de la semaine, 2020-2025). La « règle de la semaine 1 » vient d'Amirou, pas du projet.
 
+## Données de cours
+- `data/prix/fx_daily_fred.csv` (Fed H.10 via github.com/datasets/exchange-rates, accessible depuis le cloud) et `data/prix/gold_monthly.csv`. `scripts/saisonnalite_mensuelle.py` en tire `data/rendements_mensuels.csv` et `data/saisonnalite.csv`.
+- Registre de tous les trades : `scripts/construire_registre_trades.py` → `data/trades.csv` (corrections manuelles dans `data/trades_corrections.csv`) ; confrontation : `scripts/confronter_trades_saisonnalite.py` → `analyses/TRADES_VS_SAISONNALITE.md`.
+
 ## Travaux en attente
 - Les 1 243 captures TradingView sont dans `assets/tradingview/` et ont été intégrées aux septembres 2021–2026. Les autres mois du canal ne sont pas encore vérifiés trade par trade.
 - Images : le tri est fait (`data/photos_classification.csv`). La suppression, l'envoi S3 (`s3://images-forex-analyse`) et la purge de l'historique restent à faire par l'utilisateur ; les étapes sont dans `docs/STOCKAGE_IMAGES.md`. Ne jamais purger l'historique de `main` sans son accord explicite.
