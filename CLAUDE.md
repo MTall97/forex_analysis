@@ -31,6 +31,11 @@ L'utilisateur travaille en français.
 - `data/prix/fx_daily_fred.csv` (Fed H.10 via github.com/datasets/exchange-rates, accessible depuis le cloud) et `data/prix/gold_monthly.csv`. `scripts/saisonnalite_mensuelle.py` en tire `data/rendements_mensuels.csv` et `data/saisonnalite.csv`.
 - Registre de tous les trades : `scripts/construire_registre_trades.py` → `data/trades.csv` (corrections manuelles dans `data/trades_corrections.csv`) ; confrontation : `scripts/confronter_trades_saisonnalite.py` → `analyses/TRADES_VS_SAISONNALITE.md`.
 
+## Captures et simulation (2021-2026)
+- OCR : `scripts/lire_captures_ocr.py` (Tesseract, `apt install tesseract-ocr`, `OMP_THREAD_LIMIT=1`) → `data/captures_niveaux.csv` ; résolution des niveaux et de la paire : `scripts/resoudre_niveaux.py` → `data/captures_trades.csv`.
+- Prix : `scripts/prix_yahoo.py` (Yahoo Finance, cache non suivi dans `data/prix/yahoo/` ; horaire depuis 12/2023, journalier avant). Dukascopy fonctionne mais est trop limité en débit depuis le cloud.
+- Simulation : `scripts/simuler_trades_dukascopy.py` → `data/trades_simules.csv` ; algorithme : `scripts/algo_amirou_backtest.py` ; modèle : `scripts/modele_meta.py`. Synthèse : `analyses/STRATEGIE_ET_MODELE.md`.
+
 ## Travaux en attente
 - Les 1 243 captures TradingView sont dans `assets/tradingview/` et ont été intégrées aux septembres 2021–2026. Les autres mois du canal ne sont pas encore vérifiés trade par trade.
 - Images : triées (`data/photos_classification.csv`) et envoyées sur `s3://images-forex-analyse` (us-east-1) le 01/10/2026 ; elles ne sont plus suivies par Git, sauf les 67 citées dans les analyses. Pas d'identifiants AWS dans le dépôt : `scripts/upload_images_s3.py` lit les variables d'environnement standard. La purge de l'historique reste à décider par l'utilisateur ; ne jamais la faire sans son accord explicite.

@@ -143,10 +143,13 @@ def simuler(paire, sens, e, sl, tp, depart):
     touche_recent = any(touche(b, e) for b in avant if b[0] >= depart - timedelta(hours=12))
     if deja_sl:
         return dict(statut='incohérent', issue='prix déjà au-delà du stop', r='', rr=rr, entree_utc='', sortie_utc='', mfe_r='')
-    if touche_recent and (deja_tp or gain_latent > 0.5):
+    if deja_tp or (touche_recent and gain_latent > 0.5):
         # le prix a déjà dépassé l'entrée de plus d'un demi-risque : capture faite après l'entrée
         statut = 'après coup'
         entree_t = next((b[0] for b in reversed(avant) if touche(b, e)), None)
+        if entree_t is None and deja_tp:
+            return dict(statut=statut, issue='objectif déjà dépassé à la publication', r='', rr=rr,
+                        entree_utc='', sortie_utc='', mfe_r='')
         if entree_t is None:
             return dict(statut=statut, issue='entrée antérieure aux données', r='', rr=rr, entree_utc='', sortie_utc='')
         seq = [b for b in avant if b[0] >= entree_t] + apres
@@ -211,7 +214,7 @@ def resolution_prix(paire, date):
 
 
 def main():
-    lignes = list(csv.DictReader(open('data/captures_niveaux.csv', encoding='utf-8')))
+    lignes = list(csv.DictReader(open('data/captures_trades.csv', encoding='utf-8')))
     vus, trades = [], []
     for l in lignes:
         if not (l['paire'] and l['entree'] and l['stop'] and l['objectif'] and l['sens']):
