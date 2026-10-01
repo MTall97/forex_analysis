@@ -13,25 +13,25 @@
 > **Tableaux complets** (paire × année) : [`annexes/STRATEGIES_PAR_PAIRE_TABLEAUX.md`](annexes/STRATEGIES_PAR_PAIRE_TABLEAUX.md).
 > **Listes datées** : [`data/par_paire/occurrences_*.csv`](../data/par_paire/), une ligne par occurrence avec la date, la paire, le sens, l'entrée, le stop, l'objectif, l'issue et le résultat en R.
 > **Données** :
-> - stratégies journalières : 4 paires (EURUSD, GBPUSD, USDJPY, AUDJPY), 2012-2026 ; les autres paires sont en cours de téléchargement ;
+> - stratégies journalières : 6 paires (EURUSD, GBPUSD, USDJPY, AUDJPY, AUDUSD, NZDUSD), 2012-2026 ; les autres paires sont en cours de téléchargement ;
 > - Bombe, bébé abandonné horaire et englobante des flashcards : 10 à 13 paires, 2024-2026.
 >
 > Le détail des règles est dans [`MASTERCLASS_VERIFIEE.md`](MASTERCLASS_VERIFIEE.md) et les schémas dans [`GUIDE_STRATEGIES.md`](GUIDE_STRATEGIES.md).
 
 ## 1. Vue d'ensemble : R moyen par trade et par paire (nombre de trades)
 
-| Stratégie | EURUSD | GBPUSD | USDJPY | AUDJPY | EURJPY | GBPJPY | AUDUSD | NZDUSD | USDCAD | EURNZD | XAUUSD |
+| Stratégie | EURUSD | GBPUSD | USDJPY | AUDJPY | AUDUSD | NZDUSD | EURJPY | GBPJPY | USDCAD | EURNZD | XAUUSD |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Lundi-mardi-mercredi (trois barres) | −0,34 (18) | −0,06 (26) | +0,03 (36) | −0,13 (31) | | | | | | | |
-| Lundi et mardi haussiers, mercredi prend le high (#14577) | −0,13 (147) | −0,21 (139) | −0,18 (162) | −0,21 (183) | | | | | | | |
-| MLQ ±25 / 50 / 250 pips | +0,07 (506) | −0,04 (681) | −0,12 (567) | −0,07 (582) | | | | | | | |
-| Englobante du mercredi (2 R) | −0,01 (206) | +0,01 (203) | +0,11 (195) | +0,11 (202) | | | | | | | |
-| Englobante + MLQ (2 R) | +0,07 (195) | +0,05 (203) | −0,02 (192) | +0,11 (189) | | | | | | | |
-| **Trois barres + MLQ (3e jour)** | **+0,56 (18)** | **+0,53 (20)** | **+0,53 (31)** | **+0,53 (25)** | | | | | | | |
-| Bébé abandonné (journalier) | +0,09 (46) | −0,07 (45) | −0,10 (50) | −0,21 (51) | | | | | | | |
-| Bébé abandonné (horaire, 2024-2026) | −0,23 (279) | −0,26 (183) | +0,02 (155) | −0,06 (177) | −0,15 (182) | +0,05 (152) | −0,15 (175) | −0,16 (171) | −0,19 (246) | −0,18 (187) | |
-| Englobante, rupture (horaire, 2024-2026) | −0,09 (176) | −0,02 (180) | +0,02 (166) | +0,01 (181) | | −0,01 (186) | −0,05 (182) | −0,07 (185) | −0,01 (169) | +0,04 (187) | −0,02 (151) |
-| Bombe (H1, 2024-2026) | −0,24 (10) | +0,05 (6) | −0,09 (2) | −0,40 (2) | +2,36 (3) | −1,05 (3) | +0,64 (6) | −0,07 (6) | | | |
+| Lundi-mardi-mercredi (trois barres) | −0,34 (18) | −0,06 (26) | +0,03 (36) | −0,13 (31) | −0,25 (19) | +0,56 (12) | | | | | |
+| Lundi et mardi haussiers, mercredi prend le high (#14577) | −0,13 (147) | −0,21 (139) | −0,18 (162) | −0,21 (183) | +0,08 (156) | −0,05 (158) | | | | | |
+| MLQ ±25 / 50 / 250 pips | +0,07 (506) | −0,04 (681) | −0,12 (567) | −0,07 (582) | −0,07 (404) | −0,03 (386) | | | | | |
+| Englobante du mercredi (2 R) | −0,01 (206) | +0,01 (203) | +0,11 (195) | +0,11 (202) | −0,01 (213) | −0,03 (218) | | | | | |
+| Englobante + MLQ (2 R) | +0,07 (195) | +0,05 (203) | −0,02 (192) | +0,11 (189) | 0,00 (209) | −0,04 (211) | | | | | |
+| **Trois barres + MLQ (3e jour)** | **+0,56 (18)** | **+0,53 (20)** | **+0,53 (31)** | **+0,53 (25)** | +0,07 (26) | **+0,57 (15)** | | | | | |
+| Bébé abandonné (journalier) | +0,09 (46) | −0,07 (45) | −0,10 (50) | −0,21 (51) | +0,10 (52) | −0,06 (46) | | | | | |
+| Bébé abandonné (horaire, 2024-2026) | −0,23 (279) | −0,26 (183) | +0,02 (155) | −0,06 (177) | −0,15 (175) | −0,16 (171) | −0,15 (182) | +0,05 (152) | −0,19 (246) | −0,18 (187) | |
+| Englobante, rupture (horaire, 2024-2026) | −0,09 (176) | −0,02 (180) | +0,02 (166) | +0,01 (181) | −0,05 (182) | −0,07 (185) | | −0,01 (186) | −0,01 (169) | +0,04 (187) | −0,02 (151) |
+| Bombe (H1, 2024-2026) | −0,24 (10) | +0,05 (6) | −0,09 (2) | −0,40 (2) | +0,64 (6) | −0,07 (6) | +2,36 (3) | −1,05 (3) | | | |
 
 **Comment lire** :
 - +0,10 R = 10 % du risque gagné en moyenne par trade, spread déduit ;
@@ -47,30 +47,30 @@ Si la préférence est réelle, la corrélation des classements est positive, et
 
 | Stratégie | Période 1 → période 2 | Meilleures paires en période 1 | Leur R en période 2 | Autres paires en période 2 | Corrélation des classements |
 |---|---|---|---|---|---|
-| Lundi-mardi-mercredi (trois barres) | 2012-2018 → 2019-2026 | AUDJPY, EURUSD | **−0,32** | +0,30 | **−0,80** |
-| #14577 (mercredi prend le high) | 2012-2018 → 2019-2026 | EURUSD, USDJPY | −0,21 | −0,13 | **−1,00** |
-| MLQ ±25 / 50 / 250 | 2012-2018 → 2019-2026 | EURUSD, AUDJPY | −0,01 | −0,01 | +0,40 |
-| Englobante du mercredi | 2012-2018 → 2019-2026 | AUDJPY, USDJPY | +0,17 | +0,03 | +0,60 |
-| Englobante + MLQ | 2012-2018 → 2019-2026 | AUDJPY, EURUSD | +0,14 | +0,12 | +0,40 |
-| Trois barres + MLQ | 2012-2018 → 2019-2026 | EURUSD, USDJPY | +0,13 | +0,34 | −0,80 |
-| Bébé abandonné (journalier) | 2012-2018 → 2019-2026 | EURUSD, USDJPY | −0,07 | −0,03 | +0,20 |
+| Lundi-mardi-mercredi (trois barres) | 2012-2018 → 2019-2026 | NZDUSD, AUDJPY | −0,03 | +0,03 | −0,03 |
+| #14577 (mercredi prend le high) | 2012-2018 → 2019-2026 | NZDUSD, AUDUSD | +0,01 | −0,17 | +0,09 |
+| MLQ ±25 / 50 / 250 | 2012-2018 → 2019-2026 | EURUSD, NZDUSD | −0,03 | −0,02 | −0,03 |
+| Englobante du mercredi | 2012-2018 → 2019-2026 | AUDUSD, AUDJPY | +0,04 | +0,03 | −0,26 |
+| Englobante + MLQ | 2012-2018 → 2019-2026 | AUDJPY, EURUSD | +0,14 | +0,06 | +0,14 |
+| Trois barres + MLQ | 2012-2018 → 2019-2026 | EURUSD, USDJPY | +0,13 | +0,14 | −0,77 |
+| Bébé abandonné (journalier) | 2012-2018 → 2019-2026 | AUDUSD, NZDUSD | −0,20 | −0,05 | −0,20 |
 | Bébé abandonné (horaire) | 2023-2024 → 2025-2026 | paires en yen | −0,08 | −0,20 | +0,26 |
 | Englobante (rupture) | 2024 → 2025-2026 | GBPJPY, XAUUSD, AUDJPY | −0,03 | 0,00 | −0,02 |
 
 ([`data/par_paire/validation.csv`](../data/par_paire/validation.csv))
 
-- **Pour le lundi-mardi-mercredi, le classement des paires s'inverse d'une période à l'autre** (corrélation −0,8 et −1,0). Les paires « favorables » d'une période deviennent les plus mauvaises de la suivante : c'est le signe d'une préférence due au hasard.
-- **Englobante du mercredi sur les paires en yen** : seule préférence qui se maintient un peu (AUDJPY et USDJPY devant dans les deux périodes, +0,17 R contre +0,03 R). Avec 4 paires et environ 100 trades par paire et par période, c'est fragile : à revérifier quand les 11 paires seront disponibles.
-- **Trois barres + MLQ** est positive sur **toutes** les paires (+0,53 à +0,56 R). Ici, ce n'est pas le choix de la paire qui compte (voir [`MASTERCLASS_VERIFIEE.md`](MASTERCLASS_VERIFIEE.md#6-combiner-les-briques--englobante-mercredi-mlq-trois-barres)).
+- **Aucune préférence de paire ne se maintient** : les corrélations des classements vont de −0,77 à +0,26, autour de zéro. Les « meilleures paires » d'une période ne font pas mieux que les autres sur la suivante.
+- Avec 4 paires seulement, l'englobante du mercredi semblait meilleure sur le yen ; ce n'est plus le cas avec 6 paires (corrélation −0,26).
+- **Trois barres + MLQ** est positive sur 5 des 6 paires. Ici, ce n'est pas le choix de la paire qui compte (voir [`MASTERCLASS_VERIFIEE.md`](MASTERCLASS_VERIFIEE.md#6-combiner-les-briques--englobante-mercredi-mlq-trois-barres)).
 
 ## 3. Lundi-mardi-mercredi : EURUSD et GBPUSD sont-elles favorables ?
 
 ![Trois barres par paire](../assets/figures/paire_lundi_mardi_mercredi_trois_barres.png)
 
 **Non sur 15 ans** :
-- **EURUSD** est la plus mauvaise des 4 paires (−0,34 R, 2 objectifs sur 18) ;
+- **EURUSD** est la plus mauvaise des 6 paires (−0,34 R, 2 objectifs sur 18) ;
 - **GBPUSD** est proche de zéro (−0,06 R) ;
-- USDJPY fait légèrement mieux (+0,03 R).
+- la meilleure est NZDUSD (+0,56 R), mais sur 12 trades seulement, et elle ne fait pas mieux que les autres sur la seconde moitié de la période.
 
 **Mais GBPUSD est nettement positive depuis 2024** : +0,87 R sur 8 trades. C'est peut-être ce qu'Amirou observe aujourd'hui. Cela ne suffit pas à en faire une règle, car 2013-2023 était négatif.
 
@@ -180,5 +180,5 @@ Chaque carte montre le R moyen par paire et par année : vert = gagnant, rouge =
 2. **Les deux préférences testées ne sont pas confirmées** :
    - EURUSD et GBPUSD ne sont pas meilleures pour le lundi-mardi-mercredi sur 15 ans ; seule GBPUSD l'est depuis 2024, sur 8 trades ;
    - la Bombe sur le yen tient à un seul trade.
-3. **La seule préférence qui se maintient un peu** : l'englobante du mercredi sur AUDJPY et USDJPY. Elle reste à confirmer.
-4. **La piste la plus sérieuse ne dépend pas de la paire** : trois barres + MLQ (+0,5 R par trade sur les 4 paires, environ 6 trades par an). Prochaine étape : la vérifier sur les 7 autres paires, puis la suivre en temps réel, avec un journal daté de chaque setup à partir de [`data/strategie_combinee_trades.csv`](../data/strategie_combinee_trades.csv).
+3. **Aucune préférence de paire ne se maintient d'une période à l'autre**, pour aucune stratégie.
+4. **La piste la plus sérieuse ne dépend pas de la paire** : trois barres + MLQ (+0,45 R par trade sur les 6 paires, environ 9 trades par an). Mais elle ne fait plus que +0,18 R sur 2020-2026. Prochaine étape : la vérifier sur les 5 autres paires, puis la suivre en temps réel, avec un journal daté de chaque setup à partir de [`data/strategie_combinee_trades.csv`](../data/strategie_combinee_trades.csv).

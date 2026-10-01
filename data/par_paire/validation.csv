@@ -1,10 +1,10 @@
 strategie,periode_1,periode_2,correlation_rangs,meilleures_paires_p1,leur_r_p2,autres_r_p2
-Lundi-mardi-mercredi (trois barres),2012-2018,2019-2026,-0.8,"AUDJPY, EURUSD",-0.317,0.296
-"Lundi et mardi haussiers, mercredi prend le high (#14577)",2012-2018,2019-2026,-1.0,"EURUSD, USDJPY",-0.205,-0.134
-MLQ ±25 / 50 / 250 pips,2012-2018,2019-2026,0.4,"EURUSD, AUDJPY",-0.009,-0.011
+Lundi-mardi-mercredi (trois barres),2012-2018,2019-2026,-0.03,"NZDUSD, AUDJPY",-0.033,0.034
+"Lundi et mardi haussiers, mercredi prend le high (#14577)",2012-2018,2019-2026,0.09,"NZDUSD, AUDUSD",0.009,-0.169
+MLQ ±25 / 50 / 250 pips,2012-2018,2019-2026,-0.03,"EURUSD, NZDUSD",-0.031,-0.017
 Englobante (rupture des flashcards),2024-2024,2025-2026,-0.02,"GBPJPY, XAUUSD, AUDJPY",-0.026,0.0
 Bébé abandonné (horaire),2023-2024,2025-2026,0.26,"EURJPY, USDJPY, GBPJPY, AUDJPY",-0.084,-0.202
-Bébé abandonné (journalier),2012-2018,2019-2026,0.2,"EURUSD, USDJPY",-0.074,-0.03
-Englobante du mercredi (objectif 2 R),2012-2018,2019-2026,0.6,"AUDJPY, USDJPY",0.166,0.026
-Englobante + MLQ (objectif 2 R),2012-2018,2019-2026,0.4,"AUDJPY, EURUSD",0.136,0.115
-Trois barres + MLQ (sortie au 3e jour),2012-2018,2019-2026,-0.8,"EURUSD, USDJPY",0.131,0.337
+Bébé abandonné (journalier),2012-2018,2019-2026,-0.2,"AUDUSD, NZDUSD",-0.198,-0.051
+Englobante du mercredi (objectif 2 R),2012-2018,2019-2026,-0.26,"AUDUSD, AUDJPY",0.043,0.031
+Englobante + MLQ (objectif 2 R),2012-2018,2019-2026,0.14,"AUDJPY, EURUSD",0.136,0.057
+Trois barres + MLQ (sortie au 3e jour),2012-2018,2019-2026,-0.77,"EURUSD, USDJPY",0.131,0.137
