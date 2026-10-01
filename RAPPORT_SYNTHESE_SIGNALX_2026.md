@@ -1,3 +1,14 @@
+> **Mise à jour du 01/10/2026 — à lire avant ce rapport.**
+> Document rédigé par **Antigravity**, conservé sans modification. Le résumé des 21 PDF SignalX est fidèle, mais :
+> - **aucune source ne mentionne Marc Chandler** : la « Chandler Signature » du rapport du 10 février n'est jamais reliée à lui, et la colonne « Ce qu'analyse Marc Chandler » est une rédaction d'Antigravity ;
+> - **« EUR/USD lourdement baissier en mai » est contredit par les données du projet** (mai : +0,73 %, 83 % de mois positifs sur 2020–2025) ;
+> - **le Nikkei à plus de 70 000 points n'apparaît dans aucun PDF** ;
+> - **le message #14907 n'est pas un trade gagnant** sur EUR/JPY, mais un conseil de saisonnalité.
+>
+> Détail dans [`docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md`](docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md).
+
+---
+
 # 📑 RAPPORT MAJEUR : ANALYSE DES 21 RAPPORTS SIGNALX (2026), SAISONNALITÉ, COMMENTAIRES TELEGRAM & MACRO DE MARC CHANDLER
 
 ---
