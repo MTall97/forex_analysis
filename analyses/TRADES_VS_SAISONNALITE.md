@@ -150,7 +150,26 @@ Le fichier [`data/mois_hors_saisonnalite.csv`](../data/mois_hors_saisonnalite.cs
 9. **Statistiques saisonnières citées sans réalité dans les données** (mai et août 2026, section 4).
 10. **Tailles de position sans rapport avec les règles données en public** : 120 lots avec 4 pips de stop en 2020, compte de 100 $ risqué à environ 80 % en 2026.
 
-## 8. Ce qu'il faut retenir
+## 8. La saisonnalité prévoit-elle l'année suivante ?
+
+Les PDF d'Antigravity sont des statistiques **calculées correctement** sur 2020-2025. La vraie question est de savoir si un mois « haussier 5 fois sur 6 » le sera aussi l'année suivante. Test ([`scripts/tester_persistance_saisonnalite.py`](../scripts/tester_persistance_saisonnalite.py), [`data/persistance_saisonnalite.csv`](../data/persistance_saisonnalite.csv)) :
+- 28 paires, 2009-2026 ;
+- pour chaque mois, le biais est calculé sur les 6 ou les 10 années **précédentes** seulement ;
+- on compare au sens réel du mois.
+
+| Biais calculé sur | Biais | Cas | Sens deviné | Gain moyen en suivant le biais |
+|---|---|---|---|---|
+| 6 ans (comme les PDF) | tous | 4 059 | **49,7 %** | −0,02 % par mois |
+| 6 ans | fort (5 ou 6 années sur 6) | 819 | **51,3 %** | +0,10 % |
+| 10 ans | tous | 2 667 | **48,7 %** | −0,04 % |
+| 10 ans | fort (≥ 8 années sur 10) | 263 | **47,9 %** | −0,04 % |
+
+- **La saisonnalité mensuelle des devises ne prévoit pas le mois suivant** : environ 50 %, comme à pile ou face, même pour les biais « forts ».
+- Certaines années semblent lui donner raison (2023 : 67 % ; 2026 jusqu'ici : 63 % sur 43 biais forts), d'autres tort (2024 : 42 % ; 2025 : 39 %). Sur la durée, cela s'annule.
+- Un « 5 fois sur 6 » arrive souvent par hasard : avec 28 paires × 12 mois, on attend, sans aucune saisonnalité réelle, environ 70 mois « 5 sur 6 ou mieux » (dont une dizaine de 6 sur 6) sur les 336 cases.
+
+## 9. Ce qu'il faut retenir
+- **La saisonnalité mensuelle n'a pas de pouvoir prédictif mesurable** (section 8) : environ 50 % de bons sens, l'année suivante.
 - **La saisonnalité est un filtre de contexte, pas un moteur de résultat.** Dans les trades du canal, elle ne change pas le taux de réussite, qui reste autour de 40 %.
 - **La lecture macro d'Amirou est son vrai point fort.** Mais les mois qui « trahissent » leur saisonnalité sont justement ceux des grands chocs, que la saisonnalité ne peut pas anticiper.
 - **Les ratés viennent d'abord de l'exécution** (stops de quelques pips, entrées avant confirmation, trades ouverts juste avant une annonce), plus que d'une erreur de direction.

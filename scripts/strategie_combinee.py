@@ -40,9 +40,9 @@ COMBINAISONS = {
     'E + MLQ': lambda x: x.E & x.M,
     'E + MLQ + mardi': lambda x: x.E & x.M & (x.jour == 1),
     'E + MLQ + mercredi': lambda x: x.E & x.M & (x.jour == 2),
-    'T (trois barres)': lambda x: x.T,
-    'T + MLQ': lambda x: x.T & x.M,
-    'T + englobante': lambda x: x.T & x.E,
+    'T (trois barres)': lambda x: x['T'],
+    'T + MLQ': lambda x: x['T'] & x.M,
+    'T + englobante': lambda x: x['T'] & x.E,
     'MLQ seul': lambda x: x.M,
     'MLQ + mardi': lambda x: x.M & (x.jour == 1),
     'Toute bougie (témoin)': lambda x: x.sens != 0,
@@ -96,7 +96,7 @@ def main():
     jd = jd[jd.date >= '2012-01-01']
     x = pd.DataFrame([l for p, d in jd.groupby('paire') for l in signaux(p, d.reset_index(drop=True))])
     x['periode'] = np.where(x.date.dt.year <= 2019, 'apprentissage 2012-2019', 'validation 2020-2026')
-    x[x.E | x.M | x.T].to_csv('data/strategie_combinee_trades.csv', index=False)   # occurrences datées
+    x[x.E | x.M | x['T']].to_csv('data/strategie_combinee_trades.csv', index=False)   # occurrences datées
     res = []
     for nom, f in COMBINAISONS.items():
         sel = x[f(x)]

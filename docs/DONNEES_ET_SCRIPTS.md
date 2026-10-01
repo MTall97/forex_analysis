@@ -29,7 +29,7 @@ Tous les scripts se lancent **depuis la racine du dépôt** : `python scripts/<s
 | `data/prix/yahoo/<PAIRE>_1h.csv` | **Bougies horaires** de 27 instruments | **déc. 2023 – sept. 2026** | Yahoo Finance | ⚠️ Yahoo ne donne que les 730 derniers jours : ces fichiers sont la seule copie des débuts. Pour les compléter **sans effacer** l'historique : `python scripts/prix_yahoo.py --mettre-a-jour` |
 | `data/prix/yahoo/<PAIRE>_1d.csv` | Bougies journalières Yahoo | 2020-2026 | Yahoo | ⚠️ **fausses en Forex** (ouverture = clôture dans 30 % des cas) : préférer Dukascopy ou l'horaire regroupé |
 | `data/prix/dukascopy/<PAIRE>/<AN>_d1.bi5` | Fichiers bruts Dukascopy (bougies journalières) | 2012-2026 | Dukascopy | cache, relu sans réseau |
-| `data/prix/journalier_dukascopy.csv` | **Bougies journalières fiables** (paire, date, OHLC) | 2012-2026 | construit depuis le cache | `python scripts/prix_dukascopy_journalier.py --debut 2012` |
+| `data/prix/journalier_dukascopy.csv` | **Bougies journalières fiables** (paire, date, OHLC) ; l'année en cours vient de l'horaire Yahoo (Dukascopy ne publie l'année qu'une fois finie) | 2012-2026 | construit depuis le cache | `python scripts/prix_dukascopy_journalier.py --debut 2012` |
 | `data/rendements_mensuels.csv`, `data/saisonnalite.csv` | Rendements mensuels et biais saisonniers | 2009-2026 | | `saisonnalite_mensuelle.py` |
 
 ### Données fondamentales (`data/fondamental/`)
@@ -62,7 +62,7 @@ Tous les scripts se lancent **depuis la racine du dépôt** : `python scripts/<s
 |---|---|---|---|---|
 | Messages | `python scripts/telegram_html_to_jsonl.py ChatExport_2026-10-01 data/telegram_messages.jsonl` | export HTML | `telegram_messages.jsonl` | non |
 | Registre | `python scripts/extract_trade_events.py` puis `python scripts/construire_registre_trades.py` | messages | `trade_events.csv`, `trades.csv` | non |
-| Saisonnalité | `python scripts/saisonnalite_mensuelle.py` puis `python scripts/confronter_trades_saisonnalite.py` | Fed | `rendements_mensuels.csv`, `TRADES_VS_SAISONNALITE.md` | si cache absent |
+| Saisonnalité | `python scripts/saisonnalite_mensuelle.py` puis `python scripts/confronter_trades_saisonnalite.py`, `python scripts/tester_persistance_saisonnalite.py` | Fed | `rendements_mensuels.csv`, `persistance_saisonnalite.csv`, `TRADES_VS_SAISONNALITE.md` | si cache absent |
 | Captures | `python scripts/lire_captures_ocr.py` puis `python scripts/resoudre_niveaux.py` | captures (S3) | `captures_*.csv` | non (Tesseract) |
 | Trades rejoués | `python scripts/simuler_trades_dukascopy.py` | captures, Yahoo | `trades_simules.csv` | si cache absent |
 | Époques | `python scripts/analyse_par_epoque.py` | trades simulés | `epoques_trades.csv` | non |
@@ -71,7 +71,7 @@ Tous les scripts se lancent **depuis la racine du dépôt** : `python scripts/<s
 | Flashcards | `python scripts/tester_flashcards_englobante.py` | Yahoo horaire | `flashcards_englobante*.csv` | non |
 | Masterclass | `python scripts/prix_dukascopy_journalier.py --debut 2012`, puis `python scripts/tester_masterclass.py`, `python scripts/strategie_combinee.py`, `python scripts/tester_bebe_abandonne.py`, `python scripts/tester_strategie_bombe.py` | Dukascopy, Yahoo | `masterclass_*`, `strategie_combinee*`, `bebe_*`, `bombe_trades.csv` | non (cache) |
 | Autres algorithmes | `python scripts/tester_carry_momentum.py`, `python scripts/tester_saisonnalite_intraday.py` | Fed, BIS, Yahoo | `carry_momentum_mensuel.csv`, `saisonnalite_intraday_*` | non (cache) |
-| Par paire | `python scripts/analyse_par_paire.py` | tous les fichiers de trades | `data/par_paire/`, `analyses/annexes/` | non |
+| Par paire | `python scripts/analyse_par_paire.py` | tous les fichiers de trades | `data/par_paire/`, `analyses/annexes/` (rapports : `MASTERCLASS_VERIFIEE.md`, `STRATEGIES_PAR_PAIRE.md`) | non |
 | Figures | `python scripts/figures_rapports.py` | tout | `assets/figures/` | non |
 
 ## 4. Mettre à jour les données

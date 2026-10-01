@@ -9,7 +9,7 @@ Stratégies (fichiers produits par les scripts de test) :
 - englobante des flashcards (trade de la « rupture ») : data/flashcards_englobante_detail.csv ;
 - bébé abandonné (horaire et journalier) : data/bebe_abandonne_horaire.csv, data/bebe_abandonne_journalier.csv ;
 - Bombe (H1) : data/bombe_trades.csv ;
-- combinaisons englobante / mercredi / MLQ : data/strategie_combinee_trades.csv.
+- combinaisons englobante / mercredi / MLQ / trois barres : data/strategie_combinee_trades.csv.
 
 Pour chaque stratégie :
 1. tableau paire x année (nombre de trades, % de gagnants, R moyen) ;
@@ -72,9 +72,11 @@ def strategies():
     if os.path.exists('data/strategie_combinee_trades.csv'):
         c = pd.read_csv('data/strategie_combinee_trades.csv', parse_dates=['date'])
         c['sens'] = c.sens.map({1: 'achat', -1: 'vente'})
+        t = c[c['T'] & c.M].rename(columns={'3 jours': 'r'})
         c = c.rename(columns={'2R': 'r'})
         s['Englobante du mercredi (objectif 2 R)'] = (c[c.E & (c.jour == 2)], 'journalier', ['1R', '3 jours'])
         s['Englobante + MLQ (objectif 2 R)'] = (c[c.E & c.M], 'journalier', ['1R', '3 jours'])
+        s['Trois barres + MLQ (sortie au 3e jour)'] = (t, 'journalier', ['1R', '2R'])
     return s
 
 
