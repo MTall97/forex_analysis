@@ -19,8 +19,7 @@ T3  « Lundi haussier, mardi haussier, mercredi prend le high de mardi avant de 
 T4  AUDJPY en avril : le plus bas du mois se forme en 1re semaine dans 75 % des cas (2015-2024), repli moyen
     de 91 pips sous l'ouverture du mois (masterclass ; #14662).
 T5  MLQ (niveaux de 250 pips) : zone de ±25 pips, stop de 50 pips, objectif 250 pips, RR 1:5 (masterclass).
-T6  « Bébé abandonné » : bougie forte, bougie interne, 3e bougie qui clôture franchement au-delà de la bougie
-    interne ; 75 % de réussite (masterclass).
+T6  « Bébé abandonné » : testé à part dans scripts/tester_bebe_abandonne.py.
 T7  Corrélation AUDUSD / NZDUSD « de l'ordre de 80 % » (masterclass).
 T8  Après une consolidation, « l'expansion suit systématiquement la sortie du range » (masterclass).
 
@@ -244,47 +243,6 @@ def t5(jd):
             'par_annee': {str(a): resume(g.to_dict('records')) for a, g in t.groupby(pd.to_datetime(t.date).dt.year)}}, trades
 
 
-# ------------------------------------------------------------------ T6
-def t6(jd):
-    trades = []
-    for p, d in jd.groupby('paire'):
-        d = d.reset_index(drop=True)
-        o, h, l, c = (d[k].to_numpy() for k in ['open', 'high', 'low', 'close'])
-        rng = h - l
-        atr = pd.Series(rng).rolling(14).mean().to_numpy()
-        for i in range(16, len(d) - 6):
-            fort = abs(c[i - 2] - o[i - 2]) >= 0.6 * rng[i - 2] and rng[i - 2] >= atr[i - 3]
-            interne = max(o[i - 1], c[i - 1]) <= max(o[i - 2], c[i - 2]) and min(o[i - 1], c[i - 1]) >= min(o[i - 2], c[i - 2])
-            if not (fort and interne):
-                continue
-            if c[i] > h[i - 1]:
-                sens = 1
-            elif c[i] < l[i - 1]:
-                sens = -1
-            else:
-                continue
-            nature = 'continuation' if sens == np.sign(c[i - 2] - o[i - 2]) else 'retournement'
-            entree = c[i]
-            sl = l[i] if sens > 0 else h[i]
-            risque = abs(entree - sl)
-            if risque <= 0:
-                continue
-            for rr in (1, 2):
-                tp = entree + sens * rr * risque
-                r, issue = simuler_jours(d, i + 1, min(i + 5, len(d) - 1), sens, entree, sl, tp, p)
-                trades.append(dict(test=f'T6_{rr}R', paire=p, date=str(d.date.iat[i].date()), sens=sens, nature=nature,
-                                   entree=entree, sl=sl, tp=tp, r=r, issue=issue))
-    t = pd.DataFrame(trades)
-    out = {}
-    for rr in (1, 2):
-        x = t[t.test == f'T6_{rr}R']
-        out[f'objectif_{rr}R'] = resume(x.to_dict('records'))
-        for n, g in x.groupby('nature'):
-            out[f'objectif_{rr}R_{n}'] = resume(g.to_dict('records'))
-    out['seuils_rentabilite_pct'] = {'1R': 50, '2R': 33.3}
-    return out, trades
-
-
 # ------------------------------------------------------------------ T7, T8
 def t7(jd):
     r = jd.pivot_table(index='date', columns='paire', values='close').pct_change()
@@ -348,8 +306,7 @@ def main():
     res['T4_mois_plus_bas_semaine_1'] = t4(jd)
     res['T5_mlq_250'], tr = t5(jd)
     toutes += tr
-    res['T6_bebe_abandonne'], tr = t6(jd)
-    toutes += tr
+    res['T6_bebe_abandonne'] = 'voir scripts/tester_bebe_abandonne.py (définition corrigée, horaire et journalier)'
     res['T7_correlation_audusd_nzdusd'] = t7(jd)
     res['T8_consolidation_expansion'] = t8(jd)
     res['periode'] = f"{jd.date.min().date()} -> {jd.date.max().date()}, {jd.paire.nunique()} paires"

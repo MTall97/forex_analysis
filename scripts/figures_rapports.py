@@ -637,25 +637,33 @@ def schema_englobante_deux():
 
 
 def schema_bebe():
-    fig, axs = plt.subplots(1, 2, figsize=(11, 4.4))
-    for ax, nom in zip(axs, ('continuation', 'retournement')):
-        bougie(ax, 0, 10.0, 11.65, 9.9, 11.5)                     # bougie forte haussière
-        bougie(ax, 1, 11.3, 11.45, 10.95, 11.1)                    # interne
-        if nom == 'continuation':
-            bougie(ax, 2, 11.1, 12.3, 11.0, 12.2)
-            ax.axhline(11.45, xmin=0.35, xmax=0.98, color='#555', ls=':')
-            ax.text(2.6, 11.5, 'clôture franchement au-dessus\nde la bougie centrale -> achat', fontsize=8)
-            ax.axhline(10.93, xmin=0.35, xmax=0.98, color=ROUGE, ls='--')
-            ax.text(2.6, 10.8, 'stop : sous la figure', color=ROUGE, fontsize=8)
+    fig, axs = plt.subplots(1, 2, figsize=(11, 4.6))
+    for ax, s in zip(axs, (1, -1)):
+        if s > 0:
+            bougie(ax, 0, 10.0, 11.6, 9.9, 11.5)            # 1 : verte
+            bougie(ax, 1, 11.2, 11.3, 10.75, 10.85)         # 2 : rouge, entièrement englobée
+            bougie(ax, 2, 10.8, 11.75, 10.6, 11.65)          # 3 : verte, englobe la 2
+            bougie(ax, 3, 11.65, 12.7, 11.55, 12.6, alpha=0.45)  # 4 : explosion
+            ax.add_patch(Rectangle((0.62, 10.72), 0.76, 0.62, fill=False, ls=':', ec='#555'))
+            ax.axhline(9.88, xmin=0.42, xmax=0.98, color=ROUGE, ls='--')
+            ax.text(4.0, 9.95, 'stop : sous la figure', color=ROUGE, fontsize=8, va='bottom')
+            ax.text(4.0, 11.7, 'entrée : clôture\nde la bougie 3', fontsize=8, va='center')
+            titre, txt4 = 'Bébé abandonné HAUSSIER (achat)', '4. explose\nvers le haut'
         else:
-            bougie(ax, 2, 11.1, 11.2, 10.0, 10.1)
-            ax.axhline(10.95, xmin=0.35, xmax=0.98, color='#555', ls=':')
-            ax.text(2.6, 10.6, 'clôture franchement sous\nla bougie centrale -> vente', fontsize=8)
-            ax.axhline(11.47, xmin=0.35, xmax=0.98, color=ROUGE, ls='--')
-            ax.text(2.6, 11.55, 'stop : au-dessus de la figure', color=ROUGE, fontsize=8)
-        for x, t in [(0, '1. bougie\nforte'), (1, '2. petite bougie\n« interne »'), (2, '3. explosion')]:
-            ax.text(x, 9.6, t, ha='center', fontsize=8, va='top')
-        _cadre(ax, f'Bébé abandonné : {nom}', (-0.7, 5.6), (8.9, 12.6))
+            bougie(ax, 0, 11.5, 11.6, 9.9, 10.0)
+            bougie(ax, 1, 10.3, 10.75, 10.2, 10.65)
+            bougie(ax, 2, 10.7, 10.9, 9.75, 9.85)
+            bougie(ax, 3, 9.85, 9.95, 8.8, 8.9, alpha=0.45)
+            ax.add_patch(Rectangle((0.62, 10.16), 0.76, 0.62, fill=False, ls=':', ec='#555'))
+            ax.axhline(11.62, xmin=0.42, xmax=0.98, color=ROUGE, ls='--')
+            ax.text(4.0, 11.55, 'stop : au-dessus de la figure', color=ROUGE, fontsize=8, va='top')
+            ax.text(4.0, 9.85, 'entrée : clôture\nde la bougie 3', fontsize=8, va='center')
+            titre, txt4 = 'Bébé abandonné BAISSIER (vente)', '4. explose\nvers le bas'
+        for x, t in [(0, '1'), (1, '2 (bébé)'), (2, '3'), (3, '4')]:
+            ax.text(x, 8.55, t, ha='center', fontsize=8, va='top', weight='bold')
+        ax.text(-0.5, 8.2, '1 et 3 : même couleur ; 2 : couleur opposée, entièrement englobée par 1 et par 3\n'
+                + txt4.replace('\n', ' ').replace('4. ', '4 : ') + ' dans le sens de 1 et 3', fontsize=7.5, va='top')
+        _cadre(ax, titre, (-0.7, 6.2), (7.4, 13.0))
     fig.suptitle('Stratégie du « bébé abandonné » (masterclass : « 75 % de réussite »)', fontsize=10)
     sauver(fig, 'guide_bebe_abandonne.png')
 

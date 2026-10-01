@@ -45,6 +45,12 @@
 | Risque de 0,5 à 2 % par trade | #1198, #15360, #15530 |
 | Jours : « mardi, mercredi, jeudi », plus tard « le jeudi je touche souvent SL ou BE » | #595, #14517 |
 
+Ses principaux schémas (détail dans [`GUIDE_STRATEGIES.md`](GUIDE_STRATEGIES.md)) :
+
+![Structure du marché](../assets/figures/guide_structure_marche.png)
+
+![Les MLQ](../assets/figures/guide_mlq.png)
+
 ## 2. Sa performance réelle, mesurée sur les captures
 
 **518 trades** ont été lus avec leur entrée, leur stop et leur objectif sur les captures de 2021-2026 (paire vérifiée par le prix réel du jour), puis rejoués sur les cours.
