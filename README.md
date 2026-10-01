@@ -20,9 +20,11 @@ Le dépôt réunit trois choses :
 | [`scripts/`](scripts/) | Scripts de conversion, d'extraction et de téléchargement (voir plus bas) |
 | [`analyses/TRADES_SEPTEMBRE.md`](analyses/TRADES_SEPTEMBRE.md) | **Vérification des trades de chaque mois de septembre (2019-2026)** et statistiques sur tout le canal |
 | [`docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md`](docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md) | Vérification point par point des trois rapports d'Antigravity |
-| [`docs/STOCKAGE_IMAGES.md`](docs/STOCKAGE_IMAGES.md) | Proposition pour le stockage des images (400 Mo) |
+| [`docs/STOCKAGE_IMAGES.md`](docs/STOCKAGE_IMAGES.md) | Tri des images, envoi vers S3 et allègement de GitHub |
+| [`docs/RAPPORT_TRAVAUX.md`](docs/RAPPORT_TRAVAUX.md) | Rapport des travaux de la session du 01/10/2026 |
+| [`data/photos_classification.csv`](data/photos_classification.csv) | Classement des 3 568 photos du canal (trading, conversation, certificat, autre) |
 | [`assets/trades/`](assets/trades/) | Captures de trades citées dans les analyses, nommées `AAAA-MM-JJ_HHhMM_photoN.jpg` (UTC) |
-| `assets/tradingview/` | (à générer) captures des liens TradingView, nommées par date et numéro de message |
+| [`assets/tradingview/`](assets/tradingview/) | Les 1 243 captures des liens TradingView du canal, nommées par date et numéro de message (+ `index.csv`) |
 | [`ChatExport_2026-10-01/`](ChatExport_2026-10-01/) | Export HTML brut du canal (messages + photos), jusqu'au 01/10/2026 |
 | [`ChatExport_2026-09-17/`](ChatExport_2026-09-17/) | Export JSON brut (jusqu'au 17/09/2026, sans les photos) + les 21 PDF SignalX (`rapport Amirou/`) |
 | [`RAPPORT_GLOBAL_PROJET.md`](RAPPORT_GLOBAL_PROJET.md), [`AUDIT_TRADES_AMIROU_WINS_LOSSES.md`](AUDIT_TRADES_AMIROU_WINS_LOSSES.md), [`RAPPORT_SYNTHESE_SIGNALX_2026.md`](RAPPORT_SYNTHESE_SIGNALX_2026.md) | Rapports rédigés par Antigravity, conservés tels quels avec un encadré de mise à jour |
