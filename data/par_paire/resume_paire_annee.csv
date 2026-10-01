@@ -10,6 +10,17 @@ AUDJPY,2022,Lundi-mardi-mercredi (trois barres),4,25.0,-0.356
 AUDJPY,2023,Lundi-mardi-mercredi (trois barres),3,0.0,-1.061
 AUDJPY,2024,Lundi-mardi-mercredi (trois barres),2,0.0,-1.031
 AUDJPY,2025,Lundi-mardi-mercredi (trois barres),6,33.3,0.36
+AUDUSD,2013,Lundi-mardi-mercredi (trois barres),1,0.0,-1.013
+AUDUSD,2014,Lundi-mardi-mercredi (trois barres),2,0.0,-1.029
+AUDUSD,2015,Lundi-mardi-mercredi (trois barres),3,33.3,-0.265
+AUDUSD,2016,Lundi-mardi-mercredi (trois barres),1,100.0,1.904
+AUDUSD,2018,Lundi-mardi-mercredi (trois barres),3,33.3,-0.335
+AUDUSD,2020,Lundi-mardi-mercredi (trois barres),2,50.0,-0.183
+AUDUSD,2021,Lundi-mardi-mercredi (trois barres),1,0.0,-1.025
+AUDUSD,2022,Lundi-mardi-mercredi (trois barres),3,0.0,-1.028
+AUDUSD,2023,Lundi-mardi-mercredi (trois barres),1,100.0,3.045
+AUDUSD,2024,Lundi-mardi-mercredi (trois barres),1,100.0,0.755
+AUDUSD,2025,Lundi-mardi-mercredi (trois barres),1,0.0,-1.034
 EURUSD,2012,Lundi-mardi-mercredi (trois barres),3,66.7,0.844
 EURUSD,2015,Lundi-mardi-mercredi (trois barres),1,100.0,0.207
 EURUSD,2016,Lundi-mardi-mercredi (trois barres),1,0.0,-1.019
@@ -33,6 +44,15 @@ GBPUSD,2023,Lundi-mardi-mercredi (trois barres),1,0.0,-1.025
 GBPUSD,2024,Lundi-mardi-mercredi (trois barres),3,66.7,0.572
 GBPUSD,2025,Lundi-mardi-mercredi (trois barres),2,50.0,1.506
 GBPUSD,2026,Lundi-mardi-mercredi (trois barres),3,66.7,0.756
+NZDUSD,2012,Lundi-mardi-mercredi (trois barres),1,0.0,-1.08
+NZDUSD,2013,Lundi-mardi-mercredi (trois barres),2,50.0,0.471
+NZDUSD,2014,Lundi-mardi-mercredi (trois barres),1,100.0,1.198
+NZDUSD,2015,Lundi-mardi-mercredi (trois barres),1,0.0,-1.053
+NZDUSD,2016,Lundi-mardi-mercredi (trois barres),2,50.0,1.6
+NZDUSD,2021,Lundi-mardi-mercredi (trois barres),1,0.0,-1.04
+NZDUSD,2022,Lundi-mardi-mercredi (trois barres),1,0.0,-1.023
+NZDUSD,2025,Lundi-mardi-mercredi (trois barres),2,50.0,1.959
+NZDUSD,2026,Lundi-mardi-mercredi (trois barres),1,100.0,1.701
 USDJPY,2012,Lundi-mardi-mercredi (trois barres),1,0.0,-1.053
 USDJPY,2013,Lundi-mardi-mercredi (trois barres),6,16.7,-0.642
 USDJPY,2014,Lundi-mardi-mercredi (trois barres),1,0.0,-1.027
@@ -62,6 +82,21 @@ AUDJPY,2023,"Lundi et mardi haussiers, mercredi prend le high (#14577)",16,18.8,
 AUDJPY,2024,"Lundi et mardi haussiers, mercredi prend le high (#14577)",14,7.1,-0.804
 AUDJPY,2025,"Lundi et mardi haussiers, mercredi prend le high (#14577)",9,0.0,-1.09
 AUDJPY,2026,"Lundi et mardi haussiers, mercredi prend le high (#14577)",14,28.6,0.053
+AUDUSD,2012,"Lundi et mardi haussiers, mercredi prend le high (#14577)",8,12.5,-0.55
+AUDUSD,2013,"Lundi et mardi haussiers, mercredi prend le high (#14577)",13,30.8,0.181
+AUDUSD,2014,"Lundi et mardi haussiers, mercredi prend le high (#14577)",8,37.5,0.45
+AUDUSD,2015,"Lundi et mardi haussiers, mercredi prend le high (#14577)",8,37.5,0.45
+AUDUSD,2016,"Lundi et mardi haussiers, mercredi prend le high (#14577)",15,20.0,-0.25
+AUDUSD,2017,"Lundi et mardi haussiers, mercredi prend le high (#14577)",10,20.0,-0.25
+AUDUSD,2018,"Lundi et mardi haussiers, mercredi prend le high (#14577)",9,33.3,0.094
+AUDUSD,2019,"Lundi et mardi haussiers, mercredi prend le high (#14577)",4,25.0,-0.726
+AUDUSD,2020,"Lundi et mardi haussiers, mercredi prend le high (#14577)",16,31.2,0.093
+AUDUSD,2021,"Lundi et mardi haussiers, mercredi prend le high (#14577)",11,36.4,0.405
+AUDUSD,2022,"Lundi et mardi haussiers, mercredi prend le high (#14577)",8,12.5,-0.55
+AUDUSD,2023,"Lundi et mardi haussiers, mercredi prend le high (#14577)",15,26.7,0.017
+AUDUSD,2024,"Lundi et mardi haussiers, mercredi prend le high (#14577)",9,44.4,0.516
+AUDUSD,2025,"Lundi et mardi haussiers, mercredi prend le high (#14577)",14,42.9,0.303
+AUDUSD,2026,"Lundi et mardi haussiers, mercredi prend le high (#14577)",8,50.0,0.665
 EURUSD,2012,"Lundi et mardi haussiers, mercredi prend le high (#14577)",9,22.2,-0.151
 EURUSD,2013,"Lundi et mardi haussiers, mercredi prend le high (#14577)",11,18.2,-0.313
 EURUSD,2014,"Lundi et mardi haussiers, mercredi prend le high (#14577)",10,20.0,-0.24
@@ -92,6 +127,21 @@ GBPUSD,2023,"Lundi et mardi haussiers, mercredi prend le high (#14577)",7,42.9,0
 GBPUSD,2024,"Lundi et mardi haussiers, mercredi prend le high (#14577)",9,22.2,-0.171
 GBPUSD,2025,"Lundi et mardi haussiers, mercredi prend le high (#14577)",13,23.1,-0.238
 GBPUSD,2026,"Lundi et mardi haussiers, mercredi prend le high (#14577)",3,33.3,0.273
+NZDUSD,2012,"Lundi et mardi haussiers, mercredi prend le high (#14577)",9,44.4,0.703
+NZDUSD,2013,"Lundi et mardi haussiers, mercredi prend le high (#14577)",12,25.0,-0.208
+NZDUSD,2014,"Lundi et mardi haussiers, mercredi prend le high (#14577)",6,33.3,0.258
+NZDUSD,2015,"Lundi et mardi haussiers, mercredi prend le high (#14577)",10,50.0,0.801
+NZDUSD,2016,"Lundi et mardi haussiers, mercredi prend le high (#14577)",15,20.0,-0.275
+NZDUSD,2017,"Lundi et mardi haussiers, mercredi prend le high (#14577)",12,16.7,-0.346
+NZDUSD,2018,"Lundi et mardi haussiers, mercredi prend le high (#14577)",9,33.3,-0.069
+NZDUSD,2019,"Lundi et mardi haussiers, mercredi prend le high (#14577)",8,25.0,-0.354
+NZDUSD,2020,"Lundi et mardi haussiers, mercredi prend le high (#14577)",16,25.0,-0.075
+NZDUSD,2021,"Lundi et mardi haussiers, mercredi prend le high (#14577)",8,12.5,-0.575
+NZDUSD,2022,"Lundi et mardi haussiers, mercredi prend le high (#14577)",8,0.0,-1.075
+NZDUSD,2023,"Lundi et mardi haussiers, mercredi prend le high (#14577)",17,17.6,-0.369
+NZDUSD,2024,"Lundi et mardi haussiers, mercredi prend le high (#14577)",9,44.4,0.703
+NZDUSD,2025,"Lundi et mardi haussiers, mercredi prend le high (#14577)",14,42.9,0.494
+NZDUSD,2026,"Lundi et mardi haussiers, mercredi prend le high (#14577)",5,20.0,-0.275
 USDJPY,2012,"Lundi et mardi haussiers, mercredi prend le high (#14577)",13,0.0,-1.05
 USDJPY,2013,"Lundi et mardi haussiers, mercredi prend le high (#14577)",5,40.0,0.55
 USDJPY,2014,"Lundi et mardi haussiers, mercredi prend le high (#14577)",9,11.1,-0.606
@@ -122,6 +172,21 @@ AUDJPY,2023,MLQ ±25 / 50 / 250 pips,36,16.7,-0.036
 AUDJPY,2024,MLQ ±25 / 50 / 250 pips,39,12.8,-0.267
 AUDJPY,2025,MLQ ±25 / 50 / 250 pips,41,14.6,-0.158
 AUDJPY,2026,MLQ ±25 / 50 / 250 pips,32,15.6,-0.098
+AUDUSD,2012,MLQ ±25 / 50 / 250 pips,40,10.0,-0.446
+AUDUSD,2013,MLQ ±25 / 50 / 250 pips,36,11.1,-0.353
+AUDUSD,2014,MLQ ±25 / 50 / 250 pips,25,12.0,-0.441
+AUDUSD,2015,MLQ ±25 / 50 / 250 pips,38,15.8,-0.073
+AUDUSD,2016,MLQ ±25 / 50 / 250 pips,43,25.6,0.417
+AUDUSD,2017,MLQ ±25 / 50 / 250 pips,18,33.3,0.22
+AUDUSD,2018,MLQ ±25 / 50 / 250 pips,23,13.0,-0.237
+AUDUSD,2019,MLQ ±25 / 50 / 250 pips,9,22.2,-0.09
+AUDUSD,2020,MLQ ±25 / 50 / 250 pips,35,31.4,0.866
+AUDUSD,2021,MLQ ±25 / 50 / 250 pips,20,25.0,0.48
+AUDUSD,2022,MLQ ±25 / 50 / 250 pips,46,13.0,-0.237
+AUDUSD,2023,MLQ ±25 / 50 / 250 pips,26,26.9,0.169
+AUDUSD,2024,MLQ ±25 / 50 / 250 pips,15,6.7,-0.62
+AUDUSD,2025,MLQ ±25 / 50 / 250 pips,20,0.0,-1.02
+AUDUSD,2026,MLQ ±25 / 50 / 250 pips,10,10.0,-0.42
 EURUSD,2012,MLQ ±25 / 50 / 250 pips,49,22.4,0.331
 EURUSD,2013,MLQ ±25 / 50 / 250 pips,46,26.1,0.549
 EURUSD,2014,MLQ ±25 / 50 / 250 pips,30,26.7,0.469
@@ -152,6 +217,21 @@ GBPUSD,2023,MLQ ±25 / 50 / 250 pips,39,23.1,0.361
 GBPUSD,2024,MLQ ±25 / 50 / 250 pips,38,15.8,-0.056
 GBPUSD,2025,MLQ ±25 / 50 / 250 pips,43,9.3,-0.466
 GBPUSD,2026,MLQ ±25 / 50 / 250 pips,27,22.2,0.309
+NZDUSD,2012,MLQ ±25 / 50 / 250 pips,36,11.1,-0.363
+NZDUSD,2013,MLQ ±25 / 50 / 250 pips,34,14.7,-0.148
+NZDUSD,2014,MLQ ±25 / 50 / 250 pips,28,21.4,0.256
+NZDUSD,2015,MLQ ±25 / 50 / 250 pips,47,29.8,0.757
+NZDUSD,2016,MLQ ±25 / 50 / 250 pips,36,11.1,-0.363
+NZDUSD,2017,MLQ ±25 / 50 / 250 pips,16,25.0,0.47
+NZDUSD,2018,MLQ ±25 / 50 / 250 pips,18,5.6,-0.697
+NZDUSD,2019,MLQ ±25 / 50 / 250 pips,14,28.6,0.446
+NZDUSD,2020,MLQ ±25 / 50 / 250 pips,29,17.2,-0.11
+NZDUSD,2021,MLQ ±25 / 50 / 250 pips,27,14.8,-0.141
+NZDUSD,2022,MLQ ±25 / 50 / 250 pips,32,18.8,0.095
+NZDUSD,2023,MLQ ±25 / 50 / 250 pips,25,12.0,-0.31
+NZDUSD,2024,MLQ ±25 / 50 / 250 pips,13,0.0,-1.03
+NZDUSD,2025,MLQ ±25 / 50 / 250 pips,19,15.8,-0.083
+NZDUSD,2026,MLQ ±25 / 50 / 250 pips,12,25.0,0.155
 USDJPY,2012,MLQ ±25 / 50 / 250 pips,21,23.8,0.024
 USDJPY,2013,MLQ ±25 / 50 / 250 pips,46,15.2,-0.107
 USDJPY,2014,MLQ ±25 / 50 / 250 pips,27,18.5,0.091
@@ -262,6 +342,20 @@ AUDJPY,2023,Bébé abandonné (journalier),2,50.0,-0.025
 AUDJPY,2024,Bébé abandonné (journalier),5,60.0,0.15
 AUDJPY,2025,Bébé abandonné (journalier),4,50.0,0.232
 AUDJPY,2026,Bébé abandonné (journalier),1,100.0,0.304
+AUDUSD,2012,Bébé abandonné (journalier),3,66.7,0.32
+AUDUSD,2013,Bébé abandonné (journalier),2,100.0,0.985
+AUDUSD,2014,Bébé abandonné (journalier),5,60.0,0.292
+AUDUSD,2015,Bébé abandonné (journalier),2,100.0,0.988
+AUDUSD,2016,Bébé abandonné (journalier),2,50.0,-0.46
+AUDUSD,2017,Bébé abandonné (journalier),3,66.7,0.541
+AUDUSD,2018,Bébé abandonné (journalier),1,100.0,0.981
+AUDUSD,2019,Bébé abandonné (journalier),5,20.0,-0.411
+AUDUSD,2021,Bébé abandonné (journalier),8,25.0,-0.467
+AUDUSD,2022,Bébé abandonné (journalier),5,40.0,-0.282
+AUDUSD,2023,Bébé abandonné (journalier),5,60.0,0.105
+AUDUSD,2024,Bébé abandonné (journalier),5,80.0,0.577
+AUDUSD,2025,Bébé abandonné (journalier),4,75.0,0.258
+AUDUSD,2026,Bébé abandonné (journalier),2,50.0,-0.011
 EURUSD,2013,Bébé abandonné (journalier),7,71.4,0.421
 EURUSD,2014,Bébé abandonné (journalier),4,50.0,-0.011
 EURUSD,2015,Bébé abandonné (journalier),1,100.0,0.995
@@ -291,6 +385,21 @@ GBPUSD,2023,Bébé abandonné (journalier),1,100.0,0.983
 GBPUSD,2024,Bébé abandonné (journalier),3,66.7,0.461
 GBPUSD,2025,Bébé abandonné (journalier),3,33.3,-0.344
 GBPUSD,2026,Bébé abandonné (journalier),4,25.0,-0.296
+NZDUSD,2012,Bébé abandonné (journalier),2,100.0,0.983
+NZDUSD,2013,Bébé abandonné (journalier),2,100.0,0.965
+NZDUSD,2014,Bébé abandonné (journalier),1,100.0,0.966
+NZDUSD,2015,Bébé abandonné (journalier),2,100.0,0.985
+NZDUSD,2016,Bébé abandonné (journalier),3,33.3,-0.347
+NZDUSD,2017,Bébé abandonné (journalier),3,66.7,0.17
+NZDUSD,2018,Bébé abandonné (journalier),4,50.0,0.182
+NZDUSD,2019,Bébé abandonné (journalier),2,50.0,-0.029
+NZDUSD,2020,Bébé abandonné (journalier),4,0.0,-1.021
+NZDUSD,2021,Bébé abandonné (journalier),8,37.5,-0.271
+NZDUSD,2022,Bébé abandonné (journalier),2,50.0,-0.354
+NZDUSD,2023,Bébé abandonné (journalier),2,100.0,0.974
+NZDUSD,2024,Bébé abandonné (journalier),4,25.0,-0.413
+NZDUSD,2025,Bébé abandonné (journalier),3,0.0,-0.787
+NZDUSD,2026,Bébé abandonné (journalier),4,50.0,-0.156
 USDJPY,2012,Bébé abandonné (journalier),3,66.7,0.148
 USDJPY,2013,Bébé abandonné (journalier),4,25.0,-0.376
 USDJPY,2014,Bébé abandonné (journalier),2,50.0,0.061
@@ -344,6 +453,21 @@ AUDJPY,2023,Englobante du mercredi (objectif 2 R),13,61.5,0.386
 AUDJPY,2024,Englobante du mercredi (objectif 2 R),16,50.0,0.22
 AUDJPY,2025,Englobante du mercredi (objectif 2 R),21,57.1,0.299
 AUDJPY,2026,Englobante du mercredi (objectif 2 R),9,44.4,0.175
+AUDUSD,2012,Englobante du mercredi (objectif 2 R),13,38.5,0.021
+AUDUSD,2013,Englobante du mercredi (objectif 2 R),19,57.9,0.173
+AUDUSD,2014,Englobante du mercredi (objectif 2 R),14,35.7,-0.39
+AUDUSD,2015,Englobante du mercredi (objectif 2 R),11,63.6,0.422
+AUDUSD,2016,Englobante du mercredi (objectif 2 R),15,33.3,-0.275
+AUDUSD,2017,Englobante du mercredi (objectif 2 R),14,57.1,0.187
+AUDUSD,2018,Englobante du mercredi (objectif 2 R),17,52.9,0.303
+AUDUSD,2019,Englobante du mercredi (objectif 2 R),20,40.0,-0.196
+AUDUSD,2020,Englobante du mercredi (objectif 2 R),13,53.8,0.055
+AUDUSD,2021,Englobante du mercredi (objectif 2 R),12,25.0,-0.467
+AUDUSD,2022,Englobante du mercredi (objectif 2 R),16,37.5,-0.17
+AUDUSD,2023,Englobante du mercredi (objectif 2 R),16,31.2,-0.266
+AUDUSD,2024,Englobante du mercredi (objectif 2 R),13,46.2,0.162
+AUDUSD,2025,Englobante du mercredi (objectif 2 R),12,75.0,0.657
+AUDUSD,2026,Englobante du mercredi (objectif 2 R),8,37.5,-0.298
 EURUSD,2012,Englobante du mercredi (objectif 2 R),13,46.2,0.126
 EURUSD,2013,Englobante du mercredi (objectif 2 R),20,30.0,-0.161
 EURUSD,2014,Englobante du mercredi (objectif 2 R),17,47.1,-0.074
@@ -374,6 +498,21 @@ GBPUSD,2023,Englobante du mercredi (objectif 2 R),12,41.7,0.136
 GBPUSD,2024,Englobante du mercredi (objectif 2 R),17,41.2,-0.143
 GBPUSD,2025,Englobante du mercredi (objectif 2 R),12,33.3,-0.211
 GBPUSD,2026,Englobante du mercredi (objectif 2 R),10,60.0,0.219
+NZDUSD,2012,Englobante du mercredi (objectif 2 R),11,45.5,-0.047
+NZDUSD,2013,Englobante du mercredi (objectif 2 R),17,64.7,0.243
+NZDUSD,2014,Englobante du mercredi (objectif 2 R),19,36.8,0.002
+NZDUSD,2015,Englobante du mercredi (objectif 2 R),17,47.1,-0.041
+NZDUSD,2016,Englobante du mercredi (objectif 2 R),15,46.7,0.033
+NZDUSD,2017,Englobante du mercredi (objectif 2 R),15,53.3,0.081
+NZDUSD,2018,Englobante du mercredi (objectif 2 R),14,42.9,-0.088
+NZDUSD,2019,Englobante du mercredi (objectif 2 R),18,66.7,0.27
+NZDUSD,2020,Englobante du mercredi (objectif 2 R),10,40.0,-0.372
+NZDUSD,2021,Englobante du mercredi (objectif 2 R),16,31.2,-0.31
+NZDUSD,2022,Englobante du mercredi (objectif 2 R),13,46.2,-0.199
+NZDUSD,2023,Englobante du mercredi (objectif 2 R),14,21.4,-0.477
+NZDUSD,2024,Englobante du mercredi (objectif 2 R),17,35.3,-0.334
+NZDUSD,2025,Englobante du mercredi (objectif 2 R),12,75.0,0.559
+NZDUSD,2026,Englobante du mercredi (objectif 2 R),10,70.0,0.115
 USDJPY,2012,Englobante du mercredi (objectif 2 R),10,70.0,0.79
 USDJPY,2013,Englobante du mercredi (objectif 2 R),16,37.5,-0.025
 USDJPY,2014,Englobante du mercredi (objectif 2 R),17,52.9,0.001
@@ -404,6 +543,21 @@ AUDJPY,2023,Englobante + MLQ (objectif 2 R),10,50.0,-0.035
 AUDJPY,2024,Englobante + MLQ (objectif 2 R),15,26.7,-0.22
 AUDJPY,2025,Englobante + MLQ (objectif 2 R),15,53.3,0.361
 AUDJPY,2026,Englobante + MLQ (objectif 2 R),10,70.0,0.665
+AUDUSD,2012,Englobante + MLQ (objectif 2 R),15,33.3,-0.391
+AUDUSD,2013,Englobante + MLQ (objectif 2 R),14,35.7,-0.188
+AUDUSD,2014,Englobante + MLQ (objectif 2 R),17,47.1,-0.248
+AUDUSD,2015,Englobante + MLQ (objectif 2 R),17,35.3,-0.29
+AUDUSD,2016,Englobante + MLQ (objectif 2 R),19,42.1,0.036
+AUDUSD,2017,Englobante + MLQ (objectif 2 R),10,70.0,0.653
+AUDUSD,2018,Englobante + MLQ (objectif 2 R),14,71.4,0.538
+AUDUSD,2019,Englobante + MLQ (objectif 2 R),13,38.5,-0.305
+AUDUSD,2020,Englobante + MLQ (objectif 2 R),13,61.5,0.575
+AUDUSD,2021,Englobante + MLQ (objectif 2 R),13,38.5,-0.333
+AUDUSD,2022,Englobante + MLQ (objectif 2 R),11,27.3,-0.348
+AUDUSD,2023,Englobante + MLQ (objectif 2 R),13,38.5,-0.188
+AUDUSD,2024,Englobante + MLQ (objectif 2 R),15,46.7,0.419
+AUDUSD,2025,Englobante + MLQ (objectif 2 R),17,47.1,0.264
+AUDUSD,2026,Englobante + MLQ (objectif 2 R),8,50.0,-0.034
 EURUSD,2012,Englobante + MLQ (objectif 2 R),16,50.0,0.053
 EURUSD,2013,Englobante + MLQ (objectif 2 R),14,42.9,0.106
 EURUSD,2014,Englobante + MLQ (objectif 2 R),17,52.9,0.047
@@ -434,6 +588,21 @@ GBPUSD,2023,Englobante + MLQ (objectif 2 R),7,28.6,-0.201
 GBPUSD,2024,Englobante + MLQ (objectif 2 R),10,40.0,-0.42
 GBPUSD,2025,Englobante + MLQ (objectif 2 R),12,58.3,0.417
 GBPUSD,2026,Englobante + MLQ (objectif 2 R),11,36.4,-0.132
+NZDUSD,2012,Englobante + MLQ (objectif 2 R),15,40.0,0.102
+NZDUSD,2013,Englobante + MLQ (objectif 2 R),17,29.4,-0.194
+NZDUSD,2014,Englobante + MLQ (objectif 2 R),14,57.1,0.335
+NZDUSD,2015,Englobante + MLQ (objectif 2 R),18,55.6,-0.069
+NZDUSD,2016,Englobante + MLQ (objectif 2 R),16,25.0,-0.26
+NZDUSD,2017,Englobante + MLQ (objectif 2 R),12,66.7,0.234
+NZDUSD,2018,Englobante + MLQ (objectif 2 R),16,18.8,-0.365
+NZDUSD,2019,Englobante + MLQ (objectif 2 R),11,63.6,0.294
+NZDUSD,2020,Englobante + MLQ (objectif 2 R),9,44.4,0.56
+NZDUSD,2021,Englobante + MLQ (objectif 2 R),17,23.5,-0.389
+NZDUSD,2022,Englobante + MLQ (objectif 2 R),13,38.5,-0.073
+NZDUSD,2023,Englobante + MLQ (objectif 2 R),16,31.2,-0.41
+NZDUSD,2024,Englobante + MLQ (objectif 2 R),12,41.7,-0.257
+NZDUSD,2025,Englobante + MLQ (objectif 2 R),18,55.6,0.274
+NZDUSD,2026,Englobante + MLQ (objectif 2 R),7,42.9,0.18
 USDJPY,2012,Englobante + MLQ (objectif 2 R),12,50.0,-0.051
 USDJPY,2013,Englobante + MLQ (objectif 2 R),16,31.2,-0.227
 USDJPY,2014,Englobante + MLQ (objectif 2 R),17,35.3,-0.339
@@ -461,6 +630,19 @@ AUDJPY,2021,Trois barres + MLQ (sortie au 3e jour),2,100.0,3.649
 AUDJPY,2023,Trois barres + MLQ (sortie au 3e jour),1,100.0,0.023
 AUDJPY,2024,Trois barres + MLQ (sortie au 3e jour),4,25.0,-0.476
 AUDJPY,2025,Trois barres + MLQ (sortie au 3e jour),2,0.0,-0.539
+AUDUSD,2012,Trois barres + MLQ (sortie au 3e jour),1,0.0,-1.016
+AUDUSD,2013,Trois barres + MLQ (sortie au 3e jour),3,66.7,0.502
+AUDUSD,2014,Trois barres + MLQ (sortie au 3e jour),2,100.0,1.361
+AUDUSD,2015,Trois barres + MLQ (sortie au 3e jour),1,0.0,-1.014
+AUDUSD,2016,Trois barres + MLQ (sortie au 3e jour),4,100.0,2.29
+AUDUSD,2018,Trois barres + MLQ (sortie au 3e jour),2,50.0,-0.021
+AUDUSD,2019,Trois barres + MLQ (sortie au 3e jour),2,0.0,-1.05
+AUDUSD,2020,Trois barres + MLQ (sortie au 3e jour),3,33.3,-0.457
+AUDUSD,2021,Trois barres + MLQ (sortie au 3e jour),2,0.0,-0.622
+AUDUSD,2022,Trois barres + MLQ (sortie au 3e jour),2,0.0,-1.028
+AUDUSD,2024,Trois barres + MLQ (sortie au 3e jour),1,0.0,-1.048
+AUDUSD,2025,Trois barres + MLQ (sortie au 3e jour),2,0.0,-1.027
+AUDUSD,2026,Trois barres + MLQ (sortie au 3e jour),1,100.0,0.398
 EURUSD,2012,Trois barres + MLQ (sortie au 3e jour),1,100.0,2.936
 EURUSD,2015,Trois barres + MLQ (sortie au 3e jour),1,100.0,0.207
 EURUSD,2017,Trois barres + MLQ (sortie au 3e jour),1,100.0,0.645
@@ -485,6 +667,17 @@ GBPUSD,2022,Trois barres + MLQ (sortie au 3e jour),1,0.0,-1.014
 GBPUSD,2023,Trois barres + MLQ (sortie au 3e jour),1,0.0,-1.013
 GBPUSD,2024,Trois barres + MLQ (sortie au 3e jour),2,50.0,0.592
 GBPUSD,2026,Trois barres + MLQ (sortie au 3e jour),3,100.0,1.615
+NZDUSD,2013,Trois barres + MLQ (sortie au 3e jour),2,50.0,-0.008
+NZDUSD,2014,Trois barres + MLQ (sortie au 3e jour),1,100.0,2.064
+NZDUSD,2015,Trois barres + MLQ (sortie au 3e jour),2,0.0,-0.765
+NZDUSD,2016,Trois barres + MLQ (sortie au 3e jour),1,0.0,-1.042
+NZDUSD,2017,Trois barres + MLQ (sortie au 3e jour),2,100.0,0.718
+NZDUSD,2019,Trois barres + MLQ (sortie au 3e jour),1,100.0,2.459
+NZDUSD,2021,Trois barres + MLQ (sortie au 3e jour),2,0.0,-0.749
+NZDUSD,2022,Trois barres + MLQ (sortie au 3e jour),1,100.0,4.285
+NZDUSD,2023,Trois barres + MLQ (sortie au 3e jour),1,0.0,-1.059
+NZDUSD,2024,Trois barres + MLQ (sortie au 3e jour),1,0.0,-1.061
+NZDUSD,2026,Trois barres + MLQ (sortie au 3e jour),1,100.0,4.498
 USDJPY,2012,Trois barres + MLQ (sortie au 3e jour),2,0.0,-1.037
 USDJPY,2013,Trois barres + MLQ (sortie au 3e jour),2,50.0,2.128
 USDJPY,2014,Trois barres + MLQ (sortie au 3e jour),1,100.0,4.009
