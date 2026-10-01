@@ -16,7 +16,8 @@ Résultats :
 - saison_eurusd_heatmap.png, saison_affirmations.png, saison_reussite_causes.png, saison_hors_saison.png ;
 - strategie_concepts.png, strategie_captures.png, strategie_algos.png ;
 - fond_test_a.png, fond_tests_b_c.png ; verification_taux.png, stockage_photos.png ;
-- algos_carry_momentum.png, algos_intraday_profil.png.
+- algos_carry_momentum.png, algos_intraday_profil.png ;
+- guide_*.png : schémas des stratégies enseignées (analyses/GUIDE_STRATEGIES.md).
 
 Données : data/flashcards_englobante*.csv (scripts/tester_flashcards_englobante.py),
 data/epoques_trades.csv (scripts/analyse_par_epoque.py), data/trades_simules.csv, cache Yahoo.
@@ -556,6 +557,184 @@ def autres_algos():
     sauver(fig, 'algos_intraday_profil.png')
 
 
+# ------------------------------------------------------------------ guide des stratégies (schémas)
+def _cadre(ax, titre, xlim, ylim):
+    ax.set_xlim(*xlim)
+    ax.set_ylim(*ylim)
+    ax.set_xticks([])
+    ax.set_yticks([])
+    ax.set_title(titre, fontsize=10)
+
+
+def schema_lmm():
+    fig, axs = plt.subplots(1, 2, figsize=(12, 5))
+    # --- vente
+    ax = axs[0]
+    bougie(ax, 0, 10.0, 12.35, 9.9, 12.25, largeur=0.7)            # lundi haussier plein
+    bougie(ax, 1, 12.25, 12.7, 11.4, 11.6, largeur=0.7)            # mardi : dépasse le haut, clôture sous lundi
+    bougie(ax, 2, 11.6, 11.75, 9.75, 9.9, largeur=0.7, alpha=0.45)  # mercredi : chute vers le bas du lundi
+    ax.axhline(12.35, xmin=0.08, xmax=0.95, color=GRIS, ls=':', lw=1)
+    ax.axhline(9.9, xmin=0.08, xmax=0.95, color=VERT, ls='--', lw=1.3)
+    ax.axhline(12.78, xmin=0.3, xmax=0.95, color=ROUGE, ls='--', lw=1.3)
+    ax.axhline(11.6, xmin=0.3, xmax=0.95, color='#555', ls=':', lw=1)
+    ax.text(2.6, 12.82, 'stop : au-dessus du plus haut du mardi', color=ROUGE, fontsize=8)
+    ax.text(2.6, 11.65, 'entrée : clôture du mardi (22-23 h)\nou retour au plus haut du lundi', color='#555', fontsize=8)
+    ax.text(2.6, 9.95, 'objectif : plus bas du lundi\n(au moins 60 pips, RR ≥ 1,2)', color=VERT, fontsize=8)
+    ax.text(2.6, 12.4, 'plus haut du lundi', color=GRIS, fontsize=8)
+    for x, t in [(0, 'LUNDI'), (1, 'MARDI'), (2, 'MERCREDI')]:
+        ax.text(x, 9.6, t, ha='center', fontsize=8, va='top', weight='bold')
+    ax.text(-0.5, 9.0, '1. lundi impulsif, « plein », clôture près du haut\n'
+            '2. mardi dépasse le haut de lundi (à Londres), puis clôture rouge sous lundi\n'
+            '3. mercredi : chute vers le bas de lundi', fontsize=8, va='top')
+    _cadre(ax, 'VENTE « trois barres » (mercredi baissier)', (-0.7, 5.2), (8.3, 13.2))
+    # --- achat
+    ax = axs[1]
+    bougie(ax, 0, 12.0, 12.1, 9.65, 9.75, largeur=0.7)
+    bougie(ax, 1, 9.75, 10.6, 9.3, 10.4, largeur=0.7)
+    bougie(ax, 2, 10.4, 12.25, 10.25, 12.1, largeur=0.7, alpha=0.45)
+    ax.axhline(12.1, xmin=0.08, xmax=0.95, color=VERT, ls='--', lw=1.3)
+    ax.axhline(9.22, xmin=0.3, xmax=0.95, color=ROUGE, ls='--', lw=1.3)
+    ax.axhline(10.4, xmin=0.3, xmax=0.95, color='#555', ls=':', lw=1)
+    ax.text(2.6, 9.05, 'stop : sous le plus bas du mardi', color=ROUGE, fontsize=8)
+    ax.text(2.6, 10.45, 'entrée : clôture du mardi', color='#555', fontsize=8)
+    ax.text(2.6, 12.15, 'objectif : plus haut du lundi', color=VERT, fontsize=8)
+    for x, t in [(0, 'LUNDI'), (1, 'MARDI'), (2, 'MERCREDI')]:
+        ax.text(x, 9.15, t, ha='center', fontsize=8, va='top', weight='bold')
+    ax.text(-0.5, 8.6, '1. lundi fortement baissier\n2. mardi prend le bas de lundi, puis clôture vert\n'
+            '3. mercredi : hausse vers le haut de lundi', fontsize=8, va='top')
+    _cadre(ax, 'ACHAT « trois barres » (mercredi haussier)', (-0.7, 5.2), (7.9, 12.8))
+    fig.suptitle('Stratégie lundi-mardi-mercredi (masterclass ; « 85 % sur GBPUSD, 70-75 % sur AUDJPY »), sortie au plus tard vendredi',
+                 fontsize=10)
+    sauver(fig, 'guide_lundi_mardi_mercredi.png')
+
+
+def schema_englobante_deux():
+    fig, axs = plt.subplots(1, 2, figsize=(11, 4.4))
+    for ax, sens in zip(axs, (-1, 1)):
+        if sens < 0:
+            bougie(ax, 0, 10.0, 10.9, 9.8, 10.7)
+            bougie(ax, 1, 10.75, 11.1, 9.7, 9.85)
+            cible, stop, txt = 9.65, 11.1, 'ENGLOBANTE BAISSIÈRE'
+        else:
+            bougie(ax, 0, 10.7, 10.9, 9.9, 10.0)
+            bougie(ax, 1, 9.95, 11.0, 9.7, 10.85)
+            cible, stop, txt = 11.05, 9.7, 'ENGLOBANTE HAUSSIÈRE'
+        ax.add_patch(Rectangle((-0.35, min(10.0, 10.7)), 0.7, 0.7, fill=False, ls=':', ec='#555'))
+        ax.annotate('', xy=(1.5, 10.7 if sens < 0 else 10.0), xytext=(1.5, 10.0 if sens < 0 else 10.7),
+                    arrowprops=dict(arrowstyle='<->', color='#555'))
+        ax.text(1.6, 10.35, 'le corps du jour\nrecouvre le corps\nde la veille', fontsize=8, va='center')
+        ax.axhline(cible, xmin=0.3, xmax=0.98, color=VERT, ls='--')
+        ax.axhline(stop, xmin=0.3, xmax=0.98, color=ROUGE, ls='--')
+        ax.text(2.2, cible + (0.04 if sens > 0 else -0.04), '« rupture » : extrême cassé dans les 3 jours (carte : 71-83 %)',
+                color=VERT, fontsize=8, va='bottom' if sens > 0 else 'top')
+        ax.text(2.2, stop + (0.04 if sens < 0 else -0.04), 'stop : autre extrême de l\'englobante', color=ROUGE, fontsize=8,
+                va='bottom' if sens < 0 else 'top')
+        ax.text(0, 9.35, 'veille', ha='center', fontsize=8)
+        ax.text(1, 9.35, 'englobante', ha='center', fontsize=8)
+        _cadre(ax, txt, (-0.7, 5.6), (9.2, 11.5))
+    fig.suptitle('Les flashcards : configuration englobante (« engulfing ») en journalier', fontsize=10)
+    sauver(fig, 'guide_englobante.png')
+
+
+def schema_bebe():
+    fig, axs = plt.subplots(1, 2, figsize=(11, 4.4))
+    for ax, nom in zip(axs, ('continuation', 'retournement')):
+        bougie(ax, 0, 10.0, 11.65, 9.9, 11.5)                     # bougie forte haussière
+        bougie(ax, 1, 11.3, 11.45, 10.95, 11.1)                    # interne
+        if nom == 'continuation':
+            bougie(ax, 2, 11.1, 12.3, 11.0, 12.2)
+            ax.axhline(11.45, xmin=0.35, xmax=0.98, color='#555', ls=':')
+            ax.text(2.6, 11.5, 'clôture franchement au-dessus\nde la bougie centrale -> achat', fontsize=8)
+            ax.axhline(10.93, xmin=0.35, xmax=0.98, color=ROUGE, ls='--')
+            ax.text(2.6, 10.8, 'stop : sous la figure', color=ROUGE, fontsize=8)
+        else:
+            bougie(ax, 2, 11.1, 11.2, 10.0, 10.1)
+            ax.axhline(10.95, xmin=0.35, xmax=0.98, color='#555', ls=':')
+            ax.text(2.6, 10.6, 'clôture franchement sous\nla bougie centrale -> vente', fontsize=8)
+            ax.axhline(11.47, xmin=0.35, xmax=0.98, color=ROUGE, ls='--')
+            ax.text(2.6, 11.55, 'stop : au-dessus de la figure', color=ROUGE, fontsize=8)
+        for x, t in [(0, '1. bougie\nforte'), (1, '2. petite bougie\n« interne »'), (2, '3. explosion')]:
+            ax.text(x, 9.6, t, ha='center', fontsize=8, va='top')
+        _cadre(ax, f'Bébé abandonné : {nom}', (-0.7, 5.6), (8.9, 12.6))
+    fig.suptitle('Stratégie du « bébé abandonné » (masterclass : « 75 % de réussite »)', fontsize=10)
+    sauver(fig, 'guide_bebe_abandonne.png')
+
+
+def schema_structure():
+    fig, ax = plt.subplots(figsize=(12, 5))
+    rng = np.random.default_rng(3)
+    x = np.arange(0, 30)
+    cons = 10 + 0.25 * np.sin(x / 2.2) + rng.normal(0, 0.06, len(x))
+    imp = np.linspace(cons[-1], 7.6, 8)
+    retr = np.array([7.75, 8.1, 8.45, 8.3, 8.05, 8.2, 8.5, 8.6, 8.4, 8.1, 7.95, 7.7])
+    suite = np.linspace(7.6, 6.0, 14) + rng.normal(0, 0.08, 14)
+    y = np.r_[cons, imp, retr, suite]
+    t = np.arange(len(y))
+    ax.plot(t, y, color='#37474f', lw=1.6)
+    ax.axvspan(0, 29, color='#eeeeee')
+    ax.text(14, 10.75, 'CONSOLIDATION (~70 % du temps)\nrange, indécision, « destruction du capital »', ha='center', fontsize=8)
+    ax.axvspan(29, 37, color='#ffebee')
+    ax.text(33, 10.75, 'IMPULSION\n(bougies pleines)', ha='center', fontsize=8, color=ROUGE)
+    ax.axvspan(37, 49, color='#fff8e1')
+    ax.text(43, 10.75, 'RETRACEMENT en « M »\n≤ 50 % (Fibonacci)', ha='center', fontsize=8, color=ORANGE)
+    ax.axvspan(49, len(y), color='#e8f5e9')
+    ax.text(56, 10.75, 'EXPANSION (~30 %)', ha='center', fontsize=8, color=VERT)
+    haut, bas = cons.max(), 7.6
+    ax.axhline(bas + 0.5 * (haut - bas), xmin=0.5, xmax=0.78, color=ORANGE, ls=':', lw=1)
+    ax.text(38, bas + 0.5 * (haut - bas) + 0.08, 'Fibo 0,50', color=ORANGE, fontsize=7)
+    ax.axhline(8.05, xmin=0.62, xmax=0.85, color='#555', ls='--', lw=1)
+    ax.text(41.5, 7.85, 'creux interne du « M »', fontsize=7, color='#555')
+    ax.annotate('ENTRÉE : cassure du creux\ninterne (bougie rouge)', xy=(48, 7.95), xytext=(51, 9.0), fontsize=8,
+                arrowprops=dict(arrowstyle='->'))
+    ax.plot([45, 52], [8.68, 8.68], color=ROUGE, ls='--')
+    ax.text(52.3, 8.7, 'stop initial (~20-25 pips)', color=ROUGE, fontsize=7, va='center')
+    for xx, yy in [(53, 7.75), (56, 7.4), (59, 7.0)]:
+        ax.plot([xx, xx + 2.5], [yy, yy], color=ROUGE, lw=1)
+    ax.text(57, 7.55, 'trailing stop au-dessus\nde chaque nouveau sommet\n(pas de TP)', fontsize=7, color=ROUGE)
+    _cadre(ax, 'Structure du marché et « stratégie de la Bombe » (H1) : consolidation -> impulsion -> M -> cassure -> expansion',
+           (-1, len(y) + 1), (5.6, 11.3))
+    sauver(fig, 'guide_structure_marche.png')
+
+
+def schema_mlq_trade():
+    fig, axs = plt.subplots(1, 2, figsize=(12, 5), gridspec_kw={'width_ratios': [1, 1.4]})
+    ax = axs[0]
+    for niv in np.arange(1.10, 1.2001, 0.025):
+        majeur = abs(niv * 10 - round(niv * 10)) < 1e-6
+        ax.axhline(niv, color=BLEU if majeur else ORANGE, lw=2 if majeur else 1.2, ls='-' if majeur else '--')
+        ax.text(1.02, niv, f'{niv:.5f}', transform=ax.get_yaxis_transform(), va='center', fontsize=8,
+                color=BLEU if majeur else ORANGE)
+    ax.annotate('', xy=(0.15, 1.20), xytext=(0.15, 1.10), arrowprops=dict(arrowstyle='<->', color=BLEU))
+    ax.text(0.2, 1.15, 'zone de\n1 000 pips', color=BLEU, fontsize=8, va='center')
+    ax.annotate('', xy=(0.6, 1.125), xytext=(0.6, 1.10), arrowprops=dict(arrowstyle='<->', color=ORANGE))
+    ax.text(0.65, 1.1125, 'MLQ :\n250 pips', color=ORANGE, fontsize=8, va='center')
+    ax.set_xlim(0, 1)
+    ax.set_ylim(1.095, 1.205)
+    ax.set_xticks([])
+    ax.set_yticks([])
+    ax.set_title('Les niveaux : 1 000 pips divisés en 4', fontsize=10)
+    ax = axs[1]
+    t = np.arange(40)
+    y = np.r_[np.linspace(1.1440, 1.1495, 14), [1.1500, 1.1497, 1.1488], np.linspace(1.1480, 1.1260, 23)]
+    ax.plot(t, y, color='#37474f', lw=1.6)
+    ax.axhspan(1.1475, 1.1525, color=ORANGE, alpha=0.18)
+    ax.axhline(1.15, color=ORANGE, ls='--')
+    ax.text(0.5, 1.1528, 'zone MLQ 1.15000 ± 25 pips', color=ORANGE, fontsize=8)
+    ax.axhline(1.1525, xmin=0.3, xmax=0.7, color=ROUGE, ls='--')
+    ax.text(28, 1.1535, 'stop : 50 pips', color=ROUGE, fontsize=8)
+    ax.axhline(1.1250, xmin=0.3, xmax=0.95, color=VERT, ls='--')
+    ax.text(14, 1.1235, 'objectif : MLQ suivant, 250 pips plus bas (RR 1:5)', color=VERT, fontsize=8)
+    ax.annotate('entrée en vente dans la zone,\nsi le prix « décélère »\n(petites bougies, mèches)', xy=(15, 1.1500),
+                xytext=(17, 1.1430), fontsize=8, arrowprops=dict(arrowstyle='->'))
+    ax.set_xticks([])
+    ax.set_yticks([])
+    ax.set_ylim(1.120, 1.157)
+    ax.set_title('Le trade MLQ : rejet du niveau, d\'un MLQ à l\'autre', fontsize=10)
+    fig.suptitle('MLQ (« Major Large Quarters » / niveaux de liquidité) : #7783 « D\'un major larger quarter a un autre. 250 pips »',
+                 fontsize=10)
+    sauver(fig, 'guide_mlq.png')
+
+
 def main():
     os.makedirs(SORTIE, exist_ok=True)
     schema_englobante()
@@ -570,6 +749,11 @@ def main():
     fondamental()
     docs()
     autres_algos()
+    schema_lmm()
+    schema_englobante_deux()
+    schema_bebe()
+    schema_structure()
+    schema_mlq_trade()
 
 
 if __name__ == '__main__':
