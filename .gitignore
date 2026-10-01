@@ -6,3 +6,4 @@ __pycache__/
 # Images hébergées sur s3://images-forex-analyse (voir docs/STOCKAGE_IMAGES.md)
 ChatExport_2026-10-01/photos/
 assets/tradingview/*/*.png
+data/prix/dukascopy/
