@@ -36,7 +36,7 @@ Tous les scripts se lancent **depuis la racine du dépôt** : `python scripts/<s
 | Fichier | Contenu | Source |
 |---|---|---|
 | `calendrier.csv` | 71 000 annonces économiques (publié, consensus, précédent, importance), 2019-2026 | calendrier TradingView |
-| `cot.csv` | Positionnement des fonds sur 8 devises (hebdomadaire) | CFTC |
+| `cot.csv` | Positionnement des fonds sur 8 devises (hebdomadaire, juin 2006 – sept. 2026) | CFTC |
 | `taux.csv` (2019-2026), `../prix/taux_directeurs_1999.csv` (1999-2026) | Taux directeurs quotidiens | BIS |
 | `biais_amirou.csv` | Biais haussier ou baissier d'Amirou par devise et par jour | `biais_textuel.py` |
 | `indicateurs.csv`, `resultats_tests.json` | Indicateurs par devise et résultats des tests A, B, C | `modele_fondamental.py` |
