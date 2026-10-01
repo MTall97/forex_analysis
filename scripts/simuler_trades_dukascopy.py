@@ -24,8 +24,10 @@ Résultat en R : +gain/risque si objectif, -1 si stop, valeur latente si ouvert.
 gain_max_r : meilleur gain latent atteint avant la sortie (sert à estimer l'effet des passages à BE,
 que la simulation n'applique pas).
 
-Données : https://datafeed.dukascopy.com (bougies horaires par mois, minute par jour),
-mises en cache dans data/prix/dukascopy/ (non suivi par Git).
+Données : par défaut Yahoo Finance (scripts/prix_yahoo.py) : bougies horaires depuis mi-décembre
+2023, journalières avant (colonne « resolution » ; en journalier, une bougie qui touche à la fois
+l'objectif et le stop compte comme un stop). Variable SOURCE_PRIX=dukascopy pour utiliser
+https://datafeed.dukascopy.com (horaire + minute, mais très limité en débit depuis le cloud).
 Sortie : data/trades_simules.csv
 """
 
@@ -98,7 +100,14 @@ def minutes(paire, jour):
                    datetime(jour.year, jour.month, jour.day), paire)
 
 
+SOURCE = os.environ.get('SOURCE_PRIX', 'yahoo')  # « yahoo » (par défaut) ou « dukascopy »
+
+
 def serie_horaire(paire, debut, fin):
+    """Bougies horaires (journalières avant mi-décembre 2023 avec Yahoo)."""
+    if SOURCE == 'yahoo':
+        import prix_yahoo
+        return prix_yahoo.bougies(paire, debut, fin)
     out, d = [], datetime(debut.year, debut.month, 1)
     while d <= fin:
         out += heures(paire, d.year, d.month)
@@ -118,9 +127,15 @@ def simuler(paire, sens, e, sl, tp, depart):
     rr = abs(tp - e) / risque
     avant = serie_horaire(paire, depart - timedelta(hours=72), depart)
     apres = serie_horaire(paire, depart, depart + timedelta(days=40))
+    if resolution_prix(paire, depart) == '1d':
+        # bougie journalière : celle du jour de publication contient des prix postérieurs
+        avant = [b for b in avant if b[0] + timedelta(days=1) <= depart]
+        apres = serie_horaire(paire, datetime(depart.year, depart.month, depart.day), depart + timedelta(days=40))
     if not apres or not avant:
         return None
     prix = avant[-1][4]                       # dernier prix connu à la publication
+    if resolution_prix(paire, depart) == '1d' and apres:
+        prix = apres[0][1]                    # en journalier : ouverture du jour de publication
     gain_latent = ((prix - e) if achat else (e - prix)) / risque
     deja_tp = (prix >= tp) if achat else (prix <= tp)
     deja_sl = (prix <= sl) if achat else (prix >= sl)
@@ -161,7 +176,7 @@ def simuler(paire, sens, e, sl, tp, depart):
             break
         hit_tp = (b[2] >= tp) if achat else (b[3] <= tp)
         hit_sl = (b[3] <= sl) if achat else (b[2] >= sl)
-        if hit_tp and hit_sl:
+        if hit_tp and hit_sl and SOURCE == 'dukascopy':
             for m in minutes(paire, b[0]):
                 if not (b[0] <= m[0] < b[0] + timedelta(hours=1)):
                     continue
@@ -173,8 +188,8 @@ def simuler(paire, sens, e, sl, tp, depart):
                 if mt:
                     hit_sl = False
                     break
-            if hit_tp and hit_sl:
-                hit_tp = False
+        if hit_tp and hit_sl:
+            hit_tp = False  # ambigu dans la même bougie : hypothèse prudente
         if hit_sl:
             return dict(statut=statut, issue='stop', r=-1.0, rr=rr, entree_utc=entree_t.isoformat(),
                         sortie_utc=b[0].isoformat(), mfe_r=round(mfe, 2))
@@ -186,6 +201,13 @@ def simuler(paire, sens, e, sl, tp, depart):
     latent = ((dernier[4] - e) if achat else (e - dernier[4])) / risque
     return dict(statut=statut, issue='ouvert après 20 jours', r=round(latent, 2), rr=rr,
                 entree_utc=entree_t.isoformat(), sortie_utc=dernier[0].isoformat(), mfe_r=round(mfe, 2))
+
+
+def resolution_prix(paire, date):
+    if SOURCE == 'yahoo':
+        import prix_yahoo
+        return prix_yahoo.resolution(paire, date)
+    return '1h'
 
 
 def main():
@@ -216,7 +238,7 @@ def main():
         if res:
             out.append({'date_publication': depart.isoformat(), 'id_message': l['id_message'], 'paire': l['paire'],
                         'sens': l['sens'], 'entree': e, 'stop': sl, 'objectif': tp, 'ratio_rr': round(res['rr'], 2),
-                        'statut': res['statut'], 'issue': res['issue'], 'resultat_r': res['r'], 'gain_max_r': res.get('mfe_r', ''),
+                        'statut': res['statut'], 'resolution': resolution_prix(l['paire'], depart), 'issue': res['issue'], 'resultat_r': res['r'], 'gain_max_r': res.get('mfe_r', ''),
                         'entree_utc': res['entree_utc'], 'sortie_utc': res['sortie_utc'], 'capture': l['fichier']})
         if n % 50 == 0:
             print(f"  {n}/{len(trades)}", flush=True)
