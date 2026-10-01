@@ -17,7 +17,7 @@ objectif 1 R, 2 R ou sortie après 24 heures ; objectif et stop dans la même he
 Témoin : toute bougie qui clôture au-delà de l'extrême de la bougie précédente, gérée de la même façon
 (même stop relatif, mêmes objectifs). Si la figure ne fait pas mieux, elle n'apporte rien.
 
-Sorties : data/bebe_abandonne_horaire.csv, résumé à l'écran (par sens de la figure, par session).
+Sorties : data/bebe_abandonne_horaire.csv (les bébés abandonnés seulement), résumé à l'écran (par sens de la figure, par session).
 """
 
 import os
@@ -92,7 +92,7 @@ def main():
         d = prix_yahoo._charger(p, '1h').reset_index(drop=True)
         lignes += analyser(p, d)
     x = pd.DataFrame(lignes)
-    x.to_csv('data/bebe_abandonne_horaire.csv', index=False)
+    x[x.bebe].to_csv('data/bebe_abandonne_horaire.csv', index=False)   # le témoin (~96 000 lignes) n'est pas écrit
     b = x[x.bebe]
     mois = (x.date.max() - x.date.min()).days / 30.4
     print(f"{x.date.min():%Y-%m-%d} -> {x.date.max():%Y-%m-%d}, {len(PAIRES)} paires, "
