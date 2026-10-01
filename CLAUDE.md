@@ -33,5 +33,5 @@ L'utilisateur travaille en français.
 
 ## Travaux en attente
 - Les 1 243 captures TradingView sont dans `assets/tradingview/` et ont été intégrées aux septembres 2021–2026. Les autres mois du canal ne sont pas encore vérifiés trade par trade.
-- Images : le tri est fait (`data/photos_classification.csv`). La suppression, l'envoi S3 (`s3://images-forex-analyse`) et la purge de l'historique restent à faire par l'utilisateur ; les étapes sont dans `docs/STOCKAGE_IMAGES.md`. Ne jamais purger l'historique de `main` sans son accord explicite.
+- Images : triées (`data/photos_classification.csv`) et envoyées sur `s3://images-forex-analyse` (us-east-1) le 01/10/2026 ; elles ne sont plus suivies par Git, sauf les 67 citées dans les analyses. Pas d'identifiants AWS dans le dépôt : `scripts/upload_images_s3.py` lit les variables d'environnement standard. La purge de l'historique reste à décider par l'utilisateur ; ne jamais la faire sans son accord explicite.
 - Rapport de la session du 01/10/2026 : `docs/RAPPORT_TRAVAUX.md`.

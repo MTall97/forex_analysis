@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
+
+# Images hébergées sur s3://images-forex-analyse (voir docs/STOCKAGE_IMAGES.md)
+ChatExport_2026-10-01/photos/
+assets/tradingview/*/*.png
