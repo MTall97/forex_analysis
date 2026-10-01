@@ -48,24 +48,27 @@ def echelle(paire):
 
 
 def telecharger(url, fichier):
+    """Télécharge avec un débit réduit (Dukascopy coupe les connexions trop rapprochées)."""
     if os.path.exists(fichier):
         return open(fichier, 'rb').read()
-    for essai in range(6):
+    for essai in range(8):
         try:
             req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-            with urllib.request.urlopen(req, timeout=60) as r:
+            with urllib.request.urlopen(req, timeout=30) as r:
                 data = r.read()
             os.makedirs(os.path.dirname(fichier), exist_ok=True)
             open(fichier, 'wb').write(data)
-            time.sleep(0.4)
+            time.sleep(2.5)
             return data
         except urllib.error.HTTPError as e:
             if e.code == 404:
+                os.makedirs(os.path.dirname(fichier), exist_ok=True)
                 open(fichier, 'wb').write(b'')
                 return b''
-            time.sleep(2 * (essai + 1))
+            time.sleep(15 * (essai + 1))
         except Exception:
-            time.sleep(2 * (essai + 1))
+            time.sleep(15 * (essai + 1))
+    print(f"  [!] échec du téléchargement : {url}", flush=True)
     return b''
 
 
