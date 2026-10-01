@@ -22,6 +22,7 @@ Le dépôt réunit trois choses :
 | [`analyses/MODELE_FONDAMENTAL_ET_MLQ.md`](analyses/MODELE_FONDAMENTAL_ET_MLQ.md) | **Version fondamentale (calendrier, COT, taux, biais écrit d'Amirou), habitudes MLQ et mercredi, évolution de son style 2021-2026** |
 | [`analyses/TRADES_PAR_EPOQUE.md`](analyses/TRADES_PAR_EPOQUE.md) | **Ses trades analysés séparément pour 2021-2022 (stops serrés, grands ratios) et 2023-2026 (fondamental, MLQ, ratios 1:2-1:3)** |
 | [`analyses/FLASHCARDS_ENGLOBANTE.md`](analyses/FLASHCARDS_ENGLOBANTE.md) | **Les flashcards « Naruto » (2025-2026) : la stratégie de l'englobante et ses « probabilités de rupture » vérifiées** |
+| [`analyses/AUTRES_ALGORITHMES.md`](analyses/AUTRES_ALGORITHMES.md) | **Carry, momentum et saisonnalité intrajournalière testés sur 2000-2026 : ce qui marche vraiment sur le Forex** |
 | [`analyses/TRADES_VS_SAISONNALITE.md`](analyses/TRADES_VS_SAISONNALITE.md) | **Tous les trades du canal confrontés à la saisonnalité**, causes des ratés, mois hors saison et faits inhabituels |
 | [`analyses/TRADES_SEPTEMBRE.md`](analyses/TRADES_SEPTEMBRE.md) | **Vérification des trades de chaque mois de septembre (2019-2026)** et statistiques sur tout le canal |
 | [`docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md`](docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md) | Vérification point par point des trois rapports d'Antigravity |
