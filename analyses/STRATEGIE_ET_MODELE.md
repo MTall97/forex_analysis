@@ -76,6 +76,26 @@
 - **Le BE compte** : 46 des 147 stops avaient d'abord été en gain latent d'au moins 1 R. Avec la règle « BE à 1 R », l'espérance passe de +1,12 à +1,29 R (avant spread).
 - **126 captures sur 518 (24 %) sont publiées après l'entrée**, et 26 alors que l'objectif était déjà dépassé. Le taux de réussite y est de 65 %, contre 40 % pour les trades annoncés à l'avance : c'est l'effet vitrine déjà relevé dans le canal.
 
+### Combien de temps avant le TP ?
+Mesure sur les trades rejoués en données horaires (2024-2026), du déclenchement de l'ordre à la sortie :
+
+| Trades annoncés à l'avance | Trades | Délai médian | Délai moyen | En moins de 5 h | En moins de 24 h |
+|---|---|---|---|---|---|
+| **Objectif atteint (TP)** | 40 | **29 h** | **72 h (3 jours)** | 10 % | 42 % |
+| Stop touché (SL) | 55 | 15 h | 58 h | 31 % | 62 % |
+
+| Trades publiés après coup | Trades | Délai médian entrée → TP |
+|---|---|---|
+| Objectif atteint | 58 | 7,5 h |
+
+![Délai avant TP ou SL](../assets/figures/amirou_duree_tp.png)
+
+- **Il faut en moyenne 3 jours pour atteindre le TP** (médiane : un peu plus d'une journée). Un quart des TP prennent près de 4 jours ou plus, jusqu'à 15 jours.
+- Sa règle « money likes speed : objectif en moins de 5 h, sinon sortie 2 h après l'ouverture de New York » (#13746) n'est respectée que par 10 % des TP. Appliquée à la lettre, elle aurait coupé la plupart de ses gagnants.
+- **Les stops tombent plus vite que les TP** (médiane 15 h contre 29 h) : un trade qui part mal le montre vite.
+- Les captures publiées après coup montrent des TP rapides (7,5 h) : on ne publie que ceux-là.
+- Sur 2021-2023 (bougies journalières), le délai médian jusqu'au TP est d'environ un jour, mais la précision n'est que d'une journée.
+
 ## 3. Peut-on le copier avec un algorithme ?
 
 J'ai traduit ses règles écrites en algorithme : prise de liquidité sur le plus haut ou le plus bas de la veille, retour dans le range, sessions de Londres et New York, sens de la tendance, saisonnalité en option, objectif 2,5 R, BE à 1 R. Backtest sur 13 paires en données horaires, de décembre 2023 à septembre 2026, spread déduit :
