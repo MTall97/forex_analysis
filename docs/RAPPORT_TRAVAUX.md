@@ -41,11 +41,15 @@ Résumé de ce qui a été fait sur le dépôt `forex_analysis`, dans l'ordre de
   - 153 certificats d'élèves ;
   - 576 autres (vie personnelle, voitures, événements, publicités, mèmes).
 - **Suppression : non faite.** Les permissions de la session ont refusé l'effacement des fichiers, une action irréversible en local. Le script `scripts/supprimer_photos_non_trading.py` est prêt ; il libère 104 Mo.
-- **Envoi S3 : non fait.** Les identifiants AWS présents dans l'environnement sont refusés par AWS (`InvalidAccessKeyId`). Le script `scripts/upload_images_s3.py` est prêt.
+- **Envoi S3 : fait.** 4 190 fichiers (389,5 Mo) envoyés dans `s3://images-forex-analyse` (us-east-1) avec `scripts/upload_images_s3.py` ; 8 405 images ne sont plus suivies par Git (les 67 citées dans les analyses sont gardées).
 - **Allègement de GitHub : non fait.** Retirer les images du dépôt actuel ne réduit pas la taille d'un clone (≈ 480 Mo d'historique). Seule une purge de l'historique le fait. Elle est irréversible, et elle n'a de sens qu'une fois la copie S3 vérifiée. Les étapes sont dans `docs/STOCKAGE_IMAGES.md`.
+
+## 7. Analyses suivantes
+- `analyses/TRADES_VS_SAISONNALITE.md` : 281 trades du registre confrontés à la saisonnalité, causes des ratés, mois atypiques.
+- `analyses/STRATEGIE_ET_MODELE.md` : 518 trades lus sur les captures et rejoués sur les cours ; algorithme et modèle d'IA de copie.
+- `analyses/MODELE_FONDAMENTAL_ET_MLQ.md` : calendrier économique, COT, taux, biais écrit d'Amirou ; habitudes MLQ (niveaux de 250 pips) et mercredi ; évolution de son style de 2021 à 2026.
 
 ## Ce qui reste à faire (de votre côté)
 1. `python scripts/supprimer_photos_non_trading.py --confirmer`, puis commit et push.
-2. Configurer des identifiants AWS valides, puis `python scripts/upload_images_s3.py`.
-3. Après vérification de S3 : arrêter de suivre les images dans Git, puis, si vous le décidez, purger l'historique (`docs/STOCKAGE_IMAGES.md`).
-4. Compléter les trades de 2021 à 2025 encore marqués ❔/⚠️ grâce aux captures TradingView désormais disponibles.
+2. Révoquer la clé AWS utilisée pour l'envoi.
+3. Si vous le décidez, purger l'historique Git (`docs/STOCKAGE_IMAGES.md`).

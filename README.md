@@ -19,6 +19,7 @@ Le dépôt réunit trois choses :
 | [`data/trade_events.csv`](data/trade_events.csv) | Messages classés par événement de trade (entrée, TP, SL, BE, raté…) |
 | [`scripts/`](scripts/) | Scripts de conversion, d'extraction et de téléchargement (voir plus bas) |
 | [`analyses/STRATEGIE_ET_MODELE.md`](analyses/STRATEGIE_ET_MODELE.md) | **Stratégie d'Amirou, performance mesurée sur 518 trades rejoués, algorithme et modèle d'IA de copie** |
+| [`analyses/MODELE_FONDAMENTAL_ET_MLQ.md`](analyses/MODELE_FONDAMENTAL_ET_MLQ.md) | **Version fondamentale (calendrier, COT, taux, biais écrit d'Amirou), habitudes MLQ et mercredi, évolution de son style 2021-2026** |
 | [`analyses/TRADES_VS_SAISONNALITE.md`](analyses/TRADES_VS_SAISONNALITE.md) | **Tous les trades du canal confrontés à la saisonnalité**, causes des ratés, mois hors saison et faits inhabituels |
 | [`analyses/TRADES_SEPTEMBRE.md`](analyses/TRADES_SEPTEMBRE.md) | **Vérification des trades de chaque mois de septembre (2019-2026)** et statistiques sur tout le canal |
 | [`docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md`](docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md) | Vérification point par point des trois rapports d'Antigravity |
