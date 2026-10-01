@@ -15,7 +15,7 @@
 | Source | Contenu | Volume |
 |---|---|---|
 | Calendrier économique TradingView | annonces US, zone euro, Allemagne, Royaume-Uni, Japon, Australie, Nouvelle-Zélande, Canada, Suisse, Chine : valeur publiée, consensus, précédente, importance (2019-2026) | 71 027 annonces |
-| CFTC « Traders in Financial Futures » | positions nettes des fonds à effet de levier et des gérants d'actifs sur 8 devises, datées du vendredi de publication | 3 063 semaines × devise |
+| CFTC « Traders in Financial Futures » | positions nettes des fonds à effet de levier et des gérants d'actifs sur 8 devises, datées du vendredi de publication, juin 2006 – sept. 2026 | 8 469 semaines × devise |
 | BIS (WS_CBPOL) | taux directeurs quotidiens des 8 banques centrales | 17 575 lignes |
 | Texte d'Amirou | 910 phrases orientées (canal + PDF SignalX), précision du lexique ≈ 80 % sur 20 phrases vérifiées à la main | 640 jours × devise |
 
@@ -50,32 +50,32 @@ Par devise, de 46 % (yen) à 59 % (dollar canadien, 29 avis seulement). Le dolla
 | Surprises économiques 30 j | 125 : 40 %, +0,82 R | 118 : 42 %, +1,29 R |
 | Différentiel de taux | 129 : 40 %, +0,72 R | 112 : 43 %, +1,47 R |
 | Variation des taux 90 j | 82 : 43 %, +0,85 R | 59 : 42 %, +0,99 R |
-| COT (niveau) | 128 : 40 %, +0,74 R | 97 : 44 %, +1,39 R |
-| COT (variation 4 sem.) | 107 : 46 %, +1,17 R | 118 : 38 %, +0,89 R |
+| COT (niveau) | 137 : 39 %, +0,69 R | 106 : 43 %, +1,51 R |
+| COT (variation 4 sem.) | 115 : 43 %, +1,03 R | 128 : 38 %, +1,06 R |
 | Son propre biais écrit (14 j) | 87 : 40 %, +0,82 R | 49 : 37 %, +0,88 R |
 
 ![Tests B et C](../assets/figures/fond_tests_b_c.png)
 
 - **Aucun indicateur fondamental n'améliore ses trades.** Aller contre le différentiel de taux ou contre le positionnement des fonds fait même un peu mieux : c'est cohérent avec son style de « retournement ».
-- Seule la **variation du COT sur 4 semaines** va dans le bon sens (46 % contre 38 %), sur un petit échantillon.
+- La **variation du COT sur 4 semaines** donne un peu plus de gagnants dans le sens du trade (43 % contre 38 %), mais le même R moyen (+1,03 contre +1,06) : pas d'avantage.
 - Ses trades ne sont pas plus gagnants quand ils suivent ce qu'il a écrit lui-même sur la devise.
-- **Méta-modèle** (gradient boosting, entraîné sur le passé, testé année par année) avec ces indicateurs en plus : **AUC 0,545**. La moitié des trades jugée la meilleure fait +0,45 R, l'autre +0,41 R. Pas d'amélioration exploitable.
+- **Méta-modèle** (gradient boosting, entraîné sur le passé, testé année par année) avec ces indicateurs en plus : **AUC 0,533**. La moitié des trades jugée la meilleure fait +0,45 R, l'autre +0,41 R. Pas d'amélioration exploitable.
 
 ## 4. Test C : un modèle purement fondamental
 
-Modèle hebdomadaire sur 13 paires, 2022-2026 (3 988 semaines × paire), entraîné sur le passé, coût de 0,015 % par trade :
+Modèle hebdomadaire sur 13 paires, 2022-2026 (4 420 semaines × paire), entraîné sur le passé, coût de 0,015 % par trade :
 
 | Année | AUC logistique | Gain logistique | AUC gradient boosting | Gain GB |
 |---|---|---|---|---|
-| 2022 | 0,49 | −28 % | 0,50 | +11 % |
-| 2023 | 0,48 | −42 % | 0,49 | −29 % |
-| 2024 | 0,52 | +2 % | 0,54 | +23 % |
-| 2025 | 0,56 | +46 % | 0,56 | **+102 %** |
-| 2026 | 0,53 | −31 % | 0,51 | −32 % |
+| 2022 | 0,48 | −58 % | 0,47 | −28 % |
+| 2023 | 0,48 | −46 % | 0,48 | −41 % |
+| 2024 | 0,54 | +17 % | 0,54 | +39 % |
+| 2025 | 0,57 | +57 % | 0,55 | **+70 %** |
+| 2026 | 0,53 | −30 % | 0,51 | −26 % |
 
 (somme des % de chaque trade hebdomadaire, sans levier)
 
-**AUC globale 0,51.** L'excellente année 2025 est suivie d'une perte en 2026 : le modèle n'est pas stable. Les repères simples (portage de taux +0,004 %, surprises +0,005 %, biais d'Amirou +0,003 % par semaine) sont tous proches de zéro.
+**AUC globale 0,51.** L'excellente année 2025 est suivie d'une perte en 2026 : le modèle n'est pas stable. Les repères simples (portage de taux −0,001 %, surprises +0,004 %, biais d'Amirou +0,005 % par semaine) sont tous proches de zéro.
 
 ## 5. Ses habitudes : MLQ et mercredi
 

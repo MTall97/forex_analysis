@@ -6,7 +6,7 @@ Collecte les données fondamentales utilisées par le modèle (data/fondamental/
 1. calendrier.csv  : calendrier économique TradingView (actuel, consensus, précédent, importance)
                      pour US, EU, DE, GB, JP, AU, NZ, CA, CH, CN, de 2019 à aujourd'hui ;
 2. cot.csv         : positionnement CFTC « Traders in Financial Futures » (fonds à effet de levier
-                     et gérants d'actifs) sur les contrats de devises, hebdomadaire ;
+                     et gérants d'actifs) sur les contrats de devises, hebdomadaire, depuis 2006 ;
 3. taux.csv        : taux directeurs quotidiens des banques centrales (BIS, série WS_CBPOL).
 
 Chaque série est datée à sa date de PUBLICATION (calendrier : heure de l'annonce ; COT : le
@@ -68,7 +68,7 @@ def calendrier(debut):
     print(f"calendrier : {len(lignes)} annonces -> {sortie}")
 
 
-CONTRATS = {'EURO FX': 'EUR', 'BRITISH POUND': 'GBP', 'JAPANESE YEN': 'JPY', 'AUSTRALIAN DOLLAR': 'AUD',
+CONTRATS = {'EURO FX': 'EUR', 'BRITISH POUND': 'GBP', 'BRITISH POUND STERLING': 'GBP', 'JAPANESE YEN': 'JPY', 'AUSTRALIAN DOLLAR': 'AUD',
             'NZ DOLLAR': 'NZD', 'NEW ZEALAND DOLLAR': 'NZD', 'CANADIAN DOLLAR': 'CAD', 'SWISS FRANC': 'CHF',
             'USD INDEX': 'USD', 'U.S. DOLLAR INDEX': 'USD'}
 
@@ -76,15 +76,25 @@ CONTRATS = {'EURO FX': 'EUR', 'BRITISH POUND': 'GBP', 'JAPANESE YEN': 'JPY', 'AU
 def cot(debut):
     sortie = f'{DOSSIER}/cot.csv'
     lignes = []
-    for an in range(debut.year, datetime.utcnow().year + 1):
-        z = zipfile.ZipFile(io.BytesIO(lire(f'https://www.cftc.gov/files/dea/history/fut_fin_txt_{an}.zip')))
+    fichiers = []
+    if debut.year < 2010:   # fichiers annuels depuis 2010 ; avant, un fichier historique 2006-2016
+        fichiers.append('https://www.cftc.gov/files/dea/history/fin_fut_txt_2006_2016.zip')
+    fichiers += [f'https://www.cftc.gov/files/dea/history/fut_fin_txt_{an}.zip'
+                 for an in range(max(debut.year, 2010), datetime.utcnow().year + 1)]
+    vus = set()
+    for url in fichiers:
+        z = zipfile.ZipFile(io.BytesIO(lire(url)))
         texte = z.read(z.namelist()[0]).decode('latin-1')
         for r in csv.DictReader(io.StringIO(texte)):
             nom = r['Market_and_Exchange_Names'].split(' - ')[0].strip().upper()
             devise = CONTRATS.get(nom)
             if not devise:
                 continue
-            ref = datetime.strptime(r['Report_Date_as_YYYY-MM-DD'][:10], '%Y-%m-%d')
+            brut = next(v for k, v in r.items() if k and k.startswith('Report_Date_as')).split()[0][:10]   # nom variable selon l'année
+            ref = datetime.strptime(brut, '%m/%d/%Y' if '/' in brut else '%Y-%m-%d')   # format américain avant 2017
+            if ref < debut or (ref, devise) in vus:
+                continue
+            vus.add((ref, devise))
             def n(c):
                 return float(r[c].replace(',', '') or 0)
             oi = n('Open_Interest_All')

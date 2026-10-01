@@ -72,7 +72,7 @@ La courbe de 2021-2022 monte plus vite, mais par marches (quelques gros gains pl
 | Tendance 20 j | Contre la tendance un peu mieux (39 % contre 33 %) | Non significatif |
 | Saisonnalité | Dans le sens : +0,75 R hors gros lots ; contre : −0,17 R | Non significatif, et nul en 2023-2026 |
 | Paires | NZDUSD et EURJPY bons (56 %), USDJPY mauvais (1 sur 7), EURUSD −1,13 R hors gros lots | 7 à 13 trades par paire |
-| Fondamentaux | Aller **contre** le différentiel de taux (43 % contre 31 %) ou le positionnement COT (46 % contre 34 %) faisait mieux | Style contrarien de l'époque |
+| Fondamentaux | Aller **contre** le différentiel de taux (43 % contre 31 %) ou le positionnement COT (41 % contre 34 %) faisait mieux | Style contrarien de l'époque |
 
 **En résumé** : une méthode technique de retournement, rentable uniquement par ses rares très gros gains. Les jours (mercredi, vendredi) comptaient plus que les niveaux.
 
@@ -133,15 +133,15 @@ Même modèle (régression logistique sur le contexte + les fondamentaux), entra
 
 | Année testée | Entraîné sur | Trades testés | AUC | R net, moitié retenue | R net, moitié écartée |
 |---|---|---|---|---|---|
-| 2022 | 2021 seule | 33 | 0,45 | +0,08 R | +1,33 R |
+| 2022 | 2021 seule | 33 | 0,49 | +1,07 R | +0,29 R |
 | 2024 | 2023 seule | 28 | 0,48 | −0,23 R | +0,06 R |
-| 2024 | 2021-2023 mélangées | 28 | 0,52 | +0,28 R | −0,45 R |
+| 2024 | 2021-2023 mélangées | 28 | 0,50 | +0,06 R | −0,23 R |
 | 2025 | 2023-2024 | 36 | 0,48 | +0,19 R | +0,60 R |
-| 2025 | 2021-2024 mélangées | 36 | 0,27 | −0,44 R | +1,23 R |
+| 2025 | 2021-2024 mélangées | 36 | 0,29 | −0,21 R | +1,00 R |
 | 2026 | 2023-2025 | 31 | **0,65** | +0,27 R | +0,17 R |
-| 2026 | 2021-2025 mélangées | 31 | 0,60 | +0,42 R | +0,01 R |
+| 2026 | 2021-2025 mélangées | 31 | 0,61 | +0,42 R | +0,01 R |
 
-- Séparer les époques ne suffit pas : avec 28 à 60 trades par an, le modèle n'a pas assez d'exemples. Les AUC sautent de 0,27 à 0,65 d'une année à l'autre, ce qui est du bruit.
+- Séparer les époques ne suffit pas : avec 28 à 60 trades par an, le modèle n'a pas assez d'exemples. Les AUC sautent de 0,29 à 0,65 d'une année à l'autre, ce qui est du bruit.
 - Le seul résultat encourageant est 2026 (AUC 0,65 en n'apprenant que sur 2023-2025), mais sur 31 trades.
 - Il faudra attendre une ou deux années de trades supplémentaires dans le style actuel pour qu'un modèle propre à 2023-2026 soit testable sérieusement.
 
@@ -247,8 +247,8 @@ Hors ratios > 8 = espérance en retirant les trades à objectif extrême.
 | Surprises économiques 30 j | 39 : 33 %, +1,90 R | 49 : 41 %, +2,32 R |
 | Différentiel de taux | 36 : 31 %, +1,58 R | 51 : 43 %, +2,60 R |
 | Variation des taux 90 j | 10 : 50 %, +2,44 R | 22 : 36 %, +2,01 R |
-| COT (niveau) | 35 : 34 %, +1,70 R | 35 : 46 %, +2,96 R |
-| COT (variation 4 sem.) | 35 : 43 %, +2,20 R | 35 : 37 %, +2,46 R |
+| COT (niveau) | 44 : 34 %, +1,33 R | 44 : 41 %, +2,94 R |
+| COT (variation 4 sem.) | 43 : 37 %, +1,64 R | 45 : 38 %, +2,61 R |
 | Son biais écrit (14 j) | 18 : 33 %, +2,39 R | 15 : 20 %, +1,06 R |
 
 ### Découpages 2023-2026 (155 trades)

@@ -89,26 +89,26 @@
    },
    "cot": {
     "avec": [
-     128,
-     0.398,
-     0.74
+     137,
+     0.394,
+     0.69
     ],
     "contre": [
-     97,
-     0.443,
-     1.39
+     106,
+     0.425,
+     1.51
     ]
    },
    "cot_4s": {
     "avec": [
-     107,
-     0.458,
-     1.17
+     115,
+     0.435,
+     1.03
     ],
     "contre": [
-     118,
-     0.381,
-     0.89
+     128,
+     0.383,
+     1.06
     ]
    },
    "amirou_14j": {
@@ -124,7 +124,7 @@
     ]
    }
   },
-  "meta_auc": 0.545,
+  "meta_auc": 0.533,
   "meta_selection": {
    "tous": 0.43,
    "meilleure_moitie": 0.45,
@@ -133,79 +133,79 @@
   }
  },
  "C_modele_fondamental_hebdo": {
-  "n_semaines_paires": 3988,
+  "n_semaines_paires": 4420,
   "par_annee": {
    "logistique": {
     "2022": {
-     "auc": 0.488,
-     "gain_moyen_pct_semaine": -0.045,
-     "gain_total_pct": -28.0
+     "auc": 0.484,
+     "gain_moyen_pct_semaine": -0.087,
+     "gain_total_pct": -57.9
     },
     "2023": {
-     "auc": 0.478,
-     "gain_moyen_pct_semaine": -0.063,
-     "gain_total_pct": -42.0
+     "auc": 0.483,
+     "gain_moyen_pct_semaine": -0.07,
+     "gain_total_pct": -46.3
     },
     "2024": {
-     "auc": 0.524,
-     "gain_moyen_pct_semaine": 0.003,
-     "gain_total_pct": 1.7
+     "auc": 0.535,
+     "gain_moyen_pct_semaine": 0.025,
+     "gain_total_pct": 17.0
     },
     "2025": {
-     "auc": 0.56,
-     "gain_moyen_pct_semaine": 0.069,
-     "gain_total_pct": 45.9
+     "auc": 0.566,
+     "gain_moyen_pct_semaine": 0.086,
+     "gain_total_pct": 56.9
     },
     "2026": {
-     "auc": 0.533,
-     "gain_moyen_pct_semaine": -0.066,
-     "gain_total_pct": -30.8
+     "auc": 0.528,
+     "gain_moyen_pct_semaine": -0.065,
+     "gain_total_pct": -30.4
     }
    },
    "gradient_boosting": {
     "2022": {
-     "auc": 0.497,
-     "gain_moyen_pct_semaine": 0.018,
-     "gain_total_pct": 11.1
+     "auc": 0.469,
+     "gain_moyen_pct_semaine": -0.043,
+     "gain_total_pct": -28.3
     },
     "2023": {
-     "auc": 0.485,
-     "gain_moyen_pct_semaine": -0.044,
-     "gain_total_pct": -29.0
+     "auc": 0.479,
+     "gain_moyen_pct_semaine": -0.061,
+     "gain_total_pct": -40.6
     },
     "2024": {
-     "auc": 0.538,
-     "gain_moyen_pct_semaine": 0.033,
-     "gain_total_pct": 22.6
+     "auc": 0.543,
+     "gain_moyen_pct_semaine": 0.058,
+     "gain_total_pct": 39.2
     },
     "2025": {
-     "auc": 0.555,
-     "gain_moyen_pct_semaine": 0.155,
-     "gain_total_pct": 102.5
+     "auc": 0.552,
+     "gain_moyen_pct_semaine": 0.105,
+     "gain_total_pct": 69.8
     },
     "2026": {
-     "auc": 0.51,
-     "gain_moyen_pct_semaine": -0.067,
-     "gain_total_pct": -31.6
+     "auc": 0.509,
+     "gain_moyen_pct_semaine": -0.056,
+     "gain_total_pct": -26.4
     }
    }
   },
   "logistique": {
-   "auc": 0.51,
-   "gain_moyen_pct_par_trade": -0.0172,
-   "gain_total_pct_somme": -53.3,
-   "part_gagnante": 0.504
+   "auc": 0.512,
+   "gain_moyen_pct_par_trade": -0.0194,
+   "gain_total_pct_somme": -60.7,
+   "part_gagnante": 0.501
   },
   "gradient_boosting": {
-   "auc": 0.513,
-   "gain_moyen_pct_par_trade": 0.0244,
-   "gain_total_pct_somme": 75.7,
-   "part_gagnante": 0.506
+   "auc": 0.507,
+   "gain_moyen_pct_par_trade": 0.0044,
+   "gain_total_pct_somme": 13.8,
+   "part_gagnante": 0.502
   },
-  "repere_momentum": -0.0623,
-  "repere_portage_taux": 0.0035,
-  "repere_surprises": 0.0046,
-  "repere_amirou": 0.0031,
-  "n_semaines_avec_avis_amirou": 1580
+  "repere_momentum": -0.0675,
+  "repere_portage_taux": -0.0012,
+  "repere_surprises": 0.0037,
+  "repere_amirou": 0.005,
+  "n_semaines_avec_avis_amirou": 1592
  }
 }
