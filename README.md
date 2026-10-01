@@ -36,6 +36,8 @@ Le dépôt réunit trois choses :
 | [`ChatExport_2026-09-17/`](ChatExport_2026-09-17/) | Export JSON brut (jusqu'au 17/09/2026, sans les photos) + les 21 PDF SignalX (`rapport Amirou/`) |
 | [`RAPPORT_GLOBAL_PROJET.md`](RAPPORT_GLOBAL_PROJET.md), [`AUDIT_TRADES_AMIROU_WINS_LOSSES.md`](AUDIT_TRADES_AMIROU_WINS_LOSSES.md), [`RAPPORT_SYNTHESE_SIGNALX_2026.md`](RAPPORT_SYNTHESE_SIGNALX_2026.md) | Rapports rédigés par Antigravity, conservés tels quels avec un encadré de mise à jour |
 
+**Relancer les analyses** : toutes les données sont dans le dépôt ; inventaire, ordre des scripts et commandes dans [`docs/DONNEES_ET_SCRIPTS.md`](docs/DONNEES_ET_SCRIPTS.md).
+
 Les figures des rapports (schémas des stratégies, graphiques de résultats) sont dans `assets/figures/` et se régénèrent avec `python scripts/figures_rapports.py`.
 
 ---

@@ -33,7 +33,8 @@ L'utilisateur travaille en français.
 
 ## Captures et simulation (2021-2026)
 - OCR : `scripts/lire_captures_ocr.py` (Tesseract, `apt install tesseract-ocr`, `OMP_THREAD_LIMIT=1`) → `data/captures_niveaux.csv` ; résolution des niveaux et de la paire : `scripts/resoudre_niveaux.py` → `data/captures_trades.csv`.
-- Prix : `scripts/prix_yahoo.py` (Yahoo Finance, cache non suivi dans `data/prix/yahoo/` ; horaire depuis 12/2023, journalier avant). Dukascopy fonctionne mais est trop limité en débit depuis le cloud.
+- Prix : `scripts/prix_yahoo.py` (Yahoo Finance, cache **suivi par Git** dans `data/prix/yahoo/` : horaire depuis 12/2023, seule copie car Yahoo ne garde que 730 jours ; compléter avec `python scripts/prix_yahoo.py --mettre-a-jour`). Journalier fiable : Dukascopy (`data/prix/journalier_dukascopy.csv`, cache brut dans `data/prix/dukascopy/`), limité en débit depuis le cloud.
+- Inventaire des données et ordre des scripts : `docs/DONNEES_ET_SCRIPTS.md`.
 - Simulation : `scripts/simuler_trades_dukascopy.py` → `data/trades_simules.csv` ; algorithme : `scripts/algo_amirou_backtest.py` ; modèle : `scripts/modele_meta.py`. Synthèse : `analyses/STRATEGIE_ET_MODELE.md`.
 - Fondamentaux : `scripts/collecter_fondamentaux.py` → `data/fondamental/` (calendrier TradingView, COT CFTC, taux BIS) ; `scripts/biais_textuel.py` (biais écrit d'Amirou) ; `scripts/modele_fondamental.py` (tests A, B, C) ; `scripts/algo_mlq_backtest.py` (MLQ = niveaux de 250 pips, mercredi). Synthèse : `analyses/MODELE_FONDAMENTAL_ET_MLQ.md`.
 - Son style change selon l'époque (2021-2022 : stops de 10-16 pips, ratios 1:7-1:10 ; depuis 2023 : stops de 40-50 pips, ratios 1:2-1:3,5) : ne pas mélanger les périodes sans le dire. Analyse par époque : `scripts/analyse_par_epoque.py` → `analyses/TRADES_PAR_EPOQUE.md`.
