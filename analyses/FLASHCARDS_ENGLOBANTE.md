@@ -81,6 +81,31 @@ Ce que les cartes ne disent pas :
 - la probabilité de rupture n'est jamais comparée à celle d'une bougie quelconque ;
 - elles ne disent pas où placer le stop, ni ce que rapporte la rupture face à ce qu'on risque.
 
+## 3 bis. La variante « + FVG »
+
+Trois de ses cartes donnent aussi un taux « + FVG » (*fair value gap*, un trou entre les mèches de trois bougies consécutives) :
+- GBPJPY : 76,7 % baissier, 74,5 % haussier (#13387) ;
+- AUDJPY : 81,7 % et 76,7 % (#13409) ;
+- EURUSD : 81,6 % et 78,6 % (#13456, #13804).
+
+C'est 1 à 3 points de plus que la version standard. Les cartes ne disent pas où se trouve le FVG ; trois définitions ont été testées :
+
+| Définition du FVG | Quand est-il connu ? | Configurations | Rupture en 3 jours | Trades gagnants | Gain moyen |
+|---|---|---|---|---|---|
+| Aucun (englobante standard) | clôture de l'englobante | 1 763 | 81,2 % | 75,2 % | −0,02 R |
+| **« Suivant »** : l'englobante est la bougie du milieu, le lendemain laisse un trou avec la veille | **clôture du lendemain** | 469 | **93,2 %** | 93,0 % | +0,14 R |
+| ↳ même chose sans englobante (toute bougie suivie d'un FVG) | clôture du lendemain | 1 475 | 92,5 % | 91,9 % | +0,18 R |
+| ↳ **trade pris quand le FVG est connu** (extrême pas encore cassé) | clôture du lendemain | 75 | **57,3 %** | — | **−0,02 R** |
+| « Précédent » : l'englobante est la 3e bougie du FVG | clôture de l'englobante | 8 | 87,5 % | 75,0 % | −0,20 R |
+| « Horaire » : un FVG en H1 pendant la journée de l'englobante | clôture de l'englobante | 1 544 | 81,1 % | 75,9 % | −0,01 R |
+
+**Lecture** :
+- **Le FVG « suivant » donne des chiffres spectaculaires, mais il triche.** Pour qu'un FVG se forme, la bougie du lendemain doit s'éloigner franchement : dans plus de 80 % des cas, elle casse déjà l'extrême de l'englobante (seules 75 configurations sur 469 restent intactes). On mesure donc la rupture après l'avoir vue se produire. N'importe quelle bougie suivie d'un FVG fait d'ailleurs aussi bien (92,5 %).
+- **Au moment où le FVG est connu** (clôture du lendemain), il ne reste que 75 configurations sur 469 où l'extrême n'est pas encore cassé. La rupture n'y arrive plus que 57 fois sur 100, et le trade perd légèrement (−0,02 R).
+- **Les deux définitions utilisables au moment de l'englobante** (FVG « précédent » ou FVG horaire) n'apportent rien. Le FVG horaire donne +0 point, ce qui est proche des +1 à 3 points de ses cartes : c'est probablement ce que mesure sa variante.
+
+**Conclusion** : le « + FVG » n'améliore pas la stratégie. Soit il n'ajoute rien (FVG connu à temps), soit il ne peut pas être tradé (FVG connu trop tard).
+
 ## 4. Les trades qu'il a publiés avec ces cartes
 
 Il ne trade pas la rupture telle quelle : il cherche une entrée (zone, session) et vise plus loin. Ce que montrent le canal et la simulation ([`data/trades_simules.csv`](../data/trades_simules.csv)) :
@@ -109,8 +134,8 @@ Ses statistiques globales (76 % de réussite, 82,5 % le mercredi, #13239) ne cor
 - Ce fait est **presque aussi vrai pour n'importe quelle bougie**, et **il ne se transforme pas en gain** : avec un stop à l'autre extrême, l'espérance est nulle, spread compris.
 - Le passage de 75 % à « plus de 90 % » avec le fondamental (#13415) n'est pas étayé. Le test B de [`MODELE_FONDAMENTAL_ET_MLQ.md`](MODELE_FONDAMENTAL_ET_MLQ.md) montre que l'alignement fondamental n'améliore pas ses trades.
 - Les effets du mercredi (baissier) et du lundi (haussier) se retrouvent, mais ils ajoutent moins de 0,1 R par trade.
+- La variante « + FVG » n'aide pas : le FVG du lendemain voit la rupture avant de la « prédire », et les FVG connus à temps n'ajoutent rien (§ 3 bis).
 
 ### Limites
 - 2 ans et 9 mois de données horaires, contre « 10 ans minimum » pour ses cartes. Les bougies journalières Yahoo plus anciennes ne sont pas fiables pour le Forex : ouverture fausse, plus hauts et plus bas trop étroits. Sur ces données, le taux de rupture tombe à 67 % pour les englobantes comme pour les bougies quelconques. La conclusion « l'englobante n'apporte rien » est donc la même.
-- La variante « + FVG » n'est pas testée ; sur ses cartes, elle n'ajoute que 1 à 3 points.
 - Le découpage des jours (22 h UTC) peut différer de celui de son courtier de quelques heures.
