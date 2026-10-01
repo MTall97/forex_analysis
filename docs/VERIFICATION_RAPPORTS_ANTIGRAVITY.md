@@ -49,6 +49,8 @@ Les faits de marché sont **globalement exacts** : DXY à 114,7 et EUR/USD à 0,
 |---|---|---|
 | 340 cas, dont **167 gains, 41 pertes, 134 BE** | Aucune méthode ni aucun fichier source. L'extraction reproductible ([`scripts/extract_trade_events.py`](../scripts/extract_trade_events.py)) donne **54 messages « TP » contre 72 messages « SL »**. La vérification manuelle des septembres donne environ 29 gains pour 15 à 16 pertes ([analyse](../analyses/TRADES_SEPTEMBRE.md)) | ❌ |
 
+![Taux de réussite affiché contre mesuré](../assets/figures/verification_taux.png)
+
 ### Les « trades gagnants »
 | Cas | Ce que dit le message cité | Verdict |
 |---|---|---|

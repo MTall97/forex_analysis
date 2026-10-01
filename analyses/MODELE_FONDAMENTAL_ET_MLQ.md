@@ -37,6 +37,8 @@ On compare chaque avis d'Amirou sur une devise (« dollar baissier », « vendre
 |---|---|---|---|---|---|---|---|
 | 50 % | 43 % | 55 % | 51 % | 52 % | 57 % | 43 % | 58 % |
 
+![Test A](../assets/figures/fond_test_a.png)
+
 Par devise, de 46 % (yen) à 59 % (dollar canadien, 29 avis seulement). Le dollar, la devise qu'il commente le plus (179 avis), est à 49 %.
 
 ## 3. Test B : ses trades gagnent-ils plus quand les fondamentaux vont dans leur sens ?
@@ -51,6 +53,8 @@ Par devise, de 46 % (yen) à 59 % (dollar canadien, 29 avis seulement). Le dolla
 | COT (niveau) | 128 : 40 %, +0,74 R | 97 : 44 %, +1,39 R |
 | COT (variation 4 sem.) | 107 : 46 %, +1,17 R | 118 : 38 %, +0,89 R |
 | Son propre biais écrit (14 j) | 87 : 40 %, +0,82 R | 49 : 37 %, +0,88 R |
+
+![Tests B et C](../assets/figures/fond_tests_b_c.png)
 
 - **Aucun indicateur fondamental n'améliore ses trades.** Aller contre le différentiel de taux ou contre le positionnement des fonds fait même un peu mieux : c'est cohérent avec son style de « retournement ».
 - Seule la **variation du COT sur 4 semaines** va dans le bon sens (46 % contre 38 %), sur un petit échantillon.
@@ -113,6 +117,8 @@ Règle : pendant Londres et New York, une bougie horaire touche un MLQ (à 3 pip
 | + tendance (MM 20 j) | — | −0,09 R |
 | + filtre fondamental | — | −0,10 R |
 | Mercredi + tendance + fondamental | 91 | −0,15 R |
+
+![Algorithmes MLQ](../assets/figures/strategie_algos.png)
 
 Par jour : le jeudi est le moins mauvais (−0,01 R), le vendredi le pire (−0,30 R).
 

@@ -19,6 +19,8 @@
 | 2025 | 9 | 3 (+~1 440 $ flottants) | 0 | 1 | 2 | 3 | Lancement de SignalX : le direct passe dans le groupe payant. |
 | 2026 | 24 | 10 | 2 | 2 | 5 | 3 | Annonce de « 10 000 $ minimum » ; ~2 500 $ visibles sur les captures. |
 
+![Bilan des septembres](../assets/figures/septembres_bilan.png)
+
 ### Ce qu'il faut retenir
 1. **Le taux de réussite réel est bien plus bas que ce qu'affirmait l'audit d'Antigravity.** Ce dernier comptait 167 gains pour 41 pertes, sans méthode reproductible. Sur les septembres vérifiés à la main, on compte environ 29 gains, dont beaucoup seulement flottants ou non chiffrés, pour 15 à 16 pertes. Sur tout le canal, le script [`scripts/extract_trade_events.py`](../scripts/extract_trade_events.py) trouve **54 messages « TP touché » contre 72 messages « SL touché »**, soit 43 % de TP parmi les issues annoncées (détail plus bas).
 2. **Les pertes sont sous-déclarées.** Exemple : la vente EURGBP du 16/09/2026 (−157,66 $) n'apparaît que dans une capture d'historique. À partir de 2020, les résultats sont souvent publiés après coup, ou réservés au programme payant puis à SignalX.
@@ -58,6 +60,8 @@ Annonce de départ (31/08) : « Septembre est un mois à minimum 10 000 $ de bé
 | 22 | 30/09 | AUDUSD | Vente limite 0.69980 / 0.70230 / 0.69480 | #15490–#15491 | « TP touché sans être déclenché » #15493 | ⏸ Non déclenché | [ph.3614](../assets/trades/2026-09/2026-09-30_16h20_photo3614.jpg), [ph.3616](../assets/trades/2026-09/2026-09-30_16h20_photo3616.jpg) |
 | 23 | 30/09→01/10 | USDJPY | Achat 157.012 / 156.654 / 157.736 (0,5 %) | #15491 | SL touché le 30/09 vers 12h, puis TP dépassé le 01/10 : « toucher notre SL et partir direct au TP » #15505 | ❌ Perte | [ph.3615](../assets/trades/2026-09/2026-09-30_16h20_photo3615.jpg), [TV 30/09](../assets/tradingview/2026-09/2026-09-30_16h20_msg15492_W0Tqm9yy.png), [TV 01/10](../assets/tradingview/2026-10/2026-10-01_00h38_msg15504_BGrlkMGs.png) |
 | 24 | 29/09 | US30 | Avis baissier : « ce mouvement a l'air inévitable », 51 165 → 50 000 | #15473–#15474 | 51 067 le 01/10, en cours | ❔ En cours | [TV](../assets/tradingview/2026-09/2026-09-29_16h13_msg15474_g60N4wkH.png), [ph.3624](../assets/trades/2026-09/2026-10-01_00h54_photo3624.jpg) |
+
+![EURUSD en septembre 2026](../assets/figures/septembre_2026_eurusd.png)
 
 ### Bilan de septembre 2026
 - **Résultats** : 10 gains (4 TP atteints, 1 gain réalisé sur USDJPY, 5 gains flottants ou non chiffrés) et 1 avis directionnel juste · **2 pertes** (USDJPY du 30/09 et EURGBP du 16/09, cette dernière jamais annoncée) · 2 BE · 5 non déclenchés (dont 3 « ratés de justesse ») · 2 sans issue · 1 trade présenté après coup comme réussi (NZDJPY, #11).
@@ -207,6 +211,8 @@ Le script [`scripts/extract_trade_events.py`](../scripts/extract_trade_events.py
 | 2025 | 3 | 6 | 6 | 20 | 9 | 11 | 50% |
 | 2026 | 14 | 10 | 3 | 30 | 4 | 15 | 77% |
 | **Total** | **216** | **54** | **72** | **118** | **70** | **152** | **43%** |
+
+![TP et SL annoncés dans le canal](../assets/figures/septembres_tp_sl_canal.png)
 
 **Lecture** : jusqu'en 2020, le canal annonce ses entrées en direct (« sell now at market price ») et ses SL. Ensuite, les entrées passent dans les groupes payants (programme avancé, puis SignalX) et le canal public montre surtout des résultats, ce qui fait mécaniquement monter le ratio affiché (77 % en 2026). Paires où les SL annoncés reviennent le plus : EURAUD, AUDJPY (5 chacune), AUDUSD, GBPJPY, GBPUSD, EURUSD (3). Paire où les TP annoncés reviennent le plus : GBPAUD (5).
 

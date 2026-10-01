@@ -18,6 +18,8 @@
   - à partir de 2021, les trades sont surtout montrés en image ou réservés aux groupes payants, donc le registre automatique les sous-estime ;
   - les septembres vérifiés à la main dans [`TRADES_SEPTEMBRE.md`](TRADES_SEPTEMBRE.md) font foi en cas d'écart.
 
+![Saisonnalité EURUSD](../assets/figures/saison_eurusd_heatmap.png)
+
 ## 2. Vue d'ensemble des trades
 
 | Année | Trades | TP / gain | SL | BE | Non déclenchés | Issue inconnue ou flottante |
@@ -51,6 +53,8 @@
 | Sens **avec** le mouvement réel du mois | 122 | 10 | 16 | 38 % |
 | Sens **contre** le mouvement réel du mois | 104 | 8 | 12 | 40 % |
 
+![Réussite selon la saison et causes des SL](../assets/figures/saison_reussite_causes.png)
+
 **Conclusions :**
 1. **La saisonnalité n'explique pas les résultats des trades.**
    - La plupart des trades sont pris des mois sans biais saisonnier net. Avec le critère souple, le taux de réussite est le même dans le sens de la saison et contre elle (39 % contre 38 %).
@@ -73,6 +77,8 @@
 | #14907 | 06/2026 | EURJPY « très haussier » en juin | 83 % (6 ans), +2,19 % | **−0,17 %** | ❌ (et non « plein profit » comme l'écrivait Antigravity) |
 | #15204 | 08/2026 | « Saisonnalité haussière du dollar » en août | 40 %, +0,02 % : **aucun biais** | Dollar en baisse (EURUSD +0,85 %) | ❌ Affirmation non fondée, démentie |
 | #15269 | 09/2026 | Dollar haussier en septembre | 40 % haussier, −0,82 % | EURUSD −1,87 % | ✅ |
+
+![Affirmations saisonnières vérifiées](../assets/figures/saison_affirmations.png)
 
 **Bilan** : 6 prévisions justes sur 11.
 - Les biais invoqués sont souvent réels mais **faibles** : 57 à 70 % de mois favorables, quand Amirou parle de « 20 ans » ou de « très très baissier ».
@@ -98,6 +104,8 @@ Les 36 stops touchés, classés d'après ce que dit le canal dans les 2 jours au
 ## 6. Mois qui n'ont pas suivi leur saisonnalité, et pourquoi
 
 Le fichier [`data/mois_hors_saisonnalite.csv`](../data/mois_hors_saisonnalite.csv) liste les **137 mois** (2019-2026, 14 paires) où une paire a évolué à l'inverse de son biais sur 10 ans, avec un écart d'au moins un écart-type. Les épisodes les plus marqués (au moins 1,5 écart-type) se regroupent autour d'événements macro :
+
+![Mois hors saison](../assets/figures/saison_hors_saison.png)
 
 | Période | Paires hors saison (réel vs moyenne 10 ans) | Cause principale |
 |---|---|---|

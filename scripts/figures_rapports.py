@@ -11,7 +11,11 @@ Schémas (stratégies) :
 Résultats :
 - flashcards_cartes_vs_mesure.png, flashcards_reussite_vs_gain.png, flashcards_duree.png ;
 - amirou_duree_tp.png, amirou_jours_mlq.png ;
-- epoques_style.png, epoques_courbes.png.
+- epoques_style.png, epoques_courbes.png ;
+- septembres_bilan.png, septembres_tp_sl_canal.png, septembre_2026_eurusd.png ;
+- saison_eurusd_heatmap.png, saison_affirmations.png, saison_reussite_causes.png, saison_hors_saison.png ;
+- strategie_concepts.png, strategie_captures.png, strategie_algos.png ;
+- fond_test_a.png, fond_tests_b_c.png ; verification_taux.png, stockage_photos.png.
 
 Données : data/flashcards_englobante*.csv (scripts/tester_flashcards_englobante.py),
 data/epoques_trades.csv (scripts/analyse_par_epoque.py), data/trades_simules.csv, cache Yahoo.
@@ -250,6 +254,272 @@ def epoques():
     sauver(fig, 'epoques_courbes.png')
 
 
+# ------------------------------------------------------------------ septembres
+def septembres():
+    # valeurs du tableau de synthèse de analyses/TRADES_SEPTEMBRE.md (vérification manuelle)
+    t = pd.DataFrame({'gains': [7, 1, 2, 1, 3, 2, 3, 10], 'pertes': [9, 1, 1, 1, 0, 2, 0, 2],
+                      'BE': [2, 1, 0, 0, 1, 1, 1, 2], 'non déclenchés': [0, 1, 1, 1, 2, 4, 2, 5],
+                      'non documentés / après coup': [5, 6, 2, 3, 1, 1, 3, 3]}, index=range(2019, 2027))
+    fig, ax = plt.subplots(figsize=(9, 4))
+    bas = np.zeros(len(t))
+    for col, coul in zip(t.columns, [VERT, ROUGE, BLEU, GRIS, '#d7ccc8']):
+        ax.bar(t.index.astype(str), t[col], bottom=bas, color=coul, label=col)
+        bas += t[col].values
+    ax.set_ylabel('trades relevés en septembre')
+    ax.legend(fontsize=8, ncol=3, loc='upper center')
+    ax.set_ylim(0, 30)
+    ax.set_title('Trades de septembre vérifiés à la main : issue documentée par le canal', fontsize=10)
+    sauver(fig, 'septembres_bilan.png')
+
+    ev = pd.read_csv('data/trade_events.csv')
+    ev['an'] = ev.date_utc.str[:4].astype(int)
+    c = ev.pivot_table(index='an', columns='evenement', values='id_message', aggfunc='count').fillna(0)
+    fig, ax = plt.subplots(figsize=(9, 3.8))
+    x = np.arange(len(c))
+    ax.bar(x - 0.2, c['tp'], 0.4, color=VERT, label='messages « TP touché »')
+    ax.bar(x + 0.2, c['sl'], 0.4, color=ROUGE, label='messages « SL touché »')
+    ax2 = ax.twinx()
+    ax2.plot(x, c['tp'] / (c['tp'] + c['sl']) * 100, color='black', marker='o', label='TP / (TP + SL)')
+    ax2.set_ylim(0, 100)
+    ax2.set_ylabel('% de TP')
+    ax.set_xticks(x, c.index)
+    ax.set_ylabel('messages')
+    ax.legend(loc='upper left', fontsize=8)
+    ax2.legend(loc='upper right', fontsize=8)
+    ax.set_title('Tout le canal : les SL disparaissent du canal public à partir de 2021', fontsize=10)
+    sauver(fig, 'septembres_tp_sl_canal.png')
+
+    hh = prix_yahoo._charger('EURUSD', '1h')
+    h = hh[(hh.date >= '2026-08-28') & (hh.date < '2026-10-01')]
+    fig, ax = plt.subplots(figsize=(10, 4.4))
+    ax.plot(h.date, h.close, color='#37474f', lw=0.9)
+    trades = [('2026-09-01 10:00', 1.16110, 'vente limite 1.16110\n« raté de 3 pips » : non déclenché', ORANGE, -0.008),
+              ('2026-09-10 11:00', 1.16142, 'vente 1.16142 (BCE)\nTP 1.15843 atteint', VERT, -0.010),
+              ('2026-09-16 23:00', 1.14999, 'vente limite 1.14999\n« à 2 pips » : non déclenché', ORANGE, 0.008)]
+    for d, niv, txt, coul, dy in trades:
+        d = pd.Timestamp(d)
+        ax.plot([d, d + pd.Timedelta(days=2)], [niv, niv], color=coul, lw=2)
+        ax.annotate(txt, xy=(d, niv), xytext=(d + pd.Timedelta(hours=12), niv + dy), fontsize=8, color=coul,
+                    arrowprops=dict(arrowstyle='->', color=coul))
+    bas = h.close.min()
+    for d, txt in [('2026-08-31', '31/08 : « dollar haussier »'), ('2026-09-10', 'BCE'),
+                   ('2026-09-16', 'Fed'), ('2026-09-17', 'BoE')]:
+        ax.axvline(pd.Timestamp(d), color=GRIS, ls=':', lw=1)
+        ax.text(pd.Timestamp(d), bas - 0.001, txt, fontsize=7, color='#555', ha='right' if d == '2026-09-16' else 'left',
+                rotation=90, va='bottom')
+    import matplotlib.dates as mdates
+    ax.xaxis.set_major_locator(mdates.DayLocator(interval=4))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter('%d/%m'))
+    ax.set_ylabel('EURUSD (horaire)')
+    ax.set_title('Septembre 2026 : l\'appel « dollar haussier » était juste, mais 2 des 3 ordres EURUSD ne sont jamais déclenchés',
+                 fontsize=10)
+    sauver(fig, 'septembre_2026_eurusd.png')
+
+
+# ------------------------------------------------------------------ saisonnalité
+def saisonnalite():
+    r = pd.read_csv('data/rendements_mensuels.csv')
+    r['an'] = r.mois.str[:4].astype(int)
+    r['m'] = r.mois.str[5:].astype(int)
+    noms = ['jan', 'fév', 'mar', 'avr', 'mai', 'juin', 'juil', 'août', 'sep', 'oct', 'nov', 'déc']
+    e = r[(r.paire == 'EURUSD') & (r.an >= 2010)].pivot(index='an', columns='m', values='rendement_pct')
+    fig, ax = plt.subplots(figsize=(9, 5.4))
+    im = ax.imshow(e.values, cmap='RdYlGn', vmin=-4, vmax=4, aspect='auto')
+    ax.set_xticks(range(12), noms)
+    ax.set_yticks(range(len(e)), e.index)
+    for i in range(e.shape[0]):
+        for j in range(e.shape[1]):
+            v = e.values[i, j]
+            if not np.isnan(v):
+                ax.text(j, i, f'{v:+.1f}', ha='center', va='center', fontsize=6.5)
+    moy = e.loc[2016:2025].mean()
+    ax.set_xlabel('moyenne 2016-2025 : ' + '  '.join(f'{v:+.1f}' for v in moy.values), fontsize=7)
+    fig.colorbar(im, ax=ax, label='rendement du mois (%)')
+    ax.set_title('Saisonnalité EURUSD : rendement de chaque mois (%) — septembre souvent rouge, mais pas toujours', fontsize=10)
+    sauver(fig, 'saison_eurusd_heatmap.png')
+
+    # affirmations saisonnières (tableau de la section 4 de TRADES_VS_SAISONNALITE.md)
+    aff = [('#8591 07/2023 EURUSD ↑', 0.64, 0.93, 1), ('#9817 11/2023 AUDJPY ↑', 0.99, 1.98, 1),
+           ('#9783 12/2023 EURUSD ↑', 1.15, 1.42, 1), ('#10892 04/2024 EURUSD ↑', 0.29, -0.99, 0),
+           ('#11946 09/2024 EURUSD ↓', -1.36, 0.77, 0), ('#13180 04/2025 AUDJPY ↑', 0.78, -2.36, 0),
+           ('#14662 04/2026 AUDJPY ↑', 0.23, 3.21, 1), ('#14815 05/2026 EURUSD ↓', -0.06, -0.42, 2),
+           ('#14907 06/2026 EURJPY ↑', 2.19, -0.17, 0), ('#15204 08/2026 USD ↑ (EURUSD)', 0.02, 0.85, 0),
+           ('#15269 09/2026 USD ↑ (EURUSD)', -0.82, -1.87, 1)]
+    fig, ax = plt.subplots(figsize=(9, 5))
+    y = np.arange(len(aff))
+    ax.barh(y + 0.2, [a[1] for a in aff], 0.4, color=GRIS, label='moyenne des 10 années précédentes')
+    ax.barh(y - 0.2, [a[2] for a in aff], 0.4, color=[[ROUGE, VERT, ORANGE][a[3]] for a in aff],
+            label='mois réel (vert : juste, rouge : faux, orange : sans statistique)')
+    ax.set_yticks(y, [a[0] for a in aff], fontsize=8)
+    ax.invert_yaxis()
+    ax.axvline(0, color='black', lw=0.8)
+    ax.set_xlabel('rendement du mois (%)')
+    ax.legend(fontsize=8, loc='lower right')
+    ax.set_title('Ses 11 affirmations saisonnières : 6 justes, souvent sur un biais faible', fontsize=10)
+    sauver(fig, 'saison_affirmations.png')
+
+    fig, axs = plt.subplots(1, 2, figsize=(12, 4), gridspec_kw={'width_ratios': [1.6, 1]})
+    cat = ['avec la saison\n(biais net)', 'contre la saison\n(biais net)', 'avec la\nmoyenne 10 ans',
+           'contre la\nmoyenne 10 ans', 'avec le mois\nréel', 'contre le mois\nréel']
+    val = [33, 57, 39, 38, 38, 40]
+    axs[0].bar(cat, val, color=[VERT, ROUGE] * 3)
+    axs[0].axhline(40, color='black', ls='--', lw=0.8)
+    axs[0].text(5.4, 41, 'moyenne 40 %', fontsize=8, ha='right')
+    axs[0].set_ylabel('% de TP parmi TP + SL')
+    axs[0].tick_params(axis='x', labelsize=7.5)
+    axs[0].set_title('La saisonnalité ne change pas la réussite', fontsize=10)
+    axs[1].pie([12, 10, 14], labels=['stop serré /\nchasse aux stops (12)', 'annonce\néconomique (10)', 'non expliquée (14)'],
+               colors=[ORANGE, BLEU, GRIS], autopct='%d%%', textprops={'fontsize': 8})
+    axs[1].set_title('Causes des 36 SL du registre', fontsize=10)
+    sauver(fig, 'saison_reussite_causes.png')
+
+    m = pd.read_csv('data/mois_hors_saisonnalite.csv')
+    m['d'] = pd.to_datetime(m.mois + '-01')
+    c = m.groupby('d').size()
+    fig, ax = plt.subplots(figsize=(10, 3.8))
+    ax.bar(c.index, c.values, width=25, color=BLEU)
+    for d, txt in [('2019-12-01', 'élections UK'), ('2020-03-01', 'COVID'), ('2020-11-01', 'vaccins'),
+                   ('2021-06-01', 'Fed restrictive'), ('2022-03-01', 'Ukraine'), ('2022-11-01', 'BoJ, CPI US'),
+                   ('2024-08-01', 'krach du 5 août'), ('2025-04-01', 'droits de douane'), ('2026-03-01', 'Iran'),
+                   ('2026-06-01', 'Fed, yen à 162')]:
+        d = pd.Timestamp(d)
+        ax.annotate(txt, xy=(d, c.get(d, 0)), xytext=(d, c.max() + 1.5), fontsize=7, ha='center', rotation=30,
+                    arrowprops=dict(arrowstyle='-', color=GRIS, lw=0.6))
+    ax.set_ylim(0, c.max() + 5)
+    ax.set_ylabel('paires hors saison')
+    ax.set_title('Mois où des paires ont fait l\'inverse de leur saisonnalité (≥ 1 écart-type) : ils suivent les chocs macro',
+                 fontsize=10)
+    sauver(fig, 'saison_hors_saison.png')
+
+
+# ------------------------------------------------------------------ stratégie, algorithmes, fondamentaux
+def strategie():
+    concepts = pd.DataFrame({
+        'Wyckoff': [6, 20, 39, 25, 15, 7, 9, 4], 'Smart money / OB': [7, 1, 19, 25, 15, 18, 6, 0],
+        'Offre et demande': [18, 29, 18, 16, 40, 28, 35, 20], 'Quarter points / MLQ': [0, 0, 1, 21, 8, 9, 6, 2],
+        'Price & Time': [0, 0, 0, 3, 16, 27, 4, 3], 'Sessions': [41, 24, 23, 24, 55, 93, 95, 29],
+        'Fondamental': [3, 2, 18, 31, 121, 57, 82, 26], 'Sentiment / COT': [0, 2, 0, 7, 21, 21, 74, 31],
+        'Annonces': [3, 2, 10, 23, 59, 65, 57, 20], 'Saisonnalité': [0, 0, 0, 0, 15, 7, 5, 4],
+        'Playbook / stats': [20, 13, 6, 10, 51, 56, 48, 27]}, index=range(2019, 2027)).T
+    fig, ax = plt.subplots(figsize=(9, 4.8))
+    im = ax.imshow(concepts.values, cmap='Blues', aspect='auto')
+    ax.set_xticks(range(8), concepts.columns)
+    ax.set_yticks(range(len(concepts)), concepts.index)
+    for i in range(concepts.shape[0]):
+        for j in range(concepts.shape[1]):
+            v = concepts.values[i, j]
+            ax.text(j, i, v, ha='center', va='center', fontsize=7, color='white' if v > 60 else 'black')
+    fig.colorbar(im, ax=ax, label='messages')
+    ax.set_title('Ce dont il parle, année par année : de la technique pure (2019-2022) au fondamental (2023-2026)', fontsize=10)
+    sauver(fig, 'strategie_concepts.png')
+
+    s = pd.read_csv('data/trades_simules.csv')
+    lab = {'objectif': 'objectif atteint', 'stop': 'stop touché', 'non déclenché': 'jamais déclenché',
+           'non déclenché (objectif atteint sans entrée)': 'jamais déclenché', 'ouvert après 20 jours': 'encore ouvert'}
+    a = s[s.statut == 'annoncé'].issue.map(lab).value_counts()
+    fig, axs = plt.subplots(1, 2, figsize=(10, 3.8))
+    axs[0].pie(s.statut.value_counts().values, labels=[f'{k} ({v})' for k, v in s.statut.value_counts().items()],
+               colors=[BLEU, ORANGE, GRIS], autopct='%d%%', textprops={'fontsize': 8})
+    axs[0].set_title('518 captures lues : quand ont-elles été publiées ?', fontsize=10)
+    axs[1].bar(a.index, a.values, color=[ROUGE if 'stop' in k else VERT if 'objectif' in k else GRIS for k in a.index])
+    axs[1].set_title('Les 350 trades annoncés à l\'avance', fontsize=10)
+    axs[1].tick_params(axis='x', labelsize=8)
+    sauver(fig, 'strategie_captures.png')
+
+    b = pd.read_csv('data/backtest_algo.csv')
+    m = pd.read_csv('data/backtest_mlq.csv')
+    e = pd.read_csv('data/epoques_trades.csv')
+    e = e[(e.statut == 'annoncé') & e.issue.isin(['objectif', 'stop'])]
+    lignes = [('Ses trades annoncés 2023-2026', e[e.epoque == '2023-2026'].r_net.mean(), len(e[e.epoque == '2023-2026']))]
+    for v, g in b.groupby('variante'):
+        lignes.append((f'Algo « prise de liquidité » : {v}', g.resultat_r.mean(), len(g)))
+    for nom, g in [('Algo MLQ : tous les jours', m), ('Algo MLQ : mercredi', m[m.jour == 2]),
+                   ('Algo MLQ : mardi-jeudi', m[m.jour.isin([1, 2, 3])]), ('Algo MLQ : + tendance', m[m.tendance == 1]),
+                   ('Algo MLQ : + fondamental', m[m.fond == 1])]:
+        lignes.append((nom, g.r.mean(), len(g)))
+    fig, ax = plt.subplots(figsize=(9, 4.4))
+    y = np.arange(len(lignes))
+    ax.barh(y, [l[1] for l in lignes], color=[VERT if l[1] > 0 else ROUGE for l in lignes])
+    for i, l in enumerate(lignes):
+        ax.text(max(l[1], 0) + 0.01, i, f'{l[1]:+.2f} R ({l[2]} trades)', va='center', ha='left', fontsize=8)
+    ax.set_yticks(y, [l[0] for l in lignes], fontsize=8)
+    ax.invert_yaxis()
+    ax.axvline(0, color='black', lw=0.8)
+    ax.set_xlim(-0.45, 0.75)
+    ax.set_xlabel('espérance par trade, spread déduit (R)')
+    ax.set_title('Ses règles appliquées par un robot perdent ; seuls ses trades choisis à la main gagnent', fontsize=10)
+    sauver(fig, 'strategie_algos.png')
+
+
+def fondamental():
+    import json
+    d = json.load(open('data/fondamental/resultats_tests.json'))
+    a = d['A_lecture_macro_amirou']
+    fig, axs = plt.subplots(1, 2, figsize=(10, 3.6))
+    ans = sorted(a['par_annee'])
+    axs[0].bar(ans, [a['par_annee'][k] * 100 for k in ans], color=BLEU)
+    axs[0].axhline(50, color='black', ls='--', lw=0.8)
+    axs[0].set_ylim(30, 70)
+    axs[0].set_title(f"Test A : ses avis macro justes à 5 jours ({a['taux_juste'] * 100:.1f} %, n={a['n']})", fontsize=10)
+    axs[0].set_ylabel('% d\'avis dans le bon sens')
+    dev = sorted(a['par_devise'], key=lambda k: -a['par_devise'][k][1])
+    axs[1].bar([f"{k}\n({a['par_devise'][k][1]})" for k in dev], [a['par_devise'][k][0] * 100 for k in dev], color=BLEU)
+    axs[1].axhline(50, color='black', ls='--', lw=0.8)
+    axs[1].set_ylim(30, 70)
+    axs[1].set_title('Par devise (nombre d\'avis)', fontsize=10)
+    sauver(fig, 'fond_test_a.png')
+
+    b = d['B_ses_trades_vs_fondamentaux']['univarie']
+    noms = {'surprise_30j': 'surprises\néco 30 j', 'taux': 'différentiel\nde taux', 'taux_90j': 'taux\n90 j',
+            'cot': 'COT', 'cot_4s': 'COT\n4 sem.', 'amirou_14j': 'son biais\nécrit'}
+    fig, axs = plt.subplots(1, 2, figsize=(10, 3.6))
+    x = np.arange(len(b))
+    axs[0].bar(x - 0.2, [v['avec'][2] for v in b.values()], 0.4, color=VERT, label='trade dans le sens du fondamental')
+    axs[0].bar(x + 0.2, [v['contre'][2] for v in b.values()], 0.4, color=ROUGE, label='trade contre')
+    axs[0].set_xticks(x, [noms[k] for k in b], fontsize=8)
+    axs[0].set_ylabel('R moyen')
+    axs[0].legend(fontsize=8)
+    axs[0].set_title('Test B : ses trades ne gagnent pas plus avec le fondamental', fontsize=10)
+    c = d['C_modele_fondamental_hebdo']['par_annee']
+    ans = sorted(c['gradient_boosting'])
+    axs[1].bar(np.arange(len(ans)) - 0.2, [c['logistique'][k]['gain_total_pct'] for k in ans], 0.4, color=GRIS, label='logistique')
+    axs[1].bar(np.arange(len(ans)) + 0.2, [c['gradient_boosting'][k]['gain_total_pct'] for k in ans], 0.4, color=BLEU,
+               label='gradient boosting')
+    axs[1].axhline(0, color='black', lw=0.8)
+    axs[1].set_xticks(range(len(ans)), ans)
+    axs[1].set_ylabel('gain de l\'année (% cumulés)')
+    axs[1].legend(fontsize=8)
+    axs[1].set_title('Test C : modèle purement fondamental, instable', fontsize=10)
+    sauver(fig, 'fond_tests_b_c.png')
+
+
+# ------------------------------------------------------------------ docs
+def docs():
+    fig, ax = plt.subplots(figsize=(9, 3.8))
+    lab = ['Audit Antigravity\n(167 gains / 41 pertes)', 'Messages du canal\n« TP » / « SL »', 'Registre texte\n(281 trades)',
+           'Captures : trades\nannoncés à l\'avance', 'Captures : trades\npubliés après coup', 'Flashcards\n(annoncé)']
+    val = [167 / 208 * 100, 54 / 126 * 100, 40, 40, 65, 77]
+    ax.bar(lab, val, color=[ROUGE, BLEU, BLEU, BLEU, ORANGE, ORANGE])
+    for i, v in enumerate(val):
+        ax.text(i, v + 1.5, f'{v:.0f} %', ha='center', fontsize=9)
+    ax.set_ylim(0, 100)
+    ax.set_ylabel('% de trades gagnants')
+    ax.tick_params(axis='x', labelsize=8)
+    ax.set_title('Taux de réussite : affiché (rouge, orange) contre mesuré (bleu)', fontsize=10)
+    sauver(fig, 'verification_taux.png')
+
+    cl = pd.read_csv('data/photos_classification.csv')
+    c = cl.categorie.value_counts()
+    tailles = {'trading': 274, 'conversation': 24, 'certificat': 18, 'autre': 86}
+    fig, axs = plt.subplots(1, 2, figsize=(9, 3.4))
+    coul = {'trading': BLEU, 'conversation': GRIS, 'certificat': ORANGE, 'autre': ROUGE}
+    axs[0].bar(c.index, c.values, color=[coul[k] for k in c.index])
+    axs[0].set_title('Photos du canal par catégorie', fontsize=10)
+    axs[1].bar(list(tailles), list(tailles.values()), color=[coul[k] for k in tailles])
+    axs[1].set_title('Taille (Mo) — orange et rouge : à supprimer', fontsize=10)
+    sauver(fig, 'stockage_photos.png')
+
+
 def main():
     os.makedirs(SORTIE, exist_ok=True)
     schema_englobante()
@@ -258,6 +528,11 @@ def main():
     flashcards()
     amirou()
     epoques()
+    septembres()
+    saisonnalite()
+    strategie()
+    fondamental()
+    docs()
 
 
 if __name__ == '__main__':
