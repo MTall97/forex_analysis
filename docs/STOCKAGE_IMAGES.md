@@ -1,5 +1,13 @@
 # Stockage des images : état et marche à suivre
 
+> **Mise à jour du 01/10/2026 (soir)**
+> - **Envoi vers S3 fait** : 4 190 fichiers, 389,5 Mo, dans `s3://images-forex-analyse` (région `us-east-1`). Le décompte a été vérifié dans le bucket :
+>   - `ChatExport_2026-10-01/photos/` : 2 899 photos de trading et de conversations, sans les miniatures ni les photos non liées au trading ;
+>   - `assets/tradingview/` : 1 243 captures et `index.csv` ;
+>   - `assets/trades/` : 47 captures.
+> - **Branche allégée** : ces images ne sont plus suivies par Git (8 405 fichiers retirés du suivi, sans suppression locale), et `.gitignore` empêche de les rajouter. Les 67 images citées dans les analyses restent dans le dépôt pour que les liens fonctionnent.
+> - **Reste à décider** : la purge de l'historique (étape 3 ci-dessous). Sans elle, un clone télécharge toujours les ≈ 480 Mo d'historique.
+
 ## État (01/10/2026)
 | Contenu | Taille | Fichiers | Remarque |
 |---|---|---|---|

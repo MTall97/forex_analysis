@@ -8,6 +8,9 @@ Ce qui est envoyé (les chemins du dépôt sont conservés comme clés S3) :
     assets/tradingview/             captures des liens TradingView
     assets/trades/                  captures citées dans les analyses
 
+Par défaut, les photos classées non liées au trading (data/photos_classification.csv)
+et les miniatures *_thumb.jpg ne sont pas envoyées.
+
 Les fichiers déjà présents dans le bucket avec la même taille ne sont pas renvoyés,
 on peut donc relancer le script sans risque.
 
@@ -38,6 +41,9 @@ def main():
     p.add_argument('--dossiers', nargs='+', default=DOSSIERS)
     p.add_argument('--workers', type=int, default=16)
     p.add_argument('--dry-run', action='store_true')
+    p.add_argument('--avec-non-trading', action='store_true',
+                   help="envoie aussi les photos classées « supprimee=oui » dans data/photos_classification.csv")
+    p.add_argument('--avec-miniatures', action='store_true', help="envoie aussi les fichiers *_thumb.jpg")
     args = p.parse_args()
 
     import boto3
@@ -49,12 +55,20 @@ def main():
             for o in page.get('Contents', []):
                 deja[o['Key']] = o['Size']
 
+    exclus = set()
+    if not args.avec_non_trading and os.path.exists('data/photos_classification.csv'):
+        import csv
+        with open('data/photos_classification.csv', encoding='utf-8') as fh:
+            exclus = {'ChatExport_2026-10-01/' + r['photo'] for r in csv.DictReader(fh) if r['supprimee'] == 'oui'}
+
     a_envoyer = []
     for d in args.dossiers:
         for racine, _, fichiers in os.walk(d):
             for f in fichiers:
                 chemin = os.path.join(racine, f)
                 cle = chemin.replace(os.sep, '/')
+                if cle in exclus or (f.endswith('_thumb.jpg') and not args.avec_miniatures):
+                    continue
                 if deja.get(cle) != os.path.getsize(chemin):
                     a_envoyer.append((chemin, cle))
 
