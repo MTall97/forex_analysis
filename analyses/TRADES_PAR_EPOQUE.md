@@ -21,6 +21,8 @@ Mélanger les deux revient à mesurer une stratégie qui n'a jamais existé.
 - **Les publications après coup doublent** (16 % → 29 %). Elles gagnent 70 % du temps dans les deux époques, contre 36-43 % pour les trades annoncés à l'avance : c'est l'effet vitrine.
 - **Un trade annoncé sur trois ne se déclenche pas** en 2023-2026 (ordres limites jamais atteints, ou objectif atteint sans passer par l'entrée). Copier ses signaux suppose d'exécuter exactement son ordre, pas d'entrer au marché.
 
+![Deux manières de trader](../assets/figures/epoques_style.png)
+
 ### Performance des trades annoncés et terminés
 | | 2021-2022 | 2023-2026 |
 |---|---|---|
@@ -44,6 +46,10 @@ Mélanger les deux revient à mesurer une stratégie qui n'a jamais existé.
 | 2024 | 28 | 32 % | −0,09 R | −0,05 R |
 | 2025 | 36 | 44 % | +0,40 R | +0,44 R |
 | 2026 | 31 | 48 % | +0,22 R | +0,26 R |
+
+![Résultat cumulé par époque](../assets/figures/epoques_courbes.png)
+
+La courbe de 2021-2022 monte plus vite, mais par marches (quelques gros gains plafonnés ici à 8 R) et avec de longs paliers de pertes. Celle de 2023-2026 est plus régulière.
 
 **Lecture** :
 - **2021-2022 : une loterie à gros lots.** Le +2,03 R moyen tient à une poignée de trades à 1:10-1:23 : sans eux, il reste +0,36 R. Deux trades sur trois perdent, la série de 14 stops d'affilée et la baisse de 31 % du compte (à 2 % de risque) le rendaient très dur à suivre.
@@ -96,6 +102,8 @@ Mélanger les deux revient à mesurer une stratégie qui n'a jamais existé.
 **En résumé** : depuis 2023, son meilleur profil est un **trade près d'un MLQ, avec un stop « normal » de 30 à 60 pips, publié avant l'ouverture de New York**, et en évitant GBPUSD. Le mercredi a le meilleur taux de réussite, mais l'écart avec les autres jours est faible.
 
 **Attention aux faux positifs** : une trentaine de découpages ont été testés par époque. À p = 0,05, on s'attend à 1 ou 2 « découvertes » par hasard. Seuls le MLQ, les stops de 15-30 pips et GBPUSD en 2023-2026 (et le mardi en 2021-2022) passent ce seuil. Ce sont des pistes à vérifier sur ses prochains trades, pas des règles établies.
+
+![Jours et MLQ selon l'époque](../assets/figures/amirou_jours_mlq.png)
 
 ## 4. Ce qui a changé d'une époque à l'autre
 

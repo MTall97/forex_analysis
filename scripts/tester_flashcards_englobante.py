@@ -27,7 +27,8 @@ Ce que fait le script :
 5. variante « + FVG » des cartes, avec trois définitions du fair value gap (voir analyser()) ; pour le
    FVG « suivant », connu seulement à la clôture du lendemain, on mesure aussi le trade pris à ce moment-là.
 
-Sortie : data/flashcards_englobante.csv (paire x sens x configuration) et tableau à l'écran.
+Sorties : data/flashcards_englobante.csv (paire x sens x configuration), data/flashcards_englobante_detail.csv
+(une ligne par bougie, avec l'issue du trade et sa durée en heures) et tableau à l'écran.
 """
 
 import os
@@ -64,12 +65,13 @@ def journalier(hh):
 def simuler(t, hh_h, hh_l, hh_c, s, entree, cible, stop, debut, fin):
     """Trade heure par heure entre debut et fin ; objectif et stop dans la même heure -> stop."""
     a, b = np.searchsorted(t, np.datetime64(debut)), np.searchsorted(t, np.datetime64(fin))
+    duree = lambda j: (t[j] - np.datetime64(debut)) / np.timedelta64(1, 'h') + 1  # noqa: E731
     for j in range(a, b):
         if (hh_l[j] <= stop) if s > 0 else (hh_h[j] >= stop):
-            return -abs(entree - stop)
+            return -abs(entree - stop), 'stop', duree(j)
         if (hh_h[j] >= cible) if s > 0 else (hh_l[j] <= cible):
-            return abs(cible - entree)
-    return (hh_c[b - 1] - entree) * s if b > a else 0.0
+            return abs(cible - entree), 'objectif', duree(j)
+    return ((hh_c[b - 1] - entree) * s if b > a else 0.0), 'temps', np.nan
 
 
 def analyser(p, hh):
@@ -102,7 +104,7 @@ def analyser(p, hh):
         stop = l[i] if s > 0 else h[i]
         touche = [(h[i + k] >= cible) if s > 0 else (l[i + k] <= cible) for k in range(1, HORIZON + 1)]
         jour = next((k + 1 for k, x in enumerate(touche) if x), None)
-        res = simuler(t, hh_h, hh_l, hh_c, s, c[i], cible, stop, fin_jour(i), fin_jour(i + HORIZON))
+        res, issue, heures = simuler(t, hh_h, hh_l, hh_c, s, c[i], cible, stop, fin_jour(i), fin_jour(i + HORIZON))
         risque = abs(c[i] - stop)
         # variante FVG « suivant » tradable : entrée à la clôture du jour i+1, si l'extrême n'est pas
         # déjà cassé et si le stop n'a pas été touché ; même fenêtre de 3 jours
@@ -110,10 +112,10 @@ def analyser(p, hh):
         stop_touche = (l[i + 1] <= stop) if s > 0 else (h[i + 1] >= stop)
         if fvg_suiv and not touche[0] and not stop_touche:
             risque2 = abs(c[i + 1] - stop)
-            res2 = simuler(t, hh_h, hh_l, hh_c, s, c[i + 1], cible, stop, fin_jour(i + 1), fin_jour(i + HORIZON))
+            res2 = simuler(t, hh_h, hh_l, hh_c, s, c[i + 1], cible, stop, fin_jour(i + 1), fin_jour(i + HORIZON))[0]
         lignes.append(dict(date=d.jour.iloc[i], sens=int(s), corps=int(corps), range=int(rng),
                            fvg_suivant=int(fvg_suiv), fvg_precedent=int(fvg_prec), fvg_horaire=int(fvg_h1),
-                           rupture=int(jour is not None), jour=jour,
+                           rupture=int(jour is not None), jour=jour, issue=issue, heures=heures,
                            gain_r=(res - spread) / risque if risque > 0 else np.nan,
                            gain_atr=(res - spread) / atr[i], gagnant=int(res - spread > 0),
                            tradable_j2=int(not np.isnan(res2)),
@@ -138,10 +140,11 @@ CONFIGS = {
 
 
 def main():
-    res = []
+    res, detail = [], []
     for p, (msg, cb, ch) in CARTES.items():
         hh = prix_yahoo._charger(p, '1h')
         a = analyser(p, hh)
+        detail.append(a.assign(paire=p))
         print(f"  {p} : {len(a)} jours ({a.date.min().date()} -> {a.date.max().date()}), "
               f"{a.corps.sum()} englobantes", flush=True)
         for s, nom, carte in [(-1, 'baissier', cb), (1, 'haussier', ch)]:
@@ -184,6 +187,14 @@ def main():
                       f"{np.average(y.gain_r_j2, weights=y.n_tradable_j2):+.3f} R "
                       f"{np.average(y.gain_atr_j2, weights=y.n_tradable_j2):+.3f} ATR")
         print(ligne)
+    det = pd.concat(detail)
+    det.to_csv('data/flashcards_englobante_detail.csv', index=False)
+    e = det[det.corps == 1]
+    for iss in ['objectif', 'stop']:
+        x = e[e.issue == iss].heures
+        print(f"\nDurée jusqu'à {iss} (englobantes, {len(x)} trades) : médiane {x.median():.0f} h, moyenne {x.mean():.1f} h, "
+              f"moins de 5 h {(x <= 5).mean() * 100:.0f} %, moins de 24 h {(x <= 24).mean() * 100:.0f} %")
+    print(f"Issues : {e.issue.value_counts(normalize=True).round(3).to_dict()}")
     cartes = df[(df.configuration == 'corps') & df.carte_pct.notna()]
     print(f"\nCartes : moyenne annoncée {cartes.carte_pct.mean():.1f} %, mesurée {cartes.rupture_3j_pct.mean():.1f} %")
 

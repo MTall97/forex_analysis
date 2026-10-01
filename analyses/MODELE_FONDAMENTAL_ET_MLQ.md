@@ -83,6 +83,8 @@ Les **MLQ (Major Large Quarters)** découpent des zones de 1 000 pips en quarts 
 
 Le mercredi revient souvent comme jour de placement des ordres (#1351, #1352).
 
+![Les MLQ sur l'EURUSD](../assets/figures/schema_mlq.png)
+
 ### Ce que montrent ses trades (246 annoncés et terminés)
 - **29 % des entrées sont à moins de 25 pips d'un MLQ**, contre 20 % pour une entrée tirée au hasard. L'habitude est réelle, mais elle ne concerne qu'un trade sur trois environ.
 - Près d'un MLQ : 72 trades, 44 % gagnants, +1,14 R. Loin : 174 trades, 39 %, +1,10 R.
@@ -97,6 +99,8 @@ Le mercredi revient souvent comme jour de placement des ordres (#1351, #1352).
 | Vendredi | 52 | 42 % | +1,34 R |
 
 Le jeudi faible confirme ce qu'il écrit lui-même (« le jeudi je touche souvent SL ou BE », #14517).
+
+![Jours et MLQ](../assets/figures/amirou_jours_mlq.png)
 
 ### Un algorithme MLQ mécanique
 Règle : pendant Londres et New York, une bougie horaire touche un MLQ (à 3 pips près) et clôture à 10 pips ou plus de l'autre côté ; entrée à la clôture dans le sens du rejet, stop à 5 pips au-delà de la mèche, objectif 2,5 R, spread déduit. 13 paires, décembre 2023 à septembre 2026.

@@ -17,6 +17,8 @@ De mai 2025 à juin 2026, Amirou publie des **flashcards** illustrées de person
 - **Rupture** : la carte donne la probabilité que le **plus bas de l'englobante soit cassé dans les 3 jours** (pour une haussière, le plus haut). C'est ce qu'il annonce par exemple sur USDCAD : « 80% de chance de voir ce low pris demain » (#13342).
 - Les cartes donnent aussi le jour de la rupture (« Jour 1 : 80-90 % ») et une variante « + FVG » (avec un *fair value gap*).
 
+![Schéma de la stratégie des flashcards](../assets/figures/schema_englobante.png)
+
 | Message | Date | Personnage | Paire | Baissier | Haussier |
 |---|---|---|---|---|---|
 | #13327 | 28/05/2025 | Minato | USDJPY | 70,97 % | 77,85 % |
@@ -50,6 +52,8 @@ Paire par paire, on retrouve ses ordres de grandeur, de 76 à 89 %. Les effets d
 
 **Ses cartes ne sont pas inventées.**
 
+![Cartes contre mesure](../assets/figures/flashcards_cartes_vs_mesure.png)
+
 ## 3. …mais ils ne veulent pas dire ce qu'on croit
 
 ### Une bougie quelconque fait presque aussi bien
@@ -77,6 +81,8 @@ On transforme la rupture en trade, comme sur ses cartes :
 
 **Le trade gagne 3 fois sur 4 mais ne rapporte rien.** L'objectif est tout proche (médiane de 10 à 35 pips hors or : la clôture d'une englobante est près de son extrême) et le stop est loin (40 à 130 pips). Un gain moyen de 0,25-0,35 R trois fois sur quatre compense à peine une perte de 1 R une fois sur quatre. C'est la confusion classique entre **taux de réussite** et **espérance**.
 
+![Taux de réussite contre espérance](../assets/figures/flashcards_reussite_vs_gain.png)
+
 Ce que les cartes ne disent pas :
 - la probabilité de rupture n'est jamais comparée à celle d'une bougie quelconque ;
 - elles ne disent pas où placer le stop, ni ce que rapporte la rupture face à ce qu'on risque.
@@ -99,12 +105,30 @@ C'est 1 à 3 points de plus que la version standard. Les cartes ne disent pas o�
 | « Précédent » : l'englobante est la 3e bougie du FVG | clôture de l'englobante | 8 | 87,5 % | 75,0 % | −0,20 R |
 | « Horaire » : un FVG en H1 pendant la journée de l'englobante | clôture de l'englobante | 1 544 | 81,1 % | 75,9 % | −0,01 R |
 
+![Pourquoi le FVG du lendemain triche](../assets/figures/schema_fvg.png)
+
 **Lecture** :
 - **Le FVG « suivant » donne des chiffres spectaculaires, mais il triche.** Pour qu'un FVG se forme, la bougie du lendemain doit s'éloigner franchement : dans plus de 80 % des cas, elle casse déjà l'extrême de l'englobante (seules 75 configurations sur 469 restent intactes). On mesure donc la rupture après l'avoir vue se produire. N'importe quelle bougie suivie d'un FVG fait d'ailleurs aussi bien (92,5 %).
 - **Au moment où le FVG est connu** (clôture du lendemain), il ne reste que 75 configurations sur 469 où l'extrême n'est pas encore cassé. La rupture n'y arrive plus que 57 fois sur 100, et le trade perd légèrement (−0,02 R).
 - **Les deux définitions utilisables au moment de l'englobante** (FVG « précédent » ou FVG horaire) n'apportent rien. Le FVG horaire donne +0 point, ce qui est proche des +1 à 3 points de ses cartes : c'est probablement ce que mesure sa variante.
 
 **Conclusion** : le « + FVG » n'améliore pas la stratégie. Soit il n'ajoute rien (FVG connu à temps), soit il ne peut pas être tradé (FVG connu trop tard).
+
+## 3 ter. Combien de temps avant le TP ?
+
+Sur les 1 763 englobantes (trade : entrée à la clôture, objectif = cassure de l'extrême, stop à l'autre extrême) :
+
+| Issue | Part | Délai médian | Délai moyen | En moins de 5 h | En moins de 24 h |
+|---|---|---|---|---|---|
+| **Objectif (TP)** | 75 % | **10 h** | **22 h** | 39 % | 71 % |
+| Stop (SL) | 22 % | 20 h | 36 h | 8 % | 55 % |
+| Ni l'un ni l'autre en 3 jours | 3 % | — | — | — | — |
+
+![Délai avant TP ou SL](../assets/figures/flashcards_duree.png)
+
+- **Le TP arrive vite** : la moitié des objectifs sont atteints dans les 10 heures, c'est-à-dire pendant la session asiatique ou le début de Londres du jour suivant. C'est cohérent avec les « 80-90 % des ruptures au jour 1 » de ses cartes.
+- La deuxième bosse, vers 50-60 heures, correspond aux englobantes du vendredi : la rupture arrive le lundi, après le week-end.
+- **Quand le trade dure, il tourne mal** : au-delà de 24 heures, les stops sont presque aussi nombreux que les objectifs.
 
 ## 4. Les trades qu'il a publiés avec ces cartes
 
