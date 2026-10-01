@@ -17,6 +17,7 @@ Résultats :
 - strategie_concepts.png, strategie_captures.png, strategie_algos.png ;
 - fond_test_a.png, fond_tests_b_c.png ; verification_taux.png, stockage_photos.png ;
 - algos_carry_momentum.png, algos_intraday_profil.png ;
+- masterclass_jours_extremes.png, masterclass_promesses.png, masterclass_combinaisons.png ;
 - guide_*.png : schémas des stratégies enseignées (analyses/GUIDE_STRATEGIES.md).
 
 Données : data/flashcards_englobante*.csv (scripts/tester_flashcards_englobante.py),
@@ -557,6 +558,70 @@ def autres_algos():
     sauver(fig, 'algos_intraday_profil.png')
 
 
+# ------------------------------------------------------------------ masterclass vérifiée
+def masterclass():
+    if not os.path.exists('data/masterclass_resultats.json'):
+        return
+    import json
+    r = json.load(open('data/masterclass_resultats.json'))
+    t1 = r['T1_jour_du_plus_haut_et_du_plus_bas']
+    fig, ax = plt.subplots(figsize=(8, 3.6))
+    jours = ['lundi', 'mardi', 'mercredi', 'jeudi', 'vendredi']
+    x = np.arange(5)
+    ax.bar(x - 0.2, [t1['plus_haut'][j] for j in jours], 0.4, color=ROUGE, label='plus haut de la semaine')
+    ax.bar(x + 0.2, [t1['plus_bas'][j] for j in jours], 0.4, color=VERT, label='plus bas de la semaine')
+    ax.axhline(20, color='black', ls='--', lw=0.8)
+    ax.text(4.45, 20.5, 'hasard : 20 %', fontsize=7, ha='right')
+    ax.set_xticks(x, jours)
+    ax.set_ylabel('% des semaines')
+    ax.legend(fontsize=8)
+    ax.set_title(f"Jour où se forme l'extrême de la semaine ({t1['plus_haut']['semaines']} semaines, 2012-2026) : "
+                 f"mardi + mercredi = {t1['plus_haut']['mardi_mercredi']:.0f} %, pas 70 %", fontsize=9)
+    sauver(fig, 'masterclass_jours_extremes.png')
+
+    t2 = r['T2_trois_barres']['par_paire_filtre']
+    t3 = r['T3_lundi_mardi_haussiers_mercredi']['5_dernieres_annees']
+    t4 = r['T4_mois_plus_bas_semaine_1']['AUDJPY']
+    t8 = r['T8_consolidation_expansion']['apres_consolidation']
+    lignes = [('Plus haut de la semaine\nmardi ou mercredi (#7820)', 70, t1['plus_haut']['mardi_mercredi'], 40)]
+    for p, promis in [('GBPUSD', 85), ('AUDJPY', 72.5)]:
+        if p in t2:
+            lignes.append((f'Trois barres {p} :\nobjectif atteint', promis, t2[p]['objectif_pct'], None))
+    lignes += [('Lundi-mardi haussiers, mercredi\n(#14577) : objectif 60 pips', 71, t3['objectif_pct'], 25),
+               ('AUDJPY avril : plus bas\nen 1re semaine (#14662)', 75, t4['avril_2015_2024_plus_bas_en_semaine_1_pct'], None),
+               ('Expansion après\nconsolidation', 100, t8['expansion_pct'], None)]
+    fig, ax = plt.subplots(figsize=(9, 0.8 + 0.75 * len(lignes)))
+    y = np.arange(len(lignes))[::-1]
+    ax.barh(y + 0.18, [l[1] for l in lignes], 0.36, color=GRIS, label='annoncé')
+    ax.barh(y - 0.18, [l[2] for l in lignes], 0.36, color=BLEU, label='mesuré (Dukascopy 2012-2026)')
+    for yi, l in zip(y, lignes):
+        ax.text(l[1] + 1, yi + 0.18, f'{l[1]:.0f} %', va='center', fontsize=7)
+        ax.text(l[2] + 1, yi - 0.18, f'{l[2]:.0f} %', va='center', fontsize=7, color=BLEU)
+        if l[3]:
+            ax.plot([l[3], l[3]], [yi - 0.4, yi + 0.4], color='black', ls=':', lw=1)
+    ax.set_yticks(y, [l[0] for l in lignes], fontsize=8)
+    ax.set_xlim(0, 112)
+    ax.set_xlabel('% des cas   (pointillé : ce que donnerait le hasard)')
+    ax.legend(fontsize=8, loc='lower right')
+    ax.set_title('Masterclass : pourcentages annoncés et pourcentages mesurés', fontsize=10)
+    sauver(fig, 'masterclass_promesses.png')
+
+    if os.path.exists('data/strategie_combinee.csv'):
+        c = pd.read_csv('data/strategie_combinee.csv')
+        c = c[c.gestion == '3 jours'].pivot_table(index='combinaison', columns='periode', values=['r_moyen', 'n'])
+        c = c.sort_values(('r_moyen', 'apprentissage 2012-2019'))
+        fig, ax = plt.subplots(figsize=(9, 5))
+        y = np.arange(len(c))
+        ax.barh(y + 0.2, c[('r_moyen', 'apprentissage 2012-2019')], 0.4, color=GRIS, label='2012-2019 (choix des règles)')
+        ax.barh(y - 0.2, c[('r_moyen', 'validation 2020-2026')], 0.4, color=BLEU, label='2020-2026 (validation)')
+        ax.set_yticks(y, [f"{i} ({int(c.loc[i, ('n', 'validation 2020-2026')])})" for i in c.index], fontsize=8)
+        ax.axvline(0, color='black', lw=0.8)
+        ax.set_xlabel('R moyen par trade, sortie au 3e jour, spread déduit   (entre parenthèses : trades 2020-2026)')
+        ax.legend(fontsize=8, loc='lower right')
+        ax.set_title('Combinaisons englobante / mercredi / MLQ / trois barres : apprentissage et validation', fontsize=10)
+        sauver(fig, 'masterclass_combinaisons.png')
+
+
 # ------------------------------------------------------------------ guide des stratégies (schémas)
 def _cadre(ax, titre, xlim, ylim):
     ax.set_xlim(*xlim)
@@ -762,6 +827,7 @@ def main():
     schema_bebe()
     schema_structure()
     schema_mlq_trade()
+    masterclass()
 
 
 if __name__ == '__main__':

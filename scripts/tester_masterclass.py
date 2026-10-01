@@ -212,7 +212,8 @@ def t4(jd):
 
 
 # ------------------------------------------------------------------ T5
-def t5(jd):
+def t5(jd, dec=0):
+    """dec = décalage des niveaux en pips (témoin : 125 = niveaux à mi-chemin entre deux MLQ)."""
     trades = []
     for p, d in jd.groupby('paire'):
         if p == 'XAUUSD':
@@ -222,23 +223,33 @@ def t5(jd):
         pas = 250 * pp
         dernier = -10
         for i in range(5, len(d) - 1):
-            # arrivée sur un MLQ : la bougie touche un niveau de 250 pips alors que la veille en était à plus de 50 pips
+            # arrivée sur un MLQ : premier niveau de 250 pips situé à plus de 50 pips de la clôture de la veille,
+            # touché (bord de la zone de ±25 pips) dans la journée. On prend le PREMIER niveau rencontré : prendre
+            # celui juste sous le plus haut du jour éliminerait les niveaux traversés et perdants.
+            c0 = d.close.iat[i - 1]
             for sens in (-1, 1):
-                niv = (np.floor(d.high.iat[i] / pas) * pas) if sens < 0 else (np.ceil(d.low.iat[i] / pas) * pas)
-                if sens < 0 and not (d.high.iat[i] >= niv - 25 * pp and d.close.iat[i - 1] < niv - 50 * pp):
-                    continue
-                if sens > 0 and not (d.low.iat[i] <= niv + 25 * pp and d.close.iat[i - 1] > niv + 50 * pp):
-                    continue
-                if i - dernier < 3:
+                if sens < 0:
+                    niv = (np.ceil((c0 + 50 * pp - dec * pp) / pas)) * pas + dec * pp
+                    touche = d.high.iat[i] >= niv - 25 * pp
+                else:
+                    niv = (np.floor((c0 - 50 * pp - dec * pp) / pas)) * pas + dec * pp
+                    touche = d.low.iat[i] <= niv + 25 * pp
+                if not touche or i - dernier < 3:
                     continue
                 dernier = i
-                entree = niv - sens * 25 * pp            # limite au bord de la zone de ±25 pips
-                sl = entree - sens * 50 * pp
+                entree = niv + sens * 25 * pp            # limite au bord de la zone, côté arrivée du prix
+                sl = entree - sens * 50 * pp             # stop de 50 pips = autre bord de la zone
                 tp = entree + sens * 250 * pp
-                r, issue = simuler_jours(d, i, min(i + 30, len(d) - 1), sens, entree, sl, tp, p)
-                trades.append(dict(test='T5', paire=p, date=str(d.date.iat[i].date()), sens=sens, entree=entree,
-                                   sl=sl, tp=tp, r=r, issue=issue))
+                # jour d'entrée : l'ordre des prix est inconnu, seul le stop compte (prudent)
+                if (sens < 0 and d.high.iat[i] >= sl) or (sens > 0 and d.low.iat[i] <= sl):
+                    r, issue = -1 - spread(p) / (50 * pp), 'stop'
+                else:
+                    r, issue = simuler_jours(d, i + 1, min(i + 30, len(d) - 1), sens, entree, sl, tp, p)
+                trades.append(dict(test='T5' if dec == 0 else f'T5_temoin_{dec}', paire=p, date=str(d.date.iat[i].date()),
+                                   sens=sens, entree=entree, sl=sl, tp=tp, r=r, issue=issue))
     t = pd.DataFrame(trades)
+    if dec:
+        return resume(trades), trades
     return {'tous': resume(trades), 'seuil_rentabilite_pct': 16.7,
             'par_annee': {str(a): resume(g.to_dict('records')) for a, g in t.groupby(pd.to_datetime(t.date).dt.year)}}, trades
 
@@ -246,6 +257,8 @@ def t5(jd):
 # ------------------------------------------------------------------ T7, T8
 def t7(jd):
     r = jd.pivot_table(index='date', columns='paire', values='close').pct_change()
+    if not {'AUDUSD', 'NZDUSD'} <= set(r.columns):
+        return 'AUDUSD ou NZDUSD absente de data/prix/journalier_dukascopy.csv'
     c = r[['AUDUSD', 'NZDUSD']].dropna()
     par_an = c.groupby(c.index.year).apply(lambda x: x.AUDUSD.corr(x.NZDUSD))
     return {'correlation_2010_2026': round(float(c.AUDUSD.corr(c.NZDUSD)), 3),
@@ -306,6 +319,8 @@ def main():
     res['T4_mois_plus_bas_semaine_1'] = t4(jd)
     res['T5_mlq_250'], tr = t5(jd)
     toutes += tr
+    res['T5_mlq_250']['temoin_niveaux_decales_125_pips'], _ = t5(jd, 125)
+    res['T5_mlq_250']['temoin_niveaux_decales_50_pips'], _ = t5(jd, 50)
     res['T6_bebe_abandonne'] = 'voir scripts/tester_bebe_abandonne.py (définition corrigée, horaire et journalier)'
     res['T7_correlation_audusd_nzdusd'] = t7(jd)
     res['T8_consolidation_expansion'] = t8(jd)

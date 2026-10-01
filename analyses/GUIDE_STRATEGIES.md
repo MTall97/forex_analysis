@@ -29,7 +29,10 @@
 
 Une variante est publiée dans le canal : « lundi haussier, mardi haussier et mercredi prend le high de mardi avant de tomber… 21 fois en 5 ans… 71 % avec un SL de 20 pips et un TP minimum de 60 pips » (#14577-#14579, #14631).
 
-**Test** : en cours sur les bougies journalières Dukascopy 2012-2026 ([`scripts/tester_masterclass.py`](../scripts/tester_masterclass.py), tests T2 et T3).
+**Test** ([`MASTERCLASS_VERIFIEE.md`](MASTERCLASS_VERIFIEE.md), Dukascopy 2012-2026, 4 paires) :
+- trois barres avec le filtre 60 pips : 111 trades, **24 % d'objectifs atteints**, −0,09 R ; GBPUSD 27 %, AUDJPY 23 % (et non 85 % et 70-75 %) ; moins de 2 setups par an et par paire ;
+- variante #14577 : 257 cas en 5 ans (et non 21), **21 %** d'objectifs, −0,18 R ;
+- **trois barres + MLQ** : +0,5 R par trade sur 94 trades, positif avant et après 2020. C'est la seule piste à suivre ([détail](MASTERCLASS_VERIFIEE.md#6-combiner-les-briques--englobante-mercredi-mlq-trois-barres)).
 
 ## 2. L'englobante (les flashcards « Naruto »)
 
@@ -70,7 +73,7 @@ On entre à la clôture de la bougie 3, dans le sens des bougies 1 et 3, avec un
 
 - La quatrième bougie part dans le sens annoncé **moins d'une fois sur deux** (46,5 %, contre 75 % annoncés). Une bougie suit la couleur de la précédente dans 48 % des cas : la figure ne fait pas mieux que le hasard.
 - Le trade perd après spread, comme le témoin.
-- Le test en journalier (Dukascopy 2012-2026) est en cours.
+- En journalier (Dukascopy 2012-2026, 4 paires) : 49,5 % (mèches) et 50,5 % (corps), contre 48,8 % pour le témoin ; pas d'avantage.
 
 ## 4. La structure du marché et la « stratégie de la Bombe »
 
@@ -120,15 +123,15 @@ On entre à la clôture de la bougie 3, dans le sens des bougies 1 et 3, avec un
 **Tests** ([`MODELE_FONDAMENTAL_ET_MLQ.md`](MODELE_FONDAMENTAL_ET_MLQ.md), [`TRADES_PAR_EPOQUE.md`](TRADES_PAR_EPOQUE.md)) :
 - **ses propres trades depuis 2023** : près d'un MLQ, 49 % de gagnants et +0,91 R, contre 40 % et +0,38 R loin d'un MLQ. C'est le meilleur signal trouvé dans ses trades ;
 - **un robot qui trade tous les rejets de MLQ** perd (−0,12 R par trade). Le niveau seul ne suffit pas : c'est son choix du moment qui compte ;
-- **la version ±25 / 50 / 250 pips** est en cours de test sur 2012-2026 (test T5).
+- **la version ±25 / 50 / 250 pips** (2012-2026, 2 336 trades) : 15,9 % d'objectifs pour 16,7 % nécessaires, −0,04 R ; des niveaux décalés de 125 pips font pareil (−0,07 R) ([test T5](MASTERCLASS_VERIFIEE.md#mlq-25--50--250-pips-t5)).
 
 ## Les autres règles de la masterclass, en bref
 
 | Règle | Source | Test |
 |---|---|---|
-| Le plus haut ou le plus bas de la semaine se forme le mardi ou le mercredi « 70 % du temps », donc ne pas trader le lundi et le vendredi | #7820, masterclass | en cours (T1) |
-| AUDJPY en avril : le plus bas du mois se forme en 1re semaine dans 75 % des cas | #14662, masterclass | en cours (T4) |
-| Combiner la devise la plus forte et la plus faible ; AUDUSD et NZDUSD corrélés « à 80 % » | masterclass | en cours (T7) |
+| Le plus haut ou le plus bas de la semaine se forme le mardi ou le mercredi « 70 % du temps », donc ne pas trader le lundi et le vendredi | #7820, masterclass | ❌ mardi + mercredi = **30 %** du temps ; les extrêmes se font surtout le lundi et le vendredi (T1) |
+| AUDJPY en avril : le plus bas du mois se forme en 1re semaine dans 75 % des cas | #14662, masterclass | ❌ **50 %** (2015-2024) ; 72 % seulement pour les mois qui finissent en hausse, ce qu'on ne sait qu'après coup (T4) |
+| Combiner la devise la plus forte et la plus faible ; AUDUSD et NZDUSD corrélés « à 80 % » | masterclass | en attente des données AUDUSD et NZDUSD (T7) |
 | Saisonnalité : EURUSD baissier en août et septembre, AUDJPY haussier en avril ; la calculer soi-même sur 10 et 5 ans | masterclass | [`TRADES_VS_SAISONNALITE.md`](TRADES_VS_SAISONNALITE.md) : biais réels mais faibles ; 6 prévisions justes sur 11 |
 | IBO (H1, 45-65 %) et CBO (H4, 65-85 %) : décélération, EMA 50, cassure, retour sur Fibonacci 0,50-0,62 | masterclass, #11431 | non testé : règles trop vagues pour être codées sans inventer des seuils |
 | Risque de 0,5 à 1 % par trade ; 4 trades par mois à 1:2 et 50 % de réussite = +2 % par mois | masterclass | calcul exact : 4 × (0,5 × 2 − 0,5 × 1) × 1 % = +2 % |
