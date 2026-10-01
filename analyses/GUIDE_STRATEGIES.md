@@ -52,17 +52,25 @@ Une variante est publiée dans le canal : « lundi haussier, mardi haussier et m
 
 ![Bébé abandonné](../assets/figures/guide_bebe_abandonne.png)
 
-**L'idée** : une figure en trois bougies.
-1. Une bougie directionnelle forte.
-2. Une petite bougie « interne », dont le corps tient dans celui de la précédente : le marché hésite.
-3. Une bougie qui « explose » : elle clôture franchement au-dessus ou au-dessous de la bougie centrale, dans le sens de la première bougie (continuation) ou en sens inverse (retournement).
+**La figure** (quatre bougies) :
+1. une bougie, par exemple verte ;
+2. le « bébé » : une bougie de couleur **opposée** (rouge), **entièrement englobée** à la fois par la bougie 1 et par la bougie 3 ;
+3. une bougie de la **même couleur** que la première (verte) ;
+4. la quatrième bougie « explose » dans le sens des bougies 1 et 3.
 
-On entre dans le sens de la troisième bougie. Il annonce **75 % de réussite**.
+On entre à la clôture de la bougie 3, dans le sens des bougies 1 et 3, avec un stop de l'autre côté de la figure. Il annonce **75 % de réussite**.
 
-**Test en horaire** (2024-2026, 13 paires, 2 167 figures, [`scripts/tester_bebe_abandonne.py`](../scripts/tester_bebe_abandonne.py)) :
-- 48 % de gagnants avec un objectif de 1 R ;
-- −0,13 R par trade après spread ;
-- exactement comme n'importe quelle cassure de bougie.
+**Test en horaire** (2024-2026, 13 paires, [`scripts/tester_bebe_abandonne.py`](../scripts/tester_bebe_abandonne.py)) :
+
+| | Figures | Bougie 4 dans le sens annoncé | Gain avec objectif 1 R | Sortie à la clôture de la bougie 4 |
+|---|---|---|---|---|
+| Bébé englobé mèches comprises | 2 578 | **46,5 %** | −0,17 R | −0,16 R |
+| Bébé englobé par les corps | 5 383 | 47,2 % | −0,17 R | −0,12 R |
+| Témoin : mêmes couleurs, sans englobement | 45 939 | 48,9 % | −0,17 R | −0,14 R |
+
+- La quatrième bougie part dans le sens annoncé **moins d'une fois sur deux** (46,5 %, contre 75 % annoncés). Une bougie suit la couleur de la précédente dans 48 % des cas : la figure ne fait pas mieux que le hasard.
+- Le trade perd après spread, comme le témoin.
+- Le test en journalier (Dukascopy 2012-2026) est en cours.
 
 ## 4. La structure du marché et la « stratégie de la Bombe »
 

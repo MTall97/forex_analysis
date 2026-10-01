@@ -36,6 +36,8 @@ Deux autres images du même style (#13238, #13239, 01/05/2025) donnent les stati
 
 Rappel : sur 16 cartes de chandeliers japonais du 08/04/2019 (#387 à #402), « Bullish/Bearish Engulfing » figure déjà parmi les figures enseignées. Ces anciennes cartes ne sont pas des flashcards Naruto.
 
+![Englobante baissière et haussière](../assets/figures/guide_englobante.png)
+
 ## 2. Ses pourcentages sont exacts…
 
 Configuration reconstruite sur 10 paires, de janvier 2024 à septembre 2026 :

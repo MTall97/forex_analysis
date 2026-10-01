@@ -85,6 +85,8 @@ Les **MLQ (Major Large Quarters)** découpent des zones de 1 000 pips en quarts 
 - #7783 : « D'un major larger quarter à un autre. 250 pips » ;
 - #8499 (1.67500), #11049 (192.500), #11642 (1.95000).
 
+![Le trade MLQ](../assets/figures/guide_mlq.png)
+
 Le mercredi revient souvent comme jour de placement des ordres (#1351, #1352).
 
 ![Les MLQ sur l'EURUSD](../assets/figures/schema_mlq.png)
