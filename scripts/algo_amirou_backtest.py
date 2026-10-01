@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Version algorithmique (simplifiée) de la méthode enseignée par Amirou, backtestée sur les
-bougies horaires Dukascopy (2021-2026).
+bougies horaires Yahoo Finance (mi-décembre 2023 -> septembre 2026, ~2,8 ans).
 
 Règles traduites du canal (voir analyses/STRATEGIE_ET_MODELE.md) :
 - biais du jour : tendance (clôture d'hier au-dessus / au-dessous de sa moyenne mobile 20 jours),
@@ -31,7 +31,7 @@ from datetime import datetime, timedelta
 from statistics import mean
 
 sys.path.insert(0, os.path.dirname(__file__))
-from simuler_trades_dukascopy import heures  # noqa: E402
+import prix_yahoo  # noqa: E402
 
 PAIRES = ['EURUSD', 'GBPUSD', 'USDJPY', 'AUDUSD', 'NZDUSD', 'USDCAD', 'EURJPY', 'GBPJPY',
           'AUDJPY', 'EURGBP', 'GBPAUD', 'EURAUD', 'EURNZD']
@@ -59,11 +59,9 @@ def biais_saisonnier():
 
 
 def bougies(p, debut, fin):
-    out, d = [], debut
-    while d <= fin:
-        out += heures(p, d.year, d.month)
-        d = (d + timedelta(days=32)).replace(day=1)
-    return sorted(out)
+    """Bougies horaires Yahoo (disponibles depuis mi-décembre 2023)."""
+    debut = max(debut, prix_yahoo.debut_horaire(p))
+    return sorted(prix_yahoo.bougies(p, debut, fin))
 
 
 def backtest(p, b, saison, filtre_saison, avec_be):
@@ -134,8 +132,8 @@ def resume(nom, t):
 
 def main():
     a = argparse.ArgumentParser()
-    a.add_argument('--debut', default='2021-01')
-    a.add_argument('--fin', default='2026-09')
+    a.add_argument('--debut', default='2023-12')
+    a.add_argument('--fin', default='2026-10')
     args = a.parse_args()
     debut = datetime.strptime(args.debut, '%Y-%m')
     fin = datetime.strptime(args.fin, '%Y-%m')

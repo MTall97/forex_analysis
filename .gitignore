@@ -7,3 +7,4 @@ __pycache__/
 ChatExport_2026-10-01/photos/
 assets/tradingview/*/*.png
 data/prix/dukascopy/
+data/prix/yahoo/
