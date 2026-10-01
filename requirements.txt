@@ -1,0 +1,6 @@
+# Générateur de saisonnalité (forex_seasonality_generator.py)
+# Les scripts de scripts/ n'utilisent que la bibliothèque standard Python 3.9+.
+numpy
+pandas
+matplotlib
+yfinance

@@ -1,3 +1,15 @@
+> **Mise à jour du 01/10/2026 — à lire avant ce rapport.**
+> Ce rapport a été rédigé par **Antigravity**, l'agent IA utilisé au démarrage du projet. Il est conservé sans modification ci-dessous. Depuis :
+> - **Ce qui a été ajouté** : l'export HTML complet du canal (jusqu'au 01/10/2026, avec les photos), converti en [`data/telegram_messages.jsonl`](data/telegram_messages.jsonl) ; un script reproductible d'extraction des trades ; une vérification des trades de septembre 2019–2026 ([`analyses/TRADES_SEPTEMBRE.md`](analyses/TRADES_SEPTEMBRE.md)).
+> - **Ce qui est corrigé** (détail dans [`docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md`](docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md)) :
+>   - les PDF sont produits avec **matplotlib** (`PdfPages`), pas avec ReportLab ni seaborn ;
+>   - le moteur ne calcule **pas** d'analyse par semaine du mois : la « règle de la semaine 1 » vient des messages d'Amirou, pas des données du projet ;
+>   - le canal commence le 14/03/2019, pas en septembre 2019 ;
+>   - les chemins `L:\…` et `C:\Users\dani\.gemini\antigravity\…` de la section 6 sont ceux de la machine d'origine ; les scripts d'extraction d'Antigravity n'ont jamais été ajoutés au dépôt. Les équivalents reproductibles sont dans [`scripts/`](scripts/).
+> - **Point d'entrée du projet** : [`README.md`](README.md).
+
+---
+
 # 📑 RAPPORT GLOBAL DU PROJET : ANALYSE DE SAISONNALITÉ FOREX & COMMODITIES (2019 – 2026)
 
 ---
