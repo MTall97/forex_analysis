@@ -48,6 +48,7 @@ Résumé de ce qui a été fait sur le dépôt `forex_analysis`, dans l'ordre de
 - `analyses/TRADES_VS_SAISONNALITE.md` : 281 trades du registre confrontés à la saisonnalité, causes des ratés, mois atypiques.
 - `analyses/STRATEGIE_ET_MODELE.md` : 518 trades lus sur les captures et rejoués sur les cours ; algorithme et modèle d'IA de copie.
 - `analyses/MODELE_FONDAMENTAL_ET_MLQ.md` : calendrier économique, COT, taux, biais écrit d'Amirou ; habitudes MLQ (niveaux de 250 pips) et mercredi ; évolution de son style de 2021 à 2026.
+- `analyses/TRADES_PAR_EPOQUE.md` : ses trades analysés séparément pour 2021-2022 et 2023-2026.
 
 ## Ce qui reste à faire (de votre côté)
 1. `python scripts/supprimer_photos_non_trading.py --confirmer`, puis commit et push.
