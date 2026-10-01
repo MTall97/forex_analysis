@@ -1,5 +1,5 @@
 > **Mise à jour du 01/10/2026 — à lire avant cet audit.**
-> Document rédigé par **Antigravity**, conservé sans modification. **Ses statistiques (167 gains / 41 pertes / 134 BE) ne sont pas reproductibles.** L'extraction reproductible trouve 54 messages « TP touché » contre 72 « SL touché » ; la vérification manuelle des septembres donne environ 28 gains pour 14 à 16 pertes.
+> Document rédigé par **Antigravity**, conservé sans modification. **Ses statistiques (167 gains / 41 pertes / 134 BE) ne sont pas reproductibles.** L'extraction reproductible trouve 54 messages « TP touché » contre 72 « SL touché » ; la vérification manuelle des septembres donne environ 29 gains pour 15 à 16 pertes.
 > Plusieurs « trades gagnants » n'étaient pas des trades : les cas 2 et 4 sont des commentaires, pas des positions. Certaines citations ont aussi été complétées.
 > Voir [`docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md`](docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md) et [`analyses/TRADES_SEPTEMBRE.md`](analyses/TRADES_SEPTEMBRE.md).
 

@@ -12,7 +12,7 @@
 |---|---|---|---|---|---|---|---|
 | 2019 | 23 | 7 | 9 | 2 | 0 | 5 | Seule année où les signaux sont donnés en direct avec suivi systématique ; plus de pertes que de gains. |
 | 2020 | 10 | 1 | 1 (−3 948 $) | 1 | 1 | 6 | Presque tout est publié en « case study », après coup. |
-| 2021 | 6 | 1 | 0–1 | 0–1 | 1 | 3 | Résultats montrés via des liens TradingView, après coup. |
+| 2021 | 6 | 2 | 1 | 0 | 1 | 2 | Résultats montrés via TradingView, souvent après coup ; un TP redessiné (EURJPY). |
 | 2022 | 6 | 1 | 1 | 0 | 1 | 3 | Mois dominé par la promotion d'OmegaPro. |
 | 2023 | 7 | 3 (dont +~2 200 $ flottants) | 0 | 1 | 2 | 1 | Bonne lecture du dollar et du CAD. |
 | 2024 | 10 | 2 (dont +6 000 $ USDJPY) | 1–2 | 1 | 4 | 1–2 | Beaucoup de trades « ratés de quelques pips ». |
@@ -20,7 +20,7 @@
 | 2026 | 24 | 10 | 2 | 2 | 5 | 3 | Annonce de « 10 000 $ minimum » ; ~2 500 $ visibles sur les captures. |
 
 ### Ce qu'il faut retenir
-1. **Le taux de réussite réel est bien plus bas que ce qu'affirmait l'audit d'Antigravity.** Ce dernier comptait 167 gains pour 41 pertes, sans méthode reproductible. Sur les septembres vérifiés à la main, on compte environ 28 gains, dont beaucoup seulement flottants ou non chiffrés, pour 14 à 16 pertes. Sur tout le canal, le script [`scripts/extract_trade_events.py`](../scripts/extract_trade_events.py) trouve **54 messages « TP touché » contre 72 messages « SL touché »**, soit 43 % de TP parmi les issues annoncées (détail plus bas).
+1. **Le taux de réussite réel est bien plus bas que ce qu'affirmait l'audit d'Antigravity.** Ce dernier comptait 167 gains pour 41 pertes, sans méthode reproductible. Sur les septembres vérifiés à la main, on compte environ 29 gains, dont beaucoup seulement flottants ou non chiffrés, pour 15 à 16 pertes. Sur tout le canal, le script [`scripts/extract_trade_events.py`](../scripts/extract_trade_events.py) trouve **54 messages « TP touché » contre 72 messages « SL touché »**, soit 43 % de TP parmi les issues annoncées (détail plus bas).
 2. **Les pertes sont sous-déclarées.** Exemple : la vente EURGBP du 16/09/2026 (−157,66 $) n'apparaît que dans une capture d'historique. À partir de 2020, les résultats sont souvent publiés après coup, ou réservés au programme payant puis à SignalX.
 3. **La lecture macro est souvent juste.** C'est le point fort vérifiable : EURUSD et la BCE (2022), le dollar et le CAD (2023), USDJPY (2024), EURUSD après le NFP (2025), le dollar haussier et toutes les banques centrales de septembre 2026.
 4. **Beaucoup de trades ne sont jamais déclenchés.** Le canal les présente comme des preuves de précision (« raté de 3 pips », « TP touché sans être déclenché »). Pour un suiveur, ces trades valent zéro.
@@ -126,13 +126,13 @@ Particularité : les trades sont montrés via des liens TradingView (images non 
 | Date | Paire | Sens | Annonce (msg) | Issue documentée (msg) | Verdict |
 |---|---|---|---|---|---|
 | 01→03/09 | XAUUSD | – | « gold view » #4441 | « setup raté » #4446 ; rejet comme prévu mais non tradé #4450 | ⏸ Non déclenché |
-| 25/08→09/09 | EURJPY | Vente (swing) | lien du 25/08 re-transféré #4478 | fermé après la BCE, « 190 pips avec un SL de 8 pips », « 1:23 RR » #4468–#4476 | ⚠️ Gain revendiqué, à vérifier sur l'image TradingView du 25/08 |
-| 13→15/09 | AUDCAD | Vente | aucune annonce (lien publié après) | « baisse depuis lundi » #4495 | ⚠️ Après coup |
-| 13→15/09 | NZDUSD | Achat | aucune annonce | « 1:20 RR » #4500 | ⚠️ Après coup |
+| 25/08→09/09 | EURJPY | Achat 128.797 / SL 128.757 / TP 129.270 (plan du 25/08, SL de 4 pips, R ≈ 12) | lien du 25/08 #4415, re-transféré #4478 | Le 09/09 : « 190 pips avec un SL de 8 pips », « 1:23 RR » #4468–#4476. Mais les captures du 09/09 montrent un plan **redessiné** (entrée 128.778, SL 128.697, TP 130.682 placé sur le plus haut atteint). Le TP d'origine (+47 pips) a bien été dépassé. | ✅ Gain probable d'environ +47 pips selon le plan initial ; ⚠️ les « 190 pips » viennent d'un TP redessiné après coup | [TV 25/08](../assets/tradingview/2021-08/2021-08-25_13h18_msg4415_gTzbQl7k.png), [TV 09/09](../assets/tradingview/2021-09/2021-09-09_13h24_msg4475_o9uPE6Bs.png) |
+| 13→15/09 | AUDCAD | Vente 0.92963 / 0.93013 / 0.92692 | aucune annonce (lien publié après) | 0.92698 sur la capture, soit au TP | ⚠️ Après coup (TP atteint d'après la capture) | [TV](../assets/tradingview/2021-09/2021-09-15_14h32_msg4484_E085XGoU.png) |
+| 13→15/09 | NZDUSD | Achat 0.70995 / 0.70973 / 0.71456 (SL de 2,2 pips) | aucune annonce | TP atteint le 14/09 d'après la capture ; « 1:20 RR » #4500 | ⚠️ Après coup (TP atteint d'après la capture) | [TV](../assets/tradingview/2021-09/2021-09-15_19h49_msg4498_sSzQMGsU.png) |
 | 22→23/09 | AUDUSD | Vente (FOMC + Evergrande) | #4513–#4516 (annoncé avant la Fed) | « floating 1:4RR » #4526 | ✅ Gain flottant (issue finale non donnée) |
-| ~30/09 | ? (probablement XAUUSD) | – | – | « ça m'a fait sortir quand je dormais » #4545 | ❌/➖ Sortie (SL ou BE), non précisé |
+| 29→30/09 | XAUUSD | Achat 1724.119 / 1723.156 (stop d'environ 1 $) / 1760.416 | publié après coup #4544 | SL touché le 30/09 vers 06h, puis le prix a atteint le TP : « ça m'a fait sortir quand je dormais » #4545 | ❌ Perte | [TV](../assets/tradingview/2021-09/2021-09-30_18h34_msg4544_Itm2AHOs.png) |
 
-Bilan : 1 seul trade annoncé à l'avance avec un résultat (AUDUSD, gain flottant) · 3 gains revendiqués après coup · 1 sortie non précisée.
+Bilan : 1 trade annoncé à l'avance avec un résultat (AUDUSD, gain flottant) · 1 gain probable (EURJPY, mais revendiqué au-delà de son plan) · 2 gains publiés après coup · **1 perte** (or, SL d'environ 1 $ touché avant la hausse).
 
 ### 2022
 Contexte : une grande partie du mois est consacrée à la promotion d'**OmegaPro** (#6248, #6296–#6300, #6322–#6325). En juillet 2025, le Département de la Justice américain a inculpé son cofondateur et un promoteur pour une fraude présumée de type Ponzi de plus de 650 M$ ([CoinDesk](https://coindesk.com/policy/2025/07/09/omegapro-founder-and-co-conspirator-charged-by-us-doj-in-650m-ponzi-scheme), [TRM Labs](https://www.trmlabs.com/resources/blog/doj-charges-omegapro-founder-and-promoter-in-650m-global-fraud-scheme)). Plusieurs « trades » du mois sont ceux de membres (messages transférés), pas d'Amirou.
@@ -143,7 +143,7 @@ Contexte : une grande partie du mois est consacrée à la promotion d'**OmegaPro
 | 20→21/09 | EURUSD | Vente limite (11 lots) | capture « avant le trade » #6360 | « a refusé de toucher mon point d'entrée » #6358, #6362 | ⏸ Non déclenché |
 | 18→21/09 | NZDUSD | – | session du dimanche (non publiée dans le canal) | « 1/7 tp hit » d'un membre #6372 | ⚠️ Résultat d'un membre, pas d'annonce publique |
 | 22/09 | EURUSD / EURJPY (jour de l'intervention BoJ) | – | « tout était dans la session du dimanche » (non publiée) | « perfection absolue » #6378–#6385 (vidéos/liens après coup) | ⚠️ Après coup |
-| 26→27/09 | AUDJPY | Vente | #6417 | « Audjpy SL touché » #6427 | ❌ Perte |
+| 26→27/09 | AUDJPY | Vente | #6417 | « Audjpy SL touché » #6427 (plan : vente limite 93.623 / 93.824 / 91.553) | ❌ Perte | [TV](../assets/tradingview/2022-09/2022-09-26_18h45_msg6416_KDBL8bP9.png) |
 
 Bilan : 1 analyse annoncée et juste (EURUSD/BCE) · 1 perte (AUDJPY) · 1 non déclenché · le reste après coup ou délégué aux membres.
 
@@ -168,7 +168,7 @@ Bilan : 3 gains (direction juste sur le CAD via GBPCAD, et 2 ventes EURUSD avec 
 | 05→06/09 | AUDNZD | Vente limite | #11823–#11827 | « pas eu d'entrée, annulez » #11828 (à 7 pips) | ⏸ Non déclenché |
 | 10→11/09 | EURNZD | Vente | #11841 | « fermé à BE » #11853 ; ré-entrée vers 1.8000 puis « fermé à BE » #11863 | ➖ BE (×2) |
 | 10/09 | AUDNZD | – | « avorté à la dernière minute » #11872 | – | ⏸ Non pris |
-| 12/09 | GBP (vers 1.3000) | Vente | #11882–#11885 | « Dommage, SL » #11891 | ❌ Perte |
+| 12/09 | GBP (vers 1.3000) | Vente | #11882–#11885 | « Dommage, SL » #11891 : vente limite 1.30724 / 1.30976 / 1.29960 ; le prix monte à 1.31006, au-dessus du SL | ❌ Perte (confirmée par la capture) | [TV](../assets/tradingview/2024-09/2024-09-12_17h57_msg11890_viA0TIut.png) |
 | 17/09 | EURNZD | Vente | #11927 (« moins de risque, j'ai déjà pris un SL ») | – | ❌ (SL antérieur mentionné) / ❔ |
 | 17→18/09 | EURNZD | Vente limite 1.79997, SL 1.80194, TP 1.78970 | – | « raté un 1:6 RR à cause de 5 pips… 12 000 $ raté » #11932 (plus haut ≈ 1.7990 sur la capture) | ⏸ Non déclenché |
 | 18/09 | GBPAUD | – | #11941 | « le spread a refusé d'exécuter mon trade » #11955 | ⏸ Non exécuté |
@@ -180,7 +180,7 @@ Bilan : 1 gros gain annoncé à l'avance (USDJPY) · 1–2 pertes · 2 BE · 4 n
 Contexte : lancement de SignalX, le service de signaux payant (#13881). À partir du 18/09, les trades « en temps réel » sont réservés au groupe payant ; le canal public reçoit surtout les résultats.
 | Date | Paire | Sens | Annonce (msg) | Issue documentée (msg) | Verdict |
 |---|---|---|---|---|---|
-| 05→16/09 | EURUSD | Achat (swing) | après le NFP #13798 ; « le low d'hier sera le low du mois » #13803 ; « je maintiens » #13816 | « EURUSD est arrivé à bon port » #13835 | ✅ Gain (non chiffré) |
+| 05→16/09 | EURUSD | Achat 1.17306 / 1.16575 / 1.19593 (plan du 12/09, swing daily) | après le NFP #13798 ; « le low d'hier sera le low du mois » #13803 ; #13808 ; « je maintiens » #13816 | « EURUSD est arrivé à bon port » #13835, illustré par une capture où le **TP a été déplacé à 1.18722, c'est-à-dire au prix du moment** ; le TP d'origine (1.19593) n'est pas atteint | ✅ Gain flottant (≈ +141 pips) ; ⚠️ TP redessiné | [TV 12/09](../assets/tradingview/2025-09/2025-09-12_10h28_msg13808_eVclllNQ.png), [TV 16/09](../assets/tradingview/2025-09/2025-09-16_23h30_msg13836_WVsX2BUl.png) |
 | 17/09 | CADJPY | Vente | « let's goo sur CADJPY » #13843 | « mettez-vous à breakeven » #13856 | ➖ BE |
 | 17/09 | GBPCAD | – | #13850–#13851 | « quelques pips seulement et ça aurait été un bon trade » #13855 | ⏸ Non déclenché |
 | 16→17/09 | EURAUD | – | #13834, zone d'entrée #13858–#13861 | aucune issue | ❔ Non documenté |
@@ -217,3 +217,16 @@ Le script [`scripts/extract_trade_events.py`](../scripts/extract_trade_events.py
 - BoJ, 18/09/2026 : [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-18/boj-hikes-rates-at-fastest-pace-since-1990-as-inflation-persists), [Japan Times](https://www.japantimes.co.jp/business/2026/09/18/economy/boj-meeting-september/)
 - RBA, 29/09/2026 : [RBA](https://www.rba.gov.au/media-releases/2026/mr-26-27.html), [ABC News](https://www.abc.net.au/news/2026-09-29/asx-markets-business-news-live-updates-tuesday-29-september/107206212)
 - OmegaPro : [CoinDesk](https://coindesk.com/policy/2025/07/09/omegapro-founder-and-co-conspirator-charged-by-us-doj-in-650m-ponzi-scheme), [TRM Labs](https://www.trmlabs.com/resources/blog/doj-charges-omegapro-founder-and-promoter-in-650m-global-fraud-scheme)
+
+## Ce qu'apportent les captures TradingView de 2021 à 2025
+
+Les 1 243 captures récupérées (voir [`assets/tradingview/`](../assets/tradingview/)) ont servi à vérifier les septembres 2021 à 2025. Elles confirment la plupart des issues citées dans le canal, et en corrigent trois :
+
+1. **Des objectifs (TP) redessinés après coup pour gonfler les gains.**
+   - **EURJPY 2021** : le plan du 25/08 visait +47 pips ; le 09/09, le TP est replacé sur le plus haut atteint (≈ +190 pips), et c'est ce chiffre qui est annoncé.
+   - **EURUSD 2025** : TP d'origine à 1.19593 ; le 16/09, il est déplacé au prix du moment (1.18722) pour illustrer « arrivé à bon port ».
+   - **GBPCAD 2023** : TP d'origine 1.70026 le 01/09, puis 1.70462 sur la capture du 06/09, au niveau du plus bas atteint ([TV 01/09](../assets/tradingview/2023-09/2023-09-01_12h45_msg9164_nfgyWp8i.png), [TV 06/09](../assets/tradingview/2023-09/2023-09-06_14h14_msg9235_QtjuV30n.png)).
+2. **Une perte sur l'or (septembre 2021) que le texte du canal laissait ambiguë.** Le stop était d'environ 1 $ sous l'entrée (1724.119 / 1723.156) : il a été touché avant que le prix ne monte jusqu'au TP.
+3. **Des stops très serrés**, qui expliquent les ratios de 1:12 à 1:21 mis en avant : 2,2 pips sur NZDUSD 2021, 4 pips sur EURJPY 2021, 3,4 pips sur AUDUSD 2021. Ce sont des trades où un faible écart d'exécution (spread, glissement) suffit à faire sortir la position.
+
+Les autres niveaux (EURUSD 2022 et 2023, AUDJPY 2022, GBPJPY 2023, EURNZD, GBPUSD et GBPAUD 2024, CADJPY et GBPCAD 2025) correspondent à ce qui est écrit dans le canal.
