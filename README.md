@@ -21,7 +21,7 @@ Le dépôt réunit trois choses :
 | [`analyses/STRATEGIE_ET_MODELE.md`](analyses/STRATEGIE_ET_MODELE.md) | **Stratégie d'Amirou, performance mesurée sur 518 trades rejoués, algorithme et modèle d'IA de copie** |
 | [`analyses/MODELE_FONDAMENTAL_ET_MLQ.md`](analyses/MODELE_FONDAMENTAL_ET_MLQ.md) | **Version fondamentale (calendrier, COT, taux, biais écrit d'Amirou), habitudes MLQ et mercredi, évolution de son style 2021-2026** |
 | [`analyses/TRADES_PAR_EPOQUE.md`](analyses/TRADES_PAR_EPOQUE.md) | **Ses trades analysés séparément pour 2021-2022 (stops serrés, grands ratios) et 2023-2026 (fondamental, MLQ, ratios 1:2-1:3)** |
-| [`analyses/MASTERCLASS_VERIFIEE.md`](analyses/MASTERCLASS_VERIFIEE.md) | **La masterclass vérifiée sur 2012-2026 : 70 %, 75 %, 85 % annoncés contre 20 à 50 % mesurés ; une seule piste (trois barres + MLQ)** |
+| [`analyses/MASTERCLASS_VERIFIEE.md`](analyses/MASTERCLASS_VERIFIEE.md) | **La masterclass vérifiée sur 2012-2026 : 70 %, 75 %, 85 % annoncés contre 20 à 50 % mesurés ; une seule piste, qui s'affaiblit hors échantillon (trois barres + MLQ)** |
 | [`analyses/STRATEGIES_PAR_PAIRE.md`](analyses/STRATEGIES_PAR_PAIRE.md) | **Chaque stratégie paire par paire et année par année, avec les dates de toutes les occurrences** |
 | [`analyses/GUIDE_STRATEGIES.md`](analyses/GUIDE_STRATEGIES.md) | **Guide illustré : lundi-mardi-mercredi, englobante, bébé abandonné, structure du marché et Bombe, MLQ** |
 | [`analyses/FLASHCARDS_ENGLOBANTE.md`](analyses/FLASHCARDS_ENGLOBANTE.md) | **Les flashcards « Naruto » (2025-2026) : la stratégie de l'englobante et ses « probabilités de rupture » vérifiées** |
