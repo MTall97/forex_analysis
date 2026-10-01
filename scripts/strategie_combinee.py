@@ -18,7 +18,8 @@ Trade : entrée à la clôture de la bougie signal, stop à l'autre extrême de 
 objectif 1 R, 2 R ou sortie à la clôture du 3e jour ; bougies journalières Dukascopy ; si l'objectif et
 le stop sont touchés le même jour, on compte le stop ; spread déduit.
 
-Sorties : data/strategie_combinee.csv (une ligne par combinaison x gestion x période), résumé écran.
+Sorties : data/strategie_combinee.csv (une ligne par combinaison x gestion x période),
+data/strategie_combinee_trades.csv (chaque occurrence datée avec ses résultats), résumé écran.
 """
 
 import os
@@ -95,6 +96,7 @@ def main():
     jd = jd[jd.date >= '2012-01-01']
     x = pd.DataFrame([l for p, d in jd.groupby('paire') for l in signaux(p, d.reset_index(drop=True))])
     x['periode'] = np.where(x.date.dt.year <= 2019, 'apprentissage 2012-2019', 'validation 2020-2026')
+    x[x.E | x.M | x.T].to_csv('data/strategie_combinee_trades.csv', index=False)   # occurrences datées
     res = []
     for nom, f in COMBINAISONS.items():
         sel = x[f(x)]
