@@ -25,6 +25,8 @@
 | Saisonnalité | 0 | 0 | 0 | 0 | **15** | 7 | 5 | 4 |
 | Playbook / statistiques | 20 | 13 | 6 | 10 | 51 | **56** | 48 | 27 |
 
+![Concepts par année](../assets/figures/strategie_concepts.png)
+
 **Trois époques** :
 - **2019-2020** : analyse technique pure (supports et résistances, figures, offre et demande) et signaux « sell now at market price ».
 - **2021-2022** : Wyckoff, smart money et quarter points, avec des stops de quelques pips et des ratios de 1:10 à 1:20.
@@ -56,6 +58,8 @@
 | ↳ encore ouverts après 20 jours | 2 |
 | **Publiés après coup** (entrée déjà touchée, ou objectif déjà dépassé, au moment de la publication) | 126 |
 | Lecture incohérente avec le prix (prix déjà au-delà du stop) | 42 |
+
+![Statut des captures](../assets/figures/strategie_captures.png)
 
 **Sur les 246 trades annoncés et terminés : 40 % d'objectifs atteints.** Le registre texte du canal donnait le même 40 %, ce qui valide les deux méthodes.
 
@@ -106,6 +110,8 @@ J'ai traduit ses règles écrites en algorithme : prise de liquidité sur le plu
 | Tendance + BE à 1 R | 2 393 | 19 % | −0,17 R | −412 R |
 | Tendance + saisonnalité | 714 | 28 % | −0,16 R | −117 R |
 | Tendance + saisonnalité + BE | 714 | 18 % | −0,21 R | −147 R |
+
+![Algorithmes contre ses trades](../assets/figures/strategie_algos.png)
 
 **Les règles écrites, appliquées mécaniquement, perdent de l'argent.** L'avantage d'Amirou ne tient donc pas à la figure technique elle-même. Il vient de ce qui ne s'écrit pas en règle : le choix du jour (quelle annonce, quel sentiment), de la paire et du niveau.
 

@@ -27,6 +27,8 @@ Classement fait à la main sur des planches de miniatures numérotées. Le résu
 | certificat | 153 | 18 Mo | Certificats de prop firms des élèves (FTMO, MyForexFunds, AQRE, TFT…) | à supprimer |
 | autre | 576 | 86 Mo | Photos personnelles, voitures, voyages, événements, publicités, mèmes, publications Facebook/Instagram | à supprimer |
 
+![Photos par catégorie](../assets/figures/stockage_photos.png)
+
 Supprimer les catégories `certificat` et `autre` libère **104 Mo**, soit 1 458 fichiers en comptant les miniatures. Le script est prêt :
 ```bash
 python scripts/supprimer_photos_non_trading.py              # simulation : liste ce qui serait supprimé
