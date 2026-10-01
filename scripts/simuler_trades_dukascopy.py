@@ -32,12 +32,14 @@ Sortie : data/trades_simules.csv
 import csv
 import lzma
 import os
+import socket
 import struct
 import time
 import urllib.request
 from datetime import datetime, timedelta
 
 CACHE = 'data/prix/dukascopy'
+socket.setdefaulttimeout(30)
 BASE = 'https://datafeed.dukascopy.com/datafeed'
 
 
