@@ -16,7 +16,7 @@ Résumé de ce qui a été fait sur le dépôt `forex_analysis`, dans l'ordre de
 
 ## 3. Vérification des faits
 - **Rapports d'Antigravity** (`docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md`) : chaque affirmation a été confrontée aux messages, aux PDF et au code.
-  - Les rapports sont conservés tels quels, avec un encadré de correction en tête.
+  - Les rapports ont ensuite été corrigés dans le texte : chaque correction est marquée ✏️ et expliquée, et la version d'origine reste dans l'historique Git.
   - Erreurs principales : statistiques de trades inventées (167 gains / 41 pertes), commentaires présentés comme des trades, citations complétées, attribution non fondée à Marc Chandler, saisonnalité d'EURUSD en mai inversée, ReportLab et seaborn annoncés à tort.
 - **Faits externes** : les décisions des banques centrales de septembre 2026 (BCE, Fed, BoE, BoJ, RBA) et l'affaire OmegaPro ont été vérifiées par recherche web, sources citées.
 

@@ -8,7 +8,7 @@
 L'utilisateur travaille en français.
 
 ## Historique
-1. **Antigravity**, l'agent IA utilisé au départ, a écrit `forex_seasonality_generator.py`, produit les 13 PDF de `rapports_pdf/` et rédigé `RAPPORT_GLOBAL_PROJET.md`, `AUDIT_TRADES_AMIROU_WINS_LOSSES.md` et `RAPPORT_SYNTHESE_SIGNALX_2026.md` à partir de `ChatExport_2026-09-17/result.json`. Ses scripts d'extraction sont restés sur sa machine (`C:\Users\dani\.gemini\antigravity\…`). Ses rapports sont **conservés tels quels**, avec un encadré de mise à jour en tête.
+1. **Antigravity**, l'agent IA utilisé au départ, a écrit `forex_seasonality_generator.py`, produit les 13 PDF de `rapports_pdf/` et rédigé `RAPPORT_GLOBAL_PROJET.md`, `AUDIT_TRADES_AMIROU_WINS_LOSSES.md` et `RAPPORT_SYNTHESE_SIGNALX_2026.md` à partir de `ChatExport_2026-09-17/result.json`. Ses scripts d'extraction sont restés sur sa machine (`C:\Users\dani\.gemini\antigravity\…`). Ses rapports ont été **corrigés dans le texte** le 01/10/2026, à la demande de l'utilisateur : chaque correction est marquée ✏️ et expliquée, et la version d'origine reste dans l'historique Git (commit `4610e69`).
 2. **Vérification du 01/10/2026** :
    - export HTML complet converti en `data/telegram_messages.jsonl` ;
    - scripts reproductibles dans `scripts/` ;

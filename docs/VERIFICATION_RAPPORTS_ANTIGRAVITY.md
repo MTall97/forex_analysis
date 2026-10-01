@@ -1,6 +1,6 @@
 # Vérification des rapports produits par Antigravity
 
-Les trois rapports à la racine du dépôt ont été rédigés par **Antigravity**, un agent IA utilisé avant ce travail, dont les traces pointent vers `C:\Users\dani\.gemini\antigravity\…`. Ils sont conservés tels quels. Ce document vérifie chacune de leurs affirmations contre les sources présentes dans le dépôt : les messages du canal, les PDF SignalX, les PDF de saisonnalité et le code.
+Les trois rapports à la racine du dépôt ont été rédigés par **Antigravity**, un agent IA utilisé avant ce travail, dont les traces pointent vers `C:\Users\dani\.gemini\antigravity\…`. Ils ont été corrigés dans le texte le 01/10/2026 (corrections marquées ✏️ ; version d'origine dans l'historique Git, commit `4610e69`). Ce document vérifie chacune de leurs affirmations contre les sources présentes dans le dépôt : les messages du canal, les PDF SignalX, les PDF de saisonnalité et le code.
 
 **Légende** : ✅ exact · ⚠️ partiellement exact, paraphrasé ou non vérifiable · ❌ faux ou absent de la source citée
 
@@ -123,4 +123,6 @@ Les faits de marché sont **globalement exacts** : DXY à 114,7 et EUR/USD à 0,
   - la **mauvaise lecture de la saisonnalité** d'EUR/USD en mai ;
   - la **description technique** des PDF (ReportLab, seaborn, analyse hebdomadaire).
 
-Les rapports d'Antigravity sont conservés pour l'historique. Un encadré en tête de chaque fichier renvoie vers ce document.
+Toutes ces erreurs sont désormais corrigées dans les rapports eux-mêmes, avec une explication à chaque endroit (✏️). La version d'origine reste dans l'historique Git.
+
+**Ajout** : la saisonnalité mensuelle des PDF n'a pas de pouvoir prédictif mesurable. Calculée sur les 6 années précédentes, elle devine le sens du mois suivant dans 49,7 % des cas sur 2009-2026 ([`analyses/TRADES_VS_SAISONNALITE.md`](../analyses/TRADES_VS_SAISONNALITE.md)).
