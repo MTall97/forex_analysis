@@ -15,7 +15,8 @@ Résultats :
 - septembres_bilan.png, septembres_tp_sl_canal.png, septembre_2026_eurusd.png ;
 - saison_eurusd_heatmap.png, saison_affirmations.png, saison_reussite_causes.png, saison_hors_saison.png ;
 - strategie_concepts.png, strategie_captures.png, strategie_algos.png ;
-- fond_test_a.png, fond_tests_b_c.png ; verification_taux.png, stockage_photos.png.
+- fond_test_a.png, fond_tests_b_c.png ; verification_taux.png, stockage_photos.png ;
+- algos_carry_momentum.png, algos_intraday_profil.png.
 
 Données : data/flashcards_englobante*.csv (scripts/tester_flashcards_englobante.py),
 data/epoques_trades.csv (scripts/analyse_par_epoque.py), data/trades_simules.csv, cache Yahoo.
@@ -520,6 +521,41 @@ def docs():
     sauver(fig, 'stockage_photos.png')
 
 
+# ------------------------------------------------------------------ carry, momentum, intrajournalier
+def autres_algos():
+    m = pd.read_csv('data/carry_momentum_mensuel.csv', parse_dates=['mois']).set_index('mois')
+    fig, ax = plt.subplots(figsize=(10, 4.4))
+    for col, coul in [('carry (3 contre 3)', ORANGE), ('momentum tendance 12 mois', BLEU),
+                      ('momentum transversal 3 mois', GRIS), ('carry + momentum 12 mois', VERT)]:
+        ax.plot(m.index, (1 + m[col]).cumprod() * 100, label=col, color=coul, lw=2 if 'carry +' in col else 1.3)
+    ax.axhline(100, color='black', lw=0.7)
+    for d, txt in [('2008-09-15', 'Lehman'), ('2015-01-15', 'BNS lâche le plancher'), ('2020-03-15', 'COVID'),
+                   ('2024-08-05', 'krach du carry')]:
+        ax.axvline(pd.Timestamp(d), color=GRIS, ls=':', lw=0.8)
+        ax.text(pd.Timestamp(d), ax.get_ylim()[1] * 0.98, txt, fontsize=7, rotation=90, va='top', ha='right')
+    ax.set_ylabel('valeur de 100 investis (sans levier)')
+    ax.legend(fontsize=8, loc='upper left')
+    ax.set_title('Carry et momentum sur 8 devises du G10, 2000-2026 (coûts déduits)', fontsize=10)
+    sauver(fig, 'algos_carry_momentum.png')
+
+    p = pd.read_csv('data/saisonnalite_intraday_profil.csv').set_index('heure_utc')
+    fig, ax = plt.subplots(figsize=(10, 3.8))
+    moy = p[['EUR', 'GBP', 'JPY', 'AUD', 'NZD']].mean(axis=1)
+    ax.bar(moy.index, moy.values, color=[VERT if v > 0 else ROUGE for v in moy.values])
+    for a, b, t, c in [(23, 24, 'Asie', '#fff3e0'), (0, 7, '', '#fff3e0'), (7, 12, 'Europe', '#e3f2fd'),
+                       (13, 20, 'États-Unis', '#e8f5e9')]:
+        ax.axvspan(a - 0.5, b - 0.5, color=c, zorder=0)
+        if t:
+            ax.text((a + b) / 2 - 0.5, moy.max() * 1.05, t, ha='center', fontsize=8)
+    ax.axhline(0, color='black', lw=0.7)
+    ax.set_xticks(range(24))
+    ax.set_xlabel('heure UTC')
+    ax.set_ylabel('points de base par heure')
+    ax.set_title('Rendement moyen de 5 devises contre le dollar selon l\'heure (2024-2026) : '
+                 'pas de cycle « heures locales » exploitable', fontsize=10)
+    sauver(fig, 'algos_intraday_profil.png')
+
+
 def main():
     os.makedirs(SORTIE, exist_ok=True)
     schema_englobante()
@@ -533,6 +569,7 @@ def main():
     strategie()
     fondamental()
     docs()
+    autres_algos()
 
 
 if __name__ == '__main__':
