@@ -37,6 +37,7 @@ L'utilisateur travaille en français.
 - Simulation : `scripts/simuler_trades_dukascopy.py` → `data/trades_simules.csv` ; algorithme : `scripts/algo_amirou_backtest.py` ; modèle : `scripts/modele_meta.py`. Synthèse : `analyses/STRATEGIE_ET_MODELE.md`.
 - Fondamentaux : `scripts/collecter_fondamentaux.py` → `data/fondamental/` (calendrier TradingView, COT CFTC, taux BIS) ; `scripts/biais_textuel.py` (biais écrit d'Amirou) ; `scripts/modele_fondamental.py` (tests A, B, C) ; `scripts/algo_mlq_backtest.py` (MLQ = niveaux de 250 pips, mercredi). Synthèse : `analyses/MODELE_FONDAMENTAL_ET_MLQ.md`.
 - Son style change selon l'époque (2021-2022 : stops de 10-16 pips, ratios 1:7-1:10 ; depuis 2023 : stops de 40-50 pips, ratios 1:2-1:3,5) : ne pas mélanger les périodes sans le dire. Analyse par époque : `scripts/analyse_par_epoque.py` → `analyses/TRADES_PAR_EPOQUE.md`.
+- Flashcards « Naruto » (mai 2025 - juin 2026, #13305, #13327…#14986) : statistiques de rupture des englobantes journalières ; vérification : `scripts/tester_flashcards_englobante.py` → `analyses/FLASHCARDS_ENGLOBANTE.md`. Les bougies journalières Yahoo du Forex sont fausses (open, high/low) : reconstruire le journalier à partir de l'horaire.
 
 ## Travaux en attente
 - Les 1 243 captures TradingView sont dans `assets/tradingview/` et ont été intégrées aux septembres 2021–2026. Les autres mois du canal ne sont pas encore vérifiés trade par trade.
