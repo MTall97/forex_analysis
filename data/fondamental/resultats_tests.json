@@ -1,0 +1,211 @@
+{
+ "A_lecture_macro_amirou": {
+  "n": 583,
+  "taux_juste": 0.515,
+  "perf_moyenne_dans_le_sens_pct": 0.039,
+  "par_annee": {
+   "2019": 0.5,
+   "2020": 0.429,
+   "2021": 0.548,
+   "2022": 0.511,
+   "2023": 0.522,
+   "2024": 0.567,
+   "2025": 0.434,
+   "2026": 0.576
+  },
+  "par_devise": {
+   "AUD": [
+    0.514,
+    70
+   ],
+   "CAD": [
+    0.586,
+    29
+   ],
+   "CHF": [
+    0.533,
+    15
+   ],
+   "EUR": [
+    0.567,
+    104
+   ],
+   "GBP": [
+    0.5,
+    56
+   ],
+   "JPY": [
+    0.457,
+    81
+   ],
+   "NZD": [
+    0.571,
+    49
+   ],
+   "USD": [
+    0.486,
+    179
+   ]
+  }
+ },
+ "B_ses_trades_vs_fondamentaux": {
+  "n": 243,
+  "univarie": {
+   "surprise_30j": {
+    "avec": [
+     125,
+     0.4,
+     0.82
+    ],
+    "contre": [
+     118,
+     0.415,
+     1.29
+    ]
+   },
+   "taux": {
+    "avec": [
+     129,
+     0.395,
+     0.72
+    ],
+    "contre": [
+     112,
+     0.429,
+     1.47
+    ]
+   },
+   "taux_90j": {
+    "avec": [
+     82,
+     0.427,
+     0.85
+    ],
+    "contre": [
+     59,
+     0.424,
+     0.99
+    ]
+   },
+   "cot": {
+    "avec": [
+     128,
+     0.398,
+     0.74
+    ],
+    "contre": [
+     97,
+     0.443,
+     1.39
+    ]
+   },
+   "cot_4s": {
+    "avec": [
+     107,
+     0.458,
+     1.17
+    ],
+    "contre": [
+     118,
+     0.381,
+     0.89
+    ]
+   },
+   "amirou_14j": {
+    "avec": [
+     87,
+     0.402,
+     0.82
+    ],
+    "contre": [
+     49,
+     0.367,
+     0.88
+    ]
+   }
+  },
+  "meta_auc": 0.545,
+  "meta_selection": {
+   "tous": 0.43,
+   "meilleure_moitie": 0.45,
+   "moitie_ecartee": 0.41,
+   "n_test": 155
+  }
+ },
+ "C_modele_fondamental_hebdo": {
+  "n_semaines_paires": 3988,
+  "par_annee": {
+   "logistique": {
+    "2022": {
+     "auc": 0.488,
+     "gain_moyen_pct_semaine": -0.045,
+     "gain_total_pct": -28.0
+    },
+    "2023": {
+     "auc": 0.478,
+     "gain_moyen_pct_semaine": -0.063,
+     "gain_total_pct": -42.0
+    },
+    "2024": {
+     "auc": 0.524,
+     "gain_moyen_pct_semaine": 0.003,
+     "gain_total_pct": 1.7
+    },
+    "2025": {
+     "auc": 0.56,
+     "gain_moyen_pct_semaine": 0.069,
+     "gain_total_pct": 45.9
+    },
+    "2026": {
+     "auc": 0.533,
+     "gain_moyen_pct_semaine": -0.066,
+     "gain_total_pct": -30.8
+    }
+   },
+   "gradient_boosting": {
+    "2022": {
+     "auc": 0.497,
+     "gain_moyen_pct_semaine": 0.018,
+     "gain_total_pct": 11.1
+    },
+    "2023": {
+     "auc": 0.485,
+     "gain_moyen_pct_semaine": -0.044,
+     "gain_total_pct": -29.0
+    },
+    "2024": {
+     "auc": 0.538,
+     "gain_moyen_pct_semaine": 0.033,
+     "gain_total_pct": 22.6
+    },
+    "2025": {
+     "auc": 0.555,
+     "gain_moyen_pct_semaine": 0.155,
+     "gain_total_pct": 102.5
+    },
+    "2026": {
+     "auc": 0.51,
+     "gain_moyen_pct_semaine": -0.067,
+     "gain_total_pct": -31.6
+    }
+   }
+  },
+  "logistique": {
+   "auc": 0.51,
+   "gain_moyen_pct_par_trade": -0.0172,
+   "gain_total_pct_somme": -53.3,
+   "part_gagnante": 0.504
+  },
+  "gradient_boosting": {
+   "auc": 0.513,
+   "gain_moyen_pct_par_trade": 0.0244,
+   "gain_total_pct_somme": 75.7,
+   "part_gagnante": 0.506
+  },
+  "repere_momentum": -0.0623,
+  "repere_portage_taux": 0.0035,
+  "repere_surprises": 0.0046,
+  "repere_amirou": 0.0031,
+  "n_semaines_avec_avis_amirou": 1580
+ }
+}

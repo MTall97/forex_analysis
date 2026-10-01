@@ -119,6 +119,8 @@ J'ai entraîné un modèle (régression logistique et gradient boosting) sur ses
    - puis un test de ce biais sur la période suivante.
 
    C'est la partie fondamentale et sentiment de sa méthode (65 % du poids selon lui), justement celle qui manque ici.
+
+   **Fait** : voir [`MODELE_FONDAMENTAL_ET_MLQ.md`](MODELE_FONDAMENTAL_ET_MLQ.md). Les fondamentaux n'améliorent pas la copie (AUC 0,51 à 0,55) ; ses habitudes MLQ et mercredi sont réelles mais un algorithme qui les applique mécaniquement perd.
 4. **Limites de cette étude** :
    - cours Yahoo en BID sans spread variable : la simulation déduit un spread fixe, mais le courtier d'Amirou peut différer de quelques pips (« raté de 3 pips ») ;
    - données journalières avant décembre 2023 : quand l'objectif et le stop sont touchés le même jour, on compte un stop ;
