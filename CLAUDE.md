@@ -28,5 +28,6 @@ L'utilisateur travaille en français.
 - **Saisonnalité « du projet »** : uniquement ce que calcule le générateur (mois et jours de la semaine, 2020-2025). La « règle de la semaine 1 » vient d'Amirou, pas du projet.
 
 ## Travaux en attente
-- Télécharger les captures TradingView de 2019 à 2025 (`--start 2019 --end 2027`) et compléter les ❔/⚠️ de `analyses/TRADES_SEPTEMBRE.md`.
-- Décider du stockage des images (`docs/STOCKAGE_IMAGES.md`). Toute réécriture de l'historique de `main` attend l'accord explicite de l'utilisateur.
+- Les 1 243 captures TradingView sont dans `assets/tradingview/`. Il reste à compléter les ❔/⚠️ de 2021–2025 dans `analyses/TRADES_SEPTEMBRE.md`.
+- Images : le tri est fait (`data/photos_classification.csv`). La suppression, l'envoi S3 (`s3://images-forex-analyse`) et la purge de l'historique restent à faire par l'utilisateur ; les étapes sont dans `docs/STOCKAGE_IMAGES.md`. Ne jamais purger l'historique de `main` sans son accord explicite.
+- Rapport de la session du 01/10/2026 : `docs/RAPPORT_TRAVAUX.md`.

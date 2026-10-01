@@ -1,61 +1,63 @@
-# Stockage des images : constat et proposition
+# Stockage des images : état et marche à suivre
 
-## Constat (01/10/2026)
-| Contenu | Taille | Fichiers | Utilité pour l'analyse |
+## État (01/10/2026)
+| Contenu | Taille | Fichiers | Remarque |
 |---|---|---|---|
-| `ChatExport_2026-10-01/photos/` (export Telegram) | **400 Mo** | 3 577 photos + 3 577 miniatures (`_thumb`, 76 Mo) | Faible au quotidien : seules quelques centaines de captures montrent un trade |
-| `ChatExport_2026-09-17/rapport Amirou/` (PDF SignalX) | 40 Mo | 21 PDF + 1 image | Moyenne : le texte est extrait avec `pdftotext` |
-| `ChatExport_2026-09-17/result.json` | 10 Mo | 1 | Remplacé par `data/telegram_messages.jsonl` (4 Mo, plus complet) |
-| Historique Git (`.git`) | **368 Mo** compressés | – | Chaque clone télécharge tout l'historique |
-| Captures TradingView (à télécharger) | ≈ 100–250 Mo estimés | 1 243 images | Indispensables pour vérifier les trades publiés par lien |
+| `ChatExport_2026-10-01/photos/` | 400 Mo | 3 568 photos + miniatures | Triées une par une : voir le tableau ci-dessous |
+| `assets/tradingview/` | 135 Mo | 1 243 captures + `index.csv` | Toutes les captures TradingView du canal (2020-2026) |
+| `assets/trades/` | 2,7 Mo | 47 captures | Preuves citées dans `analyses/TRADES_SEPTEMBRE.md` |
+| `ChatExport_2026-09-17/` | 50 Mo | `result.json` + 21 PDF SignalX | `result.json` est remplacé par `data/telegram_messages.jsonl` |
+| **Historique Git** | **≈ 480 Mo** compressés | – | Chaque clone télécharge tout l'historique |
 
-Ces images sont déjà dans l'historique de `main`. Les retirer aujourd'hui ne réduit pas la taille d'un clone tant que l'historique n'est pas réécrit.
+## Tri des photos du canal
+Classement fait à la main sur des planches de miniatures numérotées. Le résultat est dans [`data/photos_classification.csv`](../data/photos_classification.csv), avec une ligne par photo et les colonnes photo, message, date, catégorie et décision.
 
-## Proposition (recommandée) : séparer les « données brutes » des « preuves utiles »
+| Catégorie | Photos | Taille | Contenu | Décision |
+|---|---|---|---|---|
+| trading | 2 640 | 274 Mo | Graphiques, ordres, historiques MT4/MT5, comptes, journaux de trading, schémas pédagogiques | gardée |
+| conversation | 199 | 24 Mo | Captures de discussions : témoignages, échanges avec des élèves, parfois avec un graphique | gardée (cas limites) |
+| certificat | 153 | 18 Mo | Certificats de prop firms des élèves (FTMO, MyForexFunds, AQRE, TFT…) | à supprimer |
+| autre | 576 | 86 Mo | Photos personnelles, voitures, voyages, événements, publicités, mèmes, publications Facebook/Instagram | à supprimer |
 
-1. **Les exports bruts sortent de Git**
-   - **Quoi** : `ChatExport_*`, soit les photos, les miniatures et les PDF SignalX.
-   - **Où** : une archive ZIP attachée à une **Release GitHub** (par exemple `donnees-brutes-2026-10-01`), ou un dossier Google Drive partagé.
-   - **Pourquoi** : rien n'est perdu, l'export se re-télécharge en une fois, et le dépôt redevient léger (≈ 10 Mo de texte, de scripts et de rapports).
-2. **Seules les images qui servent de preuve restent dans le dépôt**
-   - **Quoi** : les captures de trades citées dans les analyses (`assets/trades/AAAA-MM/`, par exemple 2,7 Mo pour septembre 2026) et les captures TradingView (`assets/tradingview/AAAA-MM/`).
-   - **Nommage** : chaque fichier porte la date, l'heure UTC et le numéro du message, ce qui le relie directement à la conversation.
-3. **Git LFS pour ces images si leur volume grossit**
-   - **Quand** : au-delà d'environ 200 Mo, par exemple quand toutes les captures TradingView et toutes les captures de trades seront ajoutées.
-   - **Avantage** : un clone ne télécharge alors que les images de la version courante.
-   - **À vérifier** : le quota LFS gratuit du compte GitHub avant de migrer.
-4. **Réécriture de l'historique (optionnelle)**
-   - **But** : récupérer réellement les 368 Mo.
-   - **Coût** : `git filter-repo` puis un *force push* sur `main`. C'est **irréversible** sur GitHub, et les clones existants devront être refaits.
-   - **Condition** : à faire seulement si vous le décidez explicitement.
-
-## Commandes (à lancer seulement après votre accord)
-
+Supprimer les catégories `certificat` et `autre` libère **104 Mo**, soit 1 458 fichiers en comptant les miniatures. Le script est prêt :
 ```bash
-# 1. Archiver les exports bruts puis les publier dans une Release GitHub (ou sur Drive)
-zip -r donnees-brutes-2026-10-01.zip ChatExport_2026-09-17 ChatExport_2026-10-01
-
-# 2. Arrêter de les suivre dans Git (les fichiers restent sur le disque)
-git rm -r --cached ChatExport_2026-09-17 ChatExport_2026-10-01
-printf 'ChatExport_*/\n' >> .gitignore
-git commit -m "Sort les exports Telegram bruts du dépôt (archivés dans la Release)"
-
-# 3. (option) Suivre les images de preuve avec Git LFS
-git lfs install
-git lfs track "assets/**/*.jpg" "assets/**/*.png"
-git add .gitattributes && git commit -m "Suit les captures avec Git LFS"
-
-# 4. (option, irréversible) Purger l'historique sur main
-# pip install git-filter-repo
-# git filter-repo --path ChatExport_2026-10-01 --path ChatExport_2026-09-17 --invert-paths
-# git push --force origin main
+python scripts/supprimer_photos_non_trading.py              # simulation : liste ce qui serait supprimé
+python scripts/supprimer_photos_non_trading.py --confirmer  # suppression réelle
+git add -A ChatExport_2026-10-01/photos && git commit -m "Supprime les photos non liées au trading"
 ```
+Les pages `messages*.html` afficheront alors une image manquante pour ces messages. C'est normal : le CSV garde la trace de ce qui a été retiré.
+
+## Envoi vers S3 (`s3://images-forex-analyse`)
+```bash
+pip install boto3
+aws configure                                     # ou variables AWS_ACCESS_KEY_ID / AWS_SECRET_ACCESS_KEY
+python scripts/upload_images_s3.py --dry-run      # ce qui serait envoyé
+python scripts/upload_images_s3.py                # envoi (relançable : saute ce qui est déjà en ligne)
+```
+- **Ce qui est envoyé** : `ChatExport_2026-10-01/photos`, `assets/tradingview` et `assets/trades`. Les chemins du dépôt servent de clés S3, par exemple `s3://images-forex-analyse/assets/tradingview/2026-09/2026-09-01_10h06_msg15271_ZdyH7sGq.png`.
+- **Droits nécessaires** : `s3:ListBucket` et `s3:PutObject` sur le bucket.
+
+## Alléger GitHub : ordre recommandé
+1. **Envoyer les images sur S3**, puis vérifier dans la console AWS que le nombre d'objets correspond.
+2. **Arrêter de suivre les images dans Git** (les fichiers restent sur le disque) :
+   ```bash
+   git rm -r -q --cached ChatExport_2026-10-01/photos assets/tradingview
+   printf 'ChatExport_2026-10-01/photos/\nassets/tradingview/*.png\nassets/tradingview/*/*.png\n' >> .gitignore
+   git commit -m "Images déplacées sur S3 (s3://images-forex-analyse)"
+   ```
+   `assets/tradingview/index.csv` et `data/photos_classification.csv` restent dans le dépôt : ils relient chaque message à son image sur S3.
+3. **Purger l'historique (irréversible)**. C'est la seule étape qui réduit vraiment les ≈ 480 Mo :
+   ```bash
+   pip install git-filter-repo
+   git filter-repo --path ChatExport_2026-10-01/photos --path assets/tradingview --invert-paths
+   git push --force origin main claude/intelligent-ptolemy-27j5ht
+   ```
+   - **Conséquence** : les anciens commits contenant les images disparaissent de GitHub, et tous les clones existants doivent être refaits.
+   - **Précaution** : ne le faites qu'**après** avoir vérifié la copie S3.
 
 ## Récupérer les captures TradingView
 ```bash
 python scripts/fetch_tradingview_snapshots.py --start 2019 --end 2027 --out assets/tradingview
 ```
-- **Résultat** : `assets/tradingview/AAAA-MM/AAAA-MM-JJ_HHhMM_msg<id>_<idTradingView>.png` et un `index.csv`, qui relie chaque message à son image (un lien republié plusieurs fois n'est téléchargé qu'une fois).
-- **Accès réseau** : le script a besoin de `s3.tradingview.com` et `www.tradingview.com`.
-  - Dans l'environnement cloud de Claude Code, ajoutez ces deux domaines dans **Edit → Network access**.
-  - Sinon, lancez le script sur votre machine.
+- **Résultat** : `assets/tradingview/AAAA-MM/AAAA-MM-JJ_HHhMM_msg<id>_<idTradingView>.png` et `index.csv`. Un lien republié plusieurs fois n'est téléchargé qu'une fois.
+- **Accès réseau** : le script a besoin de `s3.tradingview.com` et `www.tradingview.com`, bloqués dans l'environnement cloud par défaut ; il se lance sans problème en local.
