@@ -51,7 +51,7 @@ Résumé de ce qui a été fait sur le dépôt `forex_analysis`, dans l'ordre de
 - `analyses/STRATEGIE_ET_MODELE.md` : 518 trades lus sur les captures et rejoués sur les cours ; algorithme et modèle d'IA de copie.
 - `analyses/MODELE_FONDAMENTAL_ET_MLQ.md` : calendrier économique, COT, taux, biais écrit d'Amirou ; habitudes MLQ (niveaux de 250 pips) et mercredi ; évolution de son style de 2021 à 2026.
 - `analyses/TRADES_PAR_EPOQUE.md` : ses trades analysés séparément pour 2021-2022 et 2023-2026.
-- Figures : `scripts/figures_rapports.py` produit les 26 schémas et graphiques de `assets/figures/`, intégrés aux rapports.
+- Figures : `scripts/figures_rapports.py` produit les 24 schémas et graphiques de `assets/figures/`, intégrés aux rapports.
 - `analyses/FLASHCARDS_ENGLOBANTE.md` : les flashcards « Naruto » retrouvées par OCR des 3 568 photos, et leurs statistiques de rupture des englobantes testées.
 
 ## Ce qui reste à faire (de votre côté)
