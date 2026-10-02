@@ -1,59 +1,59 @@
 {
  "T1_jour_du_plus_haut_et_du_plus_bas": {
   "plus_haut": {
-   "lundi": 24.7,
-   "mardi": 15.5,
+   "lundi": 25.1,
+   "mardi": 15.3,
    "mercredi": 14.6,
-   "jeudi": 18.0,
-   "vendredi": 27.2,
-   "mardi_mercredi": 30.1,
-   "semaines": 4602
+   "jeudi": 16.9,
+   "vendredi": 28.1,
+   "mardi_mercredi": 29.8,
+   "semaines": 8415
   },
   "plus_bas": {
-   "lundi": 29.8,
-   "mardi": 14.4,
+   "lundi": 30.4,
+   "mardi": 14.1,
    "mercredi": 13.0,
-   "jeudi": 15.2,
-   "vendredi": 27.6,
-   "mardi_mercredi": 27.4,
-   "semaines": 4602
+   "jeudi": 15.7,
+   "vendredi": 26.8,
+   "mardi_mercredi": 27.1,
+   "semaines": 8415
   }
  },
  "T2_trois_barres": {
   "toutes_configurations": {
-   "n": 548,
-   "objectif_pct": 48.5,
-   "gagnants_pct": 50.9,
-   "r_moyen": -0.061,
-   "r_total": -33.2
+   "n": 1000,
+   "objectif_pct": 45.4,
+   "gagnants_pct": 48.9,
+   "r_moyen": -0.085,
+   "r_total": -84.5
   },
   "avec_filtre_60_pips_rr_1_2": {
-   "n": 142,
-   "objectif_pct": 24.6,
-   "gagnants_pct": 35.2,
-   "r_moyen": -0.059,
-   "r_total": -8.4
+   "n": 311,
+   "objectif_pct": 24.4,
+   "gagnants_pct": 33.8,
+   "r_moyen": -0.045,
+   "r_total": -14.0
   },
   "filtre_et_mardi_depasse_lundi": {
-   "n": 110,
-   "objectif_pct": 26.4,
-   "gagnants_pct": 37.3,
-   "r_moyen": -0.044,
-   "r_total": -4.9
+   "n": 226,
+   "objectif_pct": 27.9,
+   "gagnants_pct": 37.2,
+   "r_moyen": -0.022,
+   "r_total": -5.0
   },
   "filtre_et_extreme_mardi_a_londres_2024_2026": {
-   "n": 12,
-   "objectif_pct": 41.7,
-   "gagnants_pct": 50.0,
-   "r_moyen": 0.631,
-   "r_total": 7.6
+   "n": 25,
+   "objectif_pct": 40.0,
+   "gagnants_pct": 52.0,
+   "r_moyen": 0.53,
+   "r_total": 13.3
   },
   "filtre_et_extreme_mardi_hors_londres_2024_2026": {
-   "n": 21,
-   "objectif_pct": 33.3,
-   "gagnants_pct": 42.9,
-   "r_moyen": 0.437,
-   "r_total": 9.2
+   "n": 45,
+   "objectif_pct": 24.4,
+   "gagnants_pct": 31.1,
+   "r_moyen": -0.059,
+   "r_total": -2.7
   },
   "par_paire_filtre": {
    "AUDJPY": {
@@ -70,12 +70,33 @@
     "r_moyen": -0.246,
     "r_total": -4.7
    },
+   "EURJPY": {
+    "n": 35,
+    "objectif_pct": 20.0,
+    "gagnants_pct": 28.6,
+    "r_moyen": -0.268,
+    "r_total": -9.4
+   },
+   "EURNZD": {
+    "n": 29,
+    "objectif_pct": 34.5,
+    "gagnants_pct": 41.4,
+    "r_moyen": 0.508,
+    "r_total": 14.7
+   },
    "EURUSD": {
     "n": 18,
     "objectif_pct": 11.1,
     "gagnants_pct": 33.3,
     "r_moyen": -0.337,
     "r_total": -6.1
+   },
+   "GBPJPY": {
+    "n": 35,
+    "objectif_pct": 25.7,
+    "gagnants_pct": 31.4,
+    "r_moyen": -0.237,
+    "r_total": -8.3
    },
    "GBPUSD": {
     "n": 26,
@@ -91,137 +112,151 @@
     "r_moyen": 0.564,
     "r_total": 6.8
    },
+   "USDCAD": {
+    "n": 25,
+    "objectif_pct": 20.0,
+    "gagnants_pct": 24.0,
+    "r_moyen": -0.169,
+    "r_total": -4.2
+   },
    "USDJPY": {
     "n": 36,
     "objectif_pct": 30.6,
     "gagnants_pct": 38.9,
     "r_moyen": 0.031,
     "r_total": 1.1
+   },
+   "XAUUSD": {
+    "n": 45,
+    "objectif_pct": 22.2,
+    "gagnants_pct": 35.6,
+    "r_moyen": 0.034,
+    "r_total": 1.5
    }
   },
   "par_annee_filtre": {
    "2012": {
-    "n": 5,
-    "objectif_pct": 20.0,
-    "gagnants_pct": 40.0,
-    "r_moyen": 0.08,
-    "r_total": 0.4
+    "n": 22,
+    "objectif_pct": 27.3,
+    "gagnants_pct": 36.4,
+    "r_moyen": 0.484,
+    "r_total": 10.6
    },
    "2013": {
-    "n": 13,
-    "objectif_pct": 15.4,
-    "gagnants_pct": 15.4,
-    "r_moyen": -0.62,
-    "r_total": -8.1
+    "n": 23,
+    "objectif_pct": 13.0,
+    "gagnants_pct": 17.4,
+    "r_moyen": -0.624,
+    "r_total": -14.3
    },
    "2014": {
-    "n": 6,
-    "objectif_pct": 33.3,
-    "gagnants_pct": 33.3,
-    "r_moyen": -0.228,
-    "r_total": -1.4
-   },
-   "2015": {
     "n": 14,
-    "objectif_pct": 35.7,
-    "gagnants_pct": 42.9,
-    "r_moyen": 0.04,
-    "r_total": 0.6
-   },
-   "2016": {
-    "n": 10,
-    "objectif_pct": 50.0,
-    "gagnants_pct": 50.0,
-    "r_moyen": 0.548,
-    "r_total": 5.5
-   },
-   "2017": {
-    "n": 7,
-    "objectif_pct": 14.3,
+    "objectif_pct": 21.4,
     "gagnants_pct": 28.6,
-    "r_moyen": -0.444,
-    "r_total": -3.1
-   },
-   "2018": {
-    "n": 10,
-    "objectif_pct": 20.0,
-    "gagnants_pct": 30.0,
-    "r_moyen": -0.312,
-    "r_total": -3.1
-   },
-   "2019": {
-    "n": 8,
-    "objectif_pct": 0.0,
-    "gagnants_pct": 25.0,
-    "r_moyen": -0.544,
-    "r_total": -4.4
-   },
-   "2020": {
-    "n": 9,
-    "objectif_pct": 0.0,
-    "gagnants_pct": 55.6,
-    "r_moyen": -0.006,
-    "r_total": -0.0
-   },
-   "2021": {
-    "n": 8,
-    "objectif_pct": 12.5,
-    "gagnants_pct": 25.0,
-    "r_moyen": -0.399,
-    "r_total": -3.2
-   },
-   "2022": {
-    "n": 12,
-    "objectif_pct": 8.3,
-    "gagnants_pct": 8.3,
-    "r_moyen": -0.801,
-    "r_total": -9.6
-   },
-   "2023": {
-    "n": 7,
-    "objectif_pct": 42.9,
-    "gagnants_pct": 42.9,
-    "r_moyen": 0.191,
-    "r_total": 1.3
-   },
-   "2024": {
-    "n": 9,
-    "objectif_pct": 11.1,
-    "gagnants_pct": 33.3,
-    "r_moyen": -0.299,
+    "r_moyen": -0.193,
     "r_total": -2.7
    },
-   "2025": {
+   "2015": {
+    "n": 24,
+    "objectif_pct": 37.5,
+    "gagnants_pct": 41.7,
+    "r_moyen": 0.085,
+    "r_total": 2.0
+   },
+   "2016": {
+    "n": 22,
+    "objectif_pct": 31.8,
+    "gagnants_pct": 36.4,
+    "r_moyen": 0.024,
+    "r_total": 0.5
+   },
+   "2017": {
+    "n": 16,
+    "objectif_pct": 18.8,
+    "gagnants_pct": 31.2,
+    "r_moyen": -0.294,
+    "r_total": -4.7
+   },
+   "2018": {
+    "n": 23,
+    "objectif_pct": 17.4,
+    "gagnants_pct": 21.7,
+    "r_moyen": -0.479,
+    "r_total": -11.0
+   },
+   "2019": {
+    "n": 14,
+    "objectif_pct": 14.3,
+    "gagnants_pct": 35.7,
+    "r_moyen": -0.161,
+    "r_total": -2.3
+   },
+   "2020": {
+    "n": 21,
+    "objectif_pct": 14.3,
+    "gagnants_pct": 52.4,
+    "r_moyen": 0.071,
+    "r_total": 1.5
+   },
+   "2021": {
+    "n": 19,
+    "objectif_pct": 26.3,
+    "gagnants_pct": 31.6,
+    "r_moyen": -0.078,
+    "r_total": -1.5
+   },
+   "2022": {
+    "n": 25,
+    "objectif_pct": 16.0,
+    "gagnants_pct": 20.0,
+    "r_moyen": -0.287,
+    "r_total": -7.2
+   },
+   "2023": {
     "n": 18,
-    "objectif_pct": 38.9,
+    "objectif_pct": 33.3,
     "gagnants_pct": 38.9,
-    "r_moyen": 0.732,
-    "r_total": 13.2
+    "r_moyen": 0.245,
+    "r_total": 4.4
+   },
+   "2024": {
+    "n": 24,
+    "objectif_pct": 16.7,
+    "gagnants_pct": 37.5,
+    "r_moyen": -0.218,
+    "r_total": -5.2
+   },
+   "2025": {
+    "n": 34,
+    "objectif_pct": 32.4,
+    "gagnants_pct": 32.4,
+    "r_moyen": 0.324,
+    "r_total": 11.0
    },
    "2026": {
-    "n": 6,
-    "objectif_pct": 66.7,
-    "gagnants_pct": 83.3,
-    "r_moyen": 1.041,
-    "r_total": 6.2
+    "n": 12,
+    "objectif_pct": 50.0,
+    "gagnants_pct": 58.3,
+    "r_moyen": 0.4,
+    "r_total": 4.8
    }
   },
-  "setups_par_mois_et_par_paire": 0.13
+  "setups_par_mois_et_par_paire": 0.16
  },
  "T3_lundi_mardi_haussiers_mercredi": {
   "2010_2026": {
-   "n": 945,
-   "objectif_pct": 22.0,
-   "gagnants_pct": 24.9,
-   "r_moyen": -0.117,
-   "r_total": -110.5
+   "n": 1717,
+   "objectif_pct": 21.2,
+   "gagnants_pct": 23.0,
+   "r_moyen": -0.196,
+   "r_total": -336.6
   },
   "5_dernieres_annees": {
-   "n": 380,
-   "objectif_pct": 22.4,
-   "gagnants_pct": 25.0,
-   "r_moyen": -0.108,
-   "r_total": -41.1
+   "n": 718,
+   "objectif_pct": 20.6,
+   "gagnants_pct": 22.1,
+   "r_moyen": -0.227,
+   "r_total": -162.9
   },
   "5_dernieres_annees_par_paire": {
    "AUDJPY": {
@@ -238,12 +273,33 @@
     "r_moyen": 0.243,
     "r_total": 15.6
    },
+   "EURJPY": {
+    "n": 81,
+    "objectif_pct": 28.4,
+    "gagnants_pct": 28.4,
+    "r_moyen": 0.061,
+    "r_total": 4.9
+   },
+   "EURNZD": {
+    "n": 61,
+    "objectif_pct": 18.0,
+    "gagnants_pct": 18.0,
+    "r_moyen": -0.429,
+    "r_total": -26.2
+   },
    "EURUSD": {
     "n": 56,
     "objectif_pct": 21.4,
     "gagnants_pct": 23.2,
     "r_moyen": -0.135,
     "r_total": -7.5
+   },
+   "GBPJPY": {
+    "n": 77,
+    "objectif_pct": 27.3,
+    "gagnants_pct": 27.3,
+    "r_moyen": -0.034,
+    "r_total": -2.6
    },
    "GBPUSD": {
     "n": 44,
@@ -259,12 +315,26 @@
     "r_moyen": -0.16,
     "r_total": -9.5
    },
+   "USDCAD": {
+    "n": 58,
+    "objectif_pct": 10.3,
+    "gagnants_pct": 12.1,
+    "r_moyen": -0.617,
+    "r_total": -35.8
+   },
    "USDJPY": {
     "n": 78,
     "objectif_pct": 16.7,
     "gagnants_pct": 19.2,
     "r_moyen": -0.329,
     "r_total": -25.6
+   },
+   "XAUUSD": {
+    "n": 61,
+    "objectif_pct": 3.3,
+    "gagnants_pct": 3.3,
+    "r_moyen": -1.019,
+    "r_total": -62.1
    }
   },
   "EURUSD_5_ans": {
@@ -307,133 +377,133 @@
  },
  "T5_mlq_250": {
   "tous": {
-   "n": 3126,
+   "n": 6055,
    "objectif_pct": 15.6,
-   "gagnants_pct": 16.8,
-   "r_moyen": -0.046,
-   "r_total": -144.2
+   "gagnants_pct": 16.3,
+   "r_moyen": -0.075,
+   "r_total": -451.8
   },
   "seuil_rentabilite_pct": 16.7,
   "par_annee": {
    "2012": {
-    "n": 228,
+    "n": 403,
     "objectif_pct": 15.4,
-    "gagnants_pct": 17.1,
-    "r_moyen": -0.038,
-    "r_total": -8.7
+    "gagnants_pct": 16.4,
+    "r_moyen": -0.073,
+    "r_total": -29.5
    },
    "2013": {
-    "n": 265,
-    "objectif_pct": 16.6,
-    "gagnants_pct": 16.6,
-    "r_moyen": -0.028,
-    "r_total": -7.5
+    "n": 484,
+    "objectif_pct": 17.1,
+    "gagnants_pct": 17.6,
+    "r_moyen": 0.013,
+    "r_total": 6.5
    },
    "2014": {
-    "n": 190,
-    "objectif_pct": 15.3,
-    "gagnants_pct": 16.8,
-    "r_moyen": -0.051,
-    "r_total": -9.7
+    "n": 367,
+    "objectif_pct": 13.4,
+    "gagnants_pct": 14.4,
+    "r_moyen": -0.192,
+    "r_total": -70.3
    },
    "2015": {
-    "n": 284,
-    "objectif_pct": 16.9,
-    "gagnants_pct": 16.9,
-    "r_moyen": -0.01,
-    "r_total": -2.9
+    "n": 524,
+    "objectif_pct": 15.1,
+    "gagnants_pct": 15.1,
+    "r_moyen": -0.129,
+    "r_total": -67.6
    },
    "2016": {
-    "n": 283,
-    "objectif_pct": 15.2,
-    "gagnants_pct": 15.5,
-    "r_moyen": -0.107,
-    "r_total": -30.2
+    "n": 536,
+    "objectif_pct": 14.7,
+    "gagnants_pct": 14.9,
+    "r_moyen": -0.146,
+    "r_total": -78.3
    },
    "2017": {
-    "n": 178,
-    "objectif_pct": 15.2,
-    "gagnants_pct": 17.4,
-    "r_moyen": -0.056,
-    "r_total": -9.9
+    "n": 370,
+    "objectif_pct": 16.2,
+    "gagnants_pct": 17.3,
+    "r_moyen": -0.034,
+    "r_total": -12.5
    },
    "2018": {
-    "n": 187,
-    "objectif_pct": 12.8,
-    "gagnants_pct": 13.4,
-    "r_moyen": -0.232,
-    "r_total": -43.4
+    "n": 381,
+    "objectif_pct": 12.3,
+    "gagnants_pct": 12.9,
+    "r_moyen": -0.275,
+    "r_total": -104.8
    },
    "2019": {
-    "n": 120,
+    "n": 278,
     "objectif_pct": 13.3,
-    "gagnants_pct": 22.5,
-    "r_moyen": 0.097,
-    "r_total": 11.7
+    "gagnants_pct": 17.6,
+    "r_moyen": -0.087,
+    "r_total": -24.2
    },
    "2020": {
-    "n": 220,
-    "objectif_pct": 22.3,
-    "gagnants_pct": 23.6,
-    "r_moyen": 0.349,
-    "r_total": 76.9
+    "n": 412,
+    "objectif_pct": 17.5,
+    "gagnants_pct": 18.2,
+    "r_moyen": 0.034,
+    "r_total": 14.1
    },
    "2021": {
-    "n": 164,
-    "objectif_pct": 21.3,
-    "gagnants_pct": 24.4,
-    "r_moyen": 0.373,
-    "r_total": 61.2
+    "n": 326,
+    "objectif_pct": 19.0,
+    "gagnants_pct": 20.6,
+    "r_moyen": 0.165,
+    "r_total": 53.8
    },
    "2022": {
-    "n": 277,
-    "objectif_pct": 12.3,
-    "gagnants_pct": 12.3,
-    "r_moyen": -0.288,
-    "r_total": -79.6
+    "n": 516,
+    "objectif_pct": 13.6,
+    "gagnants_pct": 13.6,
+    "r_moyen": -0.219,
+    "r_total": -113.2
    },
    "2023": {
-    "n": 210,
-    "objectif_pct": 18.1,
-    "gagnants_pct": 20.0,
-    "r_moyen": 0.123,
-    "r_total": 25.8
+    "n": 423,
+    "objectif_pct": 17.5,
+    "gagnants_pct": 18.4,
+    "r_moyen": 0.046,
+    "r_total": 19.4
    },
    "2024": {
-    "n": 172,
-    "objectif_pct": 11.6,
-    "gagnants_pct": 11.6,
-    "r_moyen": -0.323,
-    "r_total": -55.5
+    "n": 360,
+    "objectif_pct": 15.3,
+    "gagnants_pct": 15.3,
+    "r_moyen": -0.116,
+    "r_total": -41.8
    },
    "2025": {
-    "n": 215,
-    "objectif_pct": 12.6,
-    "gagnants_pct": 12.6,
-    "r_moyen": -0.271,
-    "r_total": -58.2
+    "n": 410,
+    "objectif_pct": 16.6,
+    "gagnants_pct": 16.6,
+    "r_moyen": -0.039,
+    "r_total": -15.9
    },
    "2026": {
-    "n": 133,
-    "objectif_pct": 14.3,
-    "gagnants_pct": 15.8,
-    "r_moyen": -0.106,
-    "r_total": -14.1
+    "n": 265,
+    "objectif_pct": 17.4,
+    "gagnants_pct": 18.9,
+    "r_moyen": 0.047,
+    "r_total": 12.5
    }
   },
   "temoin_niveaux_decales_125_pips": {
-   "n": 3094,
-   "objectif_pct": 14.7,
-   "gagnants_pct": 16.2,
-   "r_moyen": -0.091,
-   "r_total": -282.9
+   "n": 5960,
+   "objectif_pct": 15.2,
+   "gagnants_pct": 16.1,
+   "r_moyen": -0.095,
+   "r_total": -564.2
   },
   "temoin_niveaux_decales_50_pips": {
-   "n": 3111,
-   "objectif_pct": 15.5,
-   "gagnants_pct": 16.4,
-   "r_moyen": -0.065,
-   "r_total": -200.9
+   "n": 6007,
+   "objectif_pct": 15.9,
+   "gagnants_pct": 16.6,
+   "r_moyen": -0.057,
+   "r_total": -340.7
   }
  },
  "T6_bebe_abandonne": "voir scripts/tester_bebe_abandonne.py (définition corrigée, horaire et journalier)",
@@ -459,15 +529,15 @@
  },
  "T8_consolidation_expansion": {
   "cassure_ordinaire": {
-   "n": 4835,
-   "expansion_pct": 45.2,
-   "retour_au_milieu_pct": 27.9
+   "n": 8786,
+   "expansion_pct": 45.9,
+   "retour_au_milieu_pct": 27.5
   },
   "apres_consolidation": {
-   "n": 917,
-   "expansion_pct": 38.3,
-   "retour_au_milieu_pct": 47.2
+   "n": 1686,
+   "expansion_pct": 40.5,
+   "retour_au_milieu_pct": 44.0
   }
  },
- "periode": "2012-01-02 -> 2026-10-01, 6 paires"
+ "periode": "2012-01-02 -> 2026-10-01, 11 paires"
 }

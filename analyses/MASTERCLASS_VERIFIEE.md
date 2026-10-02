@@ -1,7 +1,7 @@
 # La masterclass d'Amirou vérifiée sur les cours réels (2012-2026)
 
 > **Données** : bougies journalières Dukascopy du 2 janvier 2012 au 1er octobre 2026 ([`data/prix/journalier_dukascopy.csv`](../data/prix/journalier_dukascopy.csv)). 2026 est complété par l'horaire Yahoo regroupé par jour, car Dukascopy ne publie le fichier annuel qu'en fin d'année. Pour la Bombe, le bébé abandonné en horaire et la variante « Londres » : bougies horaires Yahoo, décembre 2023 – septembre 2026.
-> **Paires** : **EURUSD, GBPUSD, USDJPY, AUDJPY, AUDUSD, NZDUSD** dans cette version. USDCAD, GBPJPY, EURJPY, EURNZD et l'or sont en cours de téléchargement : Dukascopy limite le débit à quelques fichiers par minute. Les scripts les intégreront sans modification. Il suffit de relancer la commande de la section 8.
+> **Paires** : les 11 instruments étudiés : **EURUSD, GBPUSD, USDJPY, AUDJPY, AUDUSD, NZDUSD, USDCAD, GBPJPY, EURJPY, EURNZD et l'or (XAUUSD)**. L'or est exclu des tests MLQ (pas de niveaux de 250 pips comparables). Pour ajouter une paire, il suffit de relancer la commande de la section 8.
 > **Scripts** :
 > - [`scripts/tester_masterclass.py`](../scripts/tester_masterclass.py) (T1 à T8) ;
 > - [`scripts/strategie_combinee.py`](../scripts/strategie_combinee.py) (combinaisons) ;
@@ -26,16 +26,16 @@
 | Le plus haut de la semaine se forme le mardi ou le mercredi | 70 % | **30 %** (le hasard donnerait 40 %) | ❌ c'est l'inverse : lundi et vendredi dominent |
 | « Trois barres » lundi-mardi-mercredi sur GBPUSD | 85 % | objectif atteint **27 %**, −0,06 R | ❌ |
 | « Trois barres » sur AUDJPY | 70-75 % | objectif atteint **23 %**, −0,13 R | ❌ |
-| Lundi et mardi haussiers, mercredi prend le high (#14577) | 21 cas en 5 ans, 71 % | **380 cas** en 5 ans (6 paires), **22 %** d'objectifs, −0,11 R | ❌ |
+| Lundi et mardi haussiers, mercredi prend le high (#14577) | 21 cas en 5 ans, 71 % | **718 cas** en 5 ans (11 instruments), **21 %** d'objectifs, −0,23 R | ❌ |
 | AUDJPY en avril : plus bas du mois en 1re semaine (#14662) | 75 % | **50 %** (2015-2024) | ❌ |
-| MLQ : zone ±25 pips, stop 50, objectif 250 (1:5) | rentable dès 17 % de réussite | **15,6 %**, −0,05 R ; niveaux décalés : −0,07 à −0,09 R | ❌ aucun avantage |
-| Après une consolidation, l'expansion suit « systématiquement » | ~100 % | **38 %** (et 47 % de retours au milieu du range) | ❌ |
+| MLQ : zone ±25 pips, stop 50, objectif 250 (1:5) | rentable dès 17 % de réussite | **15,6 %**, −0,08 R ; niveaux décalés : −0,06 à −0,10 R | ❌ aucun avantage |
+| Après une consolidation, l'expansion suit « systématiquement » | ~100 % | **41 %** (et 44 % de retours au milieu du range) | ❌ |
 | AUDUSD et NZDUSD corrélés « de l'ordre de 80 % » | 80 % | **0,83** (de 0,65 à 0,92 selon l'année) | ✅ |
 | Bébé abandonné : la 4e bougie explose dans le sens des deux bougies de même couleur | « très fiable » | **46 à 50 %**, comme le témoin | ❌ |
 | Bombe (H1) sur les paires en yen | « favorable » | 10 trades, 1 gagnant | ❔ trop peu de cas, pas confirmé |
-| Combinaison **trois barres + MLQ** (testée ici, pas dans la masterclass) | — | +0,66 R (2012-2019, t = 3,3), **+0,18 R (2020-2026, t = 0,9)** ; meilleure que des niveaux décalés | 🔎 **seule piste qui sort du lot**, mais elle s'affaiblit hors échantillon : non prouvée |
+| Combinaison **trois barres + MLQ** (testée ici, pas dans la masterclass) | — | +0,39 R (2012-2019, t = 1,8), **+0,17 R (2020-2026, t = 1,1)** ; des niveaux décalés font presque aussi bien | ❌ prometteuse sur 4 paires, **ne résiste pas** aux 11 paires |
 
-**Conclusion** : aucun des pourcentages de la masterclass ne se retrouve sur 15 ans de cours. Certains sont même inversés (jour du plus haut, consolidation). Ces chiffres ressemblent à des souvenirs de cas marquants ou à des comptages sur une courte période choisie. Ce ne sont pas des statistiques. La seule affirmation confirmée est la corrélation AUDUSD/NZDUSD, un fait connu. Une seule combinaison sort du lot (section 6), mais elle s'affaiblit hors échantillon.
+**Conclusion** : aucun des pourcentages de la masterclass ne se retrouve sur 15 ans de cours. Certains sont même inversés (jour du plus haut, consolidation). Ces chiffres ressemblent à des souvenirs de cas marquants ou à des comptages sur une courte période choisie. Ce ne sont pas des statistiques. La seule affirmation confirmée est la corrélation AUDUSD/NZDUSD, un fait connu. La combinaison qui semblait prometteuse sur 4 paires (trois barres + MLQ, section 6) ne résiste pas à l'ajout des 7 autres instruments.
 
 ## Méthode commune
 - **Une règle = un algorithme** : chaque règle de la masterclass est traduite en conditions chiffrées sur les bougies, sans regarder le résultat avant. Quand la masterclass est floue (« bougie pleine »), le choix est indiqué.
@@ -54,12 +54,12 @@
 
 ![Jour des extrêmes](../assets/figures/masterclass_jours_extremes.png)
 
-Sur 4 602 semaines (6 paires) :
+Sur 8 415 semaines (11 instruments) :
 
 | | Lundi | Mardi | Mercredi | Jeudi | Vendredi | Mardi + mercredi |
 |---|---|---|---|---|---|---|
-| Plus haut de la semaine | 24,7 % | 15,5 % | 14,6 % | 18,0 % | 27,2 % | **30,1 %** |
-| Plus bas de la semaine | 29,8 % | 14,4 % | 13,0 % | 15,2 % | 27,6 % | **27,4 %** |
+| Plus haut de la semaine | 25,1 % | 15,3 % | 14,6 % | 16,9 % | 28,1 % | **29,8 %** |
+| Plus bas de la semaine | 30,4 % | 14,1 % | 13,0 % | 15,7 % | 26,8 % | **27,1 %** |
 
 - Les extrêmes de la semaine se forment surtout **le lundi et le vendredi**, aux bords de la semaine. C'est un effet mécanique : le premier et le dernier jour ont plus de chances d'être les extrêmes d'une marche au hasard.
 - Le conseil « ne pas trader le lundi et le vendredi parce que les extrêmes se font mardi-mercredi » (#7820) ne s'appuie donc pas sur les données.
@@ -78,11 +78,11 @@ Sur 4 602 semaines (6 paires) :
 
 | Version | Trades | Objectif atteint | Gagnants | R moyen |
 |---|---|---|---|---|
-| Toutes les configurations (sans filtre) | 548 | 48,5 % | 50,9 % | −0,06 |
-| **Avec le filtre 60 pips et RR ≥ 1,2** | **142** | **24,6 %** | 35,2 % | **−0,06** |
-| Filtre + le mardi dépasse d'abord le plus haut du lundi | 110 | 26,4 % | 37,3 % | −0,04 |
-| Filtre + plus haut du mardi fait à Londres (2024-2026) | 12 | 42 % | 50 % | +0,63 |
-| Filtre + plus haut du mardi hors de Londres (2024-2026) | 21 | 33 % | 43 % | +0,44 |
+| Toutes les configurations (sans filtre) | 1 000 | 45,4 % | 48,9 % | −0,08 |
+| **Avec le filtre 60 pips et RR ≥ 1,2** | **311** | **24,4 %** | 33,8 % | **−0,05** |
+| Filtre + le mardi dépasse d'abord le plus haut du lundi | 226 | 27,9 % | 37,2 % | −0,02 |
+| Filtre + plus haut du mardi fait à Londres (2024-2026) | 25 | 40 % | 52 % | +0,53 |
+| Filtre + plus haut du mardi hors de Londres (2024-2026) | 45 | 24 % | 31 % | −0,06 |
 
 | Paire | Trades | Objectif | Gagnants | R moyen |
 |---|---|---|---|---|
@@ -92,28 +92,34 @@ Sur 4 602 semaines (6 paires) :
 | USDJPY | 36 | 30,6 % | 38,9 % | +0,03 |
 | AUDUSD | 19 | 15,8 % | 31,6 % | −0,25 |
 | NZDUSD | 12 | 41,7 % | 41,7 % | +0,56 |
+| USDCAD | 25 | 20,0 % | 24,0 % | −0,17 |
+| EURJPY | 35 | 20,0 % | 28,6 % | −0,27 |
+| GBPJPY | 35 | 25,7 % | 31,4 % | −0,24 |
+| EURNZD | 29 | 34,5 % | 41,4 % | +0,51 |
+| Or (XAUUSD) | 45 | 22,2 % | 35,6 % | +0,03 |
 
 ![Trois barres par paire et par année](../assets/figures/paire_lundi_mardi_mercredi_trois_barres.png)
 
-- **Le setup est rare** : 0,13 par mois et par paire, soit moins de 2 par an et par paire, et environ 10 par an sur les 6 paires.
+- **Le setup est rare** : 0,16 par mois et par paire, soit environ 2 par an et par paire, et 21 par an sur les 11 instruments.
 - **85 % sur GBPUSD n'est pas retrouvé** : 27 % d'objectifs sur 15 ans.
 - **Depuis 2024 en revanche, GBPUSD fait +0,87 R** sur 8 trades (5 gagnants) :
   - gagnants : 03/04/2024, 05/06/2024, 30/04/2025, 07/01/2026, 11/03/2026 ;
   - perdants : 11/09/2024, 04/06/2025, 20/05/2026.
 
   Si la masterclass a été construite sur ces dernières années, cela peut expliquer l'impression de fiabilité. Mais 8 trades ne prouvent rien, et 2012-2023 est négatif.
-- La variante « Londres » repose sur 12 et 21 trades : trop peu pour conclure.
-- NZDUSD est positive (+0,56 R), mais sur 12 trades seulement.
+- **Variante « Londres »** : quand le plus haut du mardi se fait pendant la session de Londres, +0,53 R (25 trades), contre −0,06 R sinon (45 trades). C'est la seule variante intéressante, mais elle ne porte que sur 2024-2026 (horaire Yahoo) : à suivre.
+- NZDUSD (+0,56 R, 12 trades) et EURNZD (+0,51 R, 29 trades) sont positives. Les croisés du yen GBPJPY et EURJPY sont négatifs.
 
 ## 3. « Lundi et mardi haussiers, mercredi prend le high » (T3, #14577-#14579)
 
 **Annoncé** : 21 fois en 5 ans, 71 % de réussite avec stop 20 pips et objectif 60 pips.
 
 **Mesuré** :
-- sur les 5 dernières années (depuis mars 2021), le schéma se produit **380 fois** sur 6 paires (56 fois sur EURUSD seul), et non 21 ;
-- vente au plus haut du mardi quand mercredi le dépasse : **22 % d'objectifs**, 25 % de gagnants, **−0,11 R** par trade ;
+- sur les 5 dernières années (depuis mars 2021), le schéma se produit **718 fois** sur 11 instruments (56 fois sur EURUSD seul), et non 21 ;
+- vente au plus haut du mardi quand mercredi le dépasse : **21 % d'objectifs**, 22 % de gagnants, **−0,23 R** par trade ;
 - avec un stop de 20 pips pour un objectif de 60, le hasard donnerait 25 % : le résultat est même un peu pire, car un mercredi qui dépasse le plus haut du mardi continue souvent de monter ;
-- sur 2012-2026 : 945 trades, 22,0 %, −0,12 R. Aucune paire n'est rentable de façon stable : AUDUSD fait +0,24 R sur 5 ans mais +0,08 sur 15 ans ; GBPUSD +0,09 R sur 5 ans, mais négative avant.
+- sur 2012-2026 : 1 717 trades, 21,2 %, −0,20 R. Aucune paire n'est rentable de façon stable : AUDUSD fait +0,24 R sur 5 ans mais +0,08 sur 15 ans ; GBPUSD +0,09 R sur 5 ans, mais négative avant ;
+- l'or est un cas à part : un stop fixe de 20 pips (2 $) y est minuscule, d'où −1,0 R par trade. La règle n'est de toute façon pas pensée pour l'or.
 
 ## 4. AUDJPY en avril, et le « plus bas du mois en 1re semaine » (T4, #14662)
 
@@ -139,13 +145,13 @@ Sur 4 602 semaines (6 paires) :
 
 | Niveaux | Trades | Objectif | R moyen |
 |---|---|---|---|
-| **MLQ (multiples de 250 pips)** | 3 126 | **15,6 %** | **−0,05** |
-| Niveaux décalés de 50 pips (témoin) | 3 111 | 15,5 % | −0,07 |
-| Niveaux décalés de 125 pips, à mi-chemin (témoin) | 3 094 | 14,7 % | −0,09 |
+| **MLQ (multiples de 250 pips)** | 6 055 | **15,6 %** | **−0,08** |
+| Niveaux décalés de 50 pips (témoin) | 6 007 | 15,9 % | −0,06 |
+| Niveaux décalés de 125 pips, à mi-chemin (témoin) | 5 960 | 15,2 % | −0,10 |
 
 - Il faut 16,7 % de réussite pour être à l'équilibre avec un ratio de 1:5 : le MLQ seul est **juste en dessous**, comme n'importe quel niveau.
-- Les années vont de −0,32 R (2024) à +0,37 R (2021), sans régularité.
-- Les MLQ font un peu mieux que les niveaux décalés (−0,05 contre −0,07 à −0,09 R), mais restent perdants : ils ne « tiennent » pas assez pour être tradés seuls.
+- Les années vont de −0,28 R (2018) à +0,17 R (2021), sans régularité.
+- Les MLQ font comme les niveaux décalés (−0,08 R contre −0,06 et −0,10 R) : ils ne « tiennent » pas mieux qu'un niveau quelconque.
 
 ### Bébé abandonné (définition corrigée)
 
@@ -157,8 +163,8 @@ Sur 4 602 semaines (6 paires) :
 |---|---|---|---|---|
 | Horaire, 13 paires, 2024-2026 (mèches englobées) | 2 578 | 46,5 % | 48,9 % | −0,17 (témoin −0,17) |
 | Horaire (corps englobés) | 5 383 | 47,2 % | 48,9 % | −0,17 |
-| Journalier, 6 paires, 2012-2026 (mèches) | 290 | 50,3 % | 48,8 % | −0,04 (témoin −0,07) |
-| Journalier (corps) | 747 | 49,1 % | 48,8 % | +0,05 (t = 1,5) |
+| Journalier, 11 instruments, 2012-2026 (mèches) | 527 | 49,9 % | 49,7 % | −0,04 (témoin −0,06) |
+| Journalier (corps) | 1 343 | 50,7 % | 49,7 % | +0,03 (t = 1,5) |
 
 La 4e bougie part dans le sens annoncé **une fois sur deux**, exactement comme après n'importe quelles trois bougies. En horaire, le spread rend tout trade perdant.
 
@@ -167,8 +173,8 @@ Consolidation = 5 jours dans un range de moins de 1,5 ATR ; expansion = le prix 
 
 | Cassure | Cas | Expansion | Retour au milieu du range |
 |---|---|---|---|
-| Après une consolidation | 917 | **38 %** | **47 %** |
-| Cassure ordinaire | 4 835 | 45 % | 28 % |
+| Après une consolidation | 1 686 | **41 %** | **44 %** |
+| Cassure ordinaire | 8 786 | 46 % | 27 % |
 
 C'est **l'inverse** de l'affirmation : une cassure de range étroit revient plus souvent dans le range qu'elle ne s'étend (fausse cassure).
 
@@ -192,48 +198,43 @@ C'est **l'inverse** de l'affirmation : une cassure de range étroit revient plus
 - **M** : l'extrême de la bougie signal à moins de 25 pips d'un MLQ ;
 - **T** : trois barres.
 
-**Trade** : entrée à la clôture de la bougie signal, stop à l'autre extrême, objectif 1 R ou 2 R, ou sortie à la clôture du 3e jour. 12 combinaisons × 3 gestions = 36 essais, **choisis sur 2012-2019**. 6 paires.
+**Trade** : entrée à la clôture de la bougie signal, stop à l'autre extrême, objectif 1 R ou 2 R, ou sortie à la clôture du 3e jour. 12 combinaisons × 3 gestions = 36 essais, **choisis sur 2012-2019**. 11 instruments (sans l'or pour le MLQ).
 
 | Combinaison (sortie au 3e jour) | 2012-2019 : trades, R | 2020-2026 : trades, R (t) |
 |---|---|---|
-| Toute bougie (témoin) | 12 488 ; −0,03 | 10 523 ; −0,01 (−0,9) |
-| E (englobante seule) | 3 241 ; −0,02 | 2 643 ; 0,00 (0,1) |
-| E + englobante du mercredi | 694 ; +0,04 | 543 ; +0,04 (0,7) |
-| E + MLQ | 687 ; −0,02 | 512 ; +0,09 (1,6) |
-| E + MLQ + mardi | 143 ; +0,14 | 103 ; +0,09 (0,7) |
-| MLQ seul | 2 409 ; −0,01 | 2 121 ; +0,02 (0,7) |
-| T (trois barres) | 332 ; +0,04 | 318 ; +0,06 (0,6) |
-| **T + MLQ** | **75 ; +0,66 (t = 3,3)** | **60 ; +0,18 (0,9)** |
-| T + englobante | 76 ; +0,14 | 73 ; −0,09 |
+| Toute bougie (témoin) | 22 892 ; −0,03 | 19 290 ; 0,00 (−0,2) |
+| E (englobante seule) | 5 852 ; −0,02 | 4 804 ; +0,02 (1,0) |
+| E + englobante du mercredi | 1 235 ; +0,04 | 974 ; +0,02 (0,6) |
+| E + MLQ | 1 096 ; −0,05 | 876 ; +0,10 (2,2) |
+| E + MLQ + mardi | 220 ; +0,02 | 175 ; +0,10 (1,1) |
+| MLQ seul | 4 097 ; −0,02 | 3 521 ; +0,02 (0,9) |
+| T (trois barres) | 615 ; +0,07 | 569 ; +0,07 (1,0) |
+| **T + MLQ** | **119 ; +0,39 (t = 1,8)** | **101 ; +0,17 (1,1)** |
+| T + englobante | 140 ; +0,06 | 121 ; −0,11 |
 
-**La meilleure règle sur 2012-2019 est « trois barres + MLQ », sortie au 3e jour.** Ce qu'il faut en retenir :
-- **Validation** : elle reste positive sur 2020-2026, mais tombe à +0,18 R par trade (60 trades, t = 0,9), ce qui n'est **plus significatif**. Avec les 4 premières paires seulement, la validation donnait +0,31 R : l'ajout d'AUDUSD (+0,07 R sur 26 trades) l'a fait baisser.
-- **Contrôle des niveaux** : sur toute la période, les vrais MLQ donnent +0,45 R (135 trades). Avec des niveaux décalés de 50, 100, 125, 175 ou 200 pips, la même règle donne −0,12, −0,20, −0,01, +0,12 et −0,04 R. Les MLQ semblent donc apporter quelque chose ici, et c'est le seul cas.
-- **Par paire** : +0,53 à +0,57 R sur 5 paires, +0,07 R sur AUDUSD. 8 années positives sur 15.
-- **Limites** :
-  - 135 trades en 15 ans sur 6 paires, soit environ 9 par an ;
-  - 36 essais : le meilleur pouvait sortir par chance, et son résultat hors échantillon est 3,5 fois plus faible qu'en apprentissage, ce qui est typique d'un résultat en partie dû au hasard ;
-  - à revérifier sur les 5 paires encore en téléchargement.
-- **Occurrences depuis 2023** (date du mardi signal, sens, R au 3e jour) :
-  - GBPUSD : 25/04/2023 vente −1,0 ; 17/09/2024 vente −1,0 ; 26/11/2024 achat +2,2 ; 13/01/2026 vente +0,7 ; 10/03/2026 vente +3,0 ; 05/05/2026 achat +1,1 ;
-  - EURUSD : 18/06/2024 vente +1,9 ; 25/06/2024 vente −0,1 ; 04/08/2026 achat +0,8 ;
-  - USDJPY : 24/12/2024 vente −1,0 ; 21/01/2025 achat +0,2 ; 22/04/2025 achat +0,3 ; 03/06/2025 achat +0,7 ; 14/10/2025 vente +1,2 ; 14/07/2026 vente −1,0 ;
-  - AUDJPY : 02/05/2023 vente 0,0 ; 07/05/2024 −1,0 ; 03/09/2024 +1,2 ; 01/10/2024 −1,0 ; 10/12/2024 −1,0 ; 25/03/2025 −1,1 ; 17/06/2025 0,0 (toutes des ventes) ;
-  - AUDUSD : 27/02/2024 achat −1,0 ; 03/06/2025 vente −1,0 ; 21/10/2025 vente −1,0 ; 04/08/2026 achat +0,4 ;
-  - NZDUSD : 16/05/2023 vente −1,1 ; 22/10/2024 achat −1,1 ; 28/07/2026 achat +4,5.
+**Comment le résultat a évolué avec le nombre de paires.** Sur les 4 premières paires, « trois barres + MLQ » semblait la seule piste sérieuse. Avec 11 instruments, elle ne tient plus :
 
-  Liste complète : `data/par_paire/occurrences_trois_barres_mlq_sortie_au_3e_jour.csv`.
+| Paires testées | 2012-2019 | 2020-2026 | Tous les MLQ | Niveaux décalés de 50 à 200 pips (témoins) |
+|---|---|---|---|---|
+| 4 (EURUSD, GBPUSD, USDJPY, AUDJPY) | +0,72 R (t = 2,8) | +0,31 R | +0,54 R | −0,31 à +0,17 R |
+| 6 (+ AUDUSD, NZDUSD) | +0,66 R (t = 3,3) | +0,18 R | +0,45 R | −0,20 à +0,12 R |
+| **11** (+ USDCAD, GBPJPY, EURJPY, EURNZD) | **+0,39 R (t = 1,8)** | **+0,17 R (t = 1,1)** | **+0,29 R** | **−0,10 à +0,17 R** |
 
-**Les autres combinaisons** font à peine mieux que le témoin. E + MLQ est positive en 2020-2026 (+0,09 R, t = 1,6) mais négative en 2012-2019 : c'est typiquement le genre de résultat qui ne se reproduit pas.
+- **Les nouvelles paires ne confirment pas la règle** : USDCAD −0,25 R, EURJPY −0,42 R, GBPJPY −0,04 R ; seule EURNZD est très positive (+1,22 R sur 17 trades).
+- **Le contrôle ne la distingue plus du hasard** : des niveaux décalés de 125 ou 175 pips, qui ne sont pas des MLQ, donnent +0,12 et +0,17 R, presque autant que les vrais MLQ (+0,29 R).
+- **C'est le schéma classique d'un résultat dû au hasard** : excellent sur l'échantillon où on l'a trouvé, il fond quand on ajoute des données. Avec 36 combinaisons essayées, il fallait s'y attendre.
+- Liste complète des occurrences : `data/par_paire/occurrences_trois_barres_mlq_sortie_au_3e_jour.csv`.
+
+**Les autres combinaisons** font à peine mieux que le témoin. E + MLQ est positive en 2020-2026 (+0,10 R, t = 2,2) mais négative en 2012-2019 : c'est typiquement le genre de résultat qui ne se reproduit pas.
 
 ## 7. Ce qu'il faut retenir
-1. **Les pourcentages de la masterclass (70 %, 75 %, 85 %) ne correspondent pas aux cours réels.** Sur 15 ans, les règles donnent 20 à 50 % selon les cas, souvent moins que le hasard une fois le spread déduit.
+1. **Les pourcentages de la masterclass (70 %, 75 %, 85 %) ne correspondent pas aux cours réels.** Sur 15 ans et 11 instruments, les règles donnent 20 à 50 % selon les cas, souvent moins que le hasard une fois le spread déduit.
 2. **Plusieurs affirmations sont à l'envers** :
    - les extrêmes de la semaine se font surtout le lundi et le vendredi ;
    - une cassure de consolidation est plus souvent fausse que vraie.
 3. **Les « bons » chiffres viennent souvent d'un raisonnement après coup** : « le plus bas est en semaine 1 » est vrai pour les mois qui ont monté, mais on ne le sait qu'à la fin du mois.
 4. **Ce qui est juste** : AUDUSD et NZDUSD sont bien corrélées à environ 80 %.
-5. **Une piste à surveiller, pas à trader : trois barres + MLQ.** Elle est positive avant et après 2020 et meilleure que des niveaux quelconques. Mais sur 2020-2026, elle ne fait plus que +0,18 R, sans significativité, sur environ 9 trades par an. Il faudrait la suivre en temps réel pendant 1 à 2 ans, avec un journal daté de chaque setup, avant d'y engager de l'argent.
+5. **Aucune règle ni aucune combinaison n'a d'avantage robuste.** « Trois barres + MLQ », prometteuse sur 4 paires, ne résiste pas aux 11 instruments. Seule la variante « plus haut du mardi à Londres » (+0,53 R sur 25 trades, 2024-2026) reste à suivre, faute d'historique horaire plus ancien.
 
 ## 8. Relancer ou compléter
 ```bash
