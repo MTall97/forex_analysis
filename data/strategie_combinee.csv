@@ -1,73 +1,73 @@
 combinaison,gestion,periode,n,gagnants_pct,r_moyen,t_stat,par_an
-E (englobante seule),1R,apprentissage 2012-2019,3241,49.1,-0.035,-2.29,405.1
-E (englobante seule),2R,apprentissage 2012-2019,3241,43.4,-0.022,-1.17,405.1
-E (englobante seule),3 jours,apprentissage 2012-2019,3241,42.2,-0.023,-1.1,405.1
-E (englobante seule),1R,validation 2020-2026,2643,48.4,-0.044,-2.6,391.6
-E (englobante seule),2R,validation 2020-2026,2643,43.7,-0.006,-0.27,391.6
-E (englobante seule),3 jours,validation 2020-2026,2643,42.3,0.002,0.09,391.6
-E + englobante du mardi (trade mercredi),1R,apprentissage 2012-2019,692,49.7,-0.036,-1.06,86.5
-E + englobante du mardi (trade mercredi),2R,apprentissage 2012-2019,692,44.8,0.0,0.0,86.5
-E + englobante du mardi (trade mercredi),3 jours,apprentissage 2012-2019,692,43.5,0.013,0.29,86.5
-E + englobante du mardi (trade mercredi),1R,validation 2020-2026,522,49.2,-0.011,-0.29,77.3
-E + englobante du mardi (trade mercredi),2R,validation 2020-2026,522,43.5,0.031,0.64,77.3
-E + englobante du mardi (trade mercredi),3 jours,validation 2020-2026,522,42.5,0.033,0.61,77.3
-E + englobante du mercredi,1R,apprentissage 2012-2019,694,52.0,0.033,1.03,86.8
-E + englobante du mercredi,2R,apprentissage 2012-2019,694,47.1,0.033,0.86,86.8
-E + englobante du mercredi,3 jours,apprentissage 2012-2019,694,46.1,0.035,0.82,86.8
-E + englobante du mercredi,1R,validation 2020-2026,543,50.8,0.005,0.13,80.4
-E + englobante du mercredi,2R,validation 2020-2026,543,46.6,0.02,0.44,80.4
-E + englobante du mercredi,3 jours,validation 2020-2026,543,45.7,0.035,0.69,80.4
-E + MLQ,1R,apprentissage 2012-2019,687,48.8,-0.038,-1.16,85.9
-E + MLQ,2R,apprentissage 2012-2019,687,43.4,-0.015,-0.37,85.9
-E + MLQ,3 jours,apprentissage 2012-2019,687,41.9,-0.022,-0.49,85.9
-E + MLQ,1R,validation 2020-2026,512,50.8,0.018,0.46,75.9
-E + MLQ,2R,validation 2020-2026,512,45.5,0.084,1.71,75.9
-E + MLQ,3 jours,validation 2020-2026,512,44.1,0.087,1.56,75.9
-E + MLQ + mardi,1R,apprentissage 2012-2019,143,53.8,0.02,0.27,17.9
-E + MLQ + mardi,2R,apprentissage 2012-2019,143,50.3,0.088,0.97,17.9
-E + MLQ + mardi,3 jours,apprentissage 2012-2019,143,49.7,0.142,1.33,17.9
-E + MLQ + mardi,1R,validation 2020-2026,103,48.5,0.004,0.04,15.3
-E + MLQ + mardi,2R,validation 2020-2026,103,41.7,0.086,0.77,15.3
-E + MLQ + mardi,3 jours,validation 2020-2026,103,41.7,0.088,0.72,15.3
-E + MLQ + mercredi,1R,apprentissage 2012-2019,148,45.3,-0.054,-0.82,18.5
-E + MLQ + mercredi,2R,apprentissage 2012-2019,148,40.5,-0.093,-1.25,18.5
-E + MLQ + mercredi,3 jours,apprentissage 2012-2019,148,39.2,-0.125,-1.67,18.5
-E + MLQ + mercredi,1R,validation 2020-2026,98,54.1,0.069,0.78,14.5
-E + MLQ + mercredi,2R,validation 2020-2026,98,49.0,0.132,1.23,14.5
-E + MLQ + mercredi,3 jours,validation 2020-2026,98,48.0,0.152,1.17,14.5
-T (trois barres),1R,apprentissage 2012-2019,332,48.5,-0.078,-1.52,41.5
-T (trois barres),2R,apprentissage 2012-2019,332,42.8,0.007,0.1,41.5
-T (trois barres),3 jours,apprentissage 2012-2019,332,41.0,0.039,0.49,41.5
-T (trois barres),1R,validation 2020-2026,318,46.5,-0.093,-1.78,47.1
-T (trois barres),2R,validation 2020-2026,318,40.6,-0.029,-0.45,47.1
-T (trois barres),3 jours,validation 2020-2026,318,39.6,0.055,0.63,47.1
-T + MLQ,1R,apprentissage 2012-2019,75,62.7,0.207,1.96,9.4
-T + MLQ,2R,apprentissage 2012-2019,75,60.0,0.425,2.93,9.4
-T + MLQ,3 jours,apprentissage 2012-2019,75,58.7,0.661,3.25,9.4
-T + MLQ,1R,validation 2020-2026,60,48.3,-0.038,-0.32,8.9
-T + MLQ,2R,validation 2020-2026,60,45.0,0.077,0.51,8.9
-T + MLQ,3 jours,validation 2020-2026,60,45.0,0.184,0.91,8.9
-T + englobante,1R,apprentissage 2012-2019,76,56.6,0.04,0.44,9.5
-T + englobante,2R,apprentissage 2012-2019,76,56.6,0.118,1.09,9.5
-T + englobante,3 jours,apprentissage 2012-2019,76,56.6,0.138,1.22,9.5
-T + englobante,1R,validation 2020-2026,73,47.9,-0.102,-1.08,10.8
-T + englobante,2R,validation 2020-2026,73,43.8,-0.062,-0.53,10.8
-T + englobante,3 jours,validation 2020-2026,73,43.8,-0.087,-0.73,10.8
-MLQ seul,1R,apprentissage 2012-2019,2409,47.7,-0.074,-3.93,301.1
-MLQ seul,2R,apprentissage 2012-2019,2409,41.4,-0.025,-1.04,301.1
-MLQ seul,3 jours,apprentissage 2012-2019,2409,38.6,-0.008,-0.27,301.1
-MLQ seul,1R,validation 2020-2026,2121,45.9,-0.102,-5.1,314.2
-MLQ seul,2R,validation 2020-2026,2121,40.9,-0.014,-0.54,314.2
-MLQ seul,3 jours,validation 2020-2026,2121,38.0,0.023,0.68,314.2
-MLQ + mardi,1R,apprentissage 2012-2019,462,48.5,-0.076,-1.77,57.8
-MLQ + mardi,2R,apprentissage 2012-2019,462,44.4,0.032,0.57,57.8
-MLQ + mardi,3 jours,apprentissage 2012-2019,462,42.2,0.065,0.95,57.8
-MLQ + mardi,1R,validation 2020-2026,435,47.4,-0.07,-1.57,64.4
-MLQ + mardi,2R,validation 2020-2026,435,41.6,0.009,0.15,64.4
-MLQ + mardi,3 jours,validation 2020-2026,435,39.5,0.053,0.73,64.4
-Toute bougie (témoin),1R,apprentissage 2012-2019,12488,46.5,-0.092,-11.13,1561.0
-Toute bougie (témoin),2R,apprentissage 2012-2019,12488,39.9,-0.053,-5.06,1561.0
-Toute bougie (témoin),3 jours,apprentissage 2012-2019,12488,37.3,-0.029,-2.16,1561.0
-Toute bougie (témoin),1R,validation 2020-2026,10523,46.1,-0.101,-11.3,1559.0
-Toute bougie (témoin),2R,validation 2020-2026,10523,40.0,-0.045,-3.97,1559.0
-Toute bougie (témoin),3 jours,validation 2020-2026,10523,37.4,-0.013,-0.87,1559.0
+E (englobante seule),1R,apprentissage 2012-2019,5852,48.2,-0.053,-4.63,731.5
+E (englobante seule),2R,apprentissage 2012-2019,5852,42.9,-0.029,-2.1,731.5
+E (englobante seule),3 jours,apprentissage 2012-2019,5852,41.5,-0.02,-1.23,731.5
+E (englobante seule),1R,validation 2020-2026,4804,48.5,-0.044,-3.47,711.7
+E (englobante seule),2R,validation 2020-2026,4804,43.4,-0.001,-0.08,711.7
+E (englobante seule),3 jours,validation 2020-2026,4804,42.0,0.018,0.97,711.7
+E + englobante du mardi (trade mercredi),1R,apprentissage 2012-2019,1245,48.8,-0.054,-2.12,155.6
+E + englobante du mardi (trade mercredi),2R,apprentissage 2012-2019,1245,43.8,-0.023,-0.74,155.6
+E + englobante du mardi (trade mercredi),3 jours,apprentissage 2012-2019,1245,42.1,-0.014,-0.4,155.6
+E + englobante du mardi (trade mercredi),1R,validation 2020-2026,926,49.6,-0.019,-0.64,137.2
+E + englobante du mardi (trade mercredi),2R,validation 2020-2026,926,43.5,0.024,0.64,137.2
+E + englobante du mardi (trade mercredi),3 jours,validation 2020-2026,926,41.9,0.019,0.46,137.2
+E + englobante du mercredi,1R,apprentissage 2012-2019,1235,51.3,0.021,0.88,154.4
+E + englobante du mercredi,2R,apprentissage 2012-2019,1235,45.6,0.026,0.87,154.4
+E + englobante du mercredi,3 jours,apprentissage 2012-2019,1235,44.6,0.038,1.11,154.4
+E + englobante du mercredi,1R,validation 2020-2026,974,48.8,-0.034,-1.23,144.3
+E + englobante du mercredi,2R,validation 2020-2026,974,44.6,-0.002,-0.05,144.3
+E + englobante du mercredi,3 jours,validation 2020-2026,974,43.7,0.022,0.57,144.3
+E + MLQ,1R,apprentissage 2012-2019,1096,46.2,-0.085,-3.24,137.0
+E + MLQ,2R,apprentissage 2012-2019,1096,41.2,-0.056,-1.75,137.0
+E + MLQ,3 jours,apprentissage 2012-2019,1096,39.7,-0.048,-1.29,137.0
+E + MLQ,1R,validation 2020-2026,876,52.3,0.026,0.86,129.8
+E + MLQ,2R,validation 2020-2026,876,46.6,0.08,2.13,129.8
+E + MLQ,3 jours,validation 2020-2026,876,45.2,0.096,2.18,129.8
+E + MLQ + mardi,1R,apprentissage 2012-2019,220,47.7,-0.072,-1.22,27.5
+E + MLQ + mardi,2R,apprentissage 2012-2019,220,44.5,0.013,0.18,27.5
+E + MLQ + mardi,3 jours,apprentissage 2012-2019,220,42.3,0.02,0.24,27.5
+E + MLQ + mardi,1R,validation 2020-2026,175,51.4,0.022,0.32,25.9
+E + MLQ + mardi,2R,validation 2020-2026,175,46.3,0.113,1.33,25.9
+E + MLQ + mardi,3 jours,validation 2020-2026,175,45.1,0.097,1.08,25.9
+E + MLQ + mercredi,1R,apprentissage 2012-2019,223,44.8,-0.058,-1.03,27.9
+E + MLQ + mercredi,2R,apprentissage 2012-2019,223,39.5,-0.086,-1.31,27.9
+E + MLQ + mercredi,3 jours,apprentissage 2012-2019,223,37.7,-0.078,-0.96,27.9
+E + MLQ + mercredi,1R,validation 2020-2026,165,55.8,0.069,1.03,24.4
+E + MLQ + mercredi,2R,validation 2020-2026,165,50.9,0.116,1.42,24.4
+E + MLQ + mercredi,3 jours,validation 2020-2026,165,50.3,0.123,1.34,24.4
+T (trois barres),1R,apprentissage 2012-2019,615,48.5,-0.091,-2.4,76.9
+T (trois barres),2R,apprentissage 2012-2019,615,43.3,0.006,0.13,76.9
+T (trois barres),3 jours,apprentissage 2012-2019,615,41.3,0.073,1.03,76.9
+T (trois barres),1R,validation 2020-2026,569,46.4,-0.105,-2.7,84.3
+T (trois barres),2R,validation 2020-2026,569,40.6,-0.039,-0.78,84.3
+T (trois barres),3 jours,validation 2020-2026,569,39.7,0.069,1.04,84.3
+T + MLQ,1R,apprentissage 2012-2019,119,52.1,-0.007,-0.08,14.9
+T + MLQ,2R,apprentissage 2012-2019,119,47.1,0.125,1.07,14.9
+T + MLQ,3 jours,apprentissage 2012-2019,119,45.4,0.391,1.78,14.9
+T + MLQ,1R,validation 2020-2026,101,49.5,-0.032,-0.35,15.0
+T + MLQ,2R,validation 2020-2026,101,44.6,0.031,0.26,15.0
+T + MLQ,3 jours,validation 2020-2026,101,44.6,0.168,1.06,15.0
+T + englobante,1R,apprentissage 2012-2019,140,56.4,0.025,0.36,17.5
+T + englobante,2R,apprentissage 2012-2019,140,55.7,0.075,0.94,17.5
+T + englobante,3 jours,apprentissage 2012-2019,140,55.0,0.059,0.74,17.5
+T + englobante,1R,validation 2020-2026,121,47.1,-0.096,-1.31,17.9
+T + englobante,2R,validation 2020-2026,121,43.8,-0.073,-0.83,17.9
+T + englobante,3 jours,validation 2020-2026,121,43.8,-0.107,-1.25,17.9
+MLQ seul,1R,apprentissage 2012-2019,4097,46.4,-0.1,-6.92,512.1
+MLQ seul,2R,apprentissage 2012-2019,4097,39.9,-0.054,-2.95,512.1
+MLQ seul,3 jours,apprentissage 2012-2019,4097,37.2,-0.022,-0.86,512.1
+MLQ seul,1R,validation 2020-2026,3521,47.1,-0.082,-5.28,521.6
+MLQ seul,2R,validation 2020-2026,3521,41.2,-0.008,-0.41,521.6
+MLQ seul,3 jours,validation 2020-2026,3521,38.6,0.022,0.86,521.6
+MLQ + mardi,1R,apprentissage 2012-2019,781,45.5,-0.121,-3.67,97.6
+MLQ + mardi,2R,apprentissage 2012-2019,781,40.6,-0.019,-0.43,97.6
+MLQ + mardi,3 jours,apprentissage 2012-2019,781,38.0,0.033,0.55,97.6
+MLQ + mardi,1R,validation 2020-2026,727,48.8,-0.046,-1.33,107.7
+MLQ + mardi,2R,validation 2020-2026,727,42.2,0.017,0.39,107.7
+MLQ + mardi,3 jours,validation 2020-2026,727,40.6,0.053,0.99,107.7
+Toute bougie (témoin),1R,apprentissage 2012-2019,22892,46.4,-0.097,-15.88,2861.5
+Toute bougie (témoin),2R,apprentissage 2012-2019,22892,39.7,-0.055,-7.2,2861.5
+Toute bougie (témoin),3 jours,apprentissage 2012-2019,22892,37.1,-0.026,-2.48,2861.5
+Toute bougie (témoin),1R,validation 2020-2026,19290,46.3,-0.098,-14.84,2857.8
+Toute bougie (témoin),2R,validation 2020-2026,19290,39.9,-0.042,-4.95,2857.8
+Toute bougie (témoin),3 jours,validation 2020-2026,19290,37.3,-0.002,-0.21,2857.8

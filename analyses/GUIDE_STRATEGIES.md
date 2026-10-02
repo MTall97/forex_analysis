@@ -29,10 +29,10 @@
 
 Une variante est publiée dans le canal : « lundi haussier, mardi haussier et mercredi prend le high de mardi avant de tomber… 21 fois en 5 ans… 71 % avec un SL de 20 pips et un TP minimum de 60 pips » (#14577-#14579, #14631).
 
-**Test** ([`MASTERCLASS_VERIFIEE.md`](MASTERCLASS_VERIFIEE.md), Dukascopy 2012-2026, 6 paires) :
-- trois barres avec le filtre 60 pips : 142 trades, **25 % d'objectifs atteints**, −0,06 R ; GBPUSD 27 %, AUDJPY 23 % (et non 85 % et 70-75 %) ; moins de 2 setups par an et par paire ;
-- variante #14577 : 380 cas en 5 ans (et non 21), **22 %** d'objectifs, −0,11 R ;
-- **trois barres + MLQ** : +0,45 R par trade sur 135 trades, mais seulement +0,18 R sur 2020-2026 (non significatif). C'est la seule piste qui sort du lot, à surveiller ([détail](MASTERCLASS_VERIFIEE.md#6-combiner-les-briques--englobante-mercredi-mlq-trois-barres)).
+**Test** ([`MASTERCLASS_VERIFIEE.md`](MASTERCLASS_VERIFIEE.md), Dukascopy 2012-2026, 11 instruments) :
+- trois barres avec le filtre 60 pips : 311 trades, **24 % d'objectifs atteints**, −0,05 R ; GBPUSD 27 %, AUDJPY 23 % (et non 85 % et 70-75 %) ; moins de 2 setups par an et par paire ;
+- variante #14577 : 718 cas en 5 ans (et non 21), **21 %** d'objectifs, −0,23 R ;
+- **trois barres + MLQ** : prometteuse sur 4 paires, mais sur 11 instruments seulement +0,17 R sur 2020-2026, et des niveaux décalés font presque aussi bien : pas d'avantage ([détail](MASTERCLASS_VERIFIEE.md#6-combiner-les-briques--englobante-mercredi-mlq-trois-barres)).
 
 ## 2. L'englobante (les flashcards « Naruto »)
 
@@ -73,7 +73,7 @@ On entre à la clôture de la bougie 3, dans le sens des bougies 1 et 3, avec un
 
 - La quatrième bougie part dans le sens annoncé **moins d'une fois sur deux** (46,5 %, contre 75 % annoncés). Une bougie suit la couleur de la précédente dans 48 % des cas : la figure ne fait pas mieux que le hasard.
 - Le trade perd après spread, comme le témoin.
-- En journalier (Dukascopy 2012-2026, 6 paires) : 50,3 % (mèches) et 49,1 % (corps), contre 48,8 % pour le témoin ; pas d'avantage.
+- En journalier (Dukascopy 2012-2026, 11 instruments) : 49,9 % (mèches) et 50,7 % (corps), contre 49,7 % pour le témoin ; pas d'avantage.
 
 ## 4. La structure du marché et la « stratégie de la Bombe »
 
@@ -123,7 +123,7 @@ On entre à la clôture de la bougie 3, dans le sens des bougies 1 et 3, avec un
 **Tests** ([`MODELE_FONDAMENTAL_ET_MLQ.md`](MODELE_FONDAMENTAL_ET_MLQ.md), [`TRADES_PAR_EPOQUE.md`](TRADES_PAR_EPOQUE.md)) :
 - **ses propres trades depuis 2023** : près d'un MLQ, 49 % de gagnants et +0,91 R, contre 40 % et +0,38 R loin d'un MLQ. C'est le meilleur signal trouvé dans ses trades ;
 - **un robot qui trade tous les rejets de MLQ** perd (−0,12 R par trade). Le niveau seul ne suffit pas : c'est son choix du moment qui compte ;
-- **la version ±25 / 50 / 250 pips** (2012-2026, 3 126 trades) : 15,6 % d'objectifs pour 16,7 % nécessaires, −0,05 R ; des niveaux décalés de 125 pips font à peine moins bien (−0,09 R) ([test T5](MASTERCLASS_VERIFIEE.md#mlq-25--50--250-pips-t5)).
+- **la version ±25 / 50 / 250 pips** (2012-2026, 6 055 trades) : 15,6 % d'objectifs pour 16,7 % nécessaires, −0,08 R ; des niveaux décalés font pareil (−0,06 à −0,10 R) ([test T5](MASTERCLASS_VERIFIEE.md#mlq-25--50--250-pips-t5)).
 
 ## Les autres règles de la masterclass, en bref
 
