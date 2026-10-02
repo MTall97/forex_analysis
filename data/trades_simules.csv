@@ -1,0 +1,519 @@
+date_publication,id_message,paire,sens,entree,stop,objectif,ratio_rr,statut,resolution,issue,resultat_r,gain_max_r,entree_utc,sortie_utc,capture
+2021-01-06T05:30:00,3241,EURGBP,achat,0.90182,0.90122,0.9035,2.8,annoncé,1d,objectif,2.8,2.8,2021-01-06T00:00:00,2021-01-06T00:00:00,assets/tradingview/2021-01/2021-01-06_05h40_msg3241_B84I46HD.png
+2021-01-14T11:54:00,3282,EURJPY,achat,126.55,126.365,126.767,1.17,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2021-01/2021-01-14_11h55_msg3282_rHT8yb5B.png
+2021-01-14T17:24:00,3284,USDJPY,vente,104.105,104.145,103.691,10.35,annoncé,1d,stop,-1.0,0.0,2021-01-14T00:00:00,2021-01-14T00:00:00,assets/tradingview/2021-01/2021-01-14_17h26_msg3284_jrQkjHBQ.png
+2021-01-15T17:19:00,3288,GBPUSD,vente,1.36963,1.37015,1.35752,23.29,annoncé,1d,objectif,23.29,23.29,2021-01-15T00:00:00,2021-01-15T00:00:00,assets/tradingview/2021-01/2021-01-15_17h50_msg3288_lsg9P3Bh.png
+2021-01-18T11:58:00,3296,GBPCAD,achat,1.7305,1.7287,1.7344,2.17,annoncé,1d,objectif,2.17,2.17,2021-01-18T00:00:00,2021-01-18T00:00:00,assets/tradingview/2021-01/2021-01-18_11h58_msg3296_PEoepSvm.png
+2021-01-18T16:17:00,3303,GBPAUD,vente,1.76573,1.76671,1.76293,2.86,annoncé,1d,stop,-1.0,0.0,2021-01-18T00:00:00,2021-01-18T00:00:00,assets/tradingview/2021-01/2021-01-18_16h17_msg3303_O3EUx2g5.png
+2021-01-21T15:14:00,3340,EURNZD,achat,1.6817,1.68109,1.68806,10.43,annoncé,1d,objectif,10.43,10.43,2021-01-21T00:00:00,2021-01-21T00:00:00,assets/tradingview/2021-01/2021-01-21_15h18_msg3340_biy9OmYJ.png
+2021-01-26T16:11:00,3361,USDCHF,achat,0.88517,0.88457,0.89301,13.07,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-02-01T00:00:00,assets/tradingview/2021-01/2021-01-26_16h12_msg3361_svr8cL3c.png
+2021-01-27T16:11:00,3364,US30,vente,30667.48,30688.53,30381.28,13.6,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2021-01/2021-01-27_16h14_msg3364_ZL5XTduv.png
+2021-01-29T09:08:00,3391,USDCAD,vente,1.28723,1.28763,1.28326,9.93,après coup,1d,stop,-1.0,0.0,2021-01-28T00:00:00,2021-01-28T00:00:00,assets/tradingview/2021-01/2021-01-29_09h09_msg3391_jngIFyVD.png
+2021-02-03T00:59:36,3403,GBPJPY,vente,143.686,143.747,142.463,20.05,annoncé,1d,stop,-1.0,0.0,2021-02-04T00:00:00,2021-02-04T00:00:00,assets/tradingview/2021-02/2021-02-03_00h59_msg3403_Kr9s3nbD.png
+2021-02-04T14:47:55,3444,EURAUD,vente,1.59356,1.59461,1.56969,22.73,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-02-08T00:00:00,assets/tradingview/2021-02/2021-02-04_14h47_msg3444_DYWLfpcw.png
+2021-02-05T19:07:00,3449,NZDUSD,achat,0.71396,0.71351,0.72007,13.58,annoncé,1d,objectif,13.58,13.58,2021-02-05T00:00:00,2021-02-08T00:00:00,assets/tradingview/2021-02/2021-02-05_19h15_msg3449_C57BouzW.png
+2021-02-19T18:40:20,3475,AUDUSD,achat,0.77678,0.77245,0.78512,1.93,annoncé,1d,objectif,1.93,1.93,2021-02-19T18:40:20,2021-02-22T00:00:00,assets/tradingview/2021-02/2021-02-19_18h40_msg3475_4IzweJSr.png
+2021-02-19T18:47:00,3476,USDJPY,achat,105.601,105.239,106.188,1.62,annoncé,1d,stop,-1.0,0.0,2021-02-19T18:47:00,2021-02-22T00:00:00,assets/tradingview/2021-02/2021-02-19_18h47_msg3476_yFFU39ww.png
+2021-02-19T18:59:00,3479,AUDUSD,achat,0.77343,0.77269,0.78564,16.5,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-02-19T00:00:00,assets/tradingview/2021-02/2021-02-19_18h59_msg3479_j4YiGsar.png
+2021-02-24T19:21:00,3488,XAUUSD,vente,1813.391,1815.042,1790.325,13.97,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-02-24T00:00:00,assets/tradingview/2021-02/2021-02-24_20h18_msg3488_uPiXCyfG.png
+2021-03-01T08:35:00,3508,GBPUSD,vente,1.40936,1.41238,1.40321,2.04,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2021-03/2021-03-01_08h35_msg3508_yWGawgU8.png
+2021-03-01T09:27:14,3519,EURGBP,vente,0.8665,0.86678,0.8635,10.71,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-03-01T00:00:00,assets/tradingview/2021-03/2021-03-01_09h27_msg3519_336FHRlm.png
+2021-03-01T07:55:00,3520,EURGBP,vente,0.8645,0.86496,0.8635,2.17,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2021-03/2021-03-01_09h27_msg3520_kSv7RS1B.png
+2021-03-02T17:38:00,3526,EURGBP,vente,0.86579,0.86639,0.86002,9.62,annoncé,1d,stop,-1.0,0.0,2021-03-02T00:00:00,2021-03-02T00:00:00,assets/tradingview/2021-03/2021-03-02_17h51_msg3526_N8lqGdVu.png
+2021-03-03T13:21:00,3532,AUDCAD,achat,0.987,0.98198,0.98974,0.55,annoncé,1d,objectif,0.55,0.55,2021-03-03T00:00:00,2021-03-03T00:00:00,assets/tradingview/2021-03/2021-03-03_13h21_msg3532_OcpWG5P9.png
+2021-03-03T12:55:00,3534,GBPUSD,vente,1.39789,1.39852,1.39153,10.1,annoncé,1d,stop,-1.0,0.0,2021-03-03T00:00:00,2021-03-03T00:00:00,assets/tradingview/2021-03/2021-03-03_17h31_msg3534_yaZTSizg.png
+2021-03-03T13:10:00,3537,EURAUD,achat,1.54342,1.54289,1.55123,14.74,annoncé,1d,stop,-1.0,0.0,2021-03-03T00:00:00,2021-03-03T00:00:00,assets/tradingview/2021-03/2021-03-03_17h38_msg3537_HnUr2h4h.png
+2021-03-03T18:10:00,3539,AUDCAD,achat,0.98259,0.982,0.98976,12.15,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-03-03T00:00:00,assets/tradingview/2021-03/2021-03-03_18h10_msg3539_w7nvBQOi.png
+2021-03-05T07:15:00,3563,EURNZD,achat,1.6569,1.6559,1.66995,13.05,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-03-05T00:00:00,assets/tradingview/2021-03/2021-03-05_07h20_msg3563_MUReYbvo.png
+2021-03-08T14:45:00,3565,EURUSD,vente,1.21679,1.21729,1.21168,10.22,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2021-03/2021-03-09_02h03_msg3565_BDkPIoQC.png
+2021-03-08T14:46:00,3566,EURUSD,vente,1.21153,1.21203,1.20884,5.38,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2021-03/2021-03-09_02h03_msg3566_s8JKqpEk.png
+2021-03-08T14:47:00,3567,EURUSD,vente,1.20488,1.20522,1.20447,1.21,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2021-03/2021-03-09_02h03_msg3567_WkYwt4v4.png
+2021-03-15T10:36:00,3585,GBPUSD,achat,1.37958,1.37925,1.38474,15.64,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2021-03/2021-03-15_10h37_msg3585_kS7DIH1l.png
+2021-03-15T10:46:05,3591,GBPUSD,vente,1.39444,1.39503,1.38026,24.03,annoncé,1d,stop,-1.0,22.54,2021-03-15T00:00:00,2021-03-18T00:00:00,assets/tradingview/2021-03/2021-03-15_10h46_msg3591_TgO3gbgW.png
+2021-03-16T15:51:00,3603,GBPJPY,vente,151.697,151.778,150.805,11.01,annoncé,1d,objectif,11.01,11.01,2021-03-16T00:00:00,2021-03-16T00:00:00,assets/tradingview/2021-03/2021-03-16_15h52_msg3603_i3ho9DBY.png
+2021-03-16T16:26:00,3605,GBPJPY,vente,151.448,151.484,151.043,11.25,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2021-03/2021-03-16_16h26_msg3605_DNAHPjdz.png
+2021-03-25T23:32:00,3641,EURJPY,achat,128.411,128.289,128.613,1.66,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-03-25T00:00:00,assets/tradingview/2021-03/2021-03-25_23h33_msg3641_spwsb7Jd.png
+2021-03-30T11:21:00,3669,USDJPY,vente,109.264,109.328,108.769,7.73,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2021-03/2021-03-30_20h46_msg3669_7mAgfo4t.png
+2021-04-01T01:34:00,3696,EURJPY,vente,129.992,130.094,128.305,16.54,annoncé,1d,stop,-1.0,0.0,2021-04-01T00:00:00,2021-04-01T00:00:00,assets/tradingview/2021-04/2021-04-01_01h34_msg3696_bQCQkUrz.png
+2021-04-09T17:52:26,3788,GBPCAD,vente,1.74684,1.74934,1.71748,11.74,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-04-12T00:00:00,assets/tradingview/2021-04/2021-04-09_17h52_msg3788_RPFmzy0E.png
+2021-04-09T21:37:00,3792,NZDUSD,vente,0.70504,0.70529,0.70404,4.0,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2021-04/2021-04-09_21h38_msg3792_ag6t3QbF.png
+2021-04-19T14:59:00,3846,EURUSD,achat,1.21318,1.21133,1.21522,1.1,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2021-04/2021-04-19_15h01_msg3846_HrVeNfJt.png
+2021-04-20T04:39:00,3859,EURUSD,vente,1.20625,1.2074,1.20387,2.07,annoncé,1d,stop,-1.0,0.0,2021-04-20T00:00:00,2021-04-20T00:00:00,assets/tradingview/2021-04/2021-04-20_04h39_msg3859_ntTEJNZh.png
+2021-04-29T07:25:28,3894,GBPJPY,achat,150.5,148.881,151.975,0.91,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-04-29T00:00:00,ChatExport_2026-10-01/photos/photo_1279@29-04-2021_07-25-28.jpg
+2021-05-05T13:20:00,3912,EURUSD,achat,1.19995,1.19902,1.21391,15.01,annoncé,1d,stop,-1.0,0.0,2021-05-05T00:00:00,2021-05-05T00:00:00,assets/tradingview/2021-05/2021-05-05_13h30_msg3912_DrNA0ADP.png
+2021-05-05T13:29:00,3918,EURUSD,achat,1.19932,1.19861,1.21445,21.31,annoncé,1d,objectif,21.31,21.31,2021-05-05T00:00:00,2021-05-07T00:00:00,assets/tradingview/2021-05/2021-05-05_13h30_msg3918_gnQjGW1c.png
+2021-05-05T13:53:27,3930,EURJPY,vente,131.442,131.463,131.13,14.86,annoncé,1d,objectif,14.86,14.86,2021-05-05T00:00:00,2021-05-05T00:00:00,assets/tradingview/2021-05/2021-05-05_13h53_msg3930_qPDNdHaA.png
+2021-05-06T13:34:35,3945,AUDCAD,vente,0.96806,0.9701,0.95432,6.74,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2021-05/2021-05-06_13h34_msg3945_3IqRinOy.png
+2021-05-11T13:48:00,3991,AUDCAD,achat,0.94749,0.94689,0.94816,1.12,annoncé,1d,stop,-1.0,0.0,2021-05-11T00:00:00,2021-05-11T00:00:00,assets/tradingview/2021-05/2021-05-11_13h48_msg3991_DyP91uUQ.png
+2021-06-16T19:08:00,4134,EURJPY,vente,133.576,133.617,132.85,17.71,annoncé,1d,objectif,17.71,17.71,2021-06-16T00:00:00,2021-06-17T00:00:00,assets/tradingview/2021-06/2021-06-16_19h08_msg4134_Sqqu6xe2.png
+2021-06-17T12:42:26,4148,GBPNZD,vente,1.98498,1.98599,1.96867,16.15,annoncé,1d,stop,-1.0,0.0,2021-06-17T00:00:00,2021-06-17T00:00:00,assets/tradingview/2021-06/2021-06-17_12h42_msg4148_H9cBpLyh.png
+2021-06-21T16:30:44,4176,EURUSD,achat,1.18516,1.18466,1.19175,13.18,annoncé,1d,objectif,13.18,13.18,2021-06-21T00:00:00,2021-06-21T00:00:00,assets/tradingview/2021-06/2021-06-21_16h30_msg4176_TQX5aiZe.png
+2021-06-25T03:57:00,4189,EURUSD,achat,1.19282,1.19247,1.19404,3.49,annoncé,1d,stop,-1.0,0.0,2021-06-25T03:57:00,2021-06-28T00:00:00,assets/tradingview/2021-06/2021-06-25_03h57_msg4189_3VUbPAA8.png
+2021-06-28T01:46:00,4194,NZDUSD,vente,0.70919,0.70969,0.70018,18.02,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-06-29T00:00:00,assets/tradingview/2021-06/2021-06-28_14h07_msg4194_6Swb1oau.png
+2021-06-30T18:35:00,4212,EURJPY,achat,131.315,131.261,132.151,15.48,annoncé,1d,stop,-1.0,0.0,2021-06-30T00:00:00,2021-06-30T00:00:00,assets/tradingview/2021-06/2021-06-30_18h35_msg4212_7MqnIDmM.png
+2021-07-06T13:15:00,4237,GBPCHF,vente,1.28074,1.28204,1.26532,11.86,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-07-08T00:00:00,assets/tradingview/2021-07/2021-07-06_13h15_msg4237_nheLjJl8.png
+2021-07-07T13:32:00,4258,USDJPY,achat,110.536,110.496,111.641,27.62,annoncé,1d,stop,-1.0,0.0,2021-07-07T00:00:00,2021-07-07T00:00:00,assets/tradingview/2021-07/2021-07-07_13h32_msg4258_6kEsqUuF.png
+2021-07-08T01:59:00,4268,EURGBP,achat,0.8575,0.85668,0.8584,1.1,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2021-07/2021-07-08_07h00_msg4268_q5ezfXEI.png
+2021-07-08T08:19:00,4286,GBPJPY,achat,153.157,153.127,153.899,24.73,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2021-07/2021-07-08_08h20_msg4286_Y5BQAcT1.png
+2021-07-13T12:36:12,4317,EURNZD,achat,1.69486,1.69382,1.70306,7.88,annoncé,1d,stop,-1.0,0.0,2021-07-13T00:00:00,2021-07-13T00:00:00,assets/tradingview/2021-07/2021-07-13_12h36_msg4317_TOhzYXIv.png
+2021-07-13T12:39:00,4320,EURGBP,achat,0.85544,0.8536,0.85763,1.19,annoncé,1d,stop,-1.0,0.0,2021-07-13T00:00:00,2021-07-13T00:00:00,assets/tradingview/2021-07/2021-07-13_12h39_msg4320_8232CdQV.png
+2021-08-23T14:57:00,4406,GBPUSD,achat,1.36083,1.36007,1.37528,19.01,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-08-26T00:00:00,assets/tradingview/2021-08/2021-08-23_14h57_msg4406_mIuuqtDV.png
+2021-09-09T13:05:00,4471,EURJPY,achat,128.779,128.697,130.682,23.21,annoncé,1d,stop,-1.0,0.0,2021-09-16T00:00:00,2021-09-16T00:00:00,assets/tradingview/2021-09/2021-09-09_13h08_msg4471_mZfZzMMU.png
+2021-09-09T13:24:00,4475,EURJPY,achat,129.897,128.697,130.695,0.67,annoncé,1d,stop,-1.0,0.33,2021-09-09T00:00:00,2021-09-16T00:00:00,assets/tradingview/2021-09/2021-09-09_13h24_msg4475_o9uPE6Bs.png
+2021-09-15T16:56:00,4494,AUDCAD,vente,0.92963,0.93013,0.92692,5.42,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-09-15T00:00:00,assets/tradingview/2021-09/2021-09-15_16h56_msg4494_5P0M8YRd.png
+2021-09-15T19:48:00,4498,NZDUSD,achat,0.71083,0.71056,0.71456,13.81,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2021-09/2021-09-15_19h49_msg4498_sSzQMGsU.png
+2021-09-23T02:54:00,4525,AUDUSD,vente,0.72396,0.7243,0.72137,7.62,annoncé,1d,stop,-1.0,0.0,2021-09-23T00:00:00,2021-09-23T00:00:00,assets/tradingview/2021-09/2021-09-23_02h55_msg4525_Ltrx2Xa4.png
+2021-09-30T18:37:00,4546,AUDUSD,vente,0.73111,0.7315,0.72267,21.64,après coup,1d,objectif,21.64,21.64,2021-09-28T00:00:00,2021-09-29T00:00:00,assets/tradingview/2021-09/2021-09-30_18h38_msg4546_E2OKcl6F.png
+2021-09-30T18:50:00,4551,EURUSD,vente,1.17688,1.18057,1.17091,1.62,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2021-09/2021-09-30_18h50_msg4551_zqNS9UFc.png
+2021-10-03T23:57:00,4562,AUDUSD,achat,0.72515,0.7248,0.7281,8.43,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-10-04T00:00:00,assets/tradingview/2021-10/2021-10-04_00h21_msg4562_pE5M36Cg.png
+2021-10-04T14:22:00,4567,XAUUSD,achat,1748.889,1748.223,1764.074,22.8,annoncé,1d,stop,-1.0,0.0,2021-10-04T00:00:00,2021-10-04T00:00:00,assets/tradingview/2021-10/2021-10-04_14h22_msg4567_qBbaJILN.png
+2021-10-04T14:38:00,4574,EURJPY,vente,129.337,129.366,128.987,12.07,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2021-10/2021-10-04_14h41_msg4574_jJSv9c3F.png
+2021-10-05T13:05:00,4576,USDJPY,vente,111.223,111.248,110.847,15.04,annoncé,1d,stop,-1.0,0.0,2021-10-05T00:00:00,2021-10-05T00:00:00,assets/tradingview/2021-10/2021-10-05_13h06_msg4576_styAc0dm.png
+2021-10-05T13:10:00,4577,USDJPY,achat,111.223,111.106,111.316,0.79,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2021-10/2021-10-05_13h10_msg4577_daPnbHHp.png
+2021-10-05T13:48:00,4584,EURNZD,achat,1.66616,1.66396,1.67243,2.85,annoncé,1d,stop,-1.0,0.0,2021-10-05T00:00:00,2021-10-05T00:00:00,assets/tradingview/2021-10/2021-10-05_13h49_msg4584_cwSHS7Ca.png
+2021-10-05T13:52:00,4587,EURGBP,vente,0.85201,0.85221,0.85049,7.6,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2021-10/2021-10-05_13h54_msg4587_lo8RLUF6.png
+2021-10-08T15:26:00,4608,XAUUSD,achat,1757.615,1754.187,1780.697,6.73,annoncé,1d,stop,-1.0,0.0,2021-10-08T15:26:00,2021-10-11T00:00:00,assets/tradingview/2021-10/2021-10-08_15h28_msg4608_n50sSV79.png
+2021-10-15T16:44:00,4619,EURUSD,vente,1.16086,1.16111,1.15853,9.32,annoncé,1d,stop,-1.0,0.0,2021-10-15T00:00:00,2021-10-15T00:00:00,assets/tradingview/2021-10/2021-10-15_16h45_msg4619_qY5g1hdI.png
+2021-10-15T16:48:00,4622,EURUSD,vente,1.15963,1.16111,1.15853,0.74,annoncé,1d,stop,-1.0,0.0,2021-10-15T00:00:00,2021-10-15T00:00:00,assets/tradingview/2021-10/2021-10-15_16h48_msg4622_i0GSdF18.png
+2021-10-19T04:50:00,4630,XAUUSD,achat,1761.587,1761.116,1774.95,28.37,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-10-19T00:00:00,assets/tradingview/2021-10/2021-10-19_04h51_msg4630_4eaqzBIW.png
+2021-10-25T16:48:00,4654,XAUUSD,vente,1812.249,1814.275,1783.196,14.34,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-10-26T00:00:00,assets/tradingview/2021-10/2021-10-25_16h48_msg4654_iJ3o4iFX.png
+2021-11-04T15:00:00,4714,GBPUSD,achat,1.37637,1.37559,1.38298,8.47,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2021-11/2021-11-04_15h01_msg4714_EMZjPoUS.png
+2021-11-08T14:33:00,4734,EURJPY,achat,131.659,131.547,132.398,6.6,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2021-11/2021-11-08_14h33_msg4734_kpJjM4Bx.png
+2021-11-08T14:34:00,4737,EURJPY,vente,131.327,131.547,130.991,1.53,annoncé,1d,objectif,1.53,1.53,2021-11-08T00:00:00,2021-11-08T00:00:00,assets/tradingview/2021-11/2021-11-08_14h34_msg4737_fPlKE2sz.png
+2021-11-11T03:41:00,4782,GBPUSD,vente,1.36003,1.36084,1.34044,24.19,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-11-11T00:00:00,assets/tradingview/2021-11/2021-11-11_03h42_msg4782_GVukfakl.png
+2021-11-11T17:14:00,4795,USDCAD,achat,1.23899,1.23722,1.25921,11.42,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-11-12T00:00:00,assets/tradingview/2021-11/2021-11-11_17h15_msg4795_hMOurz17.png
+2021-11-11T17:19:00,4799,NZDUSD,vente,0.71739,0.71829,0.70736,11.14,après coup,1d,objectif,11.14,11.14,2021-11-09T00:00:00,2021-11-11T00:00:00,assets/tradingview/2021-11/2021-11-11_17h19_msg4799_64wwjkkM.png
+2021-11-11T23:27:00,4803,USDJPY,vente,114.2,114.305,114.071,1.23,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2021-11/2021-11-11_23h27_msg4803_hhpixQLN.png
+2021-11-12T20:03:00,4817,AUDJPY,achat,83.05,82.947,84.186,11.03,annoncé,1d,stop,-1.0,0.0,2021-11-18T00:00:00,2021-11-18T00:00:00,assets/tradingview/2021-11/2021-11-12_20h03_msg4817_6g6g65vs.png
+2021-11-16T17:44:00,4847,GBPUSD,achat,1.34107,1.34038,1.34756,9.41,annoncé,1d,stop,-1.0,0.0,2021-11-16T17:44:00,2021-11-17T00:00:00,assets/tradingview/2021-11/2021-11-16_17h45_msg4847_jEOFvJo1.png
+2021-11-17T12:24:00,4865,NZDJPY,vente,80.595,80.647,79.814,15.02,annoncé,1d,objectif,15.02,15.02,2021-11-17T00:00:00,2021-11-18T00:00:00,assets/tradingview/2021-11/2021-11-17_12h24_msg4865_bkI8A5G9.png
+2021-11-18T07:16:00,4889,XAUUSD,vente,1874.615,1878.616,1846.758,6.96,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-11-19T00:00:00,assets/tradingview/2021-11/2021-11-18_07h16_msg4889_ktIilhkK.png
+2021-11-19T08:36:00,4903,GBPUSD,vente,1.35062,1.35297,1.34568,2.1,annoncé,1d,objectif,2.1,2.1,2021-11-19T00:00:00,2021-11-19T00:00:00,assets/tradingview/2021-11/2021-11-19_14h14_msg4903_agVY1Le5.png
+2021-11-19T10:38:00,4905,USDJPY,achat,114.112,114.041,114.694,8.2,annoncé,1d,stop,-1.0,0.0,2021-11-19T00:00:00,2021-11-19T00:00:00,assets/tradingview/2021-11/2021-11-19_14h14_msg4905_XljPxIOM.png
+2021-11-19T18:24:00,4911,EURNZD,achat,1.60884,1.60601,1.63353,8.72,annoncé,1d,objectif,8.72,8.72,2021-11-19T00:00:00,2021-11-25T00:00:00,assets/tradingview/2021-11/2021-11-19_18h25_msg4911_JaG7P9fP.png
+2021-11-22T17:28:00,4936,EURNZD,achat,1.60708,1.60608,1.62325,16.17,annoncé,1d,objectif,16.17,16.17,2021-11-22T00:00:00,2021-11-23T00:00:00,assets/tradingview/2021-11/2021-11-22_17h29_msg4936_zjPMa6BV.png
+2021-11-23T17:23:00,4950,EURAUD,vente,1.56411,1.5655,1.54426,14.28,annoncé,1d,stop,-1.0,0.0,2021-11-26T00:00:00,2021-11-26T00:00:00,assets/tradingview/2021-11/2021-11-23_17h26_msg4950_HFUgJwiz.png
+2021-11-24T17:07:00,4958,AUDUSD,achat,0.71822,0.71695,0.73716,14.91,annoncé,1d,stop,-1.0,2.26,2021-11-25T00:00:00,2021-11-26T00:00:00,assets/tradingview/2021-11/2021-11-24_17h07_msg4958_AheNEyd6.png
+2021-11-29T18:53:00,4992,EURJPY,achat,127.606,127.479,129.542,15.24,annoncé,1d,objectif,15.24,15.24,2021-11-29T00:00:00,2021-12-16T00:00:00,assets/tradingview/2021-11/2021-11-29_18h53_msg4992_XQh7CNy8.png
+2021-12-02T15:21:00,5067,AUDUSD,achat,0.715,0.71073,0.71714,0.5,annoncé,1d,objectif,0.5,0.5,2021-12-08T00:00:00,2021-12-09T00:00:00,assets/tradingview/2021-12/2021-12-02_15h23_msg5067_MQ8wm0hW.png
+2021-12-02T17:15:00,5076,GBPJPY,vente,151.5,152.54,150.687,0.78,après coup,1d,objectif,0.78,0.78,2021-11-30T00:00:00,2021-11-30T00:00:00,assets/tradingview/2021-12/2021-12-02_17h15_msg5076_6QPBQ6Td.png
+2021-12-02T17:29:00,5083,USDJPY,achat,112.779,112.629,114.041,8.41,annoncé,1d,objectif,8.41,8.41,2021-12-02T00:00:00,2021-12-16T00:00:00,assets/tradingview/2021-12/2021-12-02_17h29_msg5083_uReb73tC.png
+2021-12-02T17:56:00,5093,AUDUSD,achat,0.714,0.70809,0.71714,0.53,annoncé,1d,objectif,0.53,0.53,2021-12-08T00:00:00,2021-12-09T00:00:00,assets/tradingview/2021-12/2021-12-02_17h57_msg5093_AHCePIPQ.png
+2021-12-16T23:35:00,5226,GBPJPY,vente,152.0,152.54,149.592,4.46,annoncé,1d,stop,-1.0,0.0,2021-12-16T00:00:00,2021-12-16T00:00:00,assets/tradingview/2021-12/2021-12-16_23h35_msg5226_A5Y4pPq2.png
+2021-12-21T01:25:00,5253,NZDUSD,achat,0.67011,0.67004,0.67111,14.29,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2021-12/2021-12-21_01h25_msg5253_U2jnga5t.png
+2021-12-22T17:08:00,5259,NZDUSD,achat,0.67117,0.67004,0.68187,9.47,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-12-23T00:00:00,assets/tradingview/2021-12/2021-12-22_17h09_msg5259_2hxEY5Uo.png
+2021-12-23T05:31:00,5263,EURNZD,achat,1.67,1.66472,1.68078,2.04,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2021-12/2021-12-23_05h31_msg5263_BVvhQpkC.png
+2021-12-23T05:31:00,5264,EURNZD,achat,1.65675,1.65475,1.68078,12.01,annoncé,1d,stop,-1.0,5.64,2021-12-23T00:00:00,2021-12-24T00:00:00,assets/tradingview/2021-12/2021-12-23_05h31_msg5264_gJn1Fodv.png
+2021-12-29T02:34:00,5304,NZDUSD,achat,0.6794,0.67857,0.68472,6.41,annoncé,1d,objectif,6.41,6.41,2021-12-29T00:00:00,2021-12-30T00:00:00,assets/tradingview/2021-12/2021-12-29_04h06_msg5304_1a8FpLxo.png
+2021-12-29T02:33:00,5307,AUDUSD,achat,0.72132,0.72046,0.72614,5.6,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2021-12-29T00:00:00,assets/tradingview/2021-12/2021-12-29_04h07_msg5307_QjYj2rkE.png
+2021-12-29T18:21:00,5311,AUDUSD,achat,0.723,0.72048,0.7247,0.67,annoncé,1d,objectif,0.67,0.67,2021-12-29T18:21:00,2021-12-30T00:00:00,assets/tradingview/2021-12/2021-12-29_18h24_msg5311_D2E2Ad7A.png
+2021-12-30T13:19:00,5325,USDCAD,achat,1.27764,1.2766,1.28833,10.28,annoncé,1d,stop,-1.0,3.4,2021-12-30T00:00:00,2021-12-31T00:00:00,assets/tradingview/2021-12/2021-12-30_13h19_msg5325_dVdvsM8r.png
+2022-01-10T15:42:00,5391,USDCAD,achat,1.2625,1.26068,1.269,3.57,annoncé,1d,objectif,3.57,3.57,2022-01-10T00:00:00,2022-01-10T00:00:00,assets/tradingview/2022-01/2022-01-10_15h43_msg5391_cw0Wpez2.png
+2022-01-12T16:01:00,5413,GBPJPY,achat,157.4,157.165,157.71,1.32,annoncé,1d,stop,-1.0,0.0,2022-01-12T00:00:00,2022-01-12T00:00:00,assets/tradingview/2022-01/2022-01-12_16h01_msg5413_XqR02n2S.png
+2022-01-12T22:20:00,5414,GBPJPY,vente,157.507,157.665,155.924,10.02,annoncé,1d,stop,-1.0,0.0,2022-01-12T00:00:00,2022-01-12T00:00:00,assets/tradingview/2022-01/2022-01-12_22h20_msg5414_rRXBmw4s.png
+2022-01-12T23:55:00,5435,GBPJPY,vente,157.301,157.486,157.174,0.69,annoncé,1d,stop,-1.0,0.0,2022-01-12T00:00:00,2022-01-12T00:00:00,ChatExport_2026-10-01/photos/photo_1515@13-01-2022_19-42-06.jpg
+2022-01-20T07:16:00,5463,EURGBP,vente,0.83646,0.83795,0.83309,2.26,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2022-01-20T00:00:00,assets/tradingview/2022-01/2022-01-20_07h17_msg5463_AyBETkbM.png
+2022-01-24T03:23:00,5486,EURGBP,vente,0.83745,0.83819,0.82506,16.74,annoncé,1d,stop,-1.0,0.0,2022-01-24T00:00:00,2022-01-24T00:00:00,assets/tradingview/2022-01/2022-01-24_03h23_msg5486_velnYyRv.png
+2022-01-24T21:36:41,5492,EURUSD,achat,1.12948,1.12818,1.14417,11.3,annoncé,1d,stop,-1.0,3.55,2022-01-24T00:00:00,2022-01-25T00:00:00,assets/tradingview/2022-01/2022-01-24_21h36_msg5492_4TxFWmOg.png
+2022-01-30T01:36:43,5522,XAUUSD,achat,1829.993,1827.717,1850.729,9.11,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2022-01/2022-01-30_01h36_msg5522_DC8qifXa.png
+2022-02-02T06:12:00,5568,EURJPY,vente,129.45,129.55,129.361,0.89,après coup,1d,objectif,0.89,0.89,2022-02-01T00:00:00,2022-02-01T00:00:00,assets/tradingview/2022-02/2022-02-02_06h12_msg5568_HbXd44lN.png
+2022-02-08T04:38:00,5601,NZDUSD,vente,0.66483,0.66552,0.65918,8.19,annoncé,1d,stop,-1.0,2.78,2022-02-08T00:00:00,2022-02-09T00:00:00,assets/tradingview/2022-02/2022-02-08_04h39_msg5601_BksoTlEc.png
+2022-02-11T05:17:00,5607,NZDJPY,vente,77.913,78.033,77.059,7.12,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2022-02-11T00:00:00,assets/tradingview/2022-02/2022-02-11_05h18_msg5607_dvXy7JiA.png
+2022-02-18T18:41:17,5619,NZDUSD,vente,0.67255,0.67385,0.6573,11.73,annoncé,1d,stop,-1.0,3.14,2022-02-18T00:00:00,2022-02-22T00:00:00,ChatExport_2026-10-01/photos/photo_1566@18-02-2022_18-41-17.jpg
+2022-03-02T15:50:00,5654,USDJPY,achat,114.697,114.596,115.734,10.27,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2022-03-03T00:00:00,assets/tradingview/2022-03/2022-03-02_15h50_msg5654_S2seabbl.png
+2022-03-02T15:51:00,5656,AUDUSD,vente,0.72705,0.7292,0.70869,8.54,annoncé,1d,stop,-1.0,1.23,2022-03-02T00:00:00,2022-03-03T00:00:00,assets/tradingview/2022-03/2022-03-02_15h51_msg5656_bj6u2cF7.png
+2022-04-20T17:18:00,5726,GBPJPY,vente,167.624,167.78,166.043,10.13,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2022-04/2022-04-20_17h18_msg5726_SZYam86g.png
+2022-04-21T04:31:00,5734,USDCHF,vente,0.95118,0.95168,0.94563,11.1,annoncé,1d,stop,-1.0,0.0,2022-04-21T00:00:00,2022-04-21T00:00:00,assets/tradingview/2022-04/2022-04-21_07h11_msg5734_bdlsFKnP.png
+2022-06-30T19:44:00,5902,EURUSD,achat,1.03873,1.03823,1.04672,15.98,annoncé,1d,objectif,15.98,15.98,2022-06-30T00:00:00,2022-06-30T00:00:00,assets/tradingview/2022-06/2022-06-30_19h55_msg5902_FUapu33J.png
+2022-07-20T12:09:00,5996,GBPUSD,vente,1.2028,1.20425,1.19769,3.52,annoncé,1d,objectif,3.52,3.52,2022-07-20T00:00:00,2022-07-20T00:00:00,assets/tradingview/2022-07/2022-07-20_12h09_msg5996_EmcmhZiR.png
+2022-07-20T19:55:00,6011,NZDUSD,achat,0.626,0.61009,0.6355,0.6,annoncé,1d,objectif,0.6,0.6,2022-07-20T19:55:00,2022-08-10T00:00:00,assets/tradingview/2022-07/2022-07-20_19h55_msg6011_PgVyyXoH.png
+2022-07-21T20:00:00,6042,NZDUSD,achat,0.628,0.62371,0.63243,1.03,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2022-07/2022-07-21_20h00_msg6042_cZ8m7sAE.png
+2022-07-21T20:02:00,6043,NZDUSD,achat,0.6215,0.61844,0.62349,0.65,annoncé,1d,objectif,0.65,0.65,2022-07-21T00:00:00,2022-07-21T00:00:00,assets/tradingview/2022-07/2022-07-21_20h02_msg6043_KP4BS03u.png
+2022-07-22T13:51:00,6063,NZDUSD,achat,0.6194,0.61844,0.63218,13.31,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2022-07-29T00:00:00,assets/tradingview/2022-07/2022-07-22_13h51_msg6063_5FwedK61.png
+2022-07-26T13:56:00,6083,EURUSD,achat,1.00933,1.00733,1.0296,10.13,annoncé,1d,non déclenché,,,,,assets/tradingview/2022-07/2022-07-26_13h56_msg6083_i11svnkw.png
+2022-07-27T19:06:00,6096,EURUSD,vente,1.0158,1.0173,0.99966,10.76,annoncé,1d,stop,-1.0,3.37,2022-07-27T00:00:00,2022-07-28T00:00:00,assets/tradingview/2022-07/2022-07-27_19h06_msg6096_YGDNQZK9.png
+2022-08-02T12:37:00,6110,CHFJPY,vente,141.964,143.306,141.163,0.6,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2022-08/2022-08-02_12h37_msg6110_VxYojCAZ.png
+2022-08-04T15:01:00,6121,EURAUD,achat,1.45671,1.4525,1.46738,2.53,annoncé,1d,objectif,2.53,2.53,2022-08-04T00:00:00,2022-08-04T00:00:00,assets/tradingview/2022-08/2022-08-04_15h04_msg6121_hyFpvidH.png
+2022-08-05T12:54:00,6134,GBPJPY,vente,161.5,162.111,159.4,3.44,annoncé,1d,stop,-1.0,0.0,2022-08-05T00:00:00,2022-08-05T00:00:00,assets/tradingview/2022-08/2022-08-05_12h55_msg6134_bYbZdqOs.png
+2022-08-08T18:15:00,6150,EURAUD,achat,1.45418,1.4526,1.47445,12.83,annoncé,1d,stop,-1.0,0.0,2022-08-11T00:00:00,2022-08-11T00:00:00,assets/tradingview/2022-08/2022-08-08_18h16_msg6150_HoVRL2K5.png
+2022-08-10T13:12:00,6160,USDJPY,vente,134.973,135.245,133.237,6.38,annoncé,1d,stop,-1.0,0.0,2022-08-10T00:00:00,2022-08-10T00:00:00,assets/tradingview/2022-08/2022-08-10_13h13_msg6160_IG4SMpVG.png
+2022-08-12T14:56:00,6167,EURJPY,vente,137.423,137.726,136.651,2.55,annoncé,1d,objectif,2.55,2.55,2022-08-12T00:00:00,2022-08-15T00:00:00,assets/tradingview/2022-08/2022-08-12_14h57_msg6167_W29j0D2c.png
+2022-08-17T06:55:00,6177,NZDCAD,vente,0.8231,0.8244,0.81489,6.32,après coup,1d,objectif,6.32,6.32,2022-08-15T00:00:00,2022-08-16T00:00:00,assets/tradingview/2022-08/2022-08-17_06h55_msg6177_cX8MFund.png
+2022-08-24T15:30:44,6203,NZDUSD,achat,0.62187,0.61763,0.62495,0.73,annoncé,1d,stop,-1.0,0.0,2022-08-24T00:00:00,2022-08-24T00:00:00,ChatExport_2026-10-01/photos/photo_1662@24-08-2022_15-30-44.jpg
+2022-08-24T15:31:12,6205,NZDUSD,vente,0.61706,0.62358,0.6106,0.99,annoncé,1d,stop,-1.0,0.0,2022-08-24T00:00:00,2022-08-24T00:00:00,ChatExport_2026-10-01/photos/photo_1663@24-08-2022_15-31-12.jpg
+2022-08-26T14:03:00,6220,NZDUSD,vente,0.62267,0.62368,0.61608,6.52,annoncé,1d,objectif,6.52,6.52,2022-08-26T00:00:00,2022-08-26T00:00:00,assets/tradingview/2022-08/2022-08-26_14h30_msg6220_sU3ImUac.png
+2022-09-08T13:14:00,6291,EURUSD,vente,1.00086,1.004,0.987,4.41,annoncé,1d,stop,-1.0,2.39,2022-09-08T00:00:00,2022-09-09T00:00:00,assets/tradingview/2022-09/2022-09-08_13h15_msg6291_tLEE1ifu.png
+2022-09-20T19:02:00,6349,EURUSD,vente,0.995,0.99634,0.99256,1.82,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2022-09/2022-09-20_20h12_msg6349_TkREoO9Q.png
+2022-09-22T14:02:00,6378,EURUSD,vente,0.99999,1.00977,0.98752,1.28,après coup,1d,objectif,1.28,1.28,2022-09-20T00:00:00,2022-09-21T00:00:00,assets/tradingview/2022-09/2022-09-22_14h02_msg6378_FeY9R5Ek.png
+2022-09-22T14:11:00,6381,USDJPY,achat,140.74,140.134,141.887,1.89,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2022-09/2022-09-22_14h11_msg6381_6sn0ophX.png
+2022-09-23T10:42:00,6398,GBPCAD,achat,1.494,1.49,1.49617,0.54,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2022-09/2022-09-23_10h43_msg6398_O4NsjASK.png
+2022-09-26T18:44:00,6416,AUDJPY,vente,93.623,93.824,93.245,1.88,annoncé,1d,stop,-1.0,0.0,2022-09-26T00:00:00,2022-09-26T00:00:00,assets/tradingview/2022-09/2022-09-26_18h45_msg6416_KDBL8bP9.png
+2022-09-29T12:53:00,6447,NZDUSD,vente,0.5674,0.57185,0.56477,0.59,incohérent,1d,prix déjà au-delà du stop,,,,,ChatExport_2026-10-01/photos/photo_1715@29-09-2022_13-36-14.jpg
+2022-10-04T13:25:00,6485,AUDUSD,vente,0.64981,0.65144,0.63871,6.81,annoncé,1d,stop,-1.0,0.0,2022-10-04T13:25:00,2022-10-05T00:00:00,assets/tradingview/2022-10/2022-10-04_13h25_msg6485_VZSOqhuD.png
+2022-10-05T10:21:00,6516,EURUSD,vente,0.99916,1.00009,0.99136,8.39,annoncé,1d,objectif,8.39,8.39,2022-10-05T00:00:00,2022-10-05T00:00:00,assets/tradingview/2022-10/2022-10-05_12h27_msg6516_bg39uU8Y.png
+2022-10-05T12:57:00,6526,GBPJPY,achat,165.024,164.846,165.578,3.11,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2022-10/2022-10-05_12h57_msg6526_IigTzPNa.png
+2022-10-12T01:35:00,6564,EURUSD,vente,0.97119,0.97146,0.96906,7.89,annoncé,1d,stop,-1.0,0.0,2022-10-12T00:00:00,2022-10-12T00:00:00,assets/tradingview/2022-10/2022-10-12_01h38_msg6564_z1KI5jga.png
+2022-10-11T16:25:00,6568,NZDCAD,achat,0.77249,0.77136,0.77634,3.41,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2022-10/2022-10-12_01h39_msg6568_iXzuQnRq.png
+2022-10-12T16:06:00,6587,NZDJPY,vente,82.497,82.76,82.319,0.68,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2022-10/2022-10-12_16h07_msg6587_R65jhNRN.png
+2022-10-13T14:42:51,6611,NZDJPY,vente,82.945,83.095,82.14,5.37,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2022-10-13T00:00:00,ChatExport_2026-10-01/photos/photo_1741@13-10-2022_14-42-51.jpg
+2022-10-13T14:43:24,6612,NZDUSD,vente,0.57019,0.57315,0.56584,1.47,après coup,1d,objectif déjà dépassé à la publication,,,,,ChatExport_2026-10-01/photos/photo_1742@13-10-2022_14-43-24.jpg
+2022-10-14T13:41:00,6625,AUDUSD,achat,0.62506,0.62255,0.63525,4.06,annoncé,1d,stop,-1.0,0.0,2022-10-14T00:00:00,2022-10-14T00:00:00,assets/tradingview/2022-10/2022-10-14_13h42_msg6625_vZYIPb26.png
+2022-10-14T14:01:00,6628,AUDUSD,achat,0.62506,0.62457,0.63525,20.8,annoncé,1d,stop,-1.0,0.0,2022-10-14T00:00:00,2022-10-14T00:00:00,assets/tradingview/2022-10/2022-10-14_14h01_msg6628_mG2Gtm1D.png
+2022-10-25T01:34:00,6725,XAUUSD,vente,1654.465,1655.749,1644.79,7.54,annoncé,1d,stop,-1.0,0.0,2022-10-25T01:34:00,2022-10-26T00:00:00,assets/tradingview/2022-10/2022-10-26_15h26_msg6725_gInPb0ww.png
+2022-10-26T14:58:00,6739,AUDCAD,achat,0.87786,0.87702,0.88335,6.54,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2022-10/2022-10-26_15h26_msg6739_iKMgy9xi.png
+2022-10-27T03:17:00,6786,AUDUSD,vente,0.65002,0.65012,0.64831,17.1,annoncé,1d,stop,-1.0,0.0,2022-10-27T00:00:00,2022-10-27T00:00:00,assets/tradingview/2022-10/2022-10-27_10h33_msg6786_wg7q6l0p.png
+2022-10-27T09:09:00,6788,EURUSD,vente,1.00778,1.00849,1.00249,7.45,incohérent,1d,prix déjà au-delà du stop,,,,,ChatExport_2026-10-01/photos/photo_1784@27-10-2022_10-33-12.jpg
+2022-11-01T14:11:00,6851,XAUUSD,vente,1654.0,1657.35,1644.5,2.84,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2022-11/2022-11-01_16h48_msg6851_Lqg0L6dF.png
+2022-11-11T16:30:44,6860,AUDUSD,vente,0.64934,0.65093,0.6424,4.36,incohérent,1d,prix déjà au-delà du stop,,,,,ChatExport_2026-10-01/photos/photo_1801@11-11-2022_16-30-44.jpg
+2022-11-09T23:34:00,6880,XAUUSD,achat,1704.853,1704.363,1706.192,2.73,après coup,1d,stop,-1.0,0.0,2022-11-08T00:00:00,2022-11-08T00:00:00,assets/tradingview/2022-11/2022-11-11_16h30_msg6880_oSCpR920.png
+2022-11-11T16:30:45,6883,EURUSD,achat,1.00121,0.99922,1.00966,4.25,après coup,1d,stop,-1.0,0.0,2022-11-10T00:00:00,2022-11-10T00:00:00,ChatExport_2026-10-01/photos/photo_1817@11-11-2022_16-30-45.jpg
+2022-11-11T16:37:00,6886,EURUSD,achat,0.99493,0.99219,1.01984,9.09,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2022-11-11T00:00:00,assets/tradingview/2022-11/2022-11-11_16h37_msg6886_D8LdtIGb.png
+2022-11-11T16:45:00,6892,EURUSD,achat,0.99389,0.99115,1.0188,9.09,après coup,1d,objectif,9.09,9.09,2022-11-10T00:00:00,2022-11-11T00:00:00,assets/tradingview/2022-11/2022-11-11_16h45_msg6892_sNAuyjWg.png
+2022-11-18T16:07:00,6925,AUDUSD,vente,0.67167,0.67319,0.6629,5.77,annoncé,1d,objectif,5.77,5.77,2022-11-18T00:00:00,2022-11-21T00:00:00,assets/tradingview/2022-11/2022-11-18_16h07_msg6925_SSt1xI8Y.png
+2022-11-21T18:15:00,6928,AUDUSD,vente,0.65255,0.65368,0.65191,0.57,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2022-11/2022-11-21_18h15_msg6928_iyWClEqM.png
+2022-11-29T00:10:00,6950,EURCHF,vente,1.00229,1.00328,1.00141,0.89,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2022-11/2022-11-29_00h10_msg6950_QgJvu2kA.png
+2023-01-12T15:37:00,7137,USDJPY,vente,132.653,132.888,129.508,13.38,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-01-13T00:00:00,assets/tradingview/2023-01/2023-01-12_15h37_msg7137_R4tM7MOK.png
+2023-01-18T21:35:00,7191,USDJPY,achat,127.598,127.049,131.463,7.04,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-01-18T00:00:00,assets/tradingview/2023-01/2023-01-18_21h35_msg7191_327rRRVO.png
+2023-01-18T21:36:00,7192,AUDUSD,achat,0.69416,0.69271,0.70453,7.15,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-01-18T00:00:00,assets/tradingview/2023-01/2023-01-18_21h36_msg7192_lNbyScmB.png
+2023-01-20T06:06:00,7202,EURJPY,achat,138.212,137.903,140.265,6.64,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-01-20T00:00:00,assets/tradingview/2023-01/2023-01-20_06h06_msg7202_YwmPwD5w.png
+2023-01-24T10:26:00,7239,EURUSD,achat,1.08451,1.08333,1.09,4.65,annoncé,1d,objectif,4.65,4.65,2023-01-24T00:00:00,2023-01-25T00:00:00,assets/tradingview/2023-01/2023-01-24_17h12_msg7239_wEvlXbx1.png
+2023-01-25T15:19:00,7257,USDCAD,vente,1.344,1.34674,1.3401,1.42,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2023-01/2023-01-25_15h19_msg7257_JsvrAy08.png
+2023-01-25T06:04:00,7269,GBPUSD,achat,1.23132,1.22617,1.24531,2.72,annoncé,1d,stop,-1.0,2.28,2023-01-25T00:00:00,2023-02-02T00:00:00,assets/tradingview/2023-01/2023-01-25_19h37_msg7269_9vAWkEth.png
+2023-01-26T08:18:00,7284,EURJPY,achat,142.0,140.931,143.045,0.98,annoncé,1d,non déclenché,,,,,assets/tradingview/2023-01/2023-01-26_14h18_msg7284_ZAnXdhpK.png
+2023-01-26T14:17:00,7285,EURJPY,achat,141.345,140.941,143.045,4.21,annoncé,1d,stop,-1.0,0.0,2023-01-26T00:00:00,2023-01-26T00:00:00,assets/tradingview/2023-01/2023-01-26_14h18_msg7285_7wCXpfGj.png
+2023-01-31T06:27:00,7325,EURJPY,achat,140.909,140.509,143.002,5.23,annoncé,1d,stop,-1.0,2.29,2023-01-31T00:00:00,2023-02-02T00:00:00,assets/tradingview/2023-01/2023-01-31_18h49_msg7325_79p02q5N.png
+2023-02-01T05:58:00,7333,EURJPY,achat,140.909,140.6,141.672,2.47,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-02-01T00:00:00,ChatExport_2026-10-01/photos/photo_1872@01-02-2023_05-58-53.jpg
+2023-02-03T09:50:00,7370,EURJPY,achat,140.003,139.497,142.645,5.22,annoncé,1d,objectif,5.22,5.22,2023-02-03T00:00:00,2023-02-06T00:00:00,assets/tradingview/2023-02/2023-02-03_09h50_msg7370_nufA7Zjh.png
+2023-02-08T02:38:12,7420,AUDJPY,achat,91.2,90.689,91.636,0.85,annoncé,1d,stop,-1.0,0.63,2023-02-08T02:38:12,2023-02-10T00:00:00,ChatExport_2026-10-01/photos/photo_1894@08-02-2023_02-38-12.jpg
+2023-02-14T14:50:00,7458,AUDUSD,vente,0.69683,0.70224,0.68061,3.0,annoncé,1d,objectif,3.0,3.0,2023-02-14T14:50:00,2023-02-23T00:00:00,assets/tradingview/2023-02/2023-02-14_14h50_msg7458_1dCcoGpC.png
+2023-02-16T08:41:00,7500,AUDUSD,vente,0.69243,0.69385,0.6822,7.2,annoncé,1d,objectif,7.2,7.2,2023-02-16T00:00:00,2023-02-17T00:00:00,assets/tradingview/2023-02/2023-02-16_13h48_msg7500_STAG8ieI.png
+2023-02-23T09:31:00,7563,GBPUSD,vente,1.21042,1.21296,1.18468,10.13,annoncé,1d,stop,-1.0,0.0,2023-02-28T00:00:00,2023-02-28T00:00:00,assets/tradingview/2023-02/2023-02-23_09h35_msg7563_mAuBDoKO.png
+2023-02-24T07:25:00,7576,GBPUSD,vente,1.20306,1.20457,1.20212,0.62,après coup,1d,stop,-1.0,0.0,2023-02-23T00:00:00,2023-02-23T00:00:00,assets/tradingview/2023-02/2023-02-24_15h20_msg7576_SP80CVI6.png
+2023-02-28T19:04:00,7601,EURUSD,vente,1.06272,1.06474,1.05329,4.67,annoncé,1d,stop,-1.0,2.22,2023-02-28T00:00:00,2023-03-01T00:00:00,assets/tradingview/2023-02/2023-02-28_19h05_msg7601_WRpRNkzD.png
+2023-03-01T06:59:00,7603,EURUSD,vente,1.06163,1.06488,1.05324,2.58,annoncé,1d,stop,-1.0,0.0,2023-03-01T00:00:00,2023-03-01T00:00:00,assets/tradingview/2023-03/2023-03-01_06h59_msg7603_FjVvhWg3.png
+2023-03-01T18:54:00,7608,USDJPY,achat,135.907,135.511,136.139,0.59,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2023-03/2023-03-02_05h09_msg7608_TKMK03bG.png
+2023-03-02T05:11:00,7611,GBPUSD,vente,1.20727,1.21263,1.19094,3.05,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-03-07T00:00:00,assets/tradingview/2023-03/2023-03-02_05h11_msg7611_HmAIzP8q.png
+2023-03-15T19:40:00,7699,AUDUSD,vente,0.66409,0.66978,0.64673,3.05,annoncé,1d,stop,-1.0,0.0,2023-03-15T00:00:00,2023-03-15T00:00:00,assets/tradingview/2023-03/2023-03-15_19h41_msg7699_2Qwx0rqh.png
+2023-03-22T14:36:00,7738,GBPJPY,achat,161.51,160.805,163.695,3.1,annoncé,1d,stop,-1.0,0.0,2023-03-23T00:00:00,2023-03-23T00:00:00,assets/tradingview/2023-03/2023-03-22_14h37_msg7738_dlhiaKVW.png
+2023-04-04T04:51:00,7809,EURNZD,achat,1.735,1.71996,1.74818,0.88,annoncé,1d,objectif,0.88,0.88,2023-04-04T00:00:00,2023-04-06T00:00:00,assets/tradingview/2023-04/2023-04-05_08h38_msg7809_w43gzyx8.png
+2023-04-05T08:38:00,7814,EURNZD,achat,1.7252,1.71896,1.75337,4.51,annoncé,1d,objectif,4.51,4.51,2023-04-05T00:00:00,2023-04-11T00:00:00,assets/tradingview/2023-04/2023-04-05_08h38_msg7814_C9u4X0iN.png
+2023-04-10T16:23:00,7846,AUDJPY,achat,87.909,87.533,88.597,1.83,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-04-10T00:00:00,assets/tradingview/2023-04/2023-04-10_16h23_msg7846_GeR284NV.png
+2023-04-12T04:41:00,7869,AUDJPY,achat,87.978,87.644,90.479,7.49,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-04-18T00:00:00,assets/tradingview/2023-04/2023-04-12_04h42_msg7869_0MQV6a2Z.png
+2023-04-13T10:27:00,7878,USDJPY,vente,133.616,134.075,133.247,0.8,après coup,1d,objectif,0.8,0.8,2023-04-12T00:00:00,2023-04-12T00:00:00,assets/tradingview/2023-04/2023-04-13_10h28_msg7878_j6FmI0pC.png
+2023-04-26T06:02:00,7977,GBPJPY,achat,165.003,164.295,166.131,1.59,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-04-26T00:00:00,assets/tradingview/2023-04/2023-04-27_18h47_msg7977_JzzesopQ.png
+2023-04-27T18:55:00,7985,AUDJPY,achat,88.319,87.947,89.659,3.6,annoncé,1d,objectif,3.6,3.6,2023-04-27T00:00:00,2023-04-28T00:00:00,assets/tradingview/2023-04/2023-04-27_18h55_msg7985_IRgvmF4n.png
+2023-05-05T06:13:00,8040,AUDJPY,achat,89.998,89.509,92.473,5.06,annoncé,1d,objectif,5.06,5.06,2023-05-05T00:00:00,2023-06-02T00:00:00,assets/tradingview/2023-05/2023-05-05_06h41_msg8040_7FWZopnm.png
+2023-05-16T06:20:00,8129,AUDJPY,achat,90.398,89.889,92.523,4.17,annoncé,1d,non déclenché,,,,,assets/tradingview/2023-05/2023-05-16_06h21_msg8129_rLvTxrr5.png
+2023-05-16T07:39:00,8134,GBPUSD,vente,1.25688,1.2637,1.22478,4.71,annoncé,1d,non déclenché,,,,,assets/tradingview/2023-05/2023-05-16_07h39_msg8134_c0DbnJJs.png
+2023-05-16T15:22:00,8144,GBPUSD,vente,1.245,1.24809,1.22478,6.54,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2023-05/2023-05-16_15h23_msg8144_QlcHCtWQ.png
+2023-05-16T15:36:43,8149,USDJPY,achat,133.869,133.564,136.636,9.07,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-05-16T00:00:00,ChatExport_2026-10-01/photos/photo_2023@16-05-2023_15-36-43.jpg
+2023-05-17T02:57:00,8155,NZDCAD,achat,0.848,0.84151,0.85332,0.82,incohérent,1d,prix déjà au-delà du stop,,,,,assets/tradingview/2023-05/2023-05-17_02h57_msg8155_NyzHvLil.png
+2023-05-17T07:48:00,8161,NZDCAD,achat,0.83987,0.83686,0.85339,4.49,annoncé,1d,stop,-1.0,0.0,2023-05-17T07:48:00,2023-05-18T00:00:00,assets/tradingview/2023-05/2023-05-17_07h50_msg8161_zqT99tI9.png
+2023-05-19T08:36:00,8213,NZDCAD,achat,0.846,0.83695,0.85247,0.71,annoncé,1d,stop,-1.0,0.51,2023-05-19T00:00:00,2023-05-24T00:00:00,assets/tradingview/2023-05/2023-05-19_08h36_msg8213_8UKkyICr.png
+2023-05-19T12:21:00,8219,NZDCAD,achat,0.84219,0.8392,0.85342,3.76,annoncé,1d,stop,-1.0,2.7,2023-05-19T12:21:00,2023-05-24T00:00:00,assets/tradingview/2023-05/2023-05-19_12h21_msg8219_L1nj45eB.png
+2023-05-23T06:15:00,8231,GBPCAD,achat,1.68,1.67743,1.69277,4.97,annoncé,1d,stop,-1.0,0.0,2023-05-24T00:00:00,2023-05-24T00:00:00,assets/tradingview/2023-05/2023-05-23_06h16_msg8231_Ov06s7bw.png
+2023-05-30T18:17:00,8251,AUDJPY,achat,91.5,90.961,92.501,1.86,annoncé,1d,stop,-1.0,0.79,2023-05-30T00:00:00,2023-05-31T00:00:00,assets/tradingview/2023-05/2023-05-30_18h17_msg8251_FxplMyXW.png
+2023-05-30T18:17:00,8253,GBPCAD,achat,1.67503,1.67002,1.69005,3.0,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-05-30T00:00:00,assets/tradingview/2023-05/2023-05-30_18h18_msg8253_CvvTA6XJ.png
+2023-06-01T06:54:00,8261,AUDJPY,achat,90.331,89.619,90.905,0.81,annoncé,1d,objectif,0.81,0.81,2023-06-01T06:54:00,2023-06-02T00:00:00,ChatExport_2026-10-01/photos/photo_2044@01-06-2023_06-54-52.jpg
+2023-06-01T07:01:12,8268,AUDJPY,achat,91.538,89.859,92.504,0.58,annoncé,1d,objectif,0.58,0.58,2023-06-02T00:00:00,2023-06-05T00:00:00,ChatExport_2026-10-01/photos/photo_2049@01-06-2023_07-01-12.jpg
+2023-06-02T10:26:36,8282,AUDJPY,achat,90.608,90.133,92.989,5.01,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-06-06T00:00:00,ChatExport_2026-10-01/photos/photo_2057@02-06-2023_10-26-36.jpg
+2023-06-06T13:04:00,8299,EURUSD,achat,1.07037,1.06248,1.08058,1.29,annoncé,1d,objectif,1.29,1.29,2023-06-06T13:04:00,2023-06-13T00:00:00,assets/tradingview/2023-06/2023-06-06_13h04_msg8299_9OCvrip1.png
+2023-06-08T13:24:21,8320,EURUSD,achat,1.06548,1.06248,1.08058,5.03,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-06-13T00:00:00,ChatExport_2026-10-01/photos/photo_2071@08-06-2023_13-24-21.jpg
+2023-06-13T22:04:00,8378,GBPAUD,achat,1.85801,1.85,1.89402,4.5,annoncé,1d,objectif,4.5,4.5,2023-06-13T00:00:00,2023-06-23T00:00:00,assets/tradingview/2023-06/2023-06-13_22h04_msg8378_gfPRCTnt.png
+2023-06-14T17:31:07,8394,GBPAUD,achat,1.85647,1.84995,1.86051,0.62,après coup,1d,objectif,0.62,0.62,2023-06-13T00:00:00,2023-06-13T00:00:00,ChatExport_2026-10-01/photos/photo_2089@14-06-2023_17-31-07.jpg
+2023-06-19T10:43:00,8449,EURNZD,achat,1.755,1.745,1.77255,1.76,annoncé,1d,objectif,1.76,1.76,2023-06-19T10:43:00,2023-06-20T00:00:00,assets/tradingview/2023-06/2023-06-19_10h43_msg8449_YhULTV2v.png
+2023-06-20T09:37:19,8459,EURNZD,achat,1.75009,1.745,1.76805,3.53,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-06-20T00:00:00,ChatExport_2026-10-01/photos/photo_2104@20-06-2023_09-37-19.jpg
+2023-06-21T23:11:00,8484,GBPCAD,achat,1.68075,1.67565,1.70187,4.14,annoncé,1d,stop,-1.0,2.27,2023-06-21T00:00:00,2023-06-23T00:00:00,assets/tradingview/2023-06/2023-06-21_23h11_msg8484_oAnLNE0i.png
+2023-06-23T12:29:09,8500,GBPCAD,achat,1.685,1.66994,1.6974,0.82,annoncé,1d,non déclenché,,,,,ChatExport_2026-10-01/photos/photo_2117@23-06-2023_12-29-09.jpg
+2023-06-27T06:56:00,8521,EURNZD,achat,1.75562,1.75055,1.78307,5.41,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-06-28T00:00:00,assets/tradingview/2023-06/2023-06-27_06h57_msg8521_hDQn6E9d.png
+2023-06-28T03:06:00,8531,NZDUSD,achat,0.60871,0.60371,0.63072,4.4,annoncé,1d,objectif,4.4,4.4,2023-06-28T00:00:00,2023-07-13T00:00:00,assets/tradingview/2023-06/2023-06-28_03h07_msg8531_0dvkp85S.png
+2023-06-28T08:40:05,8532,EURNZD,achat,1.76045,1.75352,1.79907,5.57,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-06-28T00:00:00,ChatExport_2026-10-01/photos/photo_2126@28-06-2023_08-40-05.jpg
+2023-06-29T10:25:58,8543,EURUSD,achat,1.09039,1.08695,1.10765,5.02,annoncé,1d,stop,-1.0,0.0,2023-06-29T00:00:00,2023-06-29T00:00:00,ChatExport_2026-10-01/photos/photo_2134@29-06-2023_10-25-58.jpg
+2023-07-03T01:07:00,8569,NZDUSD,achat,0.60808,0.60307,0.63028,4.43,annoncé,1d,non déclenché,,,,,assets/tradingview/2023-07/2023-07-03_01h07_msg8569_EQH46Vde.png
+2023-07-04T14:24:00,8587,NZDUSD,achat,0.61045,0.60288,0.63092,2.7,annoncé,1d,non déclenché,,,,,assets/tradingview/2023-07/2023-07-04_14h25_msg8587_nWvKrcnu.png
+2023-07-04T14:27:00,8590,GBPUSD,achat,1.26508,1.25904,1.28587,3.44,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-07-11T00:00:00,assets/tradingview/2023-07/2023-07-04_14h28_msg8590_eosthbjD.png
+2023-07-21T08:23:00,8680,AUDJPY,achat,94.878,94.579,97.996,10.43,annoncé,1d,stop,-1.0,3.26,2023-07-21T00:00:00,2023-07-26T00:00:00,assets/tradingview/2023-07/2023-07-21_08h23_msg8680_RsEgFR2X.png
+2023-07-21T08:23:00,8681,EURJPY,achat,155.812,155.304,157.989,4.29,annoncé,1d,stop,-1.0,3.85,2023-07-21T08:23:00,2023-07-26T00:00:00,assets/tradingview/2023-07/2023-07-21_08h24_msg8681_AO0q2i9G.png
+2023-07-24T12:08:00,8732,AUDUSD,achat,0.67107,0.66598,0.67378,0.53,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-07-24T00:00:00,assets/tradingview/2023-07/2023-07-25_17h23_msg8732_1StHYHTz.png
+2023-07-25T17:24:00,8734,AUDUSD,achat,0.6718,0.66627,0.67849,1.21,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-07-25T00:00:00,assets/tradingview/2023-07/2023-07-25_17h25_msg8734_PdaCPBoz.png
+2023-07-26T00:14:00,8741,EURNZD,achat,1.77173,1.76667,1.80748,7.07,annoncé,1d,objectif,7.07,7.07,2023-07-27T00:00:00,2023-08-08T00:00:00,assets/tradingview/2023-07/2023-07-26_00h14_msg8741_0aBgeCc3.png
+2023-07-28T03:36:00,8803,AUDJPY,achat,92.499,91.26,97.834,4.31,annoncé,1d,ouvert après 20 jours,0.94,2.68,2023-07-28T00:00:00,2023-08-25T00:00:00,assets/tradingview/2023-07/2023-07-28_03h36_msg8803_NDoPk176.png
+2023-07-28T15:04:00,8810,AUDJPY,achat,91.889,91.254,97.687,9.13,annoncé,1d,ouvert après 20 jours,2.79,6.18,2023-07-28T00:00:00,2023-08-25T00:00:00,assets/tradingview/2023-07/2023-07-28_15h05_msg8810_yrWXSZrV.png
+2023-08-02T07:05:00,8852,GBPUSD,vente,1.2896,1.29956,1.259,3.07,annoncé,1d,non déclenché,,,,,assets/tradingview/2023-08/2023-08-02_07h05_msg8852_uqoj9BNC.png
+2023-08-08T10:31:00,8909,GBPUSD,vente,1.28079,1.2858,1.26378,3.4,annoncé,1d,objectif,3.4,3.4,2023-08-10T00:00:00,2023-08-14T00:00:00,assets/tradingview/2023-08/2023-08-08_10h32_msg8909_GPFzJasT.png
+2023-08-08T12:55:00,8931,EURJPY,achat,157.2,156.007,157.958,0.64,annoncé,1d,objectif,0.64,0.64,2023-08-08T00:00:00,2023-08-10T00:00:00,assets/tradingview/2023-08/2023-08-09_15h03_msg8931_Z7XnV0rx.png
+2023-08-09T15:06:32,8933,EURJPY,achat,156.666,156.3,157.956,3.52,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-08-10T00:00:00,ChatExport_2026-10-01/photos/photo_2186@09-08-2023_15-06-32.jpg
+2023-08-10T12:03:00,8941,GBPUSD,vente,1.28109,1.28812,1.27677,0.61,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2023-08/2023-08-10_12h03_msg8941_UJ0LLIQS.png
+2023-08-15T09:50:00,8972,AUDJPY,achat,94.278,93.576,97.588,4.72,annoncé,1d,stop,-1.0,0.0,2023-08-15T09:50:00,2023-08-17T00:00:00,assets/tradingview/2023-08/2023-08-15_09h50_msg8972_RDKymNXi.png
+2023-08-15T11:10:00,8973,EURUSD,vente,1.09599,1.10102,1.09318,0.56,après coup,1d,objectif,0.56,0.56,2023-08-14T00:00:00,2023-08-14T00:00:00,assets/tradingview/2023-08/2023-08-15_11h11_msg8973_UD0S2eaV.png
+2023-08-22T09:08:00,9028,EURUSD,vente,1.098,1.09994,1.08292,7.77,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-08-23T00:00:00,assets/tradingview/2023-08/2023-08-22_09h09_msg9028_7vJI0jSI.png
+2023-08-23T10:19:00,9045,GBPCAD,achat,1.71184,1.70592,1.73546,3.99,annoncé,1d,stop,-1.0,2.14,2023-08-25T00:00:00,2023-09-06T00:00:00,assets/tradingview/2023-08/2023-08-23_10h19_msg9045_CYFqtVqr.png
+2023-08-28T09:56:20,9097,EURNZD,achat,1.82222,1.81489,1.84623,3.28,annoncé,1d,stop,-1.0,1.88,2023-08-29T00:00:00,2023-09-01T00:00:00,ChatExport_2026-10-01/photos/photo_2234@28-08-2023_09-56-20.jpg
+2023-08-30T12:20:53,9120,GBPCAD,achat,1.715,1.706,1.71997,0.55,annoncé,1d,objectif,0.55,0.55,2023-08-30T12:20:53,2023-08-31T00:00:00,ChatExport_2026-10-01/photos/photo_2241@30-08-2023_12-20-53.jpg
+2023-08-31T13:06:00,9133,GBPCAD,achat,1.725,1.706,1.735,0.53,annoncé,1d,stop,-1.0,0.0,2023-08-31T13:06:00,2023-09-06T00:00:00,assets/tradingview/2023-08/2023-08-31_13h07_msg9133_kzpU5e6d.png
+2023-08-31T13:24:00,9149,AUDCAD,achat,0.879,0.87626,0.88243,1.25,annoncé,1d,stop,-1.0,0.0,2023-08-31T00:00:00,2023-08-31T00:00:00,assets/tradingview/2023-08/2023-08-31_13h24_msg9149_LTVFQoiR.png
+2023-09-01T12:44:00,9164,GBPCAD,vente,1.71961,1.72484,1.70026,3.7,annoncé,1d,objectif,3.7,3.7,2023-09-01T00:00:00,2023-09-07T00:00:00,assets/tradingview/2023-09/2023-09-01_12h45_msg9164_nfgyWp8i.png
+2023-09-01T13:02:00,9168,GBPCAD,vente,1.71961,1.72361,1.70026,4.84,annoncé,1d,objectif,4.84,4.84,2023-09-01T00:00:00,2023-09-07T00:00:00,assets/tradingview/2023-09/2023-09-01_13h02_msg9168_0nV0hvZR.png
+2023-09-05T22:21:00,9219,USDCAD,vente,1.362,1.3638,1.3581,2.17,annoncé,1d,stop,-1.0,0.0,2023-09-05T00:00:00,2023-09-05T00:00:00,assets/tradingview/2023-09/2023-09-05_22h21_msg9219_HvTHmTDV.png
+2023-09-08T03:49:04,9258,USDCAD,vente,1.37,1.375,1.3581,2.38,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-09-11T00:00:00,ChatExport_2026-10-01/photos/photo_2263@08-09-2023_03-49-04.jpg
+2023-09-08T07:16:58,9259,GBPJPY,achat,183.5,183.0,183.877,0.75,annoncé,1d,objectif,0.75,0.75,2023-09-08T00:00:00,2023-09-08T00:00:00,ChatExport_2026-10-01/photos/photo_2264@08-09-2023_07-16-58.jpg
+2023-09-12T12:23:00,9292,USDCAD,vente,1.374,1.375,1.35737,16.63,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-09-12T00:00:00,assets/tradingview/2023-09/2023-09-12_12h24_msg9292_NTjv8YW1.png
+2023-09-15T01:05:00,9315,GBPJPY,achat,182.401,181.89,186.732,8.48,annoncé,1d,stop,-1.0,0.0,2023-09-21T00:00:00,2023-09-21T00:00:00,assets/tradingview/2023-09/2023-09-15_01h05_msg9315_pyRKesIg.png
+2023-09-20T18:57:00,9361,EURUSD,vente,1.07174,1.07603,1.05886,3.0,annoncé,1d,objectif,3.0,3.0,2023-09-20T00:00:00,2023-09-25T00:00:00,assets/tradingview/2023-09/2023-09-20_18h57_msg9361_ZuG6tFBN.png
+2023-10-02T10:26:12,9461,EURUSD,vente,1.06087,1.06196,1.05226,7.9,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-10-02T00:00:00,ChatExport_2026-10-01/photos/photo_2308@02-10-2023_10-26-12.jpg
+2023-10-03T03:33:56,9479,GBPAUD,vente,1.92531,1.93048,1.90042,4.81,après coup,1d,objectif déjà dépassé à la publication,,,,,ChatExport_2026-10-01/photos/photo_2317@03-10-2023_03-33-56.jpg
+2023-10-04T12:20:02,9507,NZDCAD,vente,0.81142,0.81447,0.79827,4.31,annoncé,1d,stop,-1.0,2.03,2023-10-04T00:00:00,2023-10-05T00:00:00,ChatExport_2026-10-01/photos/photo_2320@04-10-2023_12-20-02.jpg
+2023-10-05T03:04:10,9513,NZDCAD,vente,0.81142,0.81517,0.79827,3.51,annoncé,1d,stop,-1.0,0.0,2023-10-12T00:00:00,2023-10-12T00:00:00,ChatExport_2026-10-01/photos/photo_2323@05-10-2023_03-04-10.jpg
+2023-10-06T14:48:31,9540,GBPUSD,vente,1.215,1.228,1.20622,0.68,annoncé,1d,stop,-1.0,0.33,2023-10-06T00:00:00,2023-10-10T00:00:00,ChatExport_2026-10-01/photos/photo_2330@06-10-2023_14-48-31.jpg
+2023-10-17T11:05:00,9577,GBPJPY,achat,181.241,180.733,183.799,5.04,annoncé,1d,objectif,5.04,5.04,2023-10-19T00:00:00,2023-10-31T00:00:00,assets/tradingview/2023-10/2023-10-17_11h26_msg9577_GkIXFZ16.png
+2023-10-18T15:03:39,9597,USDJPY,vente,149.995,150.492,148.473,3.06,annoncé,1d,non déclenché,,,,,ChatExport_2026-10-01/photos/photo_2350@18-10-2023_15-03-39.jpg
+2023-10-24T08:00:02,9620,USDJPY,vente,150.4,150.507,148.008,22.36,annoncé,1d,stop,-1.0,0.0,2023-10-26T00:00:00,2023-10-26T00:00:00,ChatExport_2026-10-01/photos/photo_2353@24-10-2023_08-00-02.jpg
+2023-10-24T12:46:31,9630,GBPUSD,vente,1.215,1.22079,1.203,2.07,incohérent,1d,prix déjà au-delà du stop,,,,,ChatExport_2026-10-01/photos/photo_2356@24-10-2023_12-46-31.jpg
+2023-10-26T08:21:00,9643,GBPUSD,vente,1.225,1.23,1.20918,3.16,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-10-26T00:00:00,assets/tradingview/2023-10/2023-10-26_08h21_msg9643_ZpFr0ovD.png
+2023-10-27T13:11:30,9659,EURUSD,vente,1.05798,1.06148,1.04548,3.57,annoncé,1d,stop,-1.0,1.24,2023-10-27T00:00:00,2023-10-30T00:00:00,ChatExport_2026-10-01/photos/photo_2364@27-10-2023_13-11-30.jpg
+2023-10-27T13:11:43,9660,EURUSD,vente,1.05798,1.06,1.05693,0.52,après coup,1d,stop,-1.0,0.0,2023-10-25T00:00:00,2023-10-25T00:00:00,ChatExport_2026-10-01/photos/photo_2365@27-10-2023_13-11-43.jpg
+2023-11-14T10:31:38,9829,GBPUSD,achat,1.22865,1.22665,1.23012,0.74,annoncé,1d,stop,-1.0,0.0,2023-11-14T00:00:00,2023-11-14T00:00:00,ChatExport_2026-10-01/photos/photo_2394@14-11-2023_10-31-38.jpg
+2023-11-14T13:33:00,9835,EURUSD,achat,1.07049,1.06849,1.07654,3.03,annoncé,1d,objectif,3.03,3.03,2023-11-14T13:33:00,2023-11-15T00:00:00,assets/tradingview/2023-11/2023-11-14_13h33_msg9835_sirLnxe2.png
+2023-11-15T06:51:00,9860,GBPAUD,vente,1.924,1.92811,1.91564,2.03,annoncé,1d,objectif,2.03,2.03,2023-11-15T00:00:00,2023-11-15T00:00:00,assets/tradingview/2023-11/2023-11-15_06h51_msg9860_sVu7V1qs.png
+2023-11-15T17:05:00,9876,AUDUSD,achat,0.64401,0.63895,0.65164,1.51,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-11-15T00:00:00,assets/tradingview/2023-11/2023-11-15_17h05_msg9876_nu908dTy.png
+2023-11-20T02:35:00,9930,AUDUSD,achat,0.64406,0.63993,0.6535,2.29,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-11-20T00:00:00,assets/tradingview/2023-11/2023-11-20_02h38_msg9930_S0QMseRj.png
+2023-11-28T15:47:40,9954,EURNZD,vente,1.804,1.80464,1.7901,21.72,annoncé,1d,non déclenché (objectif atteint sans entrée),,,,2023-11-28T00:00:00,ChatExport_2026-10-01/photos/photo_2420@28-11-2023_15-47-40.jpg
+2023-11-29T17:48:09,9958,GBPAUD,achat,1.91015,1.90628,1.9251,3.86,annoncé,1d,stop,-1.0,2.11,2023-11-29T17:48:09,2023-12-01T00:00:00,ChatExport_2026-10-01/photos/photo_2421@29-11-2023_17-48-09.jpg
+2023-11-30T11:43:00,9965,GBPJPY,achat,186.293,185.785,186.654,0.71,après coup,1d,objectif déjà dépassé à la publication,,,,,assets/tradingview/2023-11/2023-11-30_15h00_msg9965_HgnZEX7X.png
+2023-12-01T13:31:16,9984,GBPJPY,achat,186.989,186.688,187.223,0.78,annoncé,1d,stop,-1.0,0.0,2023-12-01T13:31:16,2023-12-04T00:00:00,ChatExport_2026-10-01/photos/photo_2428@01-12-2023_13-31-16.jpg
+2023-12-05T01:55:00,10005,GBPJPY,achat,185.704,185.287,188.734,7.27,annoncé,1d,stop,-1.0,0.0,2023-12-05T00:00:00,2023-12-05T00:00:00,assets/tradingview/2023-12/2023-12-05_01h55_msg10005_2lE87Qd2.png
+2023-12-08T12:56:00,10031,EURUSD,achat,1.07508,1.07008,1.09092,3.17,annoncé,1d,objectif,3.17,3.17,2023-12-08T00:00:00,2023-12-14T00:00:00,assets/tradingview/2023-12/2023-12-08_12h57_msg10031_uEt1buUr.png
+2023-12-21T10:36:00,10113,EURNZD,vente,1.75501,1.76012,1.75222,0.55,après coup,1h,objectif,0.55,0.55,2023-12-19T22:00:00,2023-12-19T22:00:00,assets/tradingview/2023-12/2023-12-21_10h37_msg10113_wE5I2vTB.png
+2024-01-05T18:24:00,10387,EURUSD,vente,1.09957,1.10257,1.09373,1.95,après coup,1h,objectif,1.95,1.95,2024-01-05T15:00:00,2024-01-05T18:00:00,assets/tradingview/2024-01/2024-01-05_18h24_msg10387_NEX4Csqp.png
+2024-01-24T14:28:07,10513,AUDJPY,vente,96.5,97.985,94.992,1.02,annoncé,1h,non déclenché,,,,,ChatExport_2026-10-01/photos/photo_2539@24-01-2024_14-28-07.jpg
+2024-02-02T10:17:39,10597,NZDUSD,vente,0.61723,0.62269,0.60547,2.15,annoncé,1h,objectif,2.15,2.15,2024-02-02T10:17:39,2024-02-05T00:00:00,ChatExport_2026-10-01/photos/photo_2558@02-02-2024_10-17-39.jpg
+2024-02-05T16:53:00,10616,EURNZD,achat,1.77514,1.76996,1.79981,4.76,annoncé,1h,stop,-1.0,0.04,2024-02-05T16:53:00,2024-02-06T04:00:00,assets/tradingview/2024-02/2024-02-05_16h54_msg10616_222uzJTr.png
+2024-02-06T03:32:00,10619,AUDJPY,achat,96.488,96.259,96.674,0.81,après coup,1h,objectif,0.81,0.81,2024-02-06T03:00:00,2024-02-06T03:00:00,assets/tradingview/2024-02/2024-02-06_03h33_msg10619_AYwDHnCK.png
+2024-02-06T12:43:00,10625,AUDUSD,vente,0.65196,0.65458,0.63943,4.78,après coup,1h,stop,-1.0,2.89,2024-02-06T07:00:00,2024-02-16T19:00:00,assets/tradingview/2024-02/2024-02-06_12h43_msg10625_djDvqAG0.png
+2024-02-13T11:31:00,10677,EURUSD,vente,1.07954,1.08716,1.07092,1.13,annoncé,1h,objectif,1.13,1.13,2024-02-13T11:31:00,2024-02-13T13:00:00,assets/tradingview/2024-02/2024-02-13_11h31_msg10677_11Wmy7OD.png
+2024-02-13T13:31:00,10680,EURUSD,vente,1.08312,1.08716,1.07092,3.02,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2024-02-13T14:00:00,assets/tradingview/2024-02/2024-02-13_13h32_msg10680_S1XIA1kg.png
+2024-02-13T13:48:00,10685,GBPUSD,vente,1.26766,1.2716,1.25219,3.93,après coup,1h,stop,-1.0,3.56,2024-02-13T13:00:00,2024-03-05T15:00:00,assets/tradingview/2024-02/2024-02-13_13h48_msg10685_hdvtlof2.png
+2024-02-29T10:33:00,10722,GBPUSD,vente,1.26923,1.27126,1.26679,1.2,après coup,1h,objectif,1.2,1.2,2024-02-27T18:00:00,2024-02-28T03:00:00,assets/tradingview/2024-02/2024-02-29_10h35_msg10722_qRK1hv3B.png
+2024-03-19T04:49:05,10794,AUDJPY,achat,97.601,97.28,98.267,2.07,après coup,1h,objectif,2.07,2.07,2024-03-19T03:00:00,2024-03-19T14:00:00,ChatExport_2026-10-01/photos/photo_2609@19-03-2024_04-49-05.jpg
+2024-03-22T03:23:00,10825,NZDJPY,achat,91.067,90.762,92.799,5.68,annoncé,1h,stop,-1.0,0.23,2024-03-22T06:00:00,2024-03-22T14:00:00,assets/tradingview/2024-03/2024-03-22_03h24_msg10825_Nrrfr4hw.png
+2024-04-02T12:01:00,10853,GBPJPY,achat,190.439,190.03,193.363,7.15,annoncé,1h,stop,-1.0,6.18,2024-04-02T12:01:00,2024-04-12T13:00:00,assets/tradingview/2024-04/2024-04-02_12h01_msg10853_6fqvJXxl.png
+2024-04-10T00:58:00,10928,NZDJPY,vente,92.505,92.805,91.972,1.78,après coup,1h,objectif déjà dépassé à la publication,,,,,assets/tradingview/2024-04/2024-04-10_00h58_msg10928_XpwcVPCB.png
+2024-04-17T16:44:40,11037,EURNZD,vente,1.796,1.80584,1.78574,1.04,annoncé,1h,non déclenché,,,,,ChatExport_2026-10-01/photos/photo_2663@17-04-2024_16-44-40.jpg
+2024-04-26T12:53:00,11097,EURUSD,vente,1.07505,1.07554,1.07479,0.53,après coup,1h,objectif,0.53,0.53,2024-04-26T08:00:00,2024-04-26T08:00:00,assets/tradingview/2024-04/2024-04-26_12h54_msg11097_C8BiAUf5.png
+2024-04-26T14:51:00,11101,EURUSD,vente,1.07505,1.07808,1.06792,2.35,après coup,1h,objectif,2.35,2.35,2024-04-26T08:00:00,2024-04-26T15:00:00,assets/tradingview/2024-04/2024-04-26_14h51_msg11101_Nbsdc9ez.png
+2024-04-30T13:43:15,11139,EURUSD,vente,1.07505,1.07908,1.06553,2.36,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2024-05-01T06:00:00,ChatExport_2026-10-01/photos/photo_2673@30-04-2024_13-43-15.jpg
+2024-05-03T09:48:56,11165,EURUSD,vente,1.07563,1.07965,1.064,2.89,annoncé,1h,stop,-1.0,0.35,2024-05-03T09:48:56,2024-05-03T12:00:00,ChatExport_2026-10-01/photos/photo_2679@03-05-2024_09-48-56.jpg
+2024-05-03T12:36:05,11174,EURUSD,vente,1.07563,1.07908,1.06553,2.93,incohérent,1h,prix déjà au-delà du stop,,,,,ChatExport_2026-10-01/photos/photo_2680@03-05-2024_12-36-05.jpg
+2024-05-08T16:15:00,11216,GBPUSD,vente,1.25308,1.25809,1.23749,3.11,annoncé,1h,stop,-1.0,0.53,2024-05-10T06:00:00,2024-05-14T13:00:00,assets/tradingview/2024-05/2024-05-08_16h16_msg11216_77Hl2M6S.png
+2024-05-15T13:19:00,11268,EURCHF,achat,0.97548,0.97248,0.98461,3.04,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2024-05-16T20:00:00,assets/tradingview/2024-05/2024-05-15_13h20_msg11268_XF5leiTj.png
+2024-05-23T20:24:21,11320,GBPUSD,vente,1.27093,1.27841,1.25826,1.69,annoncé,1h,stop,-1.0,0.36,2024-05-23T20:24:21,2024-05-28T11:00:00,ChatExport_2026-10-01/photos/photo_2702@23-05-2024_20-24-21.jpg
+2024-06-03T14:04:05,11341,EURAUD,vente,1.63543,1.64058,1.61419,4.12,annoncé,1h,stop,-1.0,1.15,2024-06-04T06:00:00,2024-06-07T13:00:00,ChatExport_2026-10-01/photos/photo_2711@03-06-2024_14-04-05.jpg
+2024-06-04T22:55:00,11379,NZDJPY,achat,98.054,97.244,103.478,6.7,incohérent,1h,prix déjà au-delà du stop,,,,,assets/tradingview/2024-06/2024-06-04_22h55_msg11379_Dea1G7NA.png
+2024-06-19T03:14:00,11426,EURAUD,vente,1.63563,1.64054,1.61391,4.42,après coup,1h,objectif déjà dépassé à la publication,,,,,assets/tradingview/2024-06/2024-06-19_03h14_msg11426_bs8ycGer.png
+2024-07-12T04:17:00,11473,AUDUSD,achat,0.67598,0.67309,0.70089,8.62,annoncé,1h,stop,-1.0,0.39,2024-07-15T17:00:00,2024-07-16T12:00:00,assets/tradingview/2024-07/2024-07-12_04h17_msg11473_CMJ32wXg.png
+2024-07-31T02:26:00,11526,EURJPY,achat,165.27,163.749,170.051,3.14,annoncé,1h,stop,-1.0,0.83,2024-07-31T02:26:00,2024-07-31T07:00:00,assets/tradingview/2024-07/2024-07-31_02h26_msg11526_1hpgE5vs.png
+2024-08-28T12:05:06,11635,GBPAUD,vente,1.94995,1.95208,1.943,3.26,annoncé,1h,objectif,3.26,3.26,2024-08-28T12:05:06,2024-08-28T20:00:00,ChatExport_2026-10-01/photos/photo_2749@28-08-2024_12-05-06.jpg
+2024-08-30T02:17:00,11740,AUDJPY,achat,98.8,98.338,99.201,0.87,annoncé,1h,objectif,0.87,0.87,2024-08-30T08:00:00,2024-09-01T23:00:00,assets/tradingview/2024-08/2024-08-30_02h18_msg11740_cpoOq9yH.png
+2024-08-30T02:20:00,11742,AUDJPY,achat,98.363,97.762,99.201,1.39,annoncé,1h,objectif,1.39,1.39,2024-08-30T02:20:00,2024-09-01T23:00:00,assets/tradingview/2024-08/2024-08-30_02h20_msg11742_HWcaD2uH.png
+2024-09-06T01:10:00,11826,AUDNZD,vente,1.08523,1.08769,1.07779,3.02,annoncé,1h,stop,-1.0,2.1,2024-09-09T10:00:00,2024-09-11T19:00:00,assets/tradingview/2024-09/2024-09-06_01h11_msg11826_17GsS9uf.png
+2024-09-10T03:11:00,11842,EURNZD,vente,1.79758,1.80267,1.78241,2.98,annoncé,1h,objectif,2.98,2.98,2024-09-10T03:11:00,2024-09-19T08:00:00,assets/tradingview/2024-09/2024-09-10_03h11_msg11842_0FFpOhLt.png
+2024-09-11T10:18:47,11855,EURNZD,vente,1.794,1.80302,1.73049,7.04,annoncé,1h,stop,-1.0,5.04,2024-09-11T20:00:00,2024-10-09T03:00:00,ChatExport_2026-10-01/photos/photo_2846@11-09-2024_10-18-47.jpg
+2024-09-11T12:31:00,11856,EURNZD,vente,1.802,1.80302,1.79864,3.29,après coup,1h,objectif,3.29,3.29,2024-09-09T10:00:00,2024-09-09T11:00:00,assets/tradingview/2024-09/2024-09-11_12h32_msg11856_A1crWkIl.png
+2024-09-11T22:01:00,11867,EURNZD,vente,1.79922,1.80222,1.79065,2.86,après coup,1h,objectif,2.86,2.86,2024-09-11T16:00:00,2024-09-12T04:00:00,assets/tradingview/2024-09/2024-09-11_22h02_msg11867_e0oRG1En.png
+2024-09-10T11:32:00,11871,AUDNZD,achat,1.0825,1.0805,1.08765,2.57,annoncé,1h,stop,-1.0,0.26,2024-09-10T11:32:00,2024-09-10T14:00:00,assets/tradingview/2024-09/2024-09-11_22h56_msg11871_CPzCusce.png
+2024-09-12T11:55:00,11883,GBPUSD,vente,1.30724,1.30976,1.2996,3.03,annoncé,1h,stop,-1.0,0.76,2024-09-12T14:00:00,2024-09-12T17:00:00,assets/tradingview/2024-09/2024-09-12_11h56_msg11883_z6fmMwtw.png
+2024-09-18T16:08:00,11942,GBPAUD,achat,1.94996,1.94481,1.97102,4.09,annoncé,1h,stop,-1.0,0.94,2024-09-18T17:00:00,2024-09-19T02:00:00,assets/tradingview/2024-09/2024-09-18_16h08_msg11942_WLQQ3nfj.png
+2024-09-19T23:44:00,11979,GBPAUD,achat,1.94481,1.93974,1.96076,3.15,après coup,1h,stop,-1.0,2.45,2024-09-19T13:00:00,2024-09-27T12:00:00,assets/tradingview/2024-09/2024-09-19_23h44_msg11979_pYQoamBz.png
+2024-10-07T03:27:00,12040,GBPUSD,vente,1.32491,1.32993,1.31264,2.44,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2024-10-07T04:00:00,assets/tradingview/2024-10/2024-10-07_03h28_msg12040_F7UxsBtl.png
+2024-10-07T03:32:00,12042,GBPJPY,achat,193.492,192.191,194.898,1.08,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2024-10-07T04:00:00,assets/tradingview/2024-10/2024-10-07_03h32_msg12042_XTRLG7dh.png
+2024-10-07T16:36:41,12050,GBPJPY,achat,193.834,192.907,196.697,3.09,annoncé,1h,stop,-1.0,0.15,2024-10-07T16:36:41,2024-10-08T07:00:00,ChatExport_2026-10-01/photos/photo_2881@07-10-2024_16-36-41.jpg
+2024-10-16T12:51:00,12102,EURNZD,vente,1.79729,1.80082,1.79488,0.68,après coup,1h,objectif,0.68,0.68,2024-10-16T01:00:00,2024-10-16T03:00:00,assets/tradingview/2024-10/2024-10-16_12h52_msg12102_TTSbmpiw.png
+2024-10-17T01:02:00,12109,EURAUD,vente,1.62496,1.6301,1.60927,3.05,après coup,1h,stop,-1.0,2.29,2024-10-17T00:00:00,2024-10-24T15:00:00,assets/tradingview/2024-10/2024-10-17_01h02_msg12109_NLHVJozc.png
+2024-10-17T11:12:00,12111,EURAUD,vente,1.628,1.63104,1.60997,5.93,après coup,1h,stop,-1.0,4.88,2024-10-17T00:00:00,2024-10-24T16:00:00,assets/tradingview/2024-10/2024-10-17_11h12_msg12111_hHne9hlz.png
+2024-10-17T11:13:00,12113,GBPAUD,vente,1.94649,1.95075,1.94413,0.55,après coup,1h,objectif,0.55,0.55,2024-10-17T00:00:00,2024-10-17T00:00:00,assets/tradingview/2024-10/2024-10-17_11h13_msg12113_APR8T2xb.png
+2024-10-22T12:50:00,12146,EURAUD,vente,1.62529,1.62778,1.61749,3.13,après coup,1h,objectif,3.13,3.13,2024-10-22T01:00:00,2024-10-22T04:00:00,assets/tradingview/2024-10/2024-10-22_12h51_msg12146_3Bw1JeO5.png
+2024-10-22T12:54:00,12148,GBPAUD,vente,1.94649,1.94782,1.94413,1.77,après coup,1h,objectif,1.77,1.77,2024-10-22T08:00:00,2024-10-22T08:00:00,assets/tradingview/2024-10/2024-10-22_12h54_msg12148_f7VNqScy.png
+2024-10-22T12:55:00,12151,AUDJPY,achat,100.255,99.398,102.596,2.73,après coup,1h,ouvert après 20 jours,0.05,2.5,2024-10-22T01:00:00,2024-11-19T01:00:00,assets/tradingview/2024-10/2024-10-22_12h55_msg12151_rwCBfKhA.png
+2024-10-31T12:14:00,12177,GBPJPY,achat,197.51,197.01,199.537,4.05,après coup,1h,stop,-1.0,2.23,2024-10-31T09:00:00,2024-10-31T14:00:00,assets/tradingview/2024-10/2024-10-31_12h15_msg12177_ooPukeDn.png
+2024-11-07T02:41:00,12228,GBPAUD,vente,1.97519,1.98123,1.9536,3.57,après coup,1h,objectif,3.57,3.57,2024-11-06T04:00:00,2024-11-07T02:00:00,assets/tradingview/2024-11/2024-11-07_02h41_msg12228_2xlgwyGx.png
+2024-11-07T02:57:00,12233,EURNZD,vente,1.81546,1.82203,1.79496,3.12,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2024-11-07T03:00:00,assets/tradingview/2024-11/2024-11-07_02h57_msg12233_LbQ3OeBQ.png
+2024-11-07T18:56:00,12243,GBPUSD,vente,1.29996,1.306,1.28321,2.77,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2024-11-12T05:00:00,assets/tradingview/2024-11/2024-11-07_18h57_msg12243_DYyshOvq.png
+2024-11-08T17:03:00,12250,GBPUSD,vente,1.30009,1.30409,1.28706,3.26,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2024-11-11T13:00:00,assets/tradingview/2024-11/2024-11-08_17h03_msg12250_R8CTCir9.png
+2024-11-15T02:22:00,12275,GBPJPY,achat,197.504,196.992,199.169,3.25,annoncé,1h,stop,-1.0,1.08,2024-11-15T07:00:00,2024-11-15T08:00:00,assets/tradingview/2024-11/2024-11-15_02h23_msg12275_aCJFqAzx.png
+2024-11-19T08:24:00,12299,AUDJPY,achat,100.8,99.743,101.552,0.71,annoncé,1h,objectif,0.71,0.71,2024-11-19T17:00:00,2024-11-20T07:00:00,assets/tradingview/2024-11/2024-11-19_08h25_msg12299_fvK8sGaU.png
+2024-11-21T14:12:00,12311,USDJPY,vente,155.836,156.643,154.493,1.66,après coup,1h,objectif,1.66,1.66,2024-11-20T14:00:00,2024-11-21T08:00:00,assets/tradingview/2024-11/2024-11-21_14h13_msg12311_qG6RrGiU.png
+2024-11-22T02:45:00,12334,AUDNZD,achat,1.10307,1.10061,1.11089,3.18,après coup,1h,objectif,3.18,3.18,2024-11-19T22:00:00,2024-11-21T07:00:00,assets/tradingview/2024-11/2024-11-22_02h46_msg12334_vE3fTfUM.png
+2024-11-27T01:20:00,12384,NZDJPY,vente,90.006,90.506,88.475,3.06,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2024-11-29T01:00:00,assets/tradingview/2024-11/2024-11-27_01h20_msg12384_YrOeQ5sC.png
+2024-11-29T04:34:00,12397,EURAUD,vente,1.62292,1.62792,1.60279,4.03,annoncé,1h,stop,-1.0,1.45,2024-11-29T04:34:00,2024-12-04T01:00:00,assets/tradingview/2024-11/2024-11-29_04h35_msg12397_yyr94RDA.png
+2024-12-06T11:33:00,12435,EURUSD,achat,1.05491,1.05187,1.06304,2.67,annoncé,1h,stop,-1.0,1.56,2024-12-06T15:00:00,2024-12-10T15:00:00,assets/tradingview/2024-12/2024-12-06_11h33_msg12435_qHzlstye.png
+2024-12-06T13:18:00,12438,EURUSD,vente,1.06507,1.07063,1.04715,3.22,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2024-12-12T15:00:00,assets/tradingview/2024-12/2024-12-06_13h18_msg12438_QmXX7E9O.png
+2024-12-09T23:26:00,12476,AUDNZD,achat,1.09846,1.09452,1.1069,2.14,annoncé,1h,objectif,2.14,2.14,2024-12-09T23:26:00,2024-12-19T00:00:00,assets/tradingview/2024-12/2024-12-09_23h26_msg12476_PxXSTQpU.png
+2024-12-10T01:12:00,12479,EURAUD,vente,1.64532,1.65307,1.62974,2.01,annoncé,1h,stop,-1.0,0.0,2024-12-10T03:00:00,2024-12-10T03:00:00,assets/tradingview/2024-12/2024-12-10_01h12_msg12479_ouqvBEIP.png
+2024-12-10T11:05:14,12496,AUDNZD,achat,1.09725,1.09419,1.1069,3.15,annoncé,1h,objectif,3.15,3.15,2024-12-10T22:00:00,2024-12-19T00:00:00,ChatExport_2026-10-01/photos/photo_2976@10-12-2024_11-05-14.jpg
+2025-01-07T14:42:00,12607,USDCHF,achat,0.90495,0.90194,0.91243,2.49,après coup,1h,objectif,2.49,2.49,2025-01-07T11:00:00,2025-01-08T11:00:00,assets/tradingview/2025-01/2025-01-07_14h43_msg12607_K0ALiWrD.png
+2025-01-10T08:37:00,12633,GBPUSD,vente,1.234,1.2366,1.22968,1.66,après coup,1h,objectif,1.66,1.66,2025-01-09T05:00:00,2025-01-09T07:00:00,assets/tradingview/2025-01/2025-01-10_08h38_msg12633_uu2nX3EU.png
+2025-01-10T08:39:00,12635,GBPUSD,vente,1.24026,1.24358,1.22928,3.31,après coup,1h,stop,-1.0,0.0,2025-01-08T11:00:00,2025-01-08T11:00:00,assets/tradingview/2025-01/2025-01-10_08h39_msg12635_X5JSG8yQ.png
+2025-01-10T13:38:00,12640,GBPUSD,vente,1.22498,1.23215,1.19997,3.49,annoncé,1h,stop,-1.0,2.07,2025-01-10T14:00:00,2025-01-20T14:00:00,assets/tradingview/2025-01/2025-01-10_13h38_msg12640_1xt7AEQ7.png
+2025-01-10T16:17:00,12643,GBPUSD,vente,1.228,1.23215,1.19997,6.75,après coup,1h,stop,-1.0,4.31,2025-01-10T13:00:00,2025-01-20T14:00:00,assets/tradingview/2025-01/2025-01-10_16h20_msg12643_vgYI5jE7.png
+2025-01-14T00:18:00,12664,AUDJPY,vente,97.494,98.024,95.887,3.03,annoncé,1h,stop,-1.0,2.71,2025-01-14T00:18:00,2025-01-22T11:00:00,assets/tradingview/2025-01/2025-01-14_00h18_msg12664_X6bifptJ.png
+2025-01-23T12:38:00,12765,CHFJPY,vente,172.507,173.011,170.491,4.0,annoncé,1h,objectif,4.0,4.0,2025-01-24T03:00:00,2025-01-30T01:00:00,assets/tradingview/2025-01/2025-01-23_12h38_msg12765_yFWxpDEX.png
+2025-01-29T13:06:00,12811,AUDUSD,vente,0.62408,0.62559,0.61666,4.91,après coup,1h,stop,-1.0,2.55,2025-01-29T08:00:00,2025-01-31T17:00:00,assets/tradingview/2025-01/2025-01-29_13h06_msg12811_RMuXpF3i.png
+2025-01-29T23:47:00,12827,EURUSD,vente,1.04451,1.04758,1.04264,0.61,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2025-01-30T01:00:00,assets/tradingview/2025-01/2025-01-29_23h48_msg12827_vjpCXbjV.png
+2025-02-05T07:10:00,12853,CHFJPY,vente,170.666,171.269,168.067,4.31,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2025-02-06T13:00:00,assets/tradingview/2025-02/2025-02-05_07h11_msg12853_VbBLQzaS.png
+2025-02-07T13:49:00,12880,AUDUSD,vente,0.62978,0.63086,0.6233,6.0,après coup,1h,stop,-1.0,4.09,2025-02-07T09:00:00,2025-02-12T02:00:00,assets/tradingview/2025-02/2025-02-07_13h50_msg12880_jinVnQSC.png
+2025-02-07T17:00:00,12886,AUDUSD,vente,0.62978,0.63042,0.62068,14.22,après coup,1h,stop,-1.0,6.91,2025-02-07T14:00:00,2025-02-12T02:00:00,assets/tradingview/2025-02/2025-02-07_17h00_msg12886_crqkvw9w.png
+2025-02-12T15:32:46,12901,EURUSD,vente,1.03585,1.03889,1.02258,4.37,annoncé,1h,stop,-1.0,0.0,2025-02-12T16:00:00,2025-02-12T16:00:00,ChatExport_2026-10-01/photos/photo_3046@12-02-2025_15-32-46.jpg
+2025-03-06T13:29:00,12946,CHFJPY,vente,167.502,168.065,166.524,1.74,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2025-03-06T14:00:00,assets/tradingview/2025-03/2025-03-06_13h29_msg12946_EzbHd2P0.png
+2025-03-06T13:34:00,12948,USDJPY,achat,147.887,147.706,148.259,2.06,incohérent,1h,prix déjà au-delà du stop,,,,,assets/tradingview/2025-03/2025-03-06_13h34_msg12948_idBG69R2.png
+2025-03-20T12:15:59,13007,EURAUD,achat,1.7178,1.71422,1.72675,2.5,après coup,1h,objectif,2.5,2.5,2025-03-20T05:00:00,2025-03-20T12:00:00,ChatExport_2026-10-01/photos/photo_3067@20-03-2025_12-15-59.jpg
+2025-03-20T15:23:00,13019,GBPCHF,achat,1.14218,1.13783,1.15305,2.5,après coup,1h,stop,-1.0,0.88,2025-03-20T12:00:00,2025-03-26T15:00:00,assets/tradingview/2025-03/2025-03-20_15h23_msg13019_tbEEZiYE.png
+2025-03-26T11:56:00,13032,GBPUSD,vente,1.29511,1.29763,1.28624,3.52,annoncé,1h,stop,-1.0,1.09,2025-03-27T12:00:00,2025-03-27T15:00:00,assets/tradingview/2025-03/2025-03-26_11h56_msg13032_AHzOXou5.png
+2025-03-26T12:04:00,13036,AUDJPY,achat,94.325,94.024,95.707,4.59,après coup,1h,stop,-1.0,3.56,2025-03-26T01:00:00,2025-03-30T23:00:00,assets/tradingview/2025-03/2025-03-26_12h04_msg13036_cCf5NHED.png
+2025-04-02T01:12:00,13074,CADJPY,vente,104.991,105.993,101.895,3.09,annoncé,1h,objectif,3.09,3.09,2025-04-02T01:12:00,2025-04-04T11:00:00,assets/tradingview/2025-04/2025-04-02_15h00_msg13074_qz16MDs6.png
+2025-04-02T15:00:45,13076,CADJPY,vente,105.009,105.51,103.468,3.08,annoncé,1h,objectif,3.08,3.08,2025-04-02T20:00:00,2025-04-03T03:00:00,ChatExport_2026-10-01/photos/photo_3076@02-04-2025_15-00-45.jpg
+2025-04-08T23:40:00,13116,EURUSD,vente,1.0989,1.10895,1.07241,2.64,annoncé,1h,stop,-1.0,0.13,2025-04-08T23:40:00,2025-04-09T06:00:00,assets/tradingview/2025-04/2025-04-08_23h41_msg13116_I6HmCOFc.png
+2025-04-08T23:55:00,13122,NZDJPY,vente,83.331,84.739,80.227,2.2,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2025-04-09T00:00:00,assets/tradingview/2025-04/2025-04-08_23h55_msg13122_iUQC5vjN.png
+2025-04-08T23:59:00,13125,CHFJPY,achat,172.5,172.397,173.2,6.8,incohérent,1h,prix déjà au-delà du stop,,,,,assets/tradingview/2025-04/2025-04-08_23h59_msg13125_qXWAF86U.png
+2025-04-22T13:12:00,13160,GBPNZD,achat,2.23087,2.21863,2.26812,3.04,annoncé,1h,stop,-1.0,0.35,2025-04-22T13:12:00,2025-04-23T12:00:00,assets/tradingview/2025-04/2025-04-22_13h21_msg13160_vxZEB4Zs.png
+2025-04-22T23:41:00,13182,AUDJPY,achat,90.487,89.609,92.516,2.31,après coup,1h,objectif,2.31,2.31,2025-04-22T21:00:00,2025-05-01T06:00:00,assets/tradingview/2025-04/2025-04-22_23h41_msg13182_FWjwaK9e.png
+2025-04-23T12:01:16,13187,EURUSD,vente,1.14288,1.15306,1.12245,2.01,annoncé,1h,objectif,2.01,2.01,2025-04-23T12:01:16,2025-05-08T17:00:00,ChatExport_2026-10-01/photos/photo_3090@23-04-2025_12-01-16.jpg
+2025-04-25T04:01:00,13200,AUDJPY,achat,91.5,89.609,92.516,0.54,annoncé,1h,objectif,0.54,0.54,2025-04-25T09:00:00,2025-05-01T06:00:00,assets/tradingview/2025-04/2025-04-25_04h02_msg13200_DhuVJnJr.png
+2025-04-29T00:33:00,13207,EURUSD,achat,1.13766,1.13367,1.14762,2.5,après coup,1h,stop,-1.0,1.3,2025-04-28T15:00:00,2025-04-30T15:00:00,assets/tradingview/2025-04/2025-04-29_06h29_msg13207_Qp4OkIH5.png
+2025-04-29T00:36:00,13208,NZDJPY,vente,84.991,85.498,83.718,2.51,annoncé,1h,stop,-1.0,1.56,2025-04-29T02:00:00,2025-05-01T04:00:00,assets/tradingview/2025-04/2025-04-29_06h29_msg13208_AkdWvjTa.png
+2025-04-29T06:30:00,13210,EURUSD,achat,1.1345,1.13381,1.14776,19.22,annoncé,1h,stop,-1.0,0.0,2025-04-30T15:00:00,2025-04-30T15:00:00,assets/tradingview/2025-04/2025-04-29_06h30_msg13210_E080nApj.png
+2025-05-07T18:47:00,13253,EURUSD,vente,1.13475,1.13876,1.12674,2.0,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2025-05-08T15:00:00,assets/tradingview/2025-05/2025-05-07_18h47_msg13253_jsdTEfVX.png
+2025-05-21T00:39:00,13287,AUDJPY,vente,93.181,93.691,92.884,0.58,après coup,1h,objectif,0.58,0.58,2025-05-20T04:00:00,2025-05-20T05:00:00,assets/tradingview/2025-05/2025-05-21_00h39_msg13287_2trIuMQM.png
+2025-05-30T01:41:00,13344,USDCAD,vente,1.38352,1.38582,1.38154,0.86,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2025-05-30T02:00:00,assets/tradingview/2025-05/2025-05-30_01h41_msg13344_8ukSRWyl.png
+2025-06-11T11:38:00,13376,EURUSD,vente,1.1445,1.14492,1.14304,3.48,après coup,1h,stop,-1.0,3.29,2025-06-11T09:00:00,2025-06-11T12:00:00,assets/tradingview/2025-06/2025-06-11_11h39_msg13376_5eDqXGx7.png
+2025-06-11T12:32:00,13381,EURUSD,vente,1.14342,1.14492,1.14032,2.07,incohérent,1h,prix déjà au-delà du stop,,,,,assets/tradingview/2025-06/2025-06-11_12h32_msg13381_50Oel3BN.png
+2025-06-11T12:39:00,13384,GBPJPY,vente,196.2,196.313,194.793,12.45,après coup,1h,objectif,12.45,12.45,2025-06-11T12:00:00,2025-06-12T08:00:00,assets/tradingview/2025-06/2025-06-11_12h39_msg13384_GX4XJEuY.png
+2025-06-13T00:23:00,13393,NZDUSD,achat,0.60307,0.60055,0.60811,2.0,annoncé,1h,stop,-1.0,0.58,2025-06-13T01:00:00,2025-06-13T10:00:00,assets/tradingview/2025-06/2025-06-13_00h24_msg13393_afaRPfjH.png
+2025-06-24T14:35:00,13407,AUDJPY,achat,94.524,94.267,94.845,1.25,incohérent,1h,prix déjà au-delà du stop,,,,,assets/tradingview/2025-06/2025-06-24_14h35_msg13407_mdR6TXQQ.png
+2025-07-02T15:27:00,13433,EURCHF,achat,0.93239,0.93089,0.93553,2.09,après coup,1h,objectif,2.09,2.09,2025-07-02T14:00:00,2025-07-03T11:00:00,assets/tradingview/2025-07/2025-07-02_15h28_msg13433_qLrYDZIZ.png
+2025-07-03T12:35:00,13440,USDJPY,vente,143.885,143.986,143.076,8.01,incohérent,1h,prix déjà au-delà du stop,,,,,assets/tradingview/2025-07/2025-07-03_12h35_msg13440_7okCnJmH.png
+2025-07-08T13:20:00,13458,AUDUSD,vente,0.65365,0.65665,0.64741,2.08,annoncé,1h,stop,-1.0,0.79,2025-07-09T01:00:00,2025-07-10T10:00:00,assets/tradingview/2025-07/2025-07-08_13h21_msg13458_JigQ1TdR.png
+2025-07-15T12:39:00,13480,NZDUSD,vente,0.59999,0.60301,0.59378,2.06,annoncé,1h,objectif,2.06,2.06,2025-07-15T12:39:00,2025-07-16T13:00:00,assets/tradingview/2025-07/2025-07-15_12h39_msg13480_TXPFnpNe.png
+2025-07-16T13:38:00,13496,EURNZD,vente,1.95352,1.95702,1.9453,2.35,annoncé,1h,stop,-1.0,0.0,2025-07-16T13:38:00,2025-07-16T14:00:00,assets/tradingview/2025-07/2025-07-16_13h39_msg13496_OIfuZYTd.png
+2025-08-05T10:33:00,13569,EURJPY,achat,170.06,169.656,171.076,2.51,après coup,1h,objectif,2.51,2.51,2025-08-05T06:00:00,2025-08-06T08:00:00,assets/tradingview/2025-08/2025-08-05_10h34_msg13569_wS8QcMoz.png
+2025-08-06T20:59:00,13581,GBPJPY,vente,197.483,198.233,195.152,3.11,annoncé,1h,stop,-1.0,0.6,2025-08-07T11:00:00,2025-08-08T08:00:00,assets/tradingview/2025-08/2025-08-06_21h03_msg13581_qOpFzX84.png
+2025-08-07T07:35:30,13583,CADJPY,vente,107.484,107.987,106.454,2.05,après coup,1h,objectif,2.05,2.05,2025-08-07T03:00:00,2025-08-14T04:00:00,ChatExport_2026-10-01/photos/photo_3148@07-08-2025_07-35-30.jpg
+2025-08-07T07:40:26,13588,EURJPY,achat,169.984,169.473,172.065,4.07,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2025-08-08T11:00:00,ChatExport_2026-10-01/photos/photo_3150@07-08-2025_07-40-26.jpg
+2025-08-05T14:59:00,13592,EURUSD,achat,1.15506,1.15198,1.16559,3.42,après coup,1h,objectif,3.42,3.42,2025-08-05T14:00:00,2025-08-06T17:00:00,assets/tradingview/2025-08/2025-08-07_07h44_msg13592_AHFMmTaK.png
+2025-08-12T01:44:00,13614,EURAUD,achat,1.78082,1.77272,1.79713,2.01,annoncé,1h,objectif,2.01,2.01,2025-08-12T03:00:00,2025-08-15T14:00:00,assets/tradingview/2025-08/2025-08-12_01h44_msg13614_GxfPyovh.png
+2025-08-12T02:11:00,13619,GBPUSD,vente,1.34473,1.34782,1.33851,2.01,annoncé,1h,stop,-1.0,0.47,2025-08-12T07:00:00,2025-08-12T12:00:00,assets/tradingview/2025-08/2025-08-12_02h11_msg13619_SYEMKGGA.png
+2025-08-12T08:29:52,13623,EURAUD,achat,1.78595,1.78392,1.78961,1.8,après coup,1h,objectif,1.8,1.8,2025-08-12T07:00:00,2025-08-12T08:00:00,ChatExport_2026-10-01/photos/photo_3158@12-08-2025_08-29-52.jpg
+2025-08-12T11:54:00,13626,CADJPY,vente,107.563,107.76,107.154,2.08,annoncé,1h,objectif,2.08,2.08,2025-08-12T11:54:00,2025-08-13T07:00:00,assets/tradingview/2025-08/2025-08-12_11h54_msg13626_ZRUMoNES.png
+2025-08-12T12:31:00,13630,CADJPY,vente,107.35,107.396,107.154,4.26,incohérent,1h,prix déjà au-delà du stop,,,,,assets/tradingview/2025-08/2025-08-12_12h31_msg13630_Kooc67R7.png
+2025-08-12T23:59:00,13634,USDJPY,vente,147.979,148.483,146.773,2.39,annoncé,1h,objectif,2.39,2.39,2025-08-13T01:00:00,2025-08-14T00:00:00,assets/tradingview/2025-08/2025-08-12_23h59_msg13634_UUh2dKiL.png
+2025-08-13T00:02:00,13636,EURAUD,achat,1.78536,1.78148,1.79471,2.41,annoncé,1h,objectif,2.41,2.41,2025-08-14T01:00:00,2025-08-14T13:00:00,assets/tradingview/2025-08/2025-08-13_00h02_msg13636_jlMPQ0kO.png
+2025-08-13T01:26:00,13638,EURNZD,achat,1.96032,1.9578,1.96541,2.02,après coup,1h,stop,-1.0,1.53,2025-08-13T00:00:00,2025-08-13T06:00:00,assets/tradingview/2025-08/2025-08-13_01h26_msg13638_yo6Q4MIL.png
+2025-08-19T02:26:21,13678,EURAUD,achat,1.79621,1.79421,1.80017,1.98,annoncé,1h,stop,-1.0,0.0,2025-08-19T03:00:00,2025-08-19T03:00:00,ChatExport_2026-10-01/photos/photo_3172@19-08-2025_02-26-21.jpg
+2025-08-19T15:04:00,13695,NZDJPY,vente,87.49,87.694,86.993,2.44,après coup,1h,objectif,2.44,2.44,2025-08-19T13:00:00,2025-08-19T17:00:00,assets/tradingview/2025-08/2025-08-19_15h04_msg13695_23j6ygkc.png
+2025-08-19T15:13:00,13698,NZDUSD,vente,0.59283,0.59435,0.58978,2.01,après coup,1h,objectif,2.01,2.01,2025-08-19T12:00:00,2025-08-19T18:00:00,assets/tradingview/2025-08/2025-08-19_15h14_msg13698_utIFRLBo.png
+2025-08-19T15:21:00,13701,GBPAUD,achat,2.08199,2.08049,2.08509,2.07,après coup,1h,objectif,2.07,2.07,2025-08-19T12:00:00,2025-08-19T13:00:00,assets/tradingview/2025-08/2025-08-19_15h21_msg13701_g6Dzi2Fq.png
+2025-08-20T07:21:00,13712,GBPJPY,achat,198.954,198.595,199.509,1.55,après coup,1h,stop,-1.0,1.37,2025-08-20T07:00:00,2025-08-20T13:00:00,assets/tradingview/2025-08/2025-08-20_07h21_msg13712_xoNZyyZX.png
+2025-08-20T07:46:00,13719,GBPNZD,achat,2.3157,2.31317,2.32085,2.04,après coup,1h,objectif,2.04,2.04,2025-08-20T07:00:00,2025-08-20T08:00:00,assets/tradingview/2025-08/2025-08-20_07h46_msg13719_L2Rm2yoH.png
+2025-08-26T07:16:00,13741,EURAUD,achat,1.79537,1.79282,1.80262,2.84,annoncé,1h,stop,-1.0,0.0,2025-08-26T07:16:00,2025-08-26T08:00:00,assets/tradingview/2025-08/2025-08-26_07h17_msg13741_N9iDHjI2.png
+2025-08-26T13:45:45,13747,EURAUD,achat,1.79537,1.79187,1.80259,2.06,annoncé,1h,stop,-1.0,0.31,2025-08-26T13:45:45,2025-08-26T17:00:00,ChatExport_2026-10-01/photos/photo_3180@26-08-2025_13-45-45.jpg
+2025-08-27T17:16:00,13758,GBPUSD,achat,1.34722,1.3442,1.35344,2.06,après coup,1h,objectif,2.06,2.06,2025-08-27T16:00:00,2025-09-01T06:00:00,assets/tradingview/2025-08/2025-08-27_17h16_msg13758_3h9ZZr64.png
+2025-08-27T17:34:00,13762,EURGBP,vente,0.8605,0.8621,0.85809,1.51,annoncé,1h,non déclenché,,,,,assets/tradingview/2025-08/2025-08-27_17h35_msg13762_ZrGwNqaP.png
+2025-09-12T10:28:00,13808,EURUSD,achat,1.17306,1.16575,1.19593,3.13,annoncé,1h,stop,-1.0,2.58,2025-09-12T10:28:00,2025-09-25T17:00:00,assets/tradingview/2025-09/2025-09-12_10h28_msg13808_eVclllNQ.png
+2025-09-16T09:57:08,13823,EURAUD,achat,1.76402,1.76198,1.77188,3.85,après coup,1h,objectif,3.85,3.85,2025-09-16T02:00:00,2025-09-16T13:00:00,ChatExport_2026-10-01/photos/photo_3188@16-09-2025_09-57-08.jpg
+2025-09-17T00:04:00,13842,CADJPY,vente,106.575,106.985,105.711,2.11,annoncé,1h,stop,-1.0,1.49,2025-09-17T00:04:00,2025-09-18T08:00:00,assets/tradingview/2025-09/2025-09-17_00h04_msg13842_iJcDHmK2.png
+2025-09-17T00:06:00,13844,GBPCAD,achat,1.87592,1.87241,1.88294,2.0,annoncé,1h,objectif,2.0,2.0,2025-09-17T00:06:00,2025-09-17T18:00:00,assets/tradingview/2025-09/2025-09-17_00h06_msg13844_jmpdpK14.png
+2025-09-17T12:42:00,13850,GBPCAD,achat,1.87626,1.87472,1.87954,2.13,après coup,1h,objectif,2.13,2.13,2025-09-17T12:00:00,2025-09-17T13:00:00,assets/tradingview/2025-09/2025-09-17_12h42_msg13850_OQD6FiPv.png
+2025-09-17T15:35:00,13861,EURAUD,achat,1.76988,1.76487,1.7822,2.46,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2025-09-18T07:00:00,assets/tradingview/2025-09/2025-09-17_15h35_msg13861_USkIfCf9.png
+2025-09-22T00:59:00,13923,GBPAUD,vente,2.0495,2.05552,2.0451,0.73,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2025-09-22T01:00:00,assets/tradingview/2025-09/2025-09-24_02h34_msg13923_1XqKS4co.png
+2025-10-01T01:10:00,13979,USDJPY,vente,147.497,147.747,146.975,2.09,incohérent,1h,prix déjà au-delà du stop,,,,,assets/tradingview/2025-10/2025-10-01_01h12_msg13979_4FKYfhqE.png
+2025-09-30T06:31:00,13987,EURGBP,vente,0.87313,0.87513,0.86906,2.03,annoncé,1h,objectif,2.03,2.03,2025-09-30T06:31:00,2025-10-01T14:00:00,assets/tradingview/2025-10/2025-10-01_11h39_msg13987_RBtrbbtf.png
+2025-10-01T14:16:08,13997,CADJPY,vente,107.197,107.449,106.476,2.86,après coup,1h,objectif,2.86,2.86,2025-09-29T00:00:00,2025-09-30T06:00:00,ChatExport_2026-10-01/photos/photo_3226@01-10-2025_14-16-08.jpg
+2025-10-01T23:17:00,14007,EURUSD,achat,1.17362,1.17105,1.17877,2.0,annoncé,1h,stop,-1.0,1.0,2025-10-01T23:17:00,2025-10-02T14:00:00,assets/tradingview/2025-10/2025-10-02_09h01_msg14007_eZsGc1hU.png
+2025-10-02T18:23:00,14015,EURUSD,achat,1.17021,1.16764,1.17795,3.01,après coup,1h,stop,-1.0,2.33,2025-10-02T16:00:00,2025-10-06T07:00:00,assets/tradingview/2025-10/2025-10-03_08h37_msg14015_GQZ9wlPm.png
+2025-10-08T00:09:00,14036,GBPNZD,achat,2.31281,2.30875,2.32092,2.0,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2025-10-08T01:00:00,assets/tradingview/2025-10/2025-10-08_01h19_msg14036_VwNfz6eN.png
+2025-10-10T11:55:25,14050,CHFJPY,vente,190.015,190.538,188.939,2.06,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2025-10-14T07:00:00,ChatExport_2026-10-01/photos/photo_3232@10-10-2025_11-55-25.jpg
+2025-10-09T23:54:00,14052,CHFJPY,vente,189.862,190.359,188.857,2.02,annoncé,1h,objectif,2.02,2.02,2025-10-09T23:54:00,2025-10-14T07:00:00,assets/tradingview/2025-10/2025-10-10_11h55_msg14052_1PNQdc8y.png
+2025-10-10T11:56:00,14056,CADJPY,vente,109.073,109.398,108.864,0.64,après coup,1h,objectif,0.64,0.64,2025-10-10T06:00:00,2025-10-10T06:00:00,assets/tradingview/2025-10/2025-10-10_11h56_msg14056_JjP9MCCa.png
+2025-10-29T00:40:00,14115,AUDJPY,achat,99.999,99.692,100.769,2.51,annoncé,1h,objectif,2.51,2.51,2025-10-29T00:40:00,2025-10-30T03:00:00,assets/tradingview/2025-10/2025-10-29_00h42_msg14115_PslvrKyT.png
+2025-11-04T12:45:00,14132,EURNZD,achat,2.02489,2.01675,2.04114,2.0,après coup,1h,objectif,2.0,2.0,2025-11-04T05:00:00,2025-11-06T14:00:00,assets/tradingview/2025-11/2025-11-04_12h49_msg14132_0G7LBLTW.png
+2025-11-11T11:42:00,14146,EURGBP,achat,0.8815,0.88031,0.88318,1.41,incohérent,1h,prix déjà au-delà du stop,,,,,assets/tradingview/2025-11/2025-11-11_11h43_msg14146_u8QkruRK.png
+2025-11-11T23:06:00,14149,GBPAUD,vente,2.0147,2.02085,2.0024,2.0,annoncé,1h,objectif,2.0,2.0,2025-11-11T23:06:00,2025-11-12T14:00:00,assets/tradingview/2025-11/2025-11-11_23h06_msg14149_XMn68AYn.png
+2025-11-12T07:22:07,14151,GBPAUD,vente,2.016,2.02085,2.0024,2.8,après coup,1h,objectif,2.8,2.8,2025-11-11T22:00:00,2025-11-12T14:00:00,ChatExport_2026-10-01/photos/photo_3264@12-11-2025_07-22-07.jpg
+2025-12-02T08:29:00,14201,USDCAD,vente,1.39969,1.40154,1.39635,1.81,annoncé,1h,objectif,1.81,1.81,2025-12-02T08:29:00,2025-12-02T21:00:00,assets/tradingview/2025-12/2025-12-02_08h30_msg14201_Qpxf1bmG.png
+2025-12-12T02:06:57,14224,GBPAUD,achat,2.0097,2.00447,2.0175,1.49,annoncé,1h,stop,-1.0,0.17,2025-12-12T02:06:57,2025-12-12T08:00:00,ChatExport_2026-10-01/photos/photo_3287@12-12-2025_02-06-57.jpg
+2026-01-28T16:17:00,14370,EURAUD,vente,1.71672,1.72179,1.70654,2.01,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2026-01-28T17:00:00,assets/tradingview/2026-01/2026-01-28_16h17_msg14370_KeuSqmgw.png
+2026-01-29T07:08:00,14383,EURUSD,achat,1.19902,1.19502,1.20699,1.99,annoncé,1h,non déclenché,,,,,assets/tradingview/2026-01/2026-01-29_07h08_msg14383_eBEH0yTS.png
+2026-02-10T01:18:00,14406,USDJPY,vente,156.047,156.497,155.131,2.04,après coup,1h,objectif,2.04,2.04,2026-02-10T01:00:00,2026-02-10T04:00:00,assets/tradingview/2026-02/2026-02-10_13h07_msg14406_EXXY5Ot0.png
+2026-02-20T15:58:00,14422,EURUSD,achat,1.1783,1.17322,1.19313,2.92,annoncé,1h,stop,-1.0,1.07,2026-02-20T15:58:00,2026-03-02T07:00:00,assets/tradingview/2026-02/2026-02-20_15h58_msg14422_N3uPzbT6.png
+2026-02-25T13:39:00,14426,EURUSD,achat,1.17843,1.17591,1.18346,2.0,annoncé,1h,stop,-1.0,1.93,2026-02-25T14:00:00,2026-03-02T06:00:00,assets/tradingview/2026-02/2026-02-25_16h49_msg14426_MQ5uEFdt.png
+2026-02-25T13:32:00,14429,EURNZD,vente,1.97337,1.97684,1.96641,2.01,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2026-02-26T05:00:00,assets/tradingview/2026-02/2026-02-25_16h50_msg14429_W72xqKQ8.png
+2026-02-26T01:28:00,14432,GBPNZD,vente,2.26125,2.2658,2.252,2.03,après coup,1h,stop,-1.0,1.31,2026-02-25T18:00:00,2026-02-26T15:00:00,assets/tradingview/2026-02/2026-02-26_01h29_msg14432_LbjfhWON.png
+2026-03-02T06:14:39,14471,USDJPY,achat,156.6,155.95,157.2,0.92,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2026-03-02T08:00:00,ChatExport_2026-10-01/photos/photo_3335@02-03-2026_06-14-39.jpg
+2026-03-03T23:46:00,14497,EURUSD,achat,1.15786,1.15626,1.16106,2.0,après coup,1h,objectif,2.0,2.0,2026-03-03T16:00:00,2026-03-03T18:00:00,assets/tradingview/2026-03/2026-03-04_01h43_msg14497_Itr9nX5i.png
+2026-03-04T04:57:00,14502,USDJPY,vente,157.504,157.804,156.885,2.06,annoncé,1h,objectif,2.06,2.06,2026-03-04T05:00:00,2026-03-04T10:00:00,assets/tradingview/2026-03/2026-03-04_09h58_msg14502_PwQq18wE.png
+2026-03-04T04:00:00,14505,EURJPY,vente,182.848,183.249,181.841,2.51,après coup,1h,stop,-1.0,1.85,2026-03-04T00:00:00,2026-03-06T06:00:00,assets/tradingview/2026-03/2026-03-04_10h00_msg14505_OqQoIM43.png
+2026-03-04T10:00:41,14506,EURJPY,vente,182.848,183.153,181.841,3.3,annoncé,1h,stop,-1.0,2.43,2026-03-04T11:00:00,2026-03-06T05:00:00,ChatExport_2026-10-01/photos/photo_3348@04-03-2026_10-00-41.jpg
+2026-03-04T14:36:00,14508,AUDUSD,vente,0.70383,0.7109,0.69871,0.72,annoncé,1h,objectif,0.72,0.72,2026-03-04T14:36:00,2026-03-05T17:00:00,assets/tradingview/2026-03/2026-03-05_05h03_msg14508_onECSRoy.png
+2026-03-05T09:37:00,14515,EURAUD,vente,1.652,1.65252,1.64494,13.58,après coup,1h,stop,-1.0,13.37,2026-03-05T08:00:00,2026-03-05T16:00:00,assets/tradingview/2026-03/2026-03-05_11h01_msg14515_CMQBtWRh.png
+2026-03-05T11:01:54,14517,EURAUD,vente,1.64762,1.65252,1.64494,0.55,annoncé,1h,stop,-1.0,0.31,2026-03-05T11:01:54,2026-03-05T16:00:00,ChatExport_2026-10-01/photos/photo_3353@05-03-2026_11-01-54.jpg
+2026-03-06T13:46:00,14526,AUDUSD,vente,0.70086,0.70345,0.69563,2.02,après coup,1h,stop,-1.0,1.88,2026-03-06T13:00:00,2026-03-09T13:00:00,assets/tradingview/2026-03/2026-03-06_13h57_msg14526_UKUI87un.png
+2026-03-06T13:57:00,14527,AUDUSD,vente,0.697,0.69855,0.69563,0.88,incohérent,1h,prix déjà au-delà du stop,,,,,assets/tradingview/2026-03/2026-03-06_13h57_msg14527_zTD0YQ8N.png
+2026-03-09T00:36:00,14540,GBPJPY,achat,210.985,210.578,211.809,2.02,annoncé,1h,objectif,2.02,2.02,2026-03-09T00:36:00,2026-03-09T13:00:00,assets/tradingview/2026-03/2026-03-09_09h38_msg14540_iGT7RC6Y.png
+2026-03-10T18:26:48,14550,USDJPY,achat,157.521,157.115,158.331,2.0,après coup,1h,objectif,2.0,2.0,2026-03-10T17:00:00,2026-03-11T01:00:00,ChatExport_2026-10-01/photos/photo_3357@10-03-2026_18-26-48.jpg
+2026-03-11T01:41:00,14554,EURUSD,vente,1.16217,1.1662,1.15035,2.93,annoncé,1h,objectif,2.93,2.93,2026-03-11T01:41:00,2026-03-13T06:00:00,assets/tradingview/2026-03/2026-03-11_09h05_msg14554_qoh1hBNs.png
+2026-03-11T02:14:00,14555,EURUSD,vente,1.16217,1.16522,1.15705,1.68,annoncé,1h,objectif,1.68,1.68,2026-03-11T02:14:00,2026-03-11T15:00:00,assets/tradingview/2026-03/2026-03-11_09h05_msg14555_Fo9qg1QS.png
+2026-03-11T09:05:32,14557,EURUSD,vente,1.16319,1.16621,1.15203,3.7,après coup,1h,objectif,3.7,3.7,2026-03-11T07:00:00,2026-03-12T15:00:00,ChatExport_2026-10-01/photos/photo_3358@11-03-2026_09-05-32.jpg
+2026-03-18T12:35:00,14581,EURUSD,vente,1.156,1.15704,1.14121,14.22,annoncé,1h,stop,-1.0,1.86,2026-03-19T17:00:00,2026-03-19T18:00:00,ChatExport_2026-10-01/photos/photo_3362@18-03-2026_12-35-00.jpg
+2026-03-18T21:43:00,14601,EURCAD,vente,1.57503,1.58007,1.56269,2.45,annoncé,1h,stop,-1.0,0.67,2026-03-19T02:00:00,2026-03-19T13:00:00,assets/tradingview/2026-03/2026-03-18_21h43_msg14601_ObrboBrr.png
+2026-04-03T13:45:00,14638,GBPUSD,vente,1.325,1.328,1.31734,2.55,annoncé,1h,stop,-1.0,1.32,2026-04-06T07:00:00,2026-04-07T08:00:00,assets/tradingview/2026-04/2026-04-03_13h45_msg14638_W9DAGCIR.png
+2026-04-03T13:46:00,14640,NZDUSD,vente,0.574,0.57533,0.56629,5.8,annoncé,1h,non déclenché,,,,,assets/tradingview/2026-04/2026-04-03_13h46_msg14640_sRvmZDWi.png
+2026-04-07T22:03:17,14660,CHFJPY,achat,199.712,199.161,200.845,2.06,après coup,1h,objectif,2.06,2.06,2026-04-07T21:00:00,2026-04-08T06:00:00,ChatExport_2026-10-01/photos/photo_3383@07-04-2026_22-03-17.jpg
+2026-04-08T13:41:57,14679,GBPNZD,vente,2.31119,2.31938,2.30469,0.79,après coup,1h,objectif,0.79,0.79,2026-04-08T03:00:00,2026-04-08T03:00:00,ChatExport_2026-10-01/photos/photo_3391@08-04-2026_13-41-57.jpg
+2026-04-09T13:17:00,14687,EURJPY,achat,185.092,184.784,185.751,2.14,après coup,1h,objectif,2.14,2.14,2026-04-09T00:00:00,2026-04-09T12:00:00,assets/tradingview/2026-04/2026-04-09_13h22_msg14687_4SxJQh7G.png
+2026-04-09T13:20:00,14688,CHFJPY,achat,200.134,199.565,201.276,2.01,après coup,1h,objectif,2.01,2.01,2026-04-07T22:00:00,2026-04-09T13:00:00,assets/tradingview/2026-04/2026-04-09_13h22_msg14688_MJ7Qn4FK.png
+2026-04-30T14:20:24,14738,XAUUSD,achat,4707.63,4685.07,4819.56,4.96,incohérent,1h,prix déjà au-delà du stop,,,,,ChatExport_2026-10-01/photos/photo_3410@30-04-2026_14-20-24.jpg
+2026-04-30T14:20:24,14739,XAUUSD,achat,4704.64,4685.07,4752.66,2.45,incohérent,1h,prix déjà au-delà du stop,,,,,ChatExport_2026-10-01/photos/photo_3411@30-04-2026_14-20-24.jpg
+2026-04-30T14:21:27,14743,GBPAUD,achat,1.88008,1.87608,1.89214,3.01,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2026-05-01T06:00:00,ChatExport_2026-10-01/photos/photo_3414@30-04-2026_14-21-27.jpg
+2026-04-30T14:21:27,14745,GBPAUD,achat,1.886,1.87648,1.89261,0.69,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2026-05-01T10:00:00,ChatExport_2026-10-01/photos/photo_3415@30-04-2026_14-21-27.jpg
+2026-04-30T14:21:27,14746,EURAUD,vente,1.64018,1.64078,1.63564,7.57,après coup,1h,objectif,7.57,7.57,2026-04-30T06:00:00,2026-04-30T09:00:00,ChatExport_2026-10-01/photos/photo_3416@30-04-2026_14-21-27.jpg
+2026-05-05T23:20:00,14778,EURNZD,vente,1.98433,1.98737,1.97824,2.0,annoncé,1h,objectif,2.0,2.0,2026-05-05T23:20:00,2026-05-06T01:00:00,assets/tradingview/2026-05/2026-05-06_00h37_msg14778_gRFWUXOS.png
+2026-05-06T00:57:38,14783,XAUUSD,achat,4553.2,4521.97,4600.09,1.5,après coup,1h,objectif,1.5,1.5,2026-05-05T11:00:00,2026-05-05T23:00:00,ChatExport_2026-10-01/photos/photo_3425@06-05-2026_00-57-38.jpg
+2026-05-06T00:59:56,14784,XAUUSD,achat,4580.0,4521.97,4623.302,0.75,après coup,1h,objectif,0.75,0.75,2026-05-05T23:00:00,2026-05-06T00:00:00,ChatExport_2026-10-01/photos/photo_3426@06-05-2026_00-59-56.jpg
+2026-05-06T12:47:00,14795,EURAUD,vente,1.62502,1.62911,1.6168,2.01,annoncé,1h,stop,-1.0,1.38,2026-05-06T15:00:00,2026-05-12T06:00:00,assets/tradingview/2026-05/2026-05-07_08h13_msg14795_Z12swAxE.png
+2026-05-07T08:41:42,14804,EURUSD,achat,1.17559,1.17254,1.18202,2.11,après coup,1h,stop,-1.0,1.15,2026-05-07T07:00:00,2026-05-13T06:00:00,ChatExport_2026-10-01/photos/photo_3434@07-05-2026_08-41-42.jpg
+2026-05-07T08:41:56,14805,GBPJPY,achat,212.565,212.16,213.38,2.01,après coup,1h,objectif,2.01,2.01,2026-05-07T07:00:00,2026-05-08T09:00:00,ChatExport_2026-10-01/photos/photo_3435@07-05-2026_08-41-56.jpg
+2026-05-07T08:46:33,14808,EURCAD,achat,1.60225,1.59794,1.6111,2.05,annoncé,1h,objectif,2.05,2.05,2026-05-07T17:00:00,2026-05-08T12:00:00,ChatExport_2026-10-01/photos/photo_3438@07-05-2026_08-46-33.jpg
+2026-05-07T17:32:00,14814,EURUSD,vente,1.17501,1.17804,1.16811,2.28,annoncé,1h,stop,-1.0,0.75,2026-05-07T17:32:00,2026-05-08T12:00:00,assets/tradingview/2026-05/2026-05-07_17h32_msg14814_pGEF5O9C.png
+2026-05-14T22:56:00,14870,AUDUSD,vente,0.72403,0.72652,0.71904,2.0,après coup,1h,objectif,2.0,2.0,2026-05-14T12:00:00,2026-05-15T02:00:00,assets/tradingview/2026-05/2026-05-14_22h57_msg14870_D7ywZpvl.png
+2026-06-02T11:10:18,14908,GBPNZD,vente,2.265,2.27146,2.24007,3.86,annoncé,1h,non déclenché,,,,,ChatExport_2026-10-01/photos/photo_3470@02-06-2026_11-10-18.jpg
+2026-06-03T08:32:34,14914,EURJPY,achat,185.438,184.498,186.179,0.79,annoncé,1h,objectif,0.79,0.79,2026-06-03T08:32:34,2026-06-05T09:00:00,ChatExport_2026-10-01/photos/photo_3473@03-06-2026_08-32-34.jpg
+2026-06-16T08:21:00,14943,NZDJPY,achat,93.325,92.979,94.394,3.09,annoncé,1h,stop,-1.0,1.06,2026-06-16T08:21:00,2026-06-17T18:00:00,ChatExport_2026-10-01/photos/photo_3480@16-06-2026_16-21-01.jpg
+2026-06-22T14:05:00,14956,EURJPY,vente,185.037,185.539,184.121,1.82,après coup,1h,objectif,1.82,1.82,2026-06-22T14:00:00,2026-06-23T08:00:00,assets/tradingview/2026-06/2026-06-22_15h02_msg14956_H17uzelF.png
+2026-06-22T15:01:00,14959,EURJPY,vente,185.037,185.339,184.642,1.31,après coup,1h,objectif,1.31,1.31,2026-06-22T14:00:00,2026-06-22T14:00:00,assets/tradingview/2026-06/2026-06-22_15h02_msg14959_7AUclBVA.png
+2026-06-23T21:26:39,14965,GBPUSD,vente,1.32433,1.32834,1.31653,1.95,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2026-06-24T10:00:00,ChatExport_2026-10-01/photos/photo_3487@23-06-2026_21-26-39.jpg
+2026-06-30T21:12:00,14977,EURAUD,vente,1.64998,1.65399,1.63753,3.1,annoncé,1h,stop,-1.0,0.16,2026-06-30T21:12:00,2026-07-01T01:00:00,assets/tradingview/2026-06/2026-06-30_21h12_msg14977_t67mHLmh.png
+2026-06-30T21:39:00,14982,EURJPY,achat,185.468,185.066,186.328,2.14,annoncé,1h,stop,-1.0,0.58,2026-07-01T01:00:00,2026-07-01T12:00:00,assets/tradingview/2026-06/2026-06-30_21h39_msg14982_mb76b4pl.png
+2026-07-01T13:24:00,15003,EURAUD,vente,1.65003,1.65612,1.63758,2.04,annoncé,1h,objectif,2.04,2.04,2026-07-01T13:24:00,2026-07-14T14:00:00,assets/tradingview/2026-07/2026-07-01_13h24_msg15003_OAIpR2Cc.png
+2026-07-01T13:51:00,15005,AUDUSD,achat,0.69057,0.68807,0.69583,2.1,annoncé,1h,objectif,2.1,2.1,2026-07-01T13:51:00,2026-07-06T18:00:00,assets/tradingview/2026-07/2026-07-01_13h52_msg15005_Uqj8QOug.png
+2026-07-02T12:41:00,15017,EURJPY,achat,184.283,183.876,184.822,1.32,annoncé,1h,objectif,1.32,1.32,2026-07-02T13:00:00,2026-07-06T00:00:00,assets/tradingview/2026-07/2026-07-02_12h41_msg15017_SCNqMND2.png
+2026-07-08T02:20:00,15037,EURNZD,vente,2.00469,2.0098,1.99439,2.02,après coup,1h,objectif,2.02,2.02,2026-07-08T02:00:00,2026-07-09T07:00:00,assets/tradingview/2026-07/2026-07-09_00h22_msg15037_ZVyDYKyM.png
+2026-07-10T09:10:01,15045,EURJPY,vente,185.063,185.457,184.844,0.56,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2026-07-10T12:00:00,ChatExport_2026-10-01/photos/photo_3506@10-07-2026_09-10-01.jpg
+2026-07-14T11:38:53,15081,AUDJPY,achat,112.489,112.181,113.105,2.0,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2026-07-14T14:00:00,ChatExport_2026-10-01/photos/photo_3516@14-07-2026_11-38-53.jpg
+2026-07-14T12:49:00,15099,EURUSD,vente,1.152,1.15301,1.14534,6.59,après coup,1h,objectif déjà dépassé à la publication,,,,,assets/tradingview/2026-07/2026-07-14_12h49_msg15099_vDYO4Shh.png
+2026-07-14T12:58:00,15100,GBPUSD,vente,1.3414,1.3439,1.33629,2.04,annoncé,1h,stop,-1.0,1.77,2026-07-14T13:00:00,2026-07-15T13:00:00,assets/tradingview/2026-07/2026-07-14_12h58_msg15100_7XJ4tugg.png
+2026-07-14T14:26:00,15114,GBPUSD,vente,1.34063,1.34364,1.33394,2.22,annoncé,1h,stop,-1.0,1.22,2026-07-14T14:26:00,2026-07-15T13:00:00,assets/tradingview/2026-07/2026-07-14_14h26_msg15114_r91AiXwo.png
+2026-07-24T10:22:09,15162,EURAUD,vente,1.63128,1.63411,1.62258,3.07,après coup,1h,stop,-1.0,2.2,2026-07-24T07:00:00,2026-07-28T14:00:00,ChatExport_2026-10-01/photos/photo_3533@24-07-2026_10-22-09.jpg
+2026-07-31T12:29:23,15189,USDJPY,achat,159.877,159.375,161.077,2.39,après coup,1h,stop,-1.0,1.15,2026-07-31T10:00:00,2026-07-31T13:00:00,ChatExport_2026-10-01/photos/photo_3538@31-07-2026_12-29-23.jpg
+2026-08-12T12:38:00,15209,GBPAUD,vente,1.91201,1.91449,1.90683,2.09,après coup,1h,stop,-1.0,1.72,2026-08-12T12:00:00,2026-08-13T05:00:00,assets/tradingview/2026-08/2026-08-12_12h39_msg15209_goDAkH8R.png
+2026-09-01T10:14:07,15279,EURUSD,vente,1.1611,1.16262,1.15943,1.1,après coup,1h,objectif,1.1,1.1,2026-09-01T06:00:00,2026-09-01T08:00:00,ChatExport_2026-10-01/photos/photo_3562@01-09-2026_10-14-07.jpg
+2026-09-01T14:51:10,15281,EURUSD,vente,1.162,1.16262,1.15751,7.24,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2026-09-02T06:00:00,ChatExport_2026-10-01/photos/photo_3564@01-09-2026_14-51-10.jpg
+2026-09-03T02:05:00,15295,EURNZD,achat,1.97502,1.97098,1.98347,2.09,annoncé,1h,stop,-1.0,1.15,2026-09-03T15:00:00,2026-09-04T02:00:00,assets/tradingview/2026-09/2026-09-03_02h05_msg15295_21ngeVjC.png
+2026-09-10T11:24:00,15331,EURUSD,vente,1.16,1.1646,1.15669,0.72,annoncé,1h,objectif,0.72,0.72,2026-09-10T12:00:00,2026-09-14T04:00:00,assets/tradingview/2026-09/2026-09-10_11h24_msg15331_7XJKnJbq.png
+2026-09-10T17:05:10,15338,EURUSD,vente,1.16299,1.16449,1.15792,3.38,annoncé,1h,non déclenché (objectif atteint sans entrée),,,,2026-09-11T12:00:00,ChatExport_2026-10-01/photos/photo_3576@10-09-2026_17-05-10.jpg
+2026-09-16T12:07:00,15359,USDJPY,achat,154.998,154.205,155.8,1.01,annoncé,1h,objectif,1.01,1.01,2026-09-16T15:00:00,2026-09-16T18:00:00,assets/tradingview/2026-09/2026-09-16_12h07_msg15359_BpwPaame.png
+2026-09-18T00:47:00,15399,GBPAUD,vente,1.87806,1.88017,1.87346,2.18,annoncé,1h,objectif,2.18,2.18,2026-09-18T01:00:00,2026-09-18T11:00:00,assets/tradingview/2026-09/2026-09-18_00h48_msg15399_lnKhOCpk.png
+2026-09-18T02:49:00,15405,AUDJPY,achat,111.055,110.799,111.615,2.19,après coup,1h,objectif,2.19,2.19,2026-09-18T00:00:00,2026-09-18T02:00:00,assets/tradingview/2026-09/2026-09-18_02h50_msg15405_FvbXjQCX.png
+2026-09-18T02:55:00,15410,NZDJPY,achat,89.248,88.985,89.993,2.83,après coup,1h,objectif,2.83,2.83,2026-09-17T21:00:00,2026-09-18T03:00:00,assets/tradingview/2026-09/2026-09-18_02h56_msg15410_bLaFYjuy.png
+2026-09-18T03:07:00,15417,GBPAUD,achat,1.87806,1.8674,1.88431,0.59,annoncé,1h,objectif,0.59,0.59,2026-09-18T14:00:00,2026-09-24T02:00:00,assets/tradingview/2026-09/2026-09-18_03h07_msg15417_p17LysDN.png
+2026-09-21T19:08:00,15430,EURGBP,vente,0.85812,0.85962,0.85509,2.02,annoncé,1h,stop,-1.0,0.71,2026-09-22T10:00:00,2026-09-23T13:00:00,assets/tradingview/2026-09/2026-09-21_19h08_msg15430_pUJjmgvc.png
+2026-09-21T19:11:59,15434,NZDJPY,achat,89.372,89.123,89.869,2.0,après coup,1h,objectif déjà dépassé à la publication,,,,,assets/tradingview/2026-09/2026-09-21_19h11_msg15434_6eNKoon4.png
+2026-10-01T00:38:00,15504,USDJPY,achat,157.012,156.654,157.842,2.32,après coup,1h,objectif,2.32,2.32,2026-09-30T14:00:00,2026-10-01T00:00:00,assets/tradingview/2026-10/2026-10-01_00h38_msg15504_BGrlkMGs.png

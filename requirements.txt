@@ -1,0 +1,12 @@
+# Dépendances de tous les scripts du projet (Python 3.10+) :
+#   pip install -r requirements.txt
+# OCR des captures (scripts/lire_captures_ocr.py) : installer aussi Tesseract (apt install tesseract-ocr tesseract-ocr-fra)
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+yfinance
+pillow
+pytesseract
+boto3        # seulement pour scripts/upload_images_s3.py

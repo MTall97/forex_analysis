@@ -1,0 +1,33 @@
+cle,issue,sens,exclure,note
+I343,,,oui,message conditionnel (« si le trade touche SL »), pas une issue
+E640,profit_flottant,,,« en profit, 50 pips » : gain flottant, pas un TP
+E862,inconnue,,,#926 concerne l'entrée suivante (#918)
+E881,inconnue,,,#933 concerne l'entrée #932
+E920,inconnue,,,#933 concerne l'entrée #932
+I963,,vente,,TP sur NZDJPY : direction déduite du commentaire « nouveau trade vers la vente » (incertaine)
+E1038,profit_flottant,,,« usdcad en profit »
+I1129,,,oui,trade non partagé dans le canal (#1129)
+E1194,gain,,,SL remonté en profit (1.62180) puis positions fermées (#1216 #1222)
+E1199,gain,,,SL remonté en profit (0.83715) #1215
+E1265,inconnue,,,#1285 concerne l'entrée #1281
+I1574,,vente,,« gbpcad est tombé » #1568
+I1663,rate,,,« on n'a pas pris de position » : non tradé
+I1672,rate,,,« touché profit sans retest » : non tradé
+E1873,inconnue,,,#1962 concerne le buy limit #1959
+E1917,profit_flottant,,,« usdjpy en profit, descendez votre SL » #1945
+E2077,rate,,,« touché notre profit sans être venu dans notre zone » #2091
+I2419,rate,,,« ne nous avait pas donné de point d'entrée » #2419
+E3385,inconnue,,,« 1:20RR si on touche TP » : issue non donnée
+I4316,be,,,« sortir à breakeven » #4316
+I8493,,,oui,commentaire de marché, pas une issue de trade
+I9940,sl,achat,,« nous a fait sortir »
+I10529,,,oui,commentaire, pas une issue
+I10740,,,oui,conseil de couverture, pas une issue
+I11390,,vente,,« EURAUD est condamné à couler » #11408
+I11405,,vente,,idem
+I11427,,vente,,idem
+I12690,,,oui,même trade AUDJPY que #12681
+I14517,be,,,« mettez-vous à BE » #14517
+I15463,,achat,,GBPAUD achat 1.88636 (capture photo 3604)
+I15482,,vente,,USDJPY vente 157.506 (capture photo 3609)
+I15505,,achat,,USDJPY achat 157.012 (capture photo 3615)

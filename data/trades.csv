@@ -1,0 +1,282 @@
+id_entree,date_utc,paire,sens,issue,evenements,ids_issue,texte_entree
+11,2019-03-14T08:00:29,AUDCHF,vente,be,be,18,Sell Audchf now at 0.70876 stop loss at 0.71092
+12,2019-03-14T08:04:31,EURNZD,achat,be,be,17,Buy eurnzd now at 1.65539 stop loss at 1.65076 tp at 1.66218
+,2019-03-14T10:15:38,NZDCAD,vente,be,be,19,(entrée non retrouvée)
+25,2019-03-15T06:29:46,NZDCHF,vente,inconnue,,,"Nzdchf retest the previous support, the ema has been touched, the trend in downward. This is a great setup,  wait london opening to sell this pair. Entry arroun"
+260,2019-03-28T07:15:45,NZDCAD,achat,inconnue,,,Nzdcad buy stop at 0.91339 Stop loss: 0.91041 Take profit: 0.91850
+262,2019-03-28T07:48:13,NZDCHF,achat,inconnue,,,Nzdchf buy stop at 0.67769 Stop loss: 0.67562 Take profit: 0.68199
+263,2019-03-28T08:18:18,EURJPY,vente,inconnue,,,Sell stop eurjpy at 123.889 Stop loss at: 124741 Take profit at: 122.820
+264,2019-03-28T08:30:57,EURJPY,vente,inconnue,,,"Even if eurjpy dont come back to our sell stop area, sell it at 9:00 GMT"
+265,2019-03-28T08:32:21,EURJPY,vente,inconnue,,,"Meme si eurjpy natteint pas notre prix de vente, vendez le 9:00 GMT (heure du Mali)"
+315,2019-04-02T09:44:54,EURJPY,vente,profit_flottant,profit_flottant,519,"Il est 4:43 chez moi et j’attends toujours une confirmation de eurjpy, sil nya pas de confirmation a 5:00 (dans 15min) je vais me coucher et mettre un sell stop"
+320,2019-04-02T10:27:09,USDCAD,vente,profit_flottant,profit_flottant,328,vendez usdcad maintenant.
+,2019-04-09T13:07:49,XAUUSD,achat,be,be,435,(entrée non retrouvée)
+449,2019-04-09T15:42:51,CADJPY,vente,inconnue,,,"cadjpy malgré que moi je vais pas la trader, elle a un joli setup. Vous pouvez l'observer lorsqu'elle casse le support, vendez la. Il va retourner pour retest l"
+,2019-04-10T22:05:24,NZDCHF,achat,be,be,473,(entrée non retrouvée)
+,2019-04-12T14:48:11,EURUSD,achat,be,be,547,(entrée non retrouvée)
+,2019-04-15T14:18:10,NZDCAD,vente,be,be,617,(entrée non retrouvée)
+624,2019-04-16T01:22:12,USDCHF,vente,inconnue,,,mettez un sell stop a 1.00495 sur usdchf
+636,2019-04-16T17:56:08,GBPUSD,vente,inconnue,,,SELL GBPUSD @1.30750 SL 1.31129 TP 1.28133
+638,2019-04-17T06:30:01,XAUUSD,achat,inconnue,,,BUY GOLD NOW STOP LOSS AT LAST LOWER LOW
+640,2019-04-17T09:24:31,AUDUSD,achat,profit_flottant,profit_flottant profit_flottant tp,649 656 677,buy audusd now at market price
+644,2019-04-17T10:28:07,USDJPY,vente,profit_flottant,profit_flottant,657,sell usdjpy now at market price
+681,2019-04-19T05:25:52,GBPUSD,achat,inconnue,,,buy gbpusd at market price
+721,2019-04-24T09:04:48,GBPJPY,achat,profit_flottant,profit_flottant,730,BUY GBPJPY NOW at market price
+731,2019-04-24T20:14:15,GBPUSD,achat,inconnue,,,very good risk ratio trade on gbpusd. buy now
+,2019-05-01T14:45:37,CADCHF,vente,be,be,768,(entrée non retrouvée)
+778,2019-05-06T09:13:11,EURNZD,vente,inconnue,,,sell eurnzd. Stop loss 1.69600
+799,2019-05-08T19:47:55,XAUUSD,vente,inconnue,,,SELL XAUUSD 1283.82 SL 1285.50
+823,2019-05-14T17:28:50,AUDNZD,achat,inconnue,,,buy audnzd now at market price
+837,2019-05-16T11:36:58,EURNZD,vente,inconnue,,,sell eurnzd now at market price
+862,2019-05-22T23:21:42,EURAUD,achat,inconnue,sl,926,buy euraud now at market price
+867,2019-05-23T14:52:35,EURGBP,vente,inconnue,,,"eurgbp setup, sell now at market price"
+878,2019-05-23T22:41:07,EURGBP,vente,inconnue,,,sell eurgbp now at market price
+881,2019-05-24T10:22:03,AUDUSD,achat,inconnue,sl,933,Buy Audusd now at market price
+891,2019-05-27T15:31:22,EURCAD,vente,inconnue,,,sell eurcad now at market price
+918,2019-05-29T09:26:38,EURAUD,achat,sl,sl,926,Buy euraud now at market price
+920,2019-05-29T11:42:25,AUDUSD,achat,inconnue,sl,933,buy audusd now at market price
+932,2019-05-30T05:01:44,AUDUSD,achat,sl,sl,933,Buy Audusd. Stop loss 0.69100
+946,2019-06-04T05:34:38,NZDAUD,achat,inconnue,,,le setup a ete validé. Achetez nzdaud maintenant stop loss at 1.05600
+,2019-06-05T03:18:21,AUDNZD,achat,sl,sl,951,(entrée non retrouvée)
+962,2019-06-05T18:47:17,EURCAD,vente,inconnue,,,le trade sur eurcad est un tres bon setup. Vendez eurcad
+,2019-06-05T18:59:34,NZDJPY,vente,tp,tp,963,(entrée non retrouvée)
+987,2019-06-12T02:42:21,NZDCHF,vente,sl,sl,1015,Sell nzdchf now at market price
+,2019-06-14T06:15:26,NZDJPY,vente,rate,rate,1013,(entrée non retrouvée)
+1020,2019-06-14T06:37:16,GBPJPY,vente,tp,tp,1023,sell gbpjpy now at market price
+1028,2019-06-17T17:31:20,AUDCAD,vente,inconnue,,,sell audcad now at market price
+1029,2019-06-18T07:02:00,CHFJPY,vente,sl,sl,1044,sell chfjpy now at market price
+1036,2019-06-18T15:52:30,USDCHF,achat,inconnue,,,Buy usdchf now at market price
+1038,2019-06-18T20:02:37,USDCAD,vente,profit_flottant,profit_flottant tp,1045 1065,"formation de M terminé, vendez usdcad maintenant au prix du marché. Mettez stop loss en haut de la zone rouge sur le dessin"
+1039,2019-06-18T20:45:46,EURNZD,vente,inconnue,,,sell eurnzd now at market price
+1048,2019-06-19T20:38:53,EURJPY,vente,sl,sl,1072,sell eurjpy now at market price
+1051,2019-06-19T20:54:35,NZDCAD,vente,inconnue,,,sell nzdcad now at market price
+1068,2019-06-24T11:47:21,GBPUSD,achat,inconnue,,,buy gbpusd now at market price
+1087,2019-07-02T10:40:21,CHFJPY,vente,profit_flottant,profit_flottant,1090,sell chfjpy now at market price
+,2019-08-26T13:50:48,XAUUSD,?,rate,rate,1103,(entrée non retrouvée)
+1112,2019-08-26T21:11:28,EURNZD,vente,tp,tp,1164,sell eurnzd at market price
+1115,2019-08-26T21:31:45,AUDCAD,achat,inconnue,,,buy audcad now at market price
+1144,2019-09-04T03:21:45,AUDCAD,vente,inconnue,,,"audcad est dans la zone de vente, faites attention, le candle qui a traversé la zone de liquidité est tres forte. Nous attendrons un  bon retournement de situat"
+,2019-09-04T23:36:27,GBPAUD,achat,be,be,1158,(entrée non retrouvée)
+1159,2019-09-04T23:53:40,NZDUSD,vente,sl,sl,1166,vendez nzdusd au prix du marché
+1160,2019-09-04T23:59:56,USDCAD,achat,sl,sl,1165,il est temps mtn d'acheter usdcad.
+,2019-09-05T14:27:40,USDCHF,achat,tp,tp,1167,(entrée non retrouvée)
+,2019-09-05T14:32:43,GBPAUD,achat,tp,tp,1168,(entrée non retrouvée)
+1175,2019-09-06T00:29:02,NZDCAD,vente,inconnue,,,"nzdcad a formé un order block, vendez la mtn."
+1188,2019-09-17T00:15:43,AUDUSD,vente,be,profit_flottant be,1190 1203,sell audusd now at market price
+1194,2019-09-17T14:13:09,EURAUD,achat,gain,profit_flottant profit_flottant profit_flottant sl,1200 1209 1216 1251,Buy euraud now at market price
+1199,2019-09-18T06:59:14,NZDCAD,vente,gain,profit_flottant sl,1215 1251,sell nzdcad now at market price
+1202,2019-09-18T17:36:57,CADJPY,vente,sl,sl,1204,sell cadjpy now at market price
+1211,2019-09-19T04:06:12,GBPJPY,vente,sl,sl sl be,1214 1239 1267,gbpjpy setup. Sell now at market price
+1246,2019-09-23T08:01:49,GBPJPY,vente,sl,sl be,1251 1267,sell gbpjpy now at market price
+1248,2019-09-23T09:02:09,USDJPY,vente,sl,sl,1251,sell usdjpy at market price
+1249,2019-09-23T09:06:28,GBPUSD,vente,sl,sl profit_flottant,1251 1274,sell gbpusd at market price
+1255,2019-09-24T17:23:40,USDJPY,vente,profit_flottant,profit_flottant,1293,sell usdjpy now at market price
+1260,2019-09-24T17:34:10,GBPJPY,?,be,be,1267,je me repositionne sur gbpjpy egalement
+,2019-09-25T02:28:48,USDCAD,?,be,be,1264,(entrée non retrouvée)
+1265,2019-09-25T07:06:52,USDCHF,vente,inconnue,sl,1285,sell usdchf now at market price
+1271,2019-09-27T16:17:30,GBPAUD,achat,inconnue,,,Buy gbpaud now at market price
+1281,2019-09-30T19:04:13,USDCHF,vente,sl,sl profit_flottant,1285 1307,sell usdchf now at market price
+,2019-10-18T05:29:39,AUDNZD,?,rate,rate,1339,(entrée non retrouvée)
+1362,2019-10-22T12:57:06,USDCAD,achat,inconnue,,,buy usdcad now at market price
+1363,2019-10-22T13:06:31,EURAUD,vente,inconnue,,,vendez euraud !
+1370,2019-10-23T12:26:03,AUDJPY,achat,inconnue,,,buy audjpy now at market price
+1371,2019-10-25T03:33:22,USDJPY,achat,inconnue,,,Buy USDJPY @ market price SL 108.490
+,2019-11-05T17:15:22,GBPNZD,vente,sl,sl,1383,(entrée non retrouvée)
+1387,2019-11-06T02:11:49,NZDUSD,achat,inconnue,,,achetez nzdusd now
+1392,2019-11-07T03:48:55,AUDUSD,vente,inconnue,,,sell audusd at market price
+1412,2020-01-03T09:03:44,EURUSD,vente,inconnue,,,sell eurusd now at market price
+,2020-01-13T09:49:57,GBPUSD,vente,sl,sl,1415,(entrée non retrouvée)
+1420,2020-01-15T08:02:29,EURJPY,vente,inconnue,,,vendez eurjpy maintenant au prix du marché
+1423,2020-01-16T20:52:45,GBPJPY,achat,inconnue,,,buy gbpjpy now at market price. HPTS (high probability trading setup)
+1439,2020-01-23T11:03:49,USDCHF,vente,inconnue,,,"sell usdchf now at market price. Ne risquez pas plus de 1% de votre compte, ce sont des trades basiques. Le risque ratio est de 1:3 donc vous pouvez gagner jusq"
+1452,2020-01-24T07:31:06,EURUSD,vente,be,be be sl,1464 1471 1480,vendez eurusd au prix du marché. HPTS (vous pouvez ajouter sur vos risque jusqu’a 3%. Mais attention il y’a une nouvelle economique dans 1h30 min sur l’euro
+1454,2020-01-24T07:43:46,GBPUSD,vente,profit_flottant,profit_flottant,1484,"gbpusd formation de gatyley, sell at market price. Trade a petite probabilité, ne risquez pas plus de 1% sur ce trade"
+1476,2020-01-28T07:31:00,GBPUSD,vente,profit_flottant,profit_flottant,1484,vendez gbpusd now at market price
+1486,2020-01-29T04:04:00,CHFJPY,vente,be,be,1551,sell chfjpy now at market price. Ne risquez pas plus de 2% de votre capital sur ce trade
+1530,2020-02-03T10:22:10,EURUSD,vente,profit_flottant,profit_flottant,1550,Sell eurusd now at market price. Stop loss 1.10800 tp 1.10180
+,2020-02-04T09:44:26,XAUUSD,?,rate,rate,1542,(entrée non retrouvée)
+1547,2020-02-04T10:01:08,CHFJPY,achat,be,be,1551,achetez chfjpy maintenant au prix du marché
+1556,2020-02-05T16:29:52,CADCHF,vente,inconnue,,,"bon comme prevu le marché essaye de rejeter cette zone, mais attention ce trade a une probabilité faible. ne risquez pas plus de 1% de votre compte la dessus. V"
+1572,2020-02-06T17:48:35,NZDUSD,vente,inconnue,,,sell nzdusd now au prix du marché. ce trade a une probabilité de 75% mais sommes tres loin de l’entrée pour placer un bon stop loss donc risquez que 2% sur ce t
+,2020-02-06T20:40:42,GBPCAD,vente,tp,tp,1574,(entrée non retrouvée)
+,2020-02-07T17:12:58,NZDCAD,vente,tp,tp,1600,(entrée non retrouvée)
+1616,2020-02-10T08:20:57,GBPCHF,vente,sl,sl,1618,sell gbpchf now at market price
+,2020-02-11T16:58:02,NZDCAD,vente,sl,sl,1624,(entrée non retrouvée)
+1649,2020-02-18T02:37:45,CHFJPY,vente,sl,sl,1656,sell chfjpy now at market price. ne risquez pas plus de 3%
+,2020-02-19T17:34:20,NZDUSD,?,rate,tp,1663,(entrée non retrouvée)
+1668,2020-02-20T09:51:05,GBPAUD,achat,inconnue,,,buy gbpaud now at market price
+,2020-02-20T18:10:30,GBPUSD,vente,rate,tp,1672,(entrée non retrouvée)
+,2020-02-25T20:00:26,AUDJPY,?,be,be,1689,(entrée non retrouvée)
+1691,2020-02-26T08:00:52,NZDCAD,vente,inconnue,,,sell nzdcad now at market price
+1709,2020-02-28T09:53:01,EURUSD,vente,inconnue,,,je suis entrain de mettre un sell limit sur eurusd. Je pense qu’il est survendu.
+,2020-03-03T17:07:13,GBPAUD,vente,tp,tp,1727,(entrée non retrouvée)
+1742,2020-03-06T01:02:08,EURJPY,vente,inconnue,,,sell eurjpy now at market price
+,2020-03-09T02:30:07,GBPAUD,achat,tp,tp,1753,(entrée non retrouvée)
+1764,2020-03-09T07:34:03,EURGBP,vente,inconnue,,,mettez un sell limit sur eurgbp
+1778,2020-03-11T08:35:50,GBPUSD,vente,inconnue,,,nous allons vendre gbpusd. Mettez un sell stop a 1.30100
+1847,2020-03-16T07:08:42,EURJPY,achat,be,be,1864,buy eurjpy now at market price
+1873,2020-03-16T11:59:28,GBPAUD,vente,inconnue,sl,1962,"mettez un sell stop sur gbpaud a 2.00067, stop loss a 2.00900"
+1891,2020-03-17T05:04:28,GBPJPY,vente,profit_flottant,profit_flottant,1995,mettez un sell limit sur gbpjpy a 131.280
+1914,2020-03-18T00:30:31,NZDUSD,vente,rate,rate,1950,sell limit sur nzdusd a 0.59950 stop loss a 0.60532 et notre take profit sera a 0.56487
+1917,2020-03-18T01:14:23,USDJPY,vente,profit_flottant,profit_flottant sl,1945 1949,sell usdjpy now at market price
+1958,2020-03-19T01:53:28,EURUSD,vente,rate,rate,1972,sell limit sur eurusd a 1.09316 stop loss a 1.09667 et take profit a 1.07847
+1959,2020-03-19T06:14:09,GBPAUD,achat,sl,sl,1962,buy limit sur gbpaud at 2.03062 stop loss a 2.01221 et take profit a 2.10907
+1963,2020-03-19T08:21:17,EURUSD,vente,rate,rate,1972,sell limit sur eurusd a 1.08737 stop loss a 1.09178 et take profit a 1.05950
+1981,2020-03-23T05:38:45,XAUUSD,achat,inconnue,,,buy gold at market price
+1989,2020-03-23T07:49:41,GBPJPY,vente,profit_flottant,profit_flottant,1995,sell gbpjpy now at market price
+2003,2020-03-23T12:48:22,USDCAD,vente,be,be,2111,vendez usdcad now au prix du marché
+2013,2020-03-24T05:40:32,GBPAUD,vente,inconnue,,,sell order sur gbpaud a 1.98000 stop loss a 1.98500 et take profit a 1.93336
+2017,2020-03-24T09:06:08,EURUSD,vente,inconnue,,,vendez eurusd au prix du marché
+2023,2020-03-25T07:26:39,GBPJPY,achat,inconnue,,,buy limit sur gbpjpy
+2028,2020-03-25T09:26:06,GBPJPY,achat,inconnue,,,"annulez le buy limit sur gbpjpy, il a presque touche notre take profit sans venir dans notre zone dachat"
+2046,2020-03-27T06:18:55,AUDJPY,achat,rate,rate,2059,"buy stop sur audjpy, ne risquez pas plus de 2%."
+2049,2020-03-27T09:06:00,EURUSD,vente,inconnue,,,sell limit sur eurusd a 1.10265 stop loss a 1.10560 take profit a 1.09490
+2057,2020-03-27T13:26:06,USDCAD,vente,be,be,2111,sell limit sur usdcad a 1.41648 stop loss a 1.42151 et take profit a 1.40050
+2064,2020-03-30T05:30:39,USDCAD,vente,be,be,2111,vendez usdcad au prix du marche
+2077,2020-03-31T12:08:51,NZDUSD,vente,rate,tp,2091,sell limit sur nzdusd a 0.59830 stop loss a 0.60145 et take profit a 0.59163
+2100,2020-04-01T13:22:22,USDCAD,vente,be,be,2111,vendez usdcad mtn au prix du marche
+2120,2020-04-03T02:58:45,XAUUSD,achat,inconnue,,,buy limit sur gold a 1602.563
+2123,2020-04-06T02:09:08,GBPCAD,vente,inconnue,,,sell limit sur gbpcad a 1.74225 stop loss a 1.74938 take profit a 1.71685
+2124,2020-04-06T23:29:34,GBPUSD,vente,inconnue,,,sell limit sur gbpusd a 1.22400 stop loss a 1.22880 take profit at 1.21050
+2125,2020-04-07T11:35:55,EURUSD,achat,inconnue,,,buy limit on eurusd 1.08350 stop loss at 1.07981 take profit at 1.09084
+2126,2020-04-07T12:10:53,USDCAD,vente,inconnue,,,sell limit sur usdcad a 1.40800 stop loss at 1.41266 et take profit at 1.39614
+2129,2020-04-07T14:10:27,EURUSD,vente,inconnue,,,annullez les sell et buy limit sur eurusd et usdcad
+2135,2020-04-08T10:37:11,EURNZD,vente,profit_flottant,profit_flottant,2138,sell eurnzd now at market price
+2144,2020-04-09T09:32:39,EURUSD,achat,inconnue,,,buy eurusd at market price
+2151,2020-04-09T22:07:11,USDJPY,vente,profit_flottant,profit_flottant,2154,sell limit sur usdjpy a 108.564 stop loss 108.771 take profit a 107.939
+2168,2020-04-13T01:45:27,EURJPY,vente,inconnue,,,sell limit sur eurjpy at 118.373 stop loss at 118.622 et take profit a 117.740
+2178,2020-04-13T20:47:29,EURUSD,achat,inconnue,,,buy limit sur eurusd at 1.08945 stop loss at 1.08535 tp at 1.10150
+2188,2020-04-14T12:09:59,GBPUSD,achat,inconnue,,,buy gbpusd at market price
+2200,2020-04-14T20:17:12,NZDJPY,vente,inconnue,,,Sell limit sur nzdjpy a 65.465 stop loss a 65.724 et take profit a 64.776
+2219,2020-04-15T15:58:54,EURAUD,achat,inconnue,,,buy limit sur euraud a 1.71831 stop loss a 1.70923 take profit a 1.73659
+2220,2020-04-15T16:13:16,AUDJPY,vente,inconnue,,,sell limit sur audjpy a 68.325 stop loss at 68.764 take profit at 67.025
+2221,2020-04-15T16:22:59,NZDUSD,vente,inconnue,,,sell limit sur nzdusd at 0.60300 stop loss at 0.60800 take profit at 0.59135
+2236,2020-04-17T02:25:28,GBPJPY,achat,inconnue,,,buy limit sur gbpjpy at 134.500 stop loss at 134.100 take profit at 135.280
+2238,2020-04-17T03:00:41,AUDJPY,achat,inconnue,,,buy limit sur audjpy 68.308 at 67.950 take profit at 69.025
+2239,2020-04-17T03:07:35,AUDUSD,achat,rate,rate,2241,buy limit sur audusd at 0.63465 stop loss a 0.63060 and take profit at 0.64340
+2251,2020-04-20T11:45:07,GBPNZD,vente,inconnue,,,sell limit sur gbpnzd at 2.06464 stop loss at 2.07208 take profit at 2.04975
+2255,2020-04-20T12:20:40,EURCAD,achat,inconnue,,,buy limit sur eurcad a 1.53000 stop loss a 1.52650 et take profit a 1.53721
+2261,2020-04-22T02:29:30,NZDUSD,vente,inconnue,,,sell limit sur nzdusd at 0.60062 stop loss at 0.60484 and take profit at 0.58797
+2265,2020-04-22T03:22:46,USDCAD,achat,profit_flottant,profit_flottant,2268,buy limit sur usdcad at 1.41465 stop loss a 1.40553 take profit at 1.43296
+2271,2020-04-23T18:42:23,GBPUSD,vente,inconnue,,,sell limit sur gbpusd at 1.24090 stop loss a 1.24800 take profit a 1.22480
+2272,2020-04-23T20:50:17,GBPCAD,vente,inconnue,,,sell limit sur gbpcad at 1.74175 stop loss at 1.74700 take profit at 1.73400
+2275,2020-04-27T13:07:46,GBPUSD,achat,inconnue,,,mettez un buy limit sur gbpusd a 1.23872 stop loss a 1.23367 et take profit  1.24882
+2280,2020-04-27T21:46:47,NZDUSD,achat,inconnue,,,buy limit sur nzdusd a 0.60260 stop loss at 0.59975 take profit at 0.60700
+2292,2020-05-01T02:42:05,GBPJPY,achat,inconnue,,,buy limit sur gbpjpy at 133.720 stop loss at 132.690 take profit at 135.830
+2302,2020-05-13T07:59:07,GBPUSD,vente,sl,sl,2306,sell gbpusd now at market price
+2308,2020-05-14T06:48:07,AUDJPY,vente,rate,rate,2309,sell limit sur audjpy at 69.132 stop loss at 69.475 take profit at 68.109
+2318,2020-05-27T03:55:08,NZDJPY,achat,rate,rate,2320,buy limit sur nzdjpy at 66.250 stop loss at 65.820 take profit at 67.150
+2321,2020-05-27T11:08:09,NZDJPY,achat,inconnue,,,"Nzdjpy hit our profit zone without coming back to touch our entry zone, therefore cancel the buy limit."
+2323,2020-05-27T22:09:57,NZDCAD,vente,inconnue,,,sell limit sur nzdcad at 0.85270 stop loss at 0.85510 take profit at 0.84750
+2324,2020-05-27T22:44:41,GBPUSD,vente,inconnue,,,sell limit sur gbpusd at 1.22800 stop loss at 1.23220 take profit at 1.21960
+2337,2020-05-29T06:31:34,USDJPY,vente,inconnue,,,sell limit sur usdjpy at 107.400 stop loss at 107.700 take profit at 106.770
+2340,2020-06-05T12:13:03,GBPUSD,achat,be,be,2365,buy gbpusd now at market price
+2361,2020-06-12T08:16:14,GBPJPY,vente,inconnue,,,sell limit sur gbpjpy at 135.600 stop loss at 136.660
+,2020-07-10T10:03:03,GBPCHF,achat,rate,rate,2408,(entrée non retrouvée)
+2411,2020-07-13T01:49:50,EURJPY,vente,inconnue,,,"bonsoir, ce soirnous allons pratiquer ce que nous avons appris avec les zones de supply et demand. Sell limit sur eurjpy at 121.200"
+,2020-07-13T02:14:22,GBPCHF,achat,rate,tp,2419,(entrée non retrouvée)
+2465,2020-07-27T06:47:37,NZDCAD,achat,inconnue,,,buy limit sur nzdcad
+2483,2020-07-30T08:11:41,EURJPY,achat,profit_flottant,profit_flottant,2491,buy limit sur eurjpy at 123.400 stop loss at 123.300
+2497,2020-07-31T10:24:48,NZDUSD,achat,rate,rate,2510,buy limit sur nzdusd a 0.66804 stop loss a 0.66729
+2508,2020-08-05T10:36:06,NZDUSD,vente,rate,rate,2510,sell limit sur nzdusd a 0.66592 stop loss est a 3 pips de l'entree a 0.66620
+2509,2020-08-05T11:12:56,GBPCAD,achat,inconnue,,,buy limit sur gbpcad at 1.73831 stop loss at 1.73769
+,2020-08-07T07:22:30,GBPAUD,?,rate,rate,2523,(entrée non retrouvée)
+,2020-08-13T11:48:17,EURUSD,?,sl,sl,2566,(entrée non retrouvée)
+2594,2020-08-18T11:30:16,GBPUSD,vente,rate,rate,2606,gbpusd case study. Voici un setup que je vais prendre. Pas de sell limit mais la premiere bougie engulfing a partir de mon point d'entree
+,2020-08-20T12:33:40,NZDCAD,?,rate,rate,2605,(entrée non retrouvée)
+,2020-10-07T06:20:27,GBPJPY,?,tp,tp,2794,(entrée non retrouvée)
+2809,2020-10-09T05:56:59,XAUUSD,vente,rate,rate be,2843 2851,Un sell limit sur gold qui n’a pas été remplie et le marché a changé de direction. Ce n’est pas grave je vais vous donner le case study tout de suite
+,2020-11-03T18:50:21,XAUUSD,?,rate,rate,3009,(entrée non retrouvée)
+3046,2020-11-12T12:04:26,EURUSD,vente,inconnue,,,sell limit a 18.200 sur eurusd
+3174,2020-12-16T08:47:22,EURJPY,achat,rate,rate,3179,Buy limit sur eurjpy a 125.850 et stop loss a 125.688
+3181,2020-12-17T13:29:53,GBPCAD,vente,inconnue,,,Sell limit sur gbpcad a 1.72914
+3185,2020-12-17T14:55:57,GBPCAD,vente,inconnue,,,Sell limit sur gbpcad at 1.72918
+3316,2021-01-20T01:44:51,GBPCAD,achat,inconnue,,,buy limit sur gbpcad a 1.72970 stop loss a 1.72870
+3330,2021-01-21T15:09:29,AUDCAD,vente,inconnue,,,Sell limit sur audcad
+3385,2021-01-29T08:22:45,EURUSD,achat,inconnue,tp be,3406 3416,buy limit sur eurusd at 1.20975 stop loss at 1.20915
+3429,2021-02-04T06:22:23,AUDCHF,vente,inconnue,,,sell limit sur audchf at 0.68724 stop loss at 0.68764
+,2021-03-03T17:31:01,GBPUSD,?,rate,rate,3533,(entrée non retrouvée)
+,2021-05-05T14:01:40,EURUSD,?,be,be,3931,(entrée non retrouvée)
+,2021-05-06T12:57:53,EURUSD,?,be,be,3934,(entrée non retrouvée)
+,2021-06-16T18:28:33,USDCAD,?,rate,rate,4131,(entrée non retrouvée)
+,2021-07-13T12:36:09,EURNZD,?,be,sl,4316,(entrée non retrouvée)
+,2021-11-23T06:20:05,EURNZD,achat,tp,tp,4946,(entrée non retrouvée)
+,2021-11-30T17:54:04,EURJPY,achat,rate,rate,5020,(entrée non retrouvée)
+,2021-12-04T05:11:19,AUDUSD,achat,sl,sl,5104,(entrée non retrouvée)
+,2021-12-23T13:41:52,EURNZD,?,be,be,5267,(entrée non retrouvée)
+5443,2022-01-13T21:12:19,EURUSD,vente,profit_flottant,profit_flottant,5469,2e loi de wyckoff. Cause et effet. Si vous vendez eurusd ce que vous n'avez rien compris du marché
+,2022-02-23T01:21:48,NZDJPY,?,rate,rate,5627,(entrée non retrouvée)
+,2022-04-21T07:11:24,USDCHF,?,rate,rate,5733,(entrée non retrouvée)
+,2022-07-20T12:06:43,EURUSD,?,sl,sl,5991,(entrée non retrouvée)
+,2022-07-21T12:27:52,GBPUSD,achat,be,be,6029,(entrée non retrouvée)
+,2022-08-14T23:56:37,EURJPY,?,tp,tp,6170,(entrée non retrouvée)
+,2022-09-21T11:02:46,EURUSD,?,rate,rate,6358,(entrée non retrouvée)
+,2022-09-27T12:30:58,AUDJPY,vente,sl,sl,6427,(entrée non retrouvée)
+6679,2022-10-20T12:58:02,GBPUSD,vente,tp,tp sl,6694 6722,"Prenez des comptes prop firm, vendez gbpusd !!!"
+,2023-03-16T16:06:08,AUDUSD,?,rate,rate,7713,(entrée non retrouvée)
+,2023-03-17T04:25:39,AUDUSD,vente,sl,sl,7718,(entrée non retrouvée)
+8274,2023-06-01T16:17:21,AUDJPY,achat,inconnue,,,"J’ai mis buy limit sur Audjpy pour ajouter a ma position, le marché est venu jusqu’à 2pips de mon point d’entrée et est parti sans moi eeeh"
+,2023-06-08T13:24:21,EURUSD,?,rate,rate,8320,(entrée non retrouvée)
+9239,2023-09-06T14:26:33,GBPCAD,vente,rate,rate,9321,"Je peux me contenter de vous donner sous ce format Sell limit sur GBPCAD @ 1.71935 Stop loss: 1.72494 Take profit: 1.70573 Mais non, je vous montre tout donc pr"
+,2023-09-20T06:13:29,GBPJPY,vente,rate,rate,9345,(entrée non retrouvée)
+,2023-09-21T11:15:55,GBPJPY,vente,rate,rate,9383,(entrée non retrouvée)
+,2023-10-06T15:37:59,GBPUSD,vente,rate,rate,9546,(entrée non retrouvée)
+9769,2023-11-08T20:59:28,EURJPY,achat,inconnue,,,"Achetez un café ou une boisson énergétique, je vous balance une vidéo de 36 min dans moins d’une heure de temps pour vous expliquer exactement le contexte fonda"
+,2023-11-23T15:58:03,AUDJPY,achat,sl,sl,9940,(entrée non retrouvée)
+10034,2023-12-08T13:33:13,EURUSD,vente,profit_flottant,profit_flottant,10041,Ne vendez pas non plus EURUSD. Quittez juste le marché et vaguez a vos occupations
+,2024-01-04T17:59:26,GBPJPY,?,sl,sl,10363,(entrée non retrouvée)
+,2024-02-06T12:44:06,EURNZD,?,sl,sl,10627,(entrée non retrouvée)
+,2024-06-06T12:33:59,EURAUD,vente,sl,sl,11390,(entrée non retrouvée)
+,2024-06-10T19:05:40,EURAUD,vente,sl,sl,11405,(entrée non retrouvée)
+,2024-06-19T03:16:05,EURAUD,vente,sl,sl,11427,(entrée non retrouvée)
+,2024-09-03T09:57:03,AUDUSD,?,rate,rate,11770,(entrée non retrouvée)
+,2024-09-06T13:04:31,AUDNZD,vente,rate,rate,11828,(entrée non retrouvée)
+,2024-09-11T10:15:26,EURNZD,vente,be,be,11853,(entrée non retrouvée)
+,2024-09-11T22:57:36,AUDNZD,vente,rate,rate,11872,(entrée non retrouvée)
+,2024-09-18T03:22:59,EURNZD,vente,rate,rate,11931,(entrée non retrouvée)
+,2024-11-21T14:13:54,USDJPY,?,rate,rate,12310,(entrée non retrouvée)
+,2025-01-14T02:53:13,EURNZD,?,rate,rate,12670,(entrée non retrouvée)
+,2025-01-14T22:56:06,AUDJPY,?,sl,sl,12681,(entrée non retrouvée)
+,2025-01-31T17:12:36,EURUSD,achat,be,be,12845,(entrée non retrouvée)
+,2025-02-06T01:51:43,EURJPY,?,rate,rate,12865,(entrée non retrouvée)
+,2025-04-08T23:40:58,EURUSD,vente,be,be,13115,(entrée non retrouvée)
+,2025-05-28T23:40:56,EURNZD,?,rate,rate,13338,(entrée non retrouvée)
+,2025-06-02T14:43:34,XAUUSD,?,sl,sl,13352,(entrée non retrouvée)
+,2025-08-13T01:31:53,CADJPY,?,be,be,13642,(entrée non retrouvée)
+,2025-08-19T15:21:36,GBPAUD,?,tp,tp,13700,(entrée non retrouvée)
+,2025-08-20T08:15:50,GBPNZD,vente,tp,tp,13724,(entrée non retrouvée)
+,2025-09-17T14:56:10,CADJPY,?,be,be,13856,(entrée non retrouvée)
+,2025-10-28T06:45:30,CADJPY,?,be,be,14108,(entrée non retrouvée)
+,2025-10-28T06:45:30,CADJPY,?,tp,tp,14109,(entrée non retrouvée)
+14114,2025-10-29T00:42:28,AUDJPY,achat,profit_flottant,profit_flottant,14127,mettez des buy limit sur audjpy a 100.000
+14133,2025-11-04T12:49:25,EURNZD,achat,inconnue,,,Setup A+ avec tous les criteres qu'il faut. Mettez un Buy limit sur EURNZD
+,2025-11-12T07:22:07,GBPAUD,?,be,be,14151,(entrée non retrouvée)
+,2025-12-02T22:57:29,USDCAD,?,be,be,14205,(entrée non retrouvée)
+14366,2026-01-28T16:16:45,EURAUD,vente,inconnue,,,Je vend euraud maintenant
+,2026-01-29T00:44:45,EURUSD,?,be,be,14379,(entrée non retrouvée)
+14405,2026-02-10T13:07:36,USDJPY,vente,be,be be,14407 14412,sell limit sur usdjpy
+,2026-03-02T06:14:51,USDJPY,achat,be,be,14472,(entrée non retrouvée)
+,2026-03-02T12:52:48,USDJPY,achat,tp,tp,14473,(entrée non retrouvée)
+,2026-03-05T05:03:26,AUDUSD,vente,be,be,14509,(entrée non retrouvée)
+,2026-03-05T11:01:54,EURAUD,?,be,sl,14517,(entrée non retrouvée)
+,2026-03-20T21:42:12,EURCAD,?,sl,sl,14611,(entrée non retrouvée)
+,2026-04-30T14:20:25,EURGBP,?,be,be,14742,(entrée non retrouvée)
+,2026-05-12T13:19:51,EURUSD,vente,be,be,14845,(entrée non retrouvée)
+,2026-06-30T22:01:28,EURGBP,?,be,be,14990,(entrée non retrouvée)
+15004,2026-07-01T13:24:55,EURAUD,vente,be,be be,15021 15045,Je vend EURAUD maintenant
+,2026-07-01T17:33:43,EURGBP,?,tp,tp,15007,(entrée non retrouvée)
+,2026-07-02T08:36:29,AUDUSD,achat,be,be,15008,(entrée non retrouvée)
+15097,2026-07-14T12:48:36,EURUSD,vente,inconnue,,,Sell limit sur EURUSD a 1.15000
+15101,2026-07-14T12:58:23,GBPUSD,vente,be,be,15102,Sell limit sur Gbpusd
+,2026-07-14T14:10:05,AUDJPY,achat,tp,tp,15110,(entrée non retrouvée)
+15113,2026-07-14T14:25:54,GBPUSD,vente,inconnue,,,vendez gbpusd tout de suite
+,2026-07-24T10:22:09,EURAUD,?,be,be,15163,(entrée non retrouvée)
+,2026-08-07T13:18:38,EURUSD,vente,be,be,15195,(entrée non retrouvée)
+,2026-08-12T10:10:46,AUDNZD,?,be,be,15198,(entrée non retrouvée)
+,2026-08-12T10:10:46,AUDNZD,?,tp,tp,15199,(entrée non retrouvée)
+,2026-09-18T02:51:47,GBPAUD,?,be,be,15407,(entrée non retrouvée)
+,2026-09-22T14:35:04,EURGBP,?,be,be,15443,(entrée non retrouvée)
+,2026-09-29T06:48:08,GBPAUD,achat,tp,tp,15463,(entrée non retrouvée)
+,2026-09-30T04:31:49,USDJPY,vente,tp,tp,15482,(entrée non retrouvée)
+,2026-10-01T00:39:07,USDJPY,achat,sl,sl,15505,(entrée non retrouvée)
+15529,2026-10-01T16:21:21,EURAUD,vente,be,be,15532,je vend euraud maintenant

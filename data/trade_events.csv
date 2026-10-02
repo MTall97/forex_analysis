@@ -1,0 +1,683 @@
+id_message,date_utc,evenement,paires,photo,montant,pips,texte
+16,2019-03-14T10:09:34,be,,,,,Breakeven*
+17,2019-03-14T10:13:33,be,EURNZD,photos/photo_10@14-03-2019_10-13-33.jpg,,,"The eurnzd trade, we are already in 100% profit. Put sl on breakeven"
+18,2019-03-14T10:14:44,be,AUDCHF,photos/photo_11@14-03-2019_10-14-44.jpg,,,The audchf trade is in profit. Don’t put sl in breakeven yet
+19,2019-03-14T10:15:38,be,NZDCAD,photos/photo_12@14-03-2019_10-15-38.jpg,,,"The nzdcad trade is on 100% profit, move sl to breakeven."
+90,2019-03-21T01:55:43,profit_flottant,,,,,"guys again even though we have been profitable on almost all our trade, don't get gredy to risk what you can not afford to loose because in this market there is no probability between trade. For examp"
+96,2019-03-21T08:09:12,be,,,,,my advice will be to put stop loss on breakeven whenever your profit exceed the risk. Then it will be a risk free trade. Good luck !
+205,2019-03-26T08:49:05,be,,,,,"All our take profit are good meaning even if we loose all our trades except one, we will still break even, the risk ratio are super ! So don’t worry"
+212,2019-03-26T19:05:15,tp,,,,,"Hello fellow traders, the market is not moving at all. This is a slow day, so far no stop loss hit yet even though the market is not favorable on our side. Trust the process, don't close any position "
+260,2019-03-28T07:15:45,entree,NZDCAD,,,,Nzdcad buy stop at 0.91339 Stop loss: 0.91041 Take profit: 0.91850
+262,2019-03-28T07:48:13,entree,NZDCHF,,,,Nzdchf buy stop at 0.67769 Stop loss: 0.67562 Take profit: 0.68199
+263,2019-03-28T08:18:18,entree,EURJPY,,,,Sell stop eurjpy at 123.889 Stop loss at: 124741 Take profit at: 122.820
+264,2019-03-28T08:30:57,entree,EURJPY,,,,"Even if eurjpy dont come back to our sell stop area, sell it at 9:00 GMT"
+265,2019-03-28T08:32:21,entree,EURJPY,,,,"Meme si eurjpy natteint pas notre prix de vente, vendez le 9:00 GMT (heure du Mali)"
+315,2019-04-02T09:44:54,entree,EURJPY,,,,"Il est 4:43 chez moi et j’attends toujours une confirmation de eurjpy, sil nya pas de confirmation a 5:00 (dans 15min) je vais me coucher et mettre un sell stop."
+320,2019-04-02T10:27:09,entree,USDCAD,,,,vendez usdcad maintenant.
+328,2019-04-02T15:08:04,profit_flottant,NZDJPY USDCAD,,,,Our usdcad hit stop loss. Nzdjpy is “en route”
+343,2019-04-03T09:16:14,sl,CADCHF,,,,"si le trade cadchf touche stop loss, je ne donnerai plus de signal pour le reste de cette semaine. Je vais rester hors du marché pour paper trade."
+435,2019-04-09T13:07:49,be,,photos/photo_156@09-04-2019_13-07-49.jpg,,,"l'or va toucher profit dans peu de temps, mettez vos stop loss a l'entree pour que sa soit un trade a zero risque maintenant."
+449,2019-04-09T15:42:51,entree,CADJPY,photos/photo_162@09-04-2019_15-42-51.jpg,,,"cadjpy malgré que moi je vais pas la trader, elle a un joli setup. Vous pouvez l'observer lorsqu'elle casse le support, vendez la. Il va retourner pour retest la resistance qui a eté cassée"
+464,2019-04-10T16:00:32,profit_flottant,NZDCHF,photos/photo_173@10-04-2019_16-00-32.jpg,,,nzdchf est en profit.
+465,2019-04-10T16:04:35,sl,,photos/photo_174@10-04-2019_16-04-35.jpg,,,le trade sur nzusd a touché notre stop loss de justesse. c'est pas grave
+473,2019-04-10T22:05:24,be,NZDCHF,photos/photo_181@10-04-2019_22-05-24.jpg,,,"nzdchf est en majeur profit, bouger vos stop loss a vos prix d'entrée. pour rendre sa comme un trade a risque zero"
+501,2019-04-11T20:19:45,entree,,,,,"this is a scalp trade, sell now at 1.30576"
+519,2019-04-12T04:48:02,profit_flottant,EURJPY,photos/photo_199@12-04-2019_04-48-02.jpg,,,putin pourquoi personne ne m'a rappelé qu'on avait un setup sur eurjpy ? c'est parti en profit sans qu'on ne prenne position
+547,2019-04-12T14:48:11,be,EURUSD,,,,mettez le stop loss de eurusd a on entree pour faire ce trade un trade risque zero maintenant
+605,2019-04-15T08:44:19,profit_flottant,EURUSD,photos/photo_239@15-04-2019_08-44-19.jpg,,,notre position sur eurusd est en profit. N'oubliez pas qu'on est entrain de l'acheter sur 2 semaines. Donc bougez vos stop loss et fur et a mesure qu'on securise des profits
+608,2019-04-15T08:56:31,entree,,,,,Reprenez position sur la meme paire et mettez stop loss a 1.81629
+609,2019-04-15T09:01:49,profit_flottant,EURCAD,photos/photo_240@15-04-2019_09-01-49.jpg,,,eurcad en profit
+617,2019-04-15T14:18:10,be,NZDCAD,photos/photo_242@15-04-2019_14-18-10.jpg,,,nzdcad trade en profit. Mettez vos stop loss a l'entree pour rendre sa comme un trade a risque zero
+624,2019-04-16T01:22:12,entree,USDCHF,,,,mettez un sell stop a 1.00495 sur usdchf
+627,2019-04-16T02:06:48,profit_flottant,GBPAUD,,,,cest quand on a fini avec la paire gbpaud qu'elle a commencé a rentrer dans notre zone de profit lol. Ceux qui n'ont pas eu le temps de voir mon message sont toujours en profit
+629,2019-04-16T02:10:37,profit_flottant,,photos/photo_249@16-04-2019_02-10-37.jpg,,,usdzar en profit aussi
+640,2019-04-17T09:24:31,entree,AUDUSD,photos/photo_254@17-04-2019_09-24-31.jpg,,,buy audusd now at market price
+644,2019-04-17T10:28:07,entree,USDJPY,photos/photo_255@17-04-2019_10-28-07.jpg,,,sell usdjpy now at market price
+649,2019-04-17T15:29:06,profit_flottant,AUDUSD,photos/photo_256@17-04-2019_15-29-06.jpg,,50 pips,"see, audusd en profit. Comme je vous l'avez dit, sa pouvait tomber avant de monter.  50 pips facile"
+656,2019-04-18T03:40:02,profit_flottant,AUDUSD,photos/photo_258@18-04-2019_03-40-02.jpg,,,audusd en profit.
+657,2019-04-18T03:41:16,profit_flottant,USDJPY,photos/photo_259@18-04-2019_03-41-16.jpg,,,usdjpy en profit
+677,2019-04-18T15:53:36,tp,AUDUSD,,,54pips,"audusd tp hit, +54pips"
+681,2019-04-19T05:25:52,entree,GBPUSD,photos/photo_267@19-04-2019_05-25-52.jpg,,,buy gbpusd at market price
+704,2019-04-23T13:28:10,entree,,photos/photo_279@23-04-2019_13-28-10.jpg,,,voici un tres tres bon exemple de la raison pourquoi il faut toujours attendre que la session se ferme avant de prendre position. Si vous etes un trader impatient et que le prix est dans notre zone de
+721,2019-04-24T09:04:48,entree,GBPJPY,photos/photo_288@24-04-2019_09-04-48.jpg,,,BUY GBPJPY NOW at market price
+726,2019-04-24T15:26:28,profit_flottant,GBPAUD,photos/photo_290@24-04-2019_15-26-28.jpg,,,gbpaud en route for take profit 2
+730,2019-04-24T18:59:46,profit_flottant,GBPJPY,photos/photo_294@24-04-2019_18-59-46.jpg,,,notre position sur gbpjpy est en profit. Bougez vos stop loss a notre point d'entree pour rendre le trade a risk zero
+731,2019-04-24T20:14:15,entree,GBPUSD,photos/photo_295@24-04-2019_20-14-15.jpg,,,very good risk ratio trade on gbpusd. buy now
+767,2019-05-01T14:43:01,profit_flottant,EURUSD,photos/photo_313@01-05-2019_14-43-01.jpg,,,notre position sur eurusd est en profit majeur.
+768,2019-05-01T14:45:37,be,CADCHF,photos/photo_314@01-05-2019_14-45-37.jpg,,,on avait eu chaud sur cadchf mais on est en profit. Metttez vos stop loss a l'entree
+823,2019-05-14T17:28:50,entree,AUDNZD,,,,buy audnzd now at market price
+837,2019-05-16T11:36:58,entree,EURNZD,,,,sell eurnzd now at market price
+860,2019-05-22T23:17:59,entree,,,,,achetez usdzar stop loss 14.32895
+862,2019-05-22T23:21:42,entree,EURAUD,photos/photo_364@22-05-2019_23-21-42.jpg,,,buy euraud now at market price
+867,2019-05-23T14:52:35,entree,EURGBP,photos/photo_367@23-05-2019_14-52-35.jpg,,,"eurgbp setup, sell now at market price"
+878,2019-05-23T22:41:07,entree,EURGBP,,,,sell eurgbp now at market price
+881,2019-05-24T10:22:03,entree,AUDUSD,,,,Buy Audusd now at market price
+891,2019-05-27T15:31:22,entree,EURCAD,photos/photo_373@27-05-2019_15-31-22.jpg,,,sell eurcad now at market price
+906,2019-05-28T12:35:51,profit_flottant,GBPAUD,photos/photo_383@28-05-2019_12-35-51.jpg,,480 pips,"le trade sur gbpaud qu'on a ouvert il y'a 1 mois de cela est toujours en profit. On est a 480 pips de profits. Je ne vois plus beaucoup de momentum, je vais fermer cette position"
+915,2019-05-28T23:35:54,profit_flottant,,,,,de tels setup ne se presentent pas tous les jours. Il faut en profiter quand ils arrivent
+918,2019-05-29T09:26:38,entree,EURAUD,,,,Buy euraud now at market price
+920,2019-05-29T11:42:25,entree,AUDUSD,,,,buy audusd now at market price
+926,2019-05-29T17:58:01,sl,EURAUD,photos/photo_391@29-05-2019_17-58-01.jpg,,,"meme chose avec euraud, engulfing candle, mais le maché est tombé, invalider notre setup et toucher notre stop loss. Mais c'est un trade qui peut toujours aller dans notre sens, a un higher high, je v"
+933,2019-05-30T16:04:10,sl,AUDUSD,,,,Stop loss touché encore sur Audusd a cause de l’annonce économique sur le dollar. 💭🤔.
+946,2019-06-04T05:34:38,entree,NZDAUD,photos/photo_400@04-06-2019_05-34-38.jpg,,,le setup a ete validé. Achetez nzdaud maintenant stop loss at 1.05600
+951,2019-06-05T03:18:21,sl,AUDNZD,photos/photo_403@05-06-2019_03-18-21.jpg,,,stop loss touché sur audnzd
+961,2019-06-05T18:40:29,entree,,,,,sell now at market price stop loss 0.89250
+962,2019-06-05T18:47:17,entree,EURCAD,,,,le trade sur eurcad est un tres bon setup. Vendez eurcad
+963,2019-06-05T18:59:34,tp,NZDJPY,photos/photo_412@05-06-2019_18-59-34.jpg,,,take profit touché sur nzdjpy et nouveau trade ouvert vers la vente a partir de maintenant
+967,2019-06-06T07:01:01,profit_flottant,EURNZD,photos/photo_414@06-06-2019_07-01-01.jpg,,,"eurnzd est en profit, le marché commence a devenir faible. Observez les rejets avec les candles, prenez profit partiel et laissez le reste en cours"
+972,2019-06-06T12:44:55,entree,,,,,La femme pour laquelle vous achetez un 🥃  au bar ne s’attend qu’a 🥃. Traitez le trading de la meme façon. N’ouvrez pas de gros lots sur un trade avec une expectation autre que ce qui est en face de vo
+987,2019-06-12T02:42:21,entree,NZDCHF,,,,Sell nzdchf now at market price
+1013,2019-06-14T06:15:26,rate,NZDJPY,photos/photo_431@14-06-2019_06-15-26.jpg,,,"on a pas pris de position sur nzdjpy parceque le prix n'est pas venu toucher notre zone de vente malheureusement mais si on avait pris position, sa allait etre un tres bon trade"
+1015,2019-06-14T06:19:22,sl,NZDCHF,photos/photo_433@14-06-2019_06-19-22.jpg,,,notre trade sur nzdchf a touché stop loss ensuite est revenu dans notre sens. Prochainement on ferra attention a la position de notre stop loss
+1020,2019-06-14T06:37:16,entree,GBPJPY,photos/photo_434@14-06-2019_06-37-16.jpg,,,sell gbpjpy now at market price
+1023,2019-06-14T18:54:56,tp,GBPJPY,photos/photo_436@14-06-2019_18-54-56.jpg,,,take profit hit on gbpjpy
+1028,2019-06-17T17:31:20,entree,AUDCAD,photos/photo_440@17-06-2019_17-31-20.jpg,,,sell audcad now at market price
+1029,2019-06-18T07:02:00,entree,CHFJPY,photos/photo_441@18-06-2019_07-02-00.jpg,,,sell chfjpy now at market price
+1036,2019-06-18T15:52:30,entree,USDCHF,,,,Buy usdchf now at market price
+1038,2019-06-18T20:02:37,entree,USDCAD,photos/photo_447@18-06-2019_20-02-37.jpg,,,"formation de M terminé, vendez usdcad maintenant au prix du marché. Mettez stop loss en haut de la zone rouge sur le dessin"
+1039,2019-06-18T20:45:46,entree,EURNZD,photos/photo_448@18-06-2019_20-45-46.jpg,,,sell eurnzd now at market price
+1044,2019-06-19T18:59:53,sl,CHFJPY,photos/photo_452@19-06-2019_18-59-53.jpg,,,stop loss touché sur chfjpy aussi
+1045,2019-06-19T19:02:00,profit_flottant,USDCAD,photos/photo_453@19-06-2019_19-02-00.jpg,,,usdcad en profit
+1048,2019-06-19T20:38:53,entree,EURJPY,photos/photo_456@19-06-2019_20-38-53.jpg,,,sell eurjpy now at market price
+1051,2019-06-19T20:54:35,entree,NZDCAD,photos/photo_459@19-06-2019_20-54-35.jpg,,,sell nzdcad now at market price
+1065,2019-06-21T01:30:49,tp,USDCAD,photos/photo_471@21-06-2019_01-30-49.jpg,,,take profit hit on usdcad
+1068,2019-06-24T11:47:21,entree,GBPUSD,photos/photo_473@24-06-2019_11-47-21.jpg,,,buy gbpusd now at market price
+1072,2019-06-24T11:57:54,sl,EURJPY,photos/photo_477@24-06-2019_11-57-54.jpg,,,stop loss touché sur eurjpy aussi. A raté notre take profit de justesse.
+1087,2019-07-02T10:40:21,entree,CHFJPY,photos/photo_485@02-07-2019_10-40-21.jpg,,,sell chfjpy now at market price
+1090,2019-07-03T07:45:23,profit_flottant,CHFJPY,photos/photo_488@03-07-2019_07-45-23.jpg,,,la paire chfjpy est en profit
+1103,2019-08-26T13:50:48,rate,,photos/photo_494@26-08-2019_13-50-48.jpg,,,l'or a respecté avec perfection notre zone de rejet et a meme touché profit. Je n'ai pas pris le trade parceque je dormais
+1112,2019-08-26T21:11:28,entree,EURNZD,,,,sell eurnzd at market price
+1115,2019-08-26T21:31:45,entree,AUDCAD,photos/photo_499@26-08-2019_21-31-45.jpg,,,buy audcad now at market price
+1118,2019-08-27T20:28:46,sl,,photos/photo_502@27-08-2019_20-28-46.jpg,,,stop loss touché sur cette paire
+1125,2019-08-29T14:46:30,profit_flottant,EURUSD,photos/photo_507@29-08-2019_14-46-30.jpg,,,eurusd en profit
+1129,2019-08-29T14:50:46,tp,EURGBP,photos/photo_510@29-08-2019_14-50-46.jpg,,,eurgbp a touché profit (c'est un trade que je n'avais pas partagé dans le groupe)
+1134,2019-09-03T21:13:00,profit_flottant,USDCAD,photos/photo_513@03-09-2019_21-13-00.jpg,,55pips,"usdcad est en profit, mais attention. La paire peut toujours remonter je vous conseille de fermer votre position avvec 55pips de profit"
+1144,2019-09-04T03:21:45,entree,AUDCAD,photos/photo_521@04-09-2019_03-21-45.jpg,,,"audcad est dans la zone de vente, faites attention, le candle qui a traversé la zone de liquidité est tres forte. Nous attendrons un  bon retournement de situation pour vendre, dans le cas contraire n"
+1146,2019-09-04T10:59:16,profit_flottant,GBPAUD,photos/photo_522@04-09-2019_10-59-16.jpg,,,Gbpaud en route !
+1147,2019-09-04T11:01:28,profit_flottant,GBPNZD,photos/photo_523@04-09-2019_11-01-28.jpg,,,Gbpnzd aussi en profit!
+1158,2019-09-04T23:36:27,be,GBPAUD,photos/photo_528@04-09-2019_23-36-27.jpg,,,gbpaud est devenu un trade a risque zero maintenant. Bougez vos stop loss a l'entree
+1159,2019-09-04T23:53:40,entree,NZDUSD,photos/photo_529@04-09-2019_23-53-40.jpg,,,vendez nzdusd au prix du marché
+1164,2019-09-05T06:31:07,tp,EURNZD,photos/photo_534@05-09-2019_06-31-07.jpg,,,eurnzd a touché profit
+1165,2019-09-05T14:25:50,sl,USDCAD,photos/photo_535@05-09-2019_14-25-50.jpg,,,STOP LOSS TOUCHé usdcad trade
+1166,2019-09-05T14:26:27,sl,NZDUSD,photos/photo_536@05-09-2019_14-26-27.jpg,,,stop loss touché sur nzdusd trade
+1167,2019-09-05T14:27:40,tp,USDCHF,photos/photo_537@05-09-2019_14-27-40.jpg,,,take profit touché sur usdchf
+1168,2019-09-05T14:32:43,tp,GBPAUD,photos/photo_538@05-09-2019_14-32-43.jpg,,,gbpaud a touché profit (jai reduis sur la distance que je visais)
+1175,2019-09-06T00:29:02,entree,NZDCAD,photos/photo_542@06-09-2019_00-29-02.jpg,,,"nzdcad a formé un order block, vendez la mtn."
+1188,2019-09-17T00:15:43,entree,AUDUSD,photos/photo_549@17-09-2019_00-15-43.jpg,,,sell audusd now at market price
+1190,2019-09-17T05:23:41,profit_flottant,AUDUSD,photos/photo_550@17-09-2019_05-23-41.jpg,,,audusd en profit
+1194,2019-09-17T14:13:09,entree,EURAUD,,,,Buy euraud now at market price
+1199,2019-09-18T06:59:14,entree,NZDCAD,photos/photo_555@18-09-2019_06-59-14.jpg,,,sell nzdcad now at market price
+1200,2019-09-18T08:07:15,profit_flottant,EURAUD,photos/photo_556@18-09-2019_08-07-15.jpg,,,Euraud en profit 😚
+1201,2019-09-18T08:08:19,profit_flottant,,photos/photo_557@18-09-2019_08-08-19.jpg,,,Ausdusd en profit 😎
+1202,2019-09-18T17:36:57,entree,CADJPY,photos/photo_558@18-09-2019_17-36-57.jpg,,,sell cadjpy now at market price
+1203,2019-09-18T19:05:02,be,AUDUSD,photos/photo_559@18-09-2019_19-05-02.jpg,,50 pips,bougez votre stop loss de audusd a l'entrée car nous avons touché 50 pips de profit. Maintenant c'est devenu un trade a risque zero.
+1204,2019-09-19T00:34:09,sl,CADJPY,,,,Cadjpy a touché notre stop loss.
+1209,2019-09-19T02:10:52,profit_flottant,EURAUD,photos/photo_561@19-09-2019_02-10-52.jpg,,,Bougez stop loss de euraud en profit !
+1211,2019-09-19T04:06:12,entree,GBPJPY,photos/photo_562@19-09-2019_04-06-12.jpg,,,gbpjpy setup. Sell now at market price
+1214,2019-09-20T09:46:00,sl,GBPJPY,,,,"Bonjour, gbpjpy a touché stop loss."
+1215,2019-09-20T09:47:30,profit_flottant,NZDCAD,photos/photo_563@20-09-2019_09-47-30.jpg,,,Bougez stop loss de Nzdcad en profit (0.83715)
+1216,2019-09-20T09:51:40,profit_flottant,EURAUD,photos/photo_564@20-09-2019_09-51-40.jpg,,,Bougez stop loss de euraud en profit a 1.62180
+1239,2019-09-22T21:54:21,sl,GBPJPY,photos/photo_570@22-09-2019_21-51-56.jpg,,,gbpjpy a touché notre stop loss mais eventuellement est venu dans notre sens. Les market makers ont manipulé le prix mais c'est pas grave. Nous prendrons position lorsque le 2e support est cassé.
+1246,2019-09-23T08:01:49,entree,GBPJPY,photos/photo_575@23-09-2019_08-01-49.jpg,,,sell gbpjpy now at market price
+1248,2019-09-23T09:02:09,entree,USDJPY,photos/photo_577@23-09-2019_09-02-09.jpg,,,sell usdjpy at market price
+1249,2019-09-23T09:06:28,entree,GBPUSD,photos/photo_578@23-09-2019_09-06-28.jpg,,,sell gbpusd at market price
+1251,2019-09-24T17:17:02,sl,,,,,Annonce economique et nos 3trades on touché stop loss.
+1255,2019-09-24T17:23:40,entree,USDJPY,,,,sell usdjpy now at market price
+1256,2019-09-24T17:23:44,entree,USDJPY,,,,revendez usdjpy
+1259,2019-09-24T17:26:32,entree,,photos/photo_579@24-09-2019_17-26-32.jpg,,,"est ce que vous avez vu avec comnbien de pips le marché nous a fais sortir avant daller dans notre sens ? Manipulation du broker, mais nous n'allons pas laisser partir cette poition. Reprenez position"
+1260,2019-09-24T17:34:10,entree,GBPJPY,photos/photo_580@24-09-2019_17-34-10.jpg,,,je me repositionne sur gbpjpy egalement
+1264,2019-09-25T02:28:48,be,USDCAD,photos/photo_583@25-09-2019_02-28-48.jpg,,,usdcad in profit. Bougez stop loss a l'entree
+1265,2019-09-25T07:06:52,entree,USDCHF,,,,sell usdchf now at market price
+1267,2019-09-27T01:51:07,be,GBPJPY,photos/photo_585@27-09-2019_01-51-07.jpg,,,Mettez le stop loss en profit sur gbpjpy
+1268,2019-09-27T06:49:16,entree,,photos/photo_586@27-09-2019_06-49-16.jpg,,,"ne dites pas que je suis un sorcier 🙂 le marché ne fait que repeter l'histoire. N'achetez pas au suport, nous allons prendre position la semaine prochaine lorsque le dernier swing high est cassé"
+1271,2019-09-27T16:17:30,entree,GBPAUD,,,,Buy gbpaud now at market price
+1274,2019-09-27T18:12:16,profit_flottant,GBPUSD,photos/photo_588@27-09-2019_18-12-16.jpg,,,Gbpusd en profit !
+1281,2019-09-30T19:04:13,entree,USDCHF,,,,sell usdchf now at market price
+1283,2019-10-01T05:29:57,sl,,photos/photo_595@01-10-2019_05-29-57.jpg,,,"Manipulation des market makers a la derniere minute pour matcher la liquidité. Mon stop loss a été touché, mais cetait un excellent setup."
+1285,2019-10-01T06:00:00,sl,USDCHF,,,,usdchf a touché stop loss
+1291,2019-10-03T16:36:15,profit_flottant,EURUSD,photos/photo_600@03-10-2019_16-36-15.jpg,,,C’est le week-end. Stop loss de Eurusd en profit !
+1292,2019-10-03T16:37:27,profit_flottant,GBPUSD,photos/photo_601@03-10-2019_16-37-27.jpg,,,"Meme chose pour gbpusd, en profit !"
+1293,2019-10-03T16:39:40,profit_flottant,USDJPY,photos/photo_602@03-10-2019_16-39-40.jpg,,,"Pour ceux qui ont pris position sur usdjpy, vous devriez etre en profit egalement sur cette paire !"
+1307,2019-10-09T16:46:30,profit_flottant,,photos/photo_611@09-10-2019_16-46-30.jpg,,,Trade trop facile ! J’espère que tout le monde est en profit sur cette paire
+1335,2019-10-17T11:25:11,be,,,,,bougez vos stop loss a l'entree
+1336,2019-10-17T13:27:40,be,,photos/photo_625@17-10-2019_13-27-40.jpg,,,Bougez stop loss en profit !
+1339,2019-10-18T05:29:39,rate,AUDNZD,photos/photo_628@18-10-2019_05-29-39.jpg,,,Audnzd n'est pas venu confirmer. Donc on a pas pris position
+1362,2019-10-22T12:57:06,entree,USDCAD,photos/photo_640@22-10-2019_12-57-06.jpg,,,buy usdcad now at market price
+1363,2019-10-22T13:06:31,entree,EURAUD,photos/photo_641@22-10-2019_13-06-31.jpg,,,vendez euraud !
+1370,2019-10-23T12:26:03,entree,AUDJPY,photos/photo_646@23-10-2019_12-26-03.jpg,,,buy audjpy now at market price
+1383,2019-11-05T17:15:22,sl,GBPNZD,photos/photo_652@05-11-2019_17-15-22.jpg,,,gbpnzd a touché stop loss
+1384,2019-11-05T17:15:43,profit_flottant,EURUSD,photos/photo_653@05-11-2019_17-15-43.jpg,,,bougez stop loss the eurusd en profit.
+1387,2019-11-06T02:11:49,entree,NZDUSD,photos/photo_655@06-11-2019_02-11-49.jpg,,,achetez nzdusd now
+1392,2019-11-07T03:48:55,entree,AUDUSD,photos/photo_658@07-11-2019_03-48-55.jpg,,,sell audusd at market price
+1405,2019-11-27T23:19:57,be,,photos/photo_663@27-11-2019_23-19-57.jpg,,,"je deteste des choses comme sa. Bougez vos stop loss a l'entree. Ceux qui aiment prendre des risques, gardez le stop loss au point initial"
+1406,2019-11-28T17:12:47,be,,photos/photo_664@28-11-2019_17-12-47.jpg,,,"le marché rencontre des difficultées au prix actuel, je vous conseil de bouger stop loss a l'entree mtin, prendre  50% de profit et laisser le reste couler voir"
+1407,2019-11-29T18:22:14,tp,,photos/photo_665@29-11-2019_18-22-14.jpg,,,take profit touché.
+1412,2020-01-03T09:03:44,entree,EURUSD,photos/photo_666@03-01-2020_09-03-44.jpg,,,sell eurusd now at market price
+1415,2020-01-13T09:49:57,sl,GBPUSD,photos/photo_668@13-01-2020_09-49-57.jpg,,,"gbpusd nous a fait sortir de quelques pips. Ce n’est pas grave, tant que vous avez un bon risk management du compte, vous devez pas avoir de probleme"
+1420,2020-01-15T08:02:29,entree,EURJPY,photos/photo_670@15-01-2020_08-02-29.jpg,,,vendez eurjpy maintenant au prix du marché
+1423,2020-01-16T20:52:45,entree,GBPJPY,photos/photo_671@16-01-2020_20-52-45.jpg,,,buy gbpjpy now at market price. HPTS (high probability trading setup)
+1425,2020-01-17T08:51:03,be,,photos/photo_672@17-01-2020_08-51-03.jpg,,,bougez vos stop loss a breakeven
+1432,2020-01-22T21:47:28,rate,,photos/photo_673@22-01-2020_21-47-28.jpg,,,"voici le trade de ce matin que j’avais demandé de prendre mais apres que j’ai dis de ne plus le faire. Sa a touché profit mais rappelez vous, lorsque vous avez une une discipline, rater des bons setup"
+1439,2020-01-23T11:03:49,entree,USDCHF,photos/photo_677@23-01-2020_11-03-49.jpg,,,"sell usdchf now at market price. Ne risquez pas plus de 1% de votre compte, ce sont des trades basiques. Le risque ratio est de 1:3 donc vous pouvez gagner jusqua 3% si ce trade est gagnant et perdrez"
+1452,2020-01-24T07:31:06,entree,EURUSD,photos/photo_680@24-01-2020_07-31-06.jpg,,,vendez eurusd au prix du marché. HPTS (vous pouvez ajouter sur vos risque jusqu’a 3%. Mais attention il y’a une nouvelle economique dans 1h30 min sur l’euro
+1464,2020-01-27T10:29:13,be,EURUSD,photos/photo_687@27-01-2020_10-29-13.jpg,,,"eurusd est en profit, bougez vos stop loss a breakeven"
+1471,2020-01-27T19:56:39,be,EURUSD,,,,"je vais ouvrir une autre position sur la paire eurusd. Bougez l’ancien stoploss a breakeven et prenez position une seconde fois, c,’est un HPTS. sa veut dire que vous pouvez risquer 3% de votre capita"
+1476,2020-01-28T07:31:00,entree,GBPUSD,photos/photo_690@28-01-2020_07-31-00.jpg,,,vendez gbpusd now at market price
+1480,2020-01-28T12:52:22,sl,EURUSD,photos/photo_692@28-01-2020_12-52-22.jpg,,,"Position sur eurusd. C’est devenu un trade a risque zero mtn car meme si sa doit aller toucher mon stop loss du 2e trade, jaurai deja pris profit sur le premier trade. Laissons voir combien de % nous "
+1484,2020-01-28T18:59:32,profit_flottant,GBPUSD,photos/photo_694@28-01-2020_18-59-32.jpg,,,fermez la position sur gbpusd en profit. Le marché ne veut pas plus descendre
+1486,2020-01-29T04:04:00,entree,CHFJPY,photos/photo_696@29-01-2020_04-04-00.jpg,,,sell chfjpy now at market price. Ne risquez pas plus de 2% de votre capital sur ce trade
+1502,2020-01-30T08:22:25,profit_flottant,,photos/photo_701@30-01-2020_08-22-25.jpg,,,fermez la postion en profit.
+1504,2020-01-30T08:29:20,profit_flottant,AUDUSD,photos/photo_702@30-01-2020_08-29-20.jpg,,,audusd aussi en profit 🙂 bonne fin de semaine la famille
+1506,2020-01-30T15:54:43,profit_flottant,AUDUSD,,,,Bougez stop loss de audusd en profit a 0.67210
+1515,2020-01-31T09:55:36,profit_flottant,AUDUSD,photos/photo_706@31-01-2020_09-55-36.jpg,,,vous pouvez fermer egalement la position sur audusd en profit
+1530,2020-02-03T10:22:10,entree,EURUSD,photos/photo_710@03-02-2020_10-22-10.jpg,,,Sell eurusd now at market price. Stop loss 1.10800 tp 1.10180
+1535,2020-02-03T11:18:58,tp,,,,,"Si vous croyez que le marché va chuter durant les 2 prochaines semaines, il serait interessant d’ouvrir une 2e position que vous n’allez pas fermer jusqu’a ce que votre stop loss soit touché ou votre "
+1542,2020-02-04T09:44:26,rate,,photos/photo_717@04-02-2020_09-44-26.jpg,,,l’or est tombé comme prevu mais malheureusement sa nous a pas donné de point d’entree c’est pourquoi nous avons pas pris position.
+1547,2020-02-04T10:01:08,entree,CHFJPY,photos/photo_718@04-02-2020_10-01-08.jpg,,,achetez chfjpy maintenant au prix du marché
+1550,2020-02-04T14:09:03,profit_flottant,EURUSD,photos/photo_719@04-02-2020_14-09-03.jpg,,,notre trade sur eurusd est en profit. Bougez vos stop loss a l’entree.
+1551,2020-02-04T23:18:27,be,CHFJPY,photos/photo_720@04-02-2020_23-18-27.jpg,,,chfjpy en profit. Bougez vos stop loss a l'entree
+1556,2020-02-05T16:29:52,entree,CADCHF,photos/photo_723@05-02-2020_16-29-52.jpg,,,"bon comme prevu le marché essaye de rejeter cette zone, mais attention ce trade a une probabilité faible. ne risquez pas plus de 1% de votre compte la dessus. Vendez cadchf au prix du marché"
+1568,2020-02-06T17:13:20,profit_flottant,GBPCAD,photos/photo_726@06-02-2020_17-13-20.jpg,,,est ce que vous voyez comment gbpcad est tombé ? 🙂 bougez vos stop loss en profit
+1574,2020-02-06T20:40:42,tp,GBPCAD,photos/photo_730@06-02-2020_20-40-42.jpg,,,take profit touché sur gbpcad
+1591,2020-02-07T09:30:23,profit_flottant,,photos/photo_732@07-02-2020_09-30-23.jpg,,,hahahaa le trade miraculeux est en route
+1600,2020-02-07T17:12:58,tp,NZDCAD,photos/photo_735@07-02-2020_17-12-58.jpg,,,take profit touché sur nzdcad. Nous sommes a +25% de notre compte cette semaine.
+1602,2020-02-07T21:12:08,profit_flottant,GBPJPY,photos/photo_737@07-02-2020_21-12-08.jpg,,,"le trade gbpjpy est en profit, Je vous conseille de fermer la position tout de suite. Ce n’est pas interessant de garder des positions ouverte durant le weekend"
+1616,2020-02-10T08:20:57,entree,GBPCHF,photos/photo_739@10-02-2020_08-20-57.jpg,,,sell gbpchf now at market price
+1618,2020-02-10T16:35:16,sl,GBPCHF,,,,stop loss touche sur gbpchf. Ce n’est pas grave.
+1624,2020-02-11T16:58:02,sl,NZDCAD,,,,Nzdcad aussi a touché stop loss.
+1649,2020-02-18T02:37:45,entree,CHFJPY,photos/photo_750@18-02-2020_02-37-45.jpg,,,sell chfjpy now at market price. ne risquez pas plus de 3%
+1656,2020-02-18T07:08:12,sl,CHFJPY,,,,sl touche sur chfjpy. C’etait un tres tres bon trade.
+1661,2020-02-18T07:23:46,profit_flottant,,,,,"meme si ce trade continue de tomber, je ne serai pas fier d’en profiter car sa ne respecte pas notre systeme. Un bon trade n’est pas un trade gagnant, c’est un trade qui respecte un systeme."
+1663,2020-02-19T17:34:20,tp,NZDUSD,photos/photo_754@19-02-2020_17-34-20.jpg,,,nzdusd a touché profit mais on a pas pris de postion sur cette paire. Ce n’est pas grave.
+1668,2020-02-20T09:51:05,entree,GBPAUD,photos/photo_758@20-02-2020_09-51-05.jpg,,,buy gbpaud now at market price
+1672,2020-02-20T18:10:30,tp,GBPUSD,photos/photo_760@20-02-2020_18-10-30.jpg,,,"pire, gbpusd a touché profit sans retest"
+1689,2020-02-25T20:00:26,be,AUDJPY,photos/photo_770@25-02-2020_20-00-26.jpg,,,"audjpy en profit, bougez vos stop loss a l’entrée pour que sa soit un trade a risque zero."
+1690,2020-02-25T20:01:43,profit_flottant,AUDCHF,photos/photo_771@25-02-2020_20-01-43.jpg,,,"audchf en profit, bougez vos stop loss egalement a l’entrée. La semaine commence bien !"
+1691,2020-02-26T08:00:52,entree,NZDCAD,photos/photo_772@26-02-2020_08-00-52.jpg,,,sell nzdcad now at market price
+1697,2020-02-26T09:13:54,profit_flottant,AUDJPY,photos/photo_774@26-02-2020_09-13-54.jpg,,,audjpy en route vers take profit.
+1709,2020-02-28T09:53:01,entree,EURUSD,photos/photo_780@28-02-2020_09-53-01.jpg,,,je suis entrain de mettre un sell limit sur eurusd. Je pense qu’il est survendu.
+1712,2020-02-29T01:09:52,profit_flottant,EURJPY,photos/photo_783@29-02-2020_01-09-52.jpg,,,eurjpy en route. J’aurai du prendre profit a 1:2 mais je dormais. On verra la suite la semaine prochaine
+1727,2020-03-03T17:07:13,tp,GBPAUD,photos/photo_786@03-03-2020_17-07-13.jpg,,,take profit touché sur gbpaud.
+1742,2020-03-06T01:02:08,entree,EURJPY,photos/photo_790@06-03-2020_01-02-08.jpg,,,sell eurjpy now at market price
+1744,2020-03-06T06:52:19,entree,,photos/photo_791@06-03-2020_06-52-19.jpg,,,mettez un buy limit sur gpaud. Nous allons l’acheter sur le EMA50
+1747,2020-03-06T09:36:05,be,,,,,"je vous conseille de reduire votre risque, et fermer 1% a breakeven. Comme sa vous ne risquerez que max 2%."
+1752,2020-03-09T02:27:56,tp,,photos/photo_796@09-03-2020_02-27-56.jpg,,,take profit touché sur eujpy aussI.
+1753,2020-03-09T02:30:07,tp,GBPAUD,photos/photo_797@09-03-2020_02-30-07.jpg,,,take profit touché sur gbpaud.
+1764,2020-03-09T07:34:03,entree,EURGBP,,,,mettez un sell limit sur eurgbp
+1765,2020-03-09T07:36:20,entree,,photos/photo_798@09-03-2020_07-36-20.jpg,,,"sell limit 0.87150, stop loss 0.87460 take profit 0.86220"
+1776,2020-03-09T11:40:06,sl,,,,,sl touché.
+1778,2020-03-11T08:35:50,entree,GBPUSD,photos/photo_800@11-03-2020_08-35-50.jpg,,,nous allons vendre gbpusd. Mettez un sell stop a 1.30100
+1795,2020-03-12T06:49:03,sl,,,,,"Si vous avez remarqué, lorsque nous prenons des trades sur ces paires, le marché bouge tres vite et en 2 jours on a soit notre take profit touché ou notre stop loss touché"
+1847,2020-03-16T07:08:42,entree,EURJPY,photos/photo_809@16-03-2020_07-08-42.jpg,,,buy eurjpy now at market price
+1853,2020-03-16T08:43:16,entree,,photos/photo_810@16-03-2020_08-43-16.jpg,,,sell limit sur l’or. Ne risquez pas plus de 2% sur ce trade.
+1854,2020-03-16T08:44:39,entree,,,,,sell limit a 1543.928 stop loss 1551.701 take profit 1511.535
+1855,2020-03-16T08:50:20,profit_flottant,,photos/photo_811@16-03-2020_08-50-20.jpg,,,le trade sur eurjp est en profit. Mettez vos stop loss a l’entree
+1858,2020-03-16T09:03:23,entree,,,,,vendez l’or maitenant
+1864,2020-03-16T10:24:43,be,EURJPY,,,,Eurjpy fermé a breakeven
+1873,2020-03-16T11:59:28,entree,GBPAUD,photos/photo_814@16-03-2020_11-59-28.jpg,,,"mettez un sell stop sur gbpaud a 2.00067, stop loss a 2.00900"
+1875,2020-03-16T12:16:28,entree,,,,,meme stop loss et mm take profit que le sell limit
+1887,2020-03-17T04:52:44,entree,,photos/photo_816@17-03-2020_04-52-44.jpg,,,vendez l’or encore au prix du marché
+1891,2020-03-17T05:04:28,entree,GBPJPY,photos/photo_817@17-03-2020_05-04-28.jpg,,,mettez un sell limit sur gbpjpy a 131.280
+1914,2020-03-18T00:30:31,entree,NZDUSD,photos/photo_818@18-03-2020_00-30-31.jpg,,,sell limit sur nzdusd a 0.59950 stop loss a 0.60532 et notre take profit sera a 0.56487
+1917,2020-03-18T01:14:23,entree,USDJPY,photos/photo_819@18-03-2020_01-14-23.jpg,,,sell usdjpy now at market price
+1936,2020-03-18T05:55:15,entree,,,,,sell stop sur l’or
+1938,2020-03-18T05:56:15,entree,,,,,sell limit a 1521.663 sop loss a 1539.936
+1945,2020-03-18T06:07:23,profit_flottant,USDJPY,photos/photo_821@18-03-2020_06-07-23.jpg,,,usdjpy en profit. Ajoutez une nouvelle position avec 1% de risque et faites descendre votre stop loss du premier trade a
+1949,2020-03-18T08:30:38,sl,USDJPY,,,,sl touché sur usdjpy
+1950,2020-03-18T08:34:31,rate,NZDUSD,,,,"nzdusd n’est pas venu dans notre zone de vente avant de tomber, c’est dommage. Annulez le sell limit"
+1958,2020-03-19T01:53:28,entree,EURUSD,photos/photo_823@19-03-2020_01-53-28.jpg,,,sell limit sur eurusd a 1.09316 stop loss a 1.09667 et take profit a 1.07847
+1959,2020-03-19T06:14:09,entree,GBPAUD,photos/photo_824@19-03-2020_06-14-09.jpg,,,buy limit sur gbpaud at 2.03062 stop loss a 2.01221 et take profit a 2.10907
+1962,2020-03-19T06:48:44,sl,GBPAUD,,,,sl touché sur gbpaud
+1963,2020-03-19T08:21:17,entree,EURUSD,,,,sell limit sur eurusd a 1.08737 stop loss a 1.09178 et take profit a 1.05950
+1968,2020-03-20T04:07:37,entree,,,,,sell limit a 1.08045 stop loss a 1.08784 take profit a 1.04904
+1972,2020-03-20T06:44:54,rate,EURUSD,,,,"annulez le sell limit sur eurusd. Euro est tres bullish, attendons une confirmation avant de prendre position"
+1979,2020-03-21T10:11:07,entree,,,,,"Si vous n’en avez pas, ne le vendez pas non plus sur le forex car les cryptocurrencies sont tres tres volatiles."
+1981,2020-03-23T05:38:45,entree,XAUUSD,,,,buy gold at market price
+1984,2020-03-23T06:47:02,sl,,,,,Stop loss touché sur l’or
+1989,2020-03-23T07:49:41,entree,GBPJPY,photos/photo_829@23-03-2020_07-49-41.jpg,,,sell gbpjpy now at market price
+1995,2020-03-23T11:23:24,profit_flottant,GBPJPY,,,,gbpjpy est en profit de 4%. Bougez vos stop loss a l’entree
+1998,2020-03-23T12:42:12,be,,photos/photo_830@23-03-2020_12-42-12.jpg,,5pips,"Gagué c’est Dieu qui ma sauvé, j’etais a moins de 5pips detre hors du trade. J’imagine beaucoup d’entre vous sont deja a breakeven 😂😂"
+2001,2020-03-23T12:45:09,sl,,,,,"Quand a l’or, il est monté apres avoir touché notre stop loss, quel malchance !"
+2003,2020-03-23T12:48:22,entree,USDCAD,photos/photo_832@23-03-2020_12-48-22.jpg,,,vendez usdcad now au prix du marché
+2017,2020-03-24T09:06:08,entree,EURUSD,photos/photo_835@24-03-2020_09-06-08.jpg,,,vendez eurusd au prix du marché
+2023,2020-03-25T07:26:39,entree,GBPJPY,photos/photo_836@25-03-2020_07-26-39.jpg,,,buy limit sur gbpjpy
+2026,2020-03-25T07:29:16,sl,,,,,"si celui touche stop loss, on sera a -6% et on ne prendra plus de trade cette semaine. N’oubliez pas, apres une serie de perte, il faut etre loin du marche."
+2046,2020-03-27T06:18:55,entree,AUDJPY,photos/photo_839@27-03-2020_06-18-55.jpg,,,"buy stop sur audjpy, ne risquez pas plus de 2%."
+2049,2020-03-27T09:06:00,entree,EURUSD,photos/photo_840@27-03-2020_09-06-00.jpg,,,sell limit sur eurusd a 1.10265 stop loss a 1.10560 take profit a 1.09490
+2057,2020-03-27T13:26:06,entree,USDCAD,photos/photo_842@27-03-2020_13-26-06.jpg,,,sell limit sur usdcad a 1.41648 stop loss a 1.42151 et take profit a 1.40050
+2059,2020-03-27T13:37:55,rate,AUDJPY,,,,annulez le buy stop sur audjpy
+2064,2020-03-30T05:30:39,entree,USDCAD,photos/photo_843@30-03-2020_05-30-39.jpg,,,vendez usdcad au prix du marche
+2072,2020-03-31T10:20:27,entree,,,,,"si l’or tombe a 1550, vendez vos maisons et achetez l’or haha.."
+2077,2020-03-31T12:08:51,entree,NZDUSD,photos/photo_844@31-03-2020_12-08-51.jpg,,,sell limit sur nzdusd a 0.59830 stop loss a 0.60145 et take profit a 0.59163
+2080,2020-03-31T12:51:08,entree,,,,,vous pouvez bouger vos sell limit a 0.59933
+2091,2020-03-31T15:06:54,tp,NZDUSD,photos/photo_846@31-03-2020_15-06-54.jpg,,,"nzdusd a touche notre profit sans etre venu dans notre zone de vente, annullez donc la position"
+2100,2020-04-01T13:22:22,entree,USDCAD,photos/photo_848@01-04-2020_13-22-22.jpg,,,vendez usdcad mtn au prix du marche
+2111,2020-04-01T13:33:48,be,USDCAD,,,,"respectez ce que je vous ai dit, si usdcad remonte et ferme a breakeven, acceptez le."
+2119,2020-04-02T13:07:59,be,,photos/photo_851@02-04-2020_13-07-59.jpg,,,bougez stop loss a l'entree
+2120,2020-04-03T02:58:45,entree,XAUUSD,photos/photo_852@03-04-2020_02-58-45.jpg,,,buy limit sur gold a 1602.563
+2123,2020-04-06T02:09:08,entree,GBPCAD,photos/photo_853@06-04-2020_02-09-08.jpg,,,sell limit sur gbpcad a 1.74225 stop loss a 1.74938 take profit a 1.71685
+2124,2020-04-06T23:29:34,entree,GBPUSD,photos/photo_854@06-04-2020_23-29-34.jpg,,,sell limit sur gbpusd a 1.22400 stop loss a 1.22880 take profit at 1.21050
+2125,2020-04-07T11:35:55,entree,EURUSD,photos/photo_855@07-04-2020_11-35-55.jpg,,,buy limit on eurusd 1.08350 stop loss at 1.07981 take profit at 1.09084
+2126,2020-04-07T12:10:53,entree,USDCAD,photos/photo_856@07-04-2020_12-10-53.jpg,,,sell limit sur usdcad a 1.40800 stop loss at 1.41266 et take profit at 1.39614
+2129,2020-04-07T14:10:27,entree,EURUSD USDCAD,,,,annullez les sell et buy limit sur eurusd et usdcad
+2135,2020-04-08T10:37:11,entree,EURNZD,photos/photo_857@08-04-2020_10-37-11.jpg,,,sell eurnzd now at market price
+2138,2020-04-08T15:38:33,profit_flottant,EURNZD,,,,eurnzd est en profit
+2144,2020-04-09T09:32:39,entree,EURUSD,photos/photo_858@09-04-2020_09-32-39.jpg,,,buy eurusd at market price
+2151,2020-04-09T22:07:11,entree,USDJPY,photos/photo_861@09-04-2020_22-07-11.jpg,,,sell limit sur usdjpy a 108.564 stop loss 108.771 take profit a 107.939
+2154,2020-04-10T04:42:11,profit_flottant,USDJPY,,,,Bougez stop loss de usdjpy en profit
+2168,2020-04-13T01:45:27,entree,EURJPY,photos/photo_865@13-04-2020_01-45-27.jpg,,,sell limit sur eurjpy at 118.373 stop loss at 118.622 et take profit a 117.740
+2178,2020-04-13T20:47:29,entree,EURUSD,photos/photo_869@13-04-2020_20-47-29.jpg,,,buy limit sur eurusd at 1.08945 stop loss at 1.08535 tp at 1.10150
+2188,2020-04-14T12:09:59,entree,GBPUSD,,,,buy gbpusd at market price
+2200,2020-04-14T20:17:12,entree,NZDJPY,photos/photo_873@14-04-2020_20-17-12.jpg,,,Sell limit sur nzdjpy a 65.465 stop loss a 65.724 et take profit a 64.776
+2219,2020-04-15T15:58:54,entree,EURAUD,photos/photo_875@15-04-2020_15-58-54.jpg,,,buy limit sur euraud a 1.71831 stop loss a 1.70923 take profit a 1.73659
+2220,2020-04-15T16:13:16,entree,AUDJPY,photos/photo_876@15-04-2020_16-13-16.jpg,,,sell limit sur audjpy a 68.325 stop loss at 68.764 take profit at 67.025
+2221,2020-04-15T16:22:59,entree,NZDUSD,photos/photo_877@15-04-2020_16-22-59.jpg,,,sell limit sur nzdusd at 0.60300 stop loss at 0.60800 take profit at 0.59135
+2236,2020-04-17T02:25:28,entree,GBPJPY,photos/photo_884@17-04-2020_02-25-28.jpg,,,buy limit sur gbpjpy at 134.500 stop loss at 134.100 take profit at 135.280
+2237,2020-04-17T02:39:58,entree,,photos/photo_885@17-04-2020_02-39-58.jpg,,,buy limit  at 64.612 stop loss at 64.230 et take profit at 65.400
+2238,2020-04-17T03:00:41,entree,AUDJPY,photos/photo_886@17-04-2020_03-00-41.jpg,,,buy limit sur audjpy 68.308 at 67.950 take profit at 69.025
+2239,2020-04-17T03:07:35,entree,AUDUSD,photos/photo_887@17-04-2020_03-07-35.jpg,,,buy limit sur audusd at 0.63465 stop loss a 0.63060 and take profit at 0.64340
+2241,2020-04-17T07:20:08,rate,AUDUSD,,,,annulez le trade de audusd
+2251,2020-04-20T11:45:07,entree,GBPNZD,photos/photo_888@20-04-2020_11-45-07.jpg,,,sell limit sur gbpnzd at 2.06464 stop loss at 2.07208 take profit at 2.04975
+2255,2020-04-20T12:20:40,entree,EURCAD,photos/photo_889@20-04-2020_12-20-40.jpg,,,buy limit sur eurcad a 1.53000 stop loss a 1.52650 et take profit a 1.53721
+2261,2020-04-22T02:29:30,entree,NZDUSD,photos/photo_891@22-04-2020_02-29-30.jpg,,,sell limit sur nzdusd at 0.60062 stop loss at 0.60484 and take profit at 0.58797
+2263,2020-04-22T02:36:21,entree,,photos/photo_892@22-04-2020_02-36-21.jpg,,,sell limit at 64.650 stop loss at 65.100 take profit at 63.523
+2265,2020-04-22T03:22:46,entree,USDCAD,photos/photo_893@22-04-2020_03-22-46.jpg,,,buy limit sur usdcad at 1.41465 stop loss a 1.40553 take profit at 1.43296
+2268,2020-04-22T17:56:57,profit_flottant,USDCAD,photos/photo_896@22-04-2020_17-56-57.jpg,,,Par contre usdcad a été exécuté et est en profit
+2269,2020-04-22T18:01:06,sl,,,,,"Le vendredi et le lundi etait ma periode de drawdown. Je suis retourné faire du backtesting pour apprendre de mes erreurs. Toutes les pertes qu’on avait accumulées étaient du a un mauvais timing, 90% "
+2271,2020-04-23T18:42:23,entree,GBPUSD,photos/photo_897@23-04-2020_18-42-23.jpg,,,sell limit sur gbpusd at 1.24090 stop loss a 1.24800 take profit a 1.22480
+2272,2020-04-23T20:50:17,entree,GBPCAD,photos/photo_898@23-04-2020_20-50-17.jpg,,,sell limit sur gbpcad at 1.74175 stop loss at 1.74700 take profit at 1.73400
+2273,2020-04-24T07:24:31,rate,,,,,le marche n'est pas venu tester notre niveau. Annulez les pending orders
+2275,2020-04-27T13:07:46,entree,GBPUSD,photos/photo_899@27-04-2020_13-07-46.jpg,,,mettez un buy limit sur gbpusd a 1.23872 stop loss a 1.23367 et take profit  1.24882
+2276,2020-04-27T13:08:16,entree,,,,,faites attention a ne pas confondre BUY LIMIT et BUY AT MARKET EXECUTION
+2277,2020-04-27T13:09:19,entree,,,,,"des que je poste, certains entrent directement alors que cest un buy limit. Lisez bien ce que je poste et faites attention a vos compte."
+2280,2020-04-27T21:46:47,entree,NZDUSD,photos/photo_900@27-04-2020_21-46-47.jpg,,,buy limit sur nzdusd a 0.60260 stop loss at 0.59975 take profit at 0.60700
+2287,2020-04-28T17:06:00,be,,,,,Donc du coup je suis a breakeven seulement +0.5% pour le mois
+2292,2020-05-01T02:42:05,entree,GBPJPY,photos/photo_901@01-05-2020_02-42-05.jpg,,,buy limit sur gbpjpy at 133.720 stop loss at 132.690 take profit at 135.830
+2302,2020-05-13T07:59:07,entree,GBPUSD,photos/photo_907@13-05-2020_07-59-07.jpg,,,sell gbpusd now at market price
+2306,2020-05-13T14:49:08,sl,,,,,"Il n’y avait aucune raison pour le marché de monter au dela de la structure. Mais le marché fait un mouvement vers le haut, touche le stop des traders et ensuite revient dans la direction normale."
+2308,2020-05-14T06:48:07,entree,AUDJPY,photos/photo_909@14-05-2020_06-48-07.jpg,,,sell limit sur audjpy at 69.132 stop loss at 69.475 take profit at 68.109
+2309,2020-05-14T19:08:41,rate,AUDJPY,,,,Annulez le sell limit sur audjpy/ cancel the sell limit on audjpy
+2318,2020-05-27T03:55:08,entree,NZDJPY,photos/photo_911@27-05-2020_03-55-08.jpg,,,buy limit sur nzdjpy at 66.250 stop loss at 65.820 take profit at 67.150
+2320,2020-05-27T11:07:36,rate,NZDJPY,,,,Nzdjpy a refusé de venir toucher notre buy limit et a quand meme touché notre zone de profit. Annulez le buy limit
+2321,2020-05-27T11:08:09,entree,NZDJPY,,,,"Nzdjpy hit our profit zone without coming back to touch our entry zone, therefore cancel the buy limit."
+2323,2020-05-27T22:09:57,entree,NZDCAD,photos/photo_912@27-05-2020_22-09-57.jpg,,,sell limit sur nzdcad at 0.85270 stop loss at 0.85510 take profit at 0.84750
+2324,2020-05-27T22:44:41,entree,GBPUSD,photos/photo_913@27-05-2020_22-44-41.jpg,,,sell limit sur gbpusd at 1.22800 stop loss at 1.23220 take profit at 1.21960
+2328,2020-05-28T17:01:06,be,,,,,Récapitulatif des trades d’hier soir. Je suis sorti a break even sur les deux setups. Mais il est interessant de voir a quel point la manipulation continue. C’est vrai aussi qu’il y’avait des nouvelle
+2337,2020-05-29T06:31:34,entree,USDJPY,photos/photo_918@29-05-2020_06-31-34.jpg,,,sell limit sur usdjpy at 107.400 stop loss at 107.700 take profit at 106.770
+2340,2020-06-05T12:13:03,entree,GBPUSD,photos/photo_919@05-06-2020_12-13-03.jpg,,,buy gbpusd now at market price
+2361,2020-06-12T08:16:14,entree,GBPJPY,photos/photo_926@12-06-2020_08-16-14.jpg,,,sell limit sur gbpjpy at 135.600 stop loss at 136.660
+2365,2020-06-12T14:56:56,be,GBPUSD,,,,vous pouvez vous mettre sur breakeven sur tous les setups et fermer la position de gbpusd si vous avez tradé
+2366,2020-06-12T14:57:51,profit_flottant,,,,,Tous les setups sont  100% en profit. C’est de cette periode dont je parles.
+2400,2020-07-10T03:30:58,rate,,,,,"il nya aucune raison de se presser, si le marche continue de monter sans nous (chose que je ne crois pas va se passer,) nous n'allons pas nous positionner"
+2408,2020-07-10T10:03:03,rate,GBPCHF,,,,"on ne prendra plus position sur gbpchf, le marchÉ est parti directement vers notre zone de profit sans nous donner un point d'entree"
+2411,2020-07-13T01:49:50,entree,EURJPY,photos/photo_942@13-07-2020_01-49-50.jpg,,,"bonsoir, ce soirnous allons pratiquer ce que nous avons appris avec les zones de supply et demand. Sell limit sur eurjpy at 121.200"
+2419,2020-07-13T02:14:22,tp,GBPCHF,photos/photo_944@13-07-2020_02-14-22.jpg,,,gbpchf  a touche tp mais ne nous avait pas donner de point dentree. cest pas grave
+2465,2020-07-27T06:47:37,entree,NZDCAD,photos/photo_950@27-07-2020_06-47-37.jpg,,,buy limit sur nzdcad
+2483,2020-07-30T08:11:41,entree,EURJPY,photos/photo_959@30-07-2020_08-11-41.jpg,,,buy limit sur eurjpy at 123.400 stop loss at 123.300
+2486,2020-07-30T09:55:21,be,,,,,"a 2% profit, vous bougez vos stop loss a l'entree"
+2488,2020-07-30T10:37:29,be,,,,,mettez vous a breakeven cest mieux
+2491,2020-07-30T23:26:41,profit_flottant,EURJPY,photos/photo_962@30-07-2020_23-26-41.jpg,,,"Eurjpy flottant également a 1:8 RR de notre point d’entrée, équivalent a 16% profit risquant 2% sur le trade"
+2497,2020-07-31T10:24:48,entree,NZDUSD,photos/photo_964@31-07-2020_10-24-48.jpg,,,buy limit sur nzdusd a 0.66804 stop loss a 0.66729
+2508,2020-08-05T10:36:06,entree,NZDUSD,photos/photo_966@05-08-2020_10-36-06.jpg,,3 pips,sell limit sur nzdusd a 0.66592 stop loss est a 3 pips de l'entree a 0.66620
+2509,2020-08-05T11:12:56,entree,GBPCAD,photos/photo_967@05-08-2020_11-12-56.jpg,,,buy limit sur gbpcad at 1.73831 stop loss at 1.73769
+2510,2020-08-05T11:13:25,rate,NZDUSD,,,,"annulez le sell limit sur nzdusd, le marché a refusé de revenir vers notre point d'entrée"
+2520,2020-08-06T12:56:54,sl,,photos/photo_971@06-08-2020_12-56-54.jpg,,,"sl touché de 1pip, et le le marché s’est reversé et mtn flotte a 1:6RR soit 12% risquant 2%"
+2523,2020-08-07T07:22:30,rate,GBPAUD,,,,Annulez le setup sur gbpaud
+2566,2020-08-13T11:48:17,sl,EURUSD,photos/photo_990@13-08-2020_11-48-17.jpg,,,"eurusd a touché notre stop loss de quelques pips avant de changer de direction. On s'est fais avoir par notre propre faute, il ny avait pas de confirmation quand on s'est positionné. Je vais vous mont"
+2594,2020-08-18T11:30:16,entree,GBPUSD,photos/photo_1001@18-08-2020_11-30-16.jpg,,,gbpusd case study. Voici un setup que je vais prendre. Pas de sell limit mais la premiere bougie engulfing a partir de mon point d'entree
+2596,2020-08-19T12:25:53,profit_flottant,EURGBP,photos/photo_1002@19-08-2020_12-25-53.jpg,,,"trade pris ce matin sur eurgbp, floating a 1:3RR"
+2605,2020-08-20T12:33:40,rate,NZDCAD,,,,seup sur nzdcad invlide. Il nya pas de point d'entree
+2606,2020-08-20T14:21:20,rate,GBPUSD,photos/photo_1007@20-08-2020_14-21-20.jpg,,,gbpusd setup raté de quelques pips.
+2632,2020-09-03T20:30:30,sl,,,,,Partons sur le petit timeframe et voyons combien RR on pouvait prendre a la première descente (j’ai accumulé une perte sur ce trade car je suis rentré au deuxieme retest et sa a touché mon stop loss)
+2649,2020-09-04T19:19:49,profit_flottant,,,,5pips,"Le nouveau programme de mentorship sera plus intense que les derniers, plus détaillés et vous donnerons des entrées precise jusqu’au dernier PIp. Des stops loss de moins de 5pips et des trades qui ren"
+2694,2020-09-17T10:02:08,tp,,photos/photo_1043@17-09-2020_10-02-08.jpg,,,Le premier TP atteint !
+2733,2020-09-24T23:20:54,be,,,,,J’ai fermé le trade a breakeven parparceque je pensais que sa pouvait aller plus loin que ça.
+2794,2020-10-07T06:20:27,tp,GBPJPY,photos/photo_1072@07-10-2020_06-20-27.jpg,,,"pour ceux qui ont assisté au webinar du dimanche, voici un trade sur gbpjpy qui s'est produit hier. Golden zone, tp touché a 1:2 RR"
+2809,2020-10-09T05:56:59,entree,XAUUSD,photos/photo_1076@09-10-2020_05-56-59.jpg,,,Un sell limit sur gold qui n’a pas été remplie et le marché a changé de direction. Ce n’est pas grave je vais vous donner le case study tout de suite
+2843,2020-10-12T07:57:31,rate,,photos/photo_1089@12-10-2020_07-57-31.jpg,,,"le marché ne nous a pas donné de confirmation dans notre zone de POI donc on a pas pris de position, mais regardez comment le marché a changé de direction"
+2851,2020-10-13T09:32:44,be,,photos/photo_1093@13-10-2020_09-32-44.jpg,,,"Break even, trade a zero risk et flottant a 1:2RR en moins de 10min"
+2932,2020-10-23T13:18:47,profit_flottant,,,,,bn le marché cetait approché du point d'entrée mais malheureusement ne la pas touché et est parti direct en profit et a fait 1:10 RR
+2934,2020-10-23T13:19:55,entree,,,,,le tp a deja ete touché sans qu'on ne soit dans le trade. Annullez votre sell limit
+2961,2020-10-26T14:53:20,sl,,photos/photo_1125@26-10-2020_14-53-20.jpg,,,Sl touché
+3009,2020-11-03T18:50:21,rate,XAUUSD,,,,"gold setup, jai pas eu de point d'entrée mais je continuerai a observer ma zone"
+3046,2020-11-12T12:04:26,entree,EURUSD,,,,sell limit a 18.200 sur eurusd
+3047,2020-11-12T13:22:16,entree,,photos/photo_1153@12-11-2020_13-22-16.jpg,,,bon le tp a ete touché avant que le marché ne vienne toucher notre point dentrée. Donc on annule le sell limit
+3165,2020-12-15T23:07:39,sl,,,,,Trade partagé ce matin sur service des signaux flottant a 1:10 RR mais qui nous a fait sortir sur exactement notre sl qui etait a 0.95870 (meme pas 1pip de plus lol)
+3174,2020-12-16T08:47:22,entree,EURJPY,,,,Buy limit sur eurjpy a 125.850 et stop loss a 125.688
+3178,2020-12-16T14:01:11,entree,,,,,Ceux qui veulent toujours prendre le trade gardez vos buy limit ouvert
+3179,2020-12-16T14:01:27,rate,,,,,"Ceux qui ne veulent plus, annulez le buy limit"
+3181,2020-12-17T13:29:53,entree,GBPCAD,,,,Sell limit sur gbpcad a 1.72914
+3183,2020-12-17T13:37:25,rate,,,,,"Le marché a rempli tous les imbalances, annulez le sell limit"
+3185,2020-12-17T14:55:57,entree,GBPCAD,,,,Sell limit sur gbpcad at 1.72918
+3209,2020-12-22T07:55:37,entree,,,,,buy limit at 1.22186 stop loss at 1.22136
+3242,2021-01-06T05:41:14,profit_flottant,,,,,FLOATING 1:3 RR.
+3316,2021-01-20T01:44:51,entree,GBPCAD,photos/photo_1207@20-01-2021_01-44-51.jpg,,,buy limit sur gbpcad a 1.72970 stop loss a 1.72870
+3330,2021-01-21T15:09:29,entree,AUDCAD,photos/photo_1212@21-01-2021_15-09-29.jpg,,,Sell limit sur audcad
+3332,2021-01-21T15:10:27,rate,,,,,"Trade non executé, mais la precision etait absolue !"
+3363,2021-01-27T15:35:13,rate,,,,,"notre point d’entree n’a pas ete touché, annulez le buy limit"
+3367,2021-01-27T16:25:12,profit_flottant,,photos/photo_1217@27-01-2021_16-25-12.jpg,,,Floating 1:3 RR
+3369,2021-01-27T17:12:34,profit_flottant,,photos/photo_1218@27-01-2021_17-12-34.jpg,,,"Floating 1:5 RR, reached 1:8 RR"
+3375,2021-01-27T19:53:40,profit_flottant,,,,,floating 1:18RR taguez les traders qui utilisent les strategies et demandez les s’ils sont capable de faire meme 1:5 RR
+3385,2021-01-29T08:22:45,entree,EURUSD,,,,buy limit sur eurusd at 1.20975 stop loss at 1.20915
+3405,2021-02-03T01:01:38,entree,,,,,sell limit at 143.686 stop loss at 143.747 take profit a 142.463
+3406,2021-02-03T01:02:03,tp,,,,,execution a London session. 1:20RR si on touche tp
+3416,2021-02-03T09:07:28,be,,,,,mettez vous a breakeven
+3422,2021-02-03T11:20:42,profit_flottant,GBPJPY,,,,GBPJPY floating 1:8RR
+3429,2021-02-04T06:22:23,entree,AUDCHF,,,,sell limit sur audchf at 0.68724 stop loss at 0.68764
+3433,2021-02-04T09:00:34,profit_flottant,GBPJPY,,,,gbpjpy floating 1:15 RR
+3439,2021-02-04T09:54:07,rate,,,,,VOUS vous rappellez de ce trade qu’on a raté de quelques pips ?
+3494,2021-02-26T00:21:49,rate,,,,,"Personnellement je n'ai pas pris le trade, mais c'est un bon case study pour vous"
+3529,2021-03-02T17:53:56,profit_flottant,,,,,Floating.
+3533,2021-03-03T17:31:01,rate,GBPUSD,,,,gbpusd case study. Trade raté de quelques pips ce matin
+3586,2021-03-15T10:37:11,profit_flottant,GBPUSD,,,,gbpusd floating
+3594,2021-03-15T18:20:47,profit_flottant,GBPUSD,,,,gbpusd floating 1:18RR
+3604,2021-03-16T16:24:32,rate,,photos/photo_1238@16-03-2021_16-24-32.jpg,,,Trade non executé
+3614,2021-03-17T13:53:51,be,,,,,"execution avant london, closed a BE apres BOS. Le marché a violé le POI avant l'ouverture de london"
+3728,2021-04-04T03:00:45,tp,,,1.30$,,"le prix est a 1.30$, notre premier tp sera a $2.45 ou je liquiderai la moitié de mes positions, et a $4 ou je liquiderai l'autre moitié"
+3747,2021-04-08T16:23:05,profit_flottant,,,,,Floating 1:80 RR
+3835,2021-04-17T15:42:25,tp,,,1.30$,,"le prix est a 1.30$, notre premier tp sera a $2.45 ou je liquiderai la moitié de mes positions, et a $4 ou je liquiderai l'autre moitié"
+3872,2021-04-22T17:40:57,profit_flottant,,,,,https://s3.tradingview.com/snapshots/m/MpIICctg.png 1:6 RR floating
+3931,2021-05-05T14:01:40,be,EURUSD,,,,fermez eurusd a breakeven a cause de la nouvelle economique
+3934,2021-05-06T12:57:53,be,EURUSD,,,,le trade sur eurusd hier je l'ai fermé a breakeven a cause de la nouvelle economique douteuse. Si on etait resté sur le trade on allait etre a 1:9 RR actuellement
+3969,2021-05-08T04:54:39,be,,,,,On avait fermé a breakeven a cause de la nouvelle economique douteuse pour nous proteger
+4131,2021-06-16T18:28:33,rate,USDCAD,,,,"bsr, On a pas eu de point d'entree interessant. On reste observateur sur USDCAD"
+4149,2021-06-17T12:43:21,sl,,,,,deux stop loss touché. Setup interessant mais pas profitable
+4159,2021-06-17T23:09:15,be,,,,,premier trade fermé a breakeven
+4160,2021-06-17T23:09:34,profit_flottant,,,,,deuxieme trade flottant a 1:4RR
+4191,2021-06-25T04:01:23,profit_flottant,,photos/photo_1319@25-06-2021_04-01-23.jpg,,,1:6RR floating
+4192,2021-06-25T13:05:51,profit_flottant,EURUSD,photos/photo_1320@25-06-2021_13-05-51.jpg,,,Eurusd floating 1:14RR.
+4208,2021-06-30T18:33:04,profit_flottant,,,,,floating 1:8RR
+4213,2021-06-30T18:35:50,profit_flottant,,,,,floating 1:7RR
+4223,2021-07-01T17:32:26,rate,,,,,trade non executé car le point d'entrée n'a pas été touché. ça reste un setup bien interessant sur lequel vous pouvez apprendre beaucoup de chose
+4240,2021-07-06T14:55:25,rate,,,,2pips,entrée raté de 2pips. La discipline est une competence que tout trader doit cultiver
+4241,2021-07-06T14:55:40,rate,,,,,annulez les sell limit. On passe au next
+4261,2021-07-07T13:35:02,profit_flottant,,photos/photo_1326@07-07-2021_13-35-02.jpg,,,Floating 1:6 RR
+4310,2021-07-12T13:48:50,sl,,photos/photo_1330@12-07-2021_13-48-50.jpg,,,Sl touché
+4315,2021-07-13T11:33:36,profit_flottant,,photos/photo_1332@13-07-2021_11-33-36.jpg,,,Floating 1:3RR
+4316,2021-07-13T12:36:09,sl,EURNZD,,,,voici un setup sur eurnzd qui m'a fait sortir a breakeven ce matin avant de monter
+4318,2021-07-13T12:36:27,profit_flottant,,,,,floating 1:7RR
+4342,2021-07-30T17:36:31,sl,,,,,Sl touché
+4347,2021-08-02T15:58:34,profit_flottant,EURGBP,photos/photo_1342@02-08-2021_15-58-34.jpg,,,Eurgbp floating
+4526,2021-09-23T02:55:28,profit_flottant,AUDUSD,,,,AUDUSD floating 1:4RR
+4569,2021-10-04T14:24:10,profit_flottant,,,,,"pure wyckoff, floating 1:17 RR"
+4632,2021-10-19T04:57:41,profit_flottant,,,,,Floating 1:27 RR
+4661,2021-10-26T16:15:03,rate,,,,,annulez donc vos sell limit
+4701,2021-11-01T17:53:09,entree,,,,,Achetez band wly
+4738,2021-11-08T14:35:02,profit_flottant,,,,,floating 1:6
+4783,2021-11-11T03:43:09,rate,,,,,on a pas eu de point d'entree mais vous voyez tous comment on savait en avance que le marché allait rejeter le POI et ensuite le casser...
+4784,2021-11-11T03:44:33,rate,,,,,Un trader discipliné meme connaissant la direction du marché sait se maintenir et ne pas trader quand le marché ne lui donne pas de point d'entrée
+4928,2021-11-22T08:22:37,entree,,,,,je vous avais dit que le setup sur eunzd n'etait pas optimal et que ce n'etait pas une bonne idée de le prendre. j'avais oublié de desactiver mon buy limit et sa a prit le trade
+4934,2021-11-22T15:31:18,profit_flottant,EURNZD,photos/photo_1424@22-11-2021_15-31-18.jpg,,,Eurnzd floating 1:6 RR
+4946,2021-11-23T06:20:05,tp,EURNZD,photos/photo_1427@23-11-2021_06-20-05.jpg,,,"Tp touché sur eurnzd, 1:15RR"
+5020,2021-11-30T17:54:04,rate,EURJPY,,,,eurjpy a refusé de toucher mon point d'entrée
+5032,2021-12-01T04:36:06,profit_flottant,,,,,floating 1:7 RR
+5042,2021-12-01T18:31:29,tp,,,,,https://www.tradingview.com/x/eIfQmYIu Tp hit 1:13 RR
+5060,2021-12-02T00:45:12,profit_flottant,,,,,Floating 1:3 RR
+5104,2021-12-04T05:11:19,sl,AUDUSD,,,,AUDUSD nous a fait sortir
+5255,2021-12-21T14:21:04,profit_flottant,NZDUSD,photos/photo_1491@21-12-2021_14-21-04.jpg,,,"Nzdusd update, floating 1:4 RR"
+5258,2021-12-22T17:09:13,profit_flottant,NZDUSD,,,,"nzdusd update, floating 1:11RR"
+5265,2021-12-23T12:17:29,profit_flottant,EURNZD,,,,eurnzd floating 1:1 RR
+5267,2021-12-23T13:41:52,be,EURNZD,photos/photo_1494@23-12-2021_13-41-52.jpg,,,Eurnzd floating 1:2 RR Mettez vos SL a breakeven et laissez le trade couler a risque 0.
+5275,2021-12-24T04:26:46,be,,,,,ceux qui sont sortis a BE c'est excellent. C'est pas grave du tout
+5300,2021-12-28T19:24:11,entree,,,500$,,Beaucoup de personnes aiment trop le « moins cher ». Evitez d’acheter des formations à cause du prix. Achetez un cours a cause de la valeur. A quoi vous sert de dépenser 500$ dans 3 formations differe
+5334,2021-12-30T15:52:04,be,,,,,"Beaucoup d’entre vous sont a breakeven, vous avez une stratégie déjà profitable mais vous n’arrivez pas a faire de l’argent. Une seule session avec un bon mentor peut changer votre idéologie et vous r"
+5347,2022-01-03T19:00:10,profit_flottant,,,,,Ceux qui l’on pris sont en profit mais il faut faire tres attention. Je conseille de fermer la position elle nest pas optimale
+5443,2022-01-13T21:12:19,entree,EURUSD,,,,2e loi de wyckoff. Cause et effet. Si vous vendez eurusd ce que vous n'avez rien compris du marché
+5469,2022-01-20T16:14:16,profit_flottant,,,,,Floating 1:4 RR
+5612,2022-02-11T19:13:19,entree,,,,,Nous annulons le sell limit
+5627,2022-02-23T01:21:48,rate,NZDJPY,,,,Annulez sell limit sur nzdjpy
+5724,2022-04-20T16:38:07,profit_flottant,,photos/photo_1580@20-04-2022_16-38-07.jpg,,,Floating 1:5 RR
+5733,2022-04-21T07:11:24,rate,USDCHF,,,,Je n'ai pas pris le trade car je ne trade pas la paire USDCHF. Mais un bon trader est tout d'abord un bon analyste.
+5775,2022-04-28T16:58:33,profit_flottant,,,,,Floating 1:177
+5852,2022-06-01T19:12:11,profit_flottant,,photos/photo_1610@01-06-2022_19-12-11.jpg,,,1:15 RR floating.
+5903,2022-06-30T19:55:40,profit_flottant,,,,,1:15 RR floating
+5991,2022-07-20T12:06:43,sl,EURUSD,,,,Eurusd m’a fait du mal hein 😂 lol
+6029,2022-07-21T12:27:52,be,GBPUSD,photos/photo_1639@21-07-2022_12-27-52.jpg,,,"Le trade d’hier sur GBPUSD. Je me met a Breakeven, si la nouvelle americaine est bonne, GBPUSD va couler !! Si non. Il n’y a rien a craindre"
+6090,2022-07-27T02:32:37,rate,,,,,Annulez le buy limit
+6170,2022-08-14T23:56:37,tp,EURJPY,,,,Eurjpy tp touché
+6281,2022-09-08T12:03:14,be,,,,,"Si vous avez des positions ouvertes actuellement, c’est intelligent soit d’aller a breakeven ou de  fermer carrément vos positions respectives. Il y’aura de la volatilité sous peu"
+6358,2022-09-21T11:02:46,rate,EURUSD,,,,"J’arrive pas a croire, Eurusd a refusé de toucher mon point d’entrée. J’étais tellement convaincu du setup que j’avais risqué 11 lots la dessus"
+6362,2022-09-21T11:06:47,rate,,photos/photo_1692@21-09-2022_11-06-47.jpg,,,On a raté le trade de quelques pips 😭
+6427,2022-09-27T12:30:58,sl,AUDJPY,,,,Audjpy SL touché
+6598,2022-10-13T12:38:36,rate,,,,,"Trade non executé, mais l’analyse y etait"
+6679,2022-10-20T12:58:02,entree,GBPUSD,,,,"Prenez des comptes prop firm, vendez gbpusd !!!"
+6694,2022-10-20T17:52:17,tp,,photos/photo_1758@20-10-2022_17-52-17.jpg,,,TP Hit
+6722,2022-10-24T11:55:16,sl,GBPUSD,,,,"SL touché sur GBPUSD, c'est dommage mais c'est le dernier de notre soucis. On va chercher une autre entrée en haut"
+6923,2022-11-18T16:02:10,profit_flottant,AUDUSD,photos/photo_1819@18-11-2022_16-02-10.jpg,,,Audusd floating
+6939,2022-11-25T17:44:53,profit_flottant,,,,,"Un swing trader prend moins de trades mais peut se permettre de prendre de tres grand lots car il sait que son setup ne vient pas tres souvent. Quand il ressort en profit, il gagne en un trade ce que "
+7369,2023-02-03T09:50:52,profit_flottant,EURJPY,,,,Le trade sur EURJPY est en profit
+7415,2023-02-08T01:21:42,profit_flottant,GBPUSD,,,,"Le trade sur gbpusd a été activé et a meme commencé a etre en profit. Si vous êtes déjà dans le trade c’est cool, gardez la position mais réduisez votre risque. Moi j’attendrai une opportunité a londo"
+7494,2023-02-15T19:16:14,be,,,,,"on verra bien, mettez vous a breakeven si vous voulez garder le trade"
+7617,2023-03-02T08:51:43,profit_flottant,,,,,"Aussi pour votre information, le compte TFF de 100k que j’ai validé   Pour vous prouver que le fundamental est un “fait” est en profit de $2200"
+7713,2023-03-16T16:06:08,rate,AUDUSD GBPUSD,,,,"Pas de volatilité, le trade sur Audusd a été déclenché mais annulez le sell sur GBPUSD car ce n’est plus dans nos heures de trading"
+7718,2023-03-17T04:25:39,sl,AUDUSD,,,,"AUDUSD update, le marché a touché notre SL. Il faut admettre Que la probabilité de ce trade avait changé depuis ce matin cest pourquoi j'observais le sentiment general du marché"
+7805,2023-04-05T06:47:06,be,,,,,"Et de toute les manieres ceux qui tradent avec des petits stop loss dans l'espoir de faire des 1:10RR ne sont pas aussi profitable que ça car soit ils ne touchent pas les 1:10 RR a tous les coups, soi"
+7811,2023-04-05T08:38:15,sl,,,,,Sa a invalidé notre setup mais je dormais sa a directement touché mon sl
+7833,2023-04-07T13:42:59,be,,,,,"Vendredi c’est vraiment pas la peine. Fermez à breakeven, bonne fin de semaine a vous. Ambiance mais prudence 🫡"
+8217,2023-05-19T08:41:17,profit_flottant,,,,,"Profitez de ce week end pour faire du backtesting. Je vais en profiter pour aller faire le weekend a New York, je vous envoie les videos du vrai Wall street"
+8222,2023-05-19T12:23:30,sl,,,,,Sa me fait enormement mal que que le marché soit venu toucher notre sl et repartir
+8274,2023-06-01T16:17:21,entree,AUDJPY,photos/photo_2052@01-06-2023_16-17-21.jpg,,2pips,"J’ai mis buy limit sur Audjpy pour ajouter a ma position, le marché est venu jusqu’à 2pips de mon point d’entrée et est parti sans moi eeeh"
+8320,2023-06-08T13:24:21,rate,EURUSD,photos/photo_2071@08-06-2023_13-24-21.jpg,,,Vous voyez comment on a raté le trade sur Eurusd ? 😭
+8411,2023-06-15T01:36:23,be,,,,,Du moins aller a break even
+8493,2023-06-22T15:19:25,tp,GBPCAD,,,,Je n'arrive toujours pas a justifier pourquoi GBPCAD est entrain de tomber lol etant donné que GBP est normalement haussier et le petrole a coulé. Le cad est a une correlation directe avec le prix du 
+8498,2023-06-22T19:01:24,sl,,,,,SL touché. Next
+8655,2023-07-15T10:38:02,tp,,,,,"Je pense que la transparence avec la communauté m’a donné beaucoup de crédibilité. Mais c’est aussi le pilier sur lequel elle a été créée. Souvent, les gens s’en foutent que tu sois rentable a 100%, i"
+8743,2023-07-26T08:42:59,be,,,,,L’inflation hier sur Aud a invalidé pratiquement tous nos setups. Le marché flotte a break even
+9047,2023-08-23T11:47:38,sl,,,,,"Ne vous inquietez meme pas, ce marché va obligatoirement revenir au moins a notre point dentree ou toucher notre SL. Sa ne sert a rien de FOMO"
+9166,2023-09-01T13:00:46,be,,,,,"J'aime pas la fermeture du prix, je mattendais a une reaction rapide, je vous conseille daller a breakeven"
+9167,2023-09-01T13:01:39,be,,,,,"Ce genre de mouvement doit etre tres tres rapide, si ce nest pas le cas, en general ce nest pas un bon signe. Partez a breakeven et laissez le marché couler"
+9196,2023-09-03T17:28:42,profit_flottant,,,1500$,,Il a déjà retiré 1500$ et il est actuellement en profit de 3061$ !!
+9238,2023-09-06T14:24:04,entree,,,,,"Achetez un cahier et auditez. Regardez les prix dexecution au niveau des chiffres rond, hey regardez les prises de liquidité importante avec chaque entrée. Je vous ai tout donné, aucun detail n'est ca"
+9239,2023-09-06T14:26:33,entree,GBPCAD,,,,"Je peux me contenter de vous donner sous ce format Sell limit sur GBPCAD @ 1.71935 Stop loss: 1.72494 Take profit: 1.70573 Mais non, je vous montre tout donc prenez note"
+9321,2023-09-15T07:41:43,rate,,,,,"Dommage, le marché n'est plus revenu a notre point d'entrée. Mais ne vous inquietez pas, il va revenir je ne suis juste pas sur si sa sera dici l'ouverture de la session de new york oubien le mardi a "
+9345,2023-09-20T06:13:29,rate,GBPJPY,,,,"Bonjour, annulez le setup sur gbpjpy immediatement. Le trade n’a plus une grande probabilité"
+9383,2023-09-21T11:15:55,rate,GBPJPY,,,,"Bonjour, annulez le setup sur gbpjpy immediatement. Le trade n’a plus une grande probabilité"
+9390,2023-09-21T11:35:38,entree,,,,,Les paires de devises ne sont pas differentes des produits que vous vendez et achetez. Certains parmis vous ici regardent seulement le graph sans se souvenir des prix de vente. C'est comme dire que je
+9513,2023-10-05T03:04:10,sl,,photos/photo_2323@05-10-2023_03-04-10.jpg,,,Sl touché. Dommage 🌚
+9546,2023-10-06T15:37:59,rate,EURUSD GBPUSD,,,,Si vous etes sur gbpusd  alors annulez le sell limit sur Eurusd. C’est la meme idée de trading
+9716,2023-11-02T15:03:28,be,,,,,exactement comme je lavais imaginé mais malheureusement pour moi j'ai fermé le trade a breakeven. Je ne comprenais plus la reaction du prix jai du quitter la table avant de me faire mal
+9745,2023-11-06T07:55:57,profit_flottant,,photos/photo_2381@06-11-2023_07-55-57.jpg,,,En route pour battre le record personnel 🤧
+9769,2023-11-08T20:59:28,entree,EURJPY,,,,"Achetez un café ou une boisson énergétique, je vous balance une vidéo de 36 min dans moins d’une heure de temps pour vous expliquer exactement le contexte fondamental et technique du trade sur Eurjpy."
+9839,2023-11-14T13:42:43,profit_flottant,EURUSD,,,,Si j’avais été exécuté sur le trade sur eurusd je serai a plus de 24k floating
+9940,2023-11-23T15:58:03,sl,AUDJPY,,,,Audjpy nous a fait sortir mais regardez là ou sa flotte actuellement…  on a a raté le point d’entrée mais on avait raison sur le trade
+9945,2023-11-24T15:03:25,profit_flottant,,photos/photo_2416@24-11-2023_15-03-25.jpg,,,En route pour un autre $10k 🏌🏽‍♂️
+9973,2023-12-01T11:28:53,profit_flottant,GBPJPY,,,,En route pour casser 187.500 sur gj
+9998,2023-12-04T12:47:15,entree,,,,,Mais en vrai il faut vous assoir et penser une seconde. Beaucoup pensent qu’ils achètent un cours mais en réalité vous achetez le temps de votre mentor. Combien parmis vous avez les cours hackés des b
+10034,2023-12-08T13:33:13,entree,EURUSD,,,,Ne vendez pas non plus EURUSD. Quittez juste le marché et vaguez a vos occupations
+10041,2023-12-09T01:31:59,profit_flottant,,photos/photo_2435@09-12-2023_01-31-59.jpg,,,En Route !
+10363,2024-01-04T17:59:26,sl,GBPJPY,,,,"GJ nous a fait sortir a SL, j'avais meme oublié ce trade a cause des evenements"
+10513,2024-01-24T14:28:07,tp,,photos/photo_2539@24-01-2024_14-28-07.jpg,,,Mon tp sur ce trade est jusqu'a 95.000
+10529,2024-01-25T18:58:55,sl,AUDJPY,photos/photo_2542@25-01-2024_18-58-55.jpg,30 000$,,"imaginez, vous fermez ce soir et le marché vous donne un mouvement comme ça demain. Vous n'aurez que vos yeux pour pleurer de remords. Je connais trop trop cette paire. J'ai fais plus de 30 000$ avec "
+10534,2024-01-26T10:42:43,be,,,,,notre trade est pratiquement a break even
+10535,2024-01-26T10:43:30,be,,,,,La session de NYC risque de pousser encore plus ce mouvement. je ferme a break even
+10545,2024-01-31T14:47:11,rate,,,,,"trade raté de quelques pips, mais en vrai je n'etais plus convaincu du setup"
+10557,2024-01-31T16:10:21,be,,photos/photo_2546@31-01-2024_16-10-21.jpg,,,"ce matin seulement je disais a nos membres que j'etais a breakeven ce mois et je trouve que cest tres important pour un mentor d'etre transparent avec ses eleves, d'admettre que tous les mois ne seron"
+10586,2024-02-01T12:08:09,tp,,,,,Aujourd'hui on a cashout plus de $40k de profits avec seulement 4 personnes
+10627,2024-02-06T12:44:06,sl,EURNZD,,,,EURNZD nous a fait sortir
+10723,2024-02-29T13:37:11,be,,,,,"Je me suis mis a break even, le dollar n'a pas donné ce que je cherchais"
+10724,2024-02-29T13:38:04,be,,,,,Si le trade nous fait sortir a break even c'est excellent. Dans le cas contraire on reste sur la position mais pour etre honnete je n'ai plus confiance en ce trade
+10728,2024-03-01T14:58:40,be,,,,,Il faut avouer que le trade sur GU a donné meme si j'ai fermé a BE sur ma premiere position
+10740,2024-03-03T14:00:03,sl,GBPUSD XAUUSD,,,,"Prenez une position dans le meme sens pour gbpusd et xauusd. L'un va toucher SL l'autre vous fera de l'argent peu importe la direction du marché. Soyez vigilant et intelligent, prendre -1 sur un compt"
+10763,2024-03-14T14:09:28,entree,,,,,"En temps que bon trader, je vous invite a rester hors du yen jusqu'a la prochaine reunion. Cela est du au fait que les taux differentiels ne sont pas a votre avantage quand vous achetez le yen contre "
+10820,2024-03-21T20:01:18,sl,,,,,"C'est parti toucher mon sl et aller dans ma direction mais en vrai cest ma faute, j'ai été trop gourmand"
+10860,2024-04-03T14:11:37,profit_flottant,GBPJPY,photos/photo_2621@03-04-2024_14-11-37.jpg,,,$5000 floating sur GJ
+10862,2024-04-03T15:16:28,profit_flottant,,photos/photo_2622@03-04-2024_15-16-28.jpg,,,$8000 floating
+10878,2024-04-04T14:41:22,tp,,,,,Tchai on dirait cette semaine tout le monde a fait de l'argent hein. Je ne vois que des tp tp tp tp sur instagram 🤣
+10880,2024-04-04T14:49:14,profit_flottant,,photos/photo_2624@04-04-2024_14-49-14.jpg,,,Floating $13600
+10891,2024-04-05T12:46:50,be,,,,,"Le dollar est tres haussier pour 3 raisons fondamentales: nfp positif, taux de chômage reduit et la tension géopolitique. Ceux qui sont dans ce trade peuvent se mettre a break even et partir a leur oc"
+10893,2024-04-05T13:56:31,tp,,photos/photo_2628@05-04-2024_13-56-31.jpg,,,"Tp touché. Mais je vais garder la position ouverte, je ne vois plus de raison de la fermer"
+10910,2024-04-05T15:43:38,be,,,9000$,,De 9000$ a BE. Incroyable mais vrai 🫢
+10930,2024-04-10T02:46:01,entree,,,,,j'annule mon sell limit
+11003,2024-04-15T04:14:32,profit_flottant,,photos/photo_2652@15-04-2024_04-14-32.jpg,,,$3.5k floating ✈️
+11147,2024-04-30T23:00:01,profit_flottant,,photos/photo_2677@30-04-2024_23-00-01.jpg,,,En route 🧑🏾‍🦯
+11335,2024-05-29T20:42:42,profit_flottant,,photos/photo_2706@29-05-2024_20-42-42.jpg,,,En route !
+11390,2024-06-06T12:33:59,sl,EURAUD,,,,Le trade sur Euraud m'a fait sortir hein
+11405,2024-06-10T19:05:40,sl,EURAUD,,,,Regardez comment les paires en EUR ont coulé. EURAUD nous a fait sortir de justesse et est allé dans notre sens. Ça fait mal mais il faut l'accepter. Souvent le mouvement peut prendre plus de temps qu
+11427,2024-06-19T03:16:05,sl,EURAUD,,,,ce trade m'a fait sortir de justesse mais on connaissait definitivement la direction generale de EURAUD. Souvent vous pouvez etre dans la bonne direction et avoir le bon point d'entrée mais le marché 
+11494,2024-07-19T16:06:01,entree,,,,,"De la meme facon dont vous n'achetez jamais un stock sans savoir les raisons fondamentales pour lesquelles il devrait etre acheté, vous devez vous abstenir de jumeler deux devises sans chercher a savo"
+11496,2024-07-19T16:12:21,be,,,,,"Si les trois sont haussiers en meme temps, il faut s'attendre a une consolidation du marché dans ces genres de cas on s'abstient tout simplement de trader. Cela vous permet d'eviter des BE inutiles. V"
+11567,2024-08-14T10:27:51,profit_flottant,AUDNZD,photos/photo_2742@14-08-2024_10-27-51.jpg,,,Audnzd en marche ! La RBNZ a fait un rate cut hier soir donnant un ton dovish. Ce qui a favorisé une baisse considerable de NZD. Je m'attends a une continuation de ce mouvement dans les jours a venir 
+11651,2024-08-29T09:25:04,profit_flottant,,photos/photo_2755@29-08-2024_09-25-04.jpg,,,En route🎯
+11743,2024-08-30T02:23:35,entree,,photos/photo_2831@30-08-2024_02-23-35.jpg,,,"Buy limit, je prendrai ce trade si le marché vient a notre point d'entrée"
+11770,2024-09-03T09:57:03,rate,AUDUSD,,,,Voici un autre setup sur AUDUSD que je n'ai pas pris alors que mon instinct m'avais dit de le prendre des que je l'ai vu
+11803,2024-09-04T12:48:03,entree,,,,,je viens de me positionner
+11806,2024-09-04T12:59:47,be,,photos/photo_2839@04-09-2024_12-59-47.jpg,,,clean je vais me mettre a BE tres vite
+11808,2024-09-04T13:29:25,profit_flottant,,,2200$,,2200$ floating 🫡
+11812,2024-09-04T14:08:20,tp,,,6000$,,Je suis pas a la maison mais le trade a touché mon tp donc j'ai cashout 6000$ la dessus
+11828,2024-09-06T13:04:31,rate,AUDNZD,,,,on a pas eu d'entrée sur AUDNZD. Annulez le sell limit
+11844,2024-09-10T07:38:06,profit_flottant,,photos/photo_2843@10-09-2024_07-38-06.jpg,,,Floating ✅
+11845,2024-09-10T10:58:46,profit_flottant,,photos/photo_2844@10-09-2024_10-58-46.jpg,2200$,,2200$ floating ✅
+11846,2024-09-10T11:01:05,profit_flottant,,,,,"Mes entrées sont chirurgicales. Mon drawdown est limite et c'est la raison pour laquelle mes trades vont tres souvent en profit directement. C'est pas de la magie mais de l'expérience, des milliers d'"
+11853,2024-09-11T10:15:26,be,EURNZD,,,,"Bonjour, j'ai fermé a BE sur eurnzd. Mais je vais me repositionner au niveau de 1.8000 dans la session de New York"
+11859,2024-09-11T12:35:09,profit_flottant,,photos/photo_2849@11-09-2024_12-35-09.jpg,1200$,,1200$ floating 🫡
+11862,2024-09-11T13:51:05,be,,,,,mettez vous a break even au cas ou le marché decide de remonter
+11863,2024-09-11T14:02:45,be,,,,,j'ai fermé a BE. Le trade n'est plus d'actualité
+11868,2024-09-11T22:04:05,profit_flottant,,,,,$2700 floating 🎯
+11872,2024-09-11T22:57:36,rate,AUDNZD,,,,un trade qu'on voulait prendre sur AUDNZD avec les membres mais qu'on a avorté a la derniere minute a cause du sentiment du marché. Ça a pourtant donné sans nous
+11891,2024-09-12T17:57:15,sl,,,,,"Dommage, SL"
+11926,2024-09-17T10:37:42,sl,,photos/photo_2857@17-09-2024_10-37-42.jpg,,,Le marché m'a fait sortir pour ensuite partir dans mon sens 😂 exactement ce que je voulais éviter
+11931,2024-09-18T03:22:59,rate,EURNZD,photos/photo_2859@18-09-2024_03-22-59.jpg,,,Un setup qu'on a regardé ensemble dans la session ordinaire du lundi mais que je n'ai pas pris car jetais concentré sur eurnzd 😭
+12123,2024-10-17T14:57:59,profit_flottant,GBPAUD,,,,GBPAUD en route
+12217,2024-11-06T02:40:00,tp,,,,,"dommage, tp atteint sans retracement"
+12293,2024-11-19T08:12:02,rate,,photos/photo_2941@19-11-2024_08-12-02.jpg,,,Tp touché sans qu'on puisse avoir un point d'entrée ! Dommage. C'etait  un excellent setup
+12294,2024-11-19T08:13:52,profit_flottant,,,,,Pratiquement tous les setups decortiqués dans notre session du lundi sont en profit mais a cause de la discipline je n'ai pris aucun de ces trades. J'attendais la session de nyc
+12310,2024-11-21T14:13:54,rate,USDJPY,,,,usdjpy case study. Un setup tres interessant mais que je n'ai pas pris a cause de l'incertitude geo politique.
+12420,2024-12-03T15:57:52,rate,,,,,On a raté le trade de quelques pips
+12442,2024-12-06T13:33:13,rate,,,,,"dommge, on a pas eu de point d'entrée"
+12464,2024-12-08T16:05:54,entree,,,,,ne vendez pas ce orderblock avant MERCREDI car il y'a une forte possibilité qu'elle ne tiendra pas. Si elle doit tenir alors sa sera seulement le mercredi quand le temps et le prix seront alligné
+12494,2024-12-10T11:04:15,sl,,photos/photo_2975@10-12-2024_11-04-15.jpg,,,Dommage !! Le marché a touché mon SL de justesse et a commencé a se renverser 🥲
+12495,2024-12-10T11:04:47,profit_flottant,AUDNZD,,,,Audnzd est quand meme en route !
+12498,2024-12-10T18:07:06,profit_flottant,,photos/photo_2978@10-12-2024_18-07-06.jpg,,,En route !
+12510,2024-12-11T22:18:00,tp,,,,,J'ai recuperé plus de 60% de ce que j'ai perdu l'autre jour 💯. Si ce trade touche tp j'aurai non seulement recuperé mais j'aurai fait un profit de 3k supplementaire
+12538,2024-12-27T22:25:54,profit_flottant,,,,,"Les gens qui se plaignent de Nova apres migration, on est tous dans le meme bateau. Je suis totalement déçue de ce qu'ils ont fait. Au moment de la migration j'avais deux comptes chez eux et les deux "
+12670,2025-01-14T02:53:13,rate,EURNZD,,,,"EURNZD setup decortiqué ce soir dans notre session du lundi, mais on a pas eu de point d'entrée. C'etait un setup a tres haute probabilité repondant a nos criteres techniques"
+12676,2025-01-14T13:11:07,profit_flottant,GBPJPY,photos/photo_3016@14-01-2025_13-11-07.jpg,,,GJ en route !
+12681,2025-01-14T22:56:06,sl,AUDJPY,,,,AUDJPY a touché SL
+12690,2025-01-15T07:43:05,sl,AUDJPY,photos/photo_3020@15-01-2025_07-43-05.jpg,,,"Le spread m'a fait sortir sur notre trade Audjpy mais je pense que certaines personnes sont toujours dans le trade s'ils ont un bon broker. Pour être honnete avec vous, je fermerai ce trade a a breake"
+12704,2025-01-15T16:41:51,profit_flottant,GBPJPY,,,,"Maintenant on a une direction claire pour GBPJPY. Il faut la vendre. Le narratif est en route, la fonda est alligné et l'analyse sentimentale et alligné. Chaque retracement sur GJ est une opportunité "
+12763,2025-01-23T12:36:41,sl,,,,,"Si on arrive pas a aller prendre le high, j'attendrai le soir apres la sortie du CPI pour me positionner. Dans le trading le temps est plus important que le prix. Deux personnes peuvent acheter au mem"
+12769,2025-01-23T16:04:52,rate,,,,,"Personnellement je n'ai pas eu de point d'entrée vu que le marché n'et pas revenu mais une chose etait claire comme je l'ai dit, les investisseurs informés allaient se positionner a la session de new "
+12775,2025-01-24T08:48:00,be,,,,,"Si vous êtes dans le trade, mettez vous a BE. Le discours de UEDA avait un ton dovish ! Ce n'est pas evident que le marché continuera a couler mais en mm temps ne fermez pas le trade."
+12784,2025-01-24T09:07:09,entree,,,,,90% des traders perdent 90% de leurs argent en 90 jours.. Alors pourquoi achetez vous ou vendez vous en meme temps qu'eux ?! Votre opportunité se trouve a l'extreme niveau de peine des retaills trader
+12802,2025-01-28T15:43:54,be,,,,,"Dans mon playbook, j'ai finis par realiser que 90% de mes trades qui touchent SL ou BE sont pris dans la session asiatique ou dans la session de London. Ca ne me servait absolument a rien de me reveil"
+12820,2025-01-29T19:34:15,be,,,,,Je ne me mettrai pas a BE mais plutot ajouterai sur ma position si le marché revient a ma deuxième entrée
+12831,2025-01-30T13:23:28,be,,,,,Il suffit de regarder le us10y pour le savoir. Je pense que les chiffres sur le GDP sera raté. Mettez vous a break even a tt de suite !!!!!!!
+12845,2025-01-31T17:12:36,be,EURUSD,,,,Mettez vous a break even sur eurusd
+12848,2025-02-05T06:59:41,profit_flottant,,,,,Notre session du lundi etait une session tres fructueuse et tres interessante. On a recu Cherif au Bureau pour la premiere fois qui a partagé son expertise avec les membres mais aussi on a fait notre 
+12865,2025-02-06T01:51:43,rate,EURJPY,,,,Je n'ai pas eu d'entrée sur EURJPY au retest malheureusement sinon c'etait un excellent trade
+12943,2025-03-06T13:29:05,sl,,,,,Je partage avec vous les deux derniers bon setups qui ont repondu present a nos criteres lors de notre session du lundi. L'un a touché SL et apres nous a donné un point d'entrée et le deuxieme a fait 
+12995,2025-03-20T09:07:11,be,,photos/photo_3061@20-03-2025_09-07-11.jpg,,,Mettez vous a BE et laissez le trade continuer
+12997,2025-03-20T09:22:53,rate,,photos/photo_3062@20-03-2025_09-22-53.jpg,,,Un trade que j'ai raté de justesse ! Mais en verité je ne trouvais pas le dollar assez haussier
+13110,2025-04-08T17:14:31,profit_flottant,CADJPY,photos/photo_3080@08-04-2025_17-14-31.jpg,,,Cadjpy en route
+13115,2025-04-08T23:40:58,be,EURUSD,,,,commencons par EURUSD qui nous a ramener a BE. On etait a en profit apres le marché s'est renversé
+13118,2025-04-08T23:45:45,profit_flottant,EURJPY,,,,EURJPY en route
+13123,2025-04-08T23:55:21,tp,,,,,TP hit
+13219,2025-04-29T13:02:19,profit_flottant,,,,,4 trades sur 4 en profit !
+13222,2025-04-29T14:55:31,be,,,,,mettez vous a break even
+13223,2025-04-29T15:03:02,be,,,,,sur toutes les positions mettez vous a break even jusqu'a ce qu'on arrive a comprendre le sentiment
+13289,2025-05-21T20:05:40,rate,,photos/photo_3097@21-05-2025_20-05-40.jpg,,,"Dommage, on a pas eu d'entree"
+13336,2025-05-28T15:24:24,rate,,photos/photo_3101@28-05-2025_15-24-24.jpg,,,Vous voyez ? On a pas eu de point d'entrée mais nos stats nous avaient prouvé clairement que ce trade allait être rentable
+13338,2025-05-28T23:40:56,rate,EURNZD,,,,Bon regardez ce qui s'est passé avec EURNZD. Le marché a coulé directement sans nous donner de point d'entrée
+13352,2025-06-02T14:43:34,sl,XAUUSD,,,,Gold a touché mon sl avant de s'envoler 😂
+13389,2025-06-12T10:04:03,tp,,photos/photo_3113@12-06-2025_10-04-03.jpg,,,Tp touché sur GPbjpy !
+13437,2025-07-03T11:51:54,tp,,,,,TP atteint
+13579,2025-08-06T21:02:50,sl,,,,,La raison pour laquelle c'est tres important pour vous en tant que trader de suivre les actualités c'est que souvent tu peux avoir un setup a tres tres haute probabilité mais a cause d'une simple info
+13588,2025-08-07T07:40:26,rate,,photos/photo_3150@07-08-2025_07-40-26.jpg,,,"On a raté ce trade de justesse... mais en fait, la discipline est plus importante que le trade en question"
+13642,2025-08-13T01:31:53,be,CADJPY,photos/photo_3162@13-08-2025_01-31-53.jpg,,,cadjpy est entrain de retracer. Je me suis mis a break even
+13689,2025-08-19T14:16:07,be,,photos/photo_3175@19-08-2025_14-16-07.jpg,,,Trop facile 🎯 mettez vous a Break even et laissez le marché faire le reste.
+13700,2025-08-19T15:21:36,tp,GBPAUD,,,,Un autre trade sur GBPAUD qui a touché tp analysé hier soir dans notre session
+13716,2025-08-20T07:31:29,be,,,,,trop facile. Mettez vous a break even et laissez le marché faire ce quil a a faire
+13720,2025-08-20T07:47:31,be,,,,,Je suis a break even sur le trade !
+13724,2025-08-20T08:15:50,tp,GBPNZD,,,,TP sur GBPNZD pour moi
+13745,2025-08-26T10:20:16,be,,photos/photo_3179@26-08-2025_10-20-16.jpg,,,Les gens qui valorisent la preservation de capital c'est votre chance de vous tirer a BE maintenant.
+13847,2025-09-17T11:11:25,profit_flottant,,photos/photo_3195@17-09-2025_11-11-25.jpg,,,En route 🎯
+13856,2025-09-17T14:56:10,be,CADJPY,,,,mettez vous a breakeven sur le trade de cadjpy. Le marché n'a pas l'air de continuer a vendre le cad pour linstant donc protegez ce que vous avez deja gagné ou mettez vous a BE
+13904,2025-09-22T01:59:03,profit_flottant,,,,,Notre premier trade partagé en temps reel avec le nouveau groupe est deja en profit 🫱🏾‍🫲🏽
+13970,2025-09-29T08:20:36,profit_flottant,,,,,Ceux qui dorment encore vont se reveiller et trouver que leurs comptes sont en profit 😍 Bon debut de semaine a tous !
+13980,2025-10-01T01:41:47,be,,photos/photo_3220@01-10-2025_01-41-47.jpg,,,Mettez vous a BE et laissez le marché couler 🎯
+14002,2025-10-02T08:59:48,profit_flottant,USDCHF USDJPY,,,,On a eu sl sur usdjpy mais usdchf est en profit
+14108,2025-10-28T06:45:30,be,CADJPY,photos/photo_3251@28-10-2025_06-45-30.jpg,,,Mettez vous a BE sur cadjpy maintenant
+14109,2025-10-28T06:45:30,tp,CADJPY,photos/photo_3252@28-10-2025_06-45-30.jpg,,,Tp sur cadjpy ! 🎯
+14114,2025-10-29T00:42:28,entree,AUDJPY,,,,mettez des buy limit sur audjpy a 100.000
+14127,2025-10-30T19:15:42,profit_flottant,,photos/photo_3258@30-10-2025_19-15-42.jpg,,,En route vers l'indépendance financière ! 🎯
+14133,2025-11-04T12:49:25,entree,EURNZD,,,,Setup A+ avec tous les criteres qu'il faut. Mettez un Buy limit sur EURNZD
+14135,2025-11-04T21:03:01,rate,,photos/photo_3262@04-11-2025_21-03-01.jpg,,,"Dommage, le marché n'est pas venu a notre Point d'entrée. On l'a raté de quelques pips mais ce n'est pas grave"
+14151,2025-11-12T07:22:07,be,GBPAUD,photos/photo_3264@12-11-2025_07-22-07.jpg,,,Mettez vous a BE sur gbpaud 🎯
+14205,2025-12-02T22:57:29,be,USDCAD,photos/photo_3280@02-12-2025_22-57-29.jpg,,,Mettez vous a BE sur usdcad !
+14231,2025-12-15T09:21:31,be,,,,,"La logique est vraiment tres simple. Au lieu de passer son temps a réinventer la roue ou a etre un trader break even/perdant, c'est une meileure idee de faire ce programme pour au moins se garantir la"
+14329,2026-01-16T08:55:25,profit_flottant,,,,,"Bonjour pour ceux qui sont arrivés au bureau, je suis en route"
+14366,2026-01-28T16:16:45,entree,EURAUD,photos/photo_3308@28-01-2026_16-16-45.jpg,,,Je vend euraud maintenant
+14379,2026-01-29T00:44:45,be,EURUSD,,,,Mettez vous a BE sur le trade eurusd. Ces genres de choses peuvent renforcer le dollar
+14405,2026-02-10T13:07:36,entree,USDJPY,,,,sell limit sur usdjpy
+14407,2026-02-10T13:07:36,be,,photos/photo_3314@10-02-2026_13-07-36.jpg,,,💯🫱🏾‍🫲🏽 je ne vais pas me mettre a BE. Attendons que le low soit pris
+14412,2026-02-11T23:40:45,be,,,,,"Fin décembre à janvier fut une période vraiment difficile et éprouvante pour moi, sans la discipline j'aurais probablement cramé un compte. La patience que j'ai dû endurer est incroyable mais comme on"
+14472,2026-03-02T06:14:51,be,USDJPY,,,,Mettez vous a BE sur usdjpy
+14473,2026-03-02T12:52:48,tp,USDJPY,photos/photo_3336@02-03-2026_12-52-48.jpg,,,Tp sur usdjpy
+14504,2026-03-04T09:59:33,be,,,,,Ce trade nous a sortis a Be je ne voulais pas le garder parceque le marché tardait trop a l'entrée
+14509,2026-03-05T05:03:26,be,AUDUSD,photos/photo_3349@05-03-2026_05-03-26.jpg,,,Mettez vous maintenant a BE sur audusd
+14517,2026-03-05T11:01:54,sl,EURAUD,photos/photo_3353@05-03-2026_11-01-54.jpg,,,"Euraud en route, c'est jeudi. Mes stats montrent que le jeudi j'ai tendance a toucher sl ou BE. Donc mettez vous a BE maintenant et on laisse le marché faire le reste"
+14558,2026-03-11T12:49:51,profit_flottant,,,7 000 $,,Je vais vous raconter maintenant ce qui se passe. J’étais premier sur le leaderboard de TradingCult avec mes deux comptes : un compte de 100k qui était en profit de presque 7 000 $ et un deuxième comp
+14611,2026-03-20T21:42:12,sl,EURCAD,,,,"EURCAD a touché SL, la banque centrale Europenne a eu un ton hawkish changeant temporairement la direction de l'euro mais les fondamentaux restent intact, l'euro doit couler"
+14668,2026-04-08T01:19:36,profit_flottant,,,,,"L’autre jour, quelqu’un est venu me dire que c’est normal et facile pour moi de faire des retraits chaque mois parce que j’ai plusieurs comptes. J’ai rigolé en lui répondant que c’est justement parce "
+14684,2026-04-09T13:21:28,tp,,,,,"Voici deux trades partagés sur signalX hier, les deux ont touché TP."
+14701,2026-04-15T17:01:36,entree,,photos/photo_3399@15-04-2026_17-01-36.jpg,,,Attendez mon signal avant de placer votre sell limit
+14706,2026-04-15T17:09:32,tp,,,2000$,,Le vrai flex dans le trading ? C'est savoir que vous pouvez faire un retrait de 1 million fcfa apres un seul bon trade qui touche TP.  Je suis passé de quelqu'un qui prenait plus de 10 trades a quelqu
+14711,2026-04-16T15:48:20,be,,,50 000 $,,Rachid a partagé un de ses certificats où il a gagné plus de 50 000 $ de profits nets avec FundingPips seulement !  Réfléchissez un peu à ça. Vous prenez exactement les mêmes trades que quelqu’un qui 
+14737,2026-04-30T14:18:49,tp,,,,,"L'incertitude de ce marché nous pousse a la vigilance. Le bon trader sait attendre les bonnes opportunités. Au niveau de signalX, on a pris que 3 bons setup A+ toute cette semaine. 1 a touché tp, le d"
+14742,2026-04-30T14:20:25,be,EURGBP,,,,Mettez vous a be sur eurgbp
+14804,2026-05-07T08:41:42,profit_flottant,,photos/photo_3434@07-05-2026_08-41-42.jpg,,,En route 🎯
+14806,2026-05-07T08:43:59,profit_flottant,,photos/photo_3436@07-05-2026_08-43-59.jpg,,,En route 🎯
+14808,2026-05-07T08:46:33,profit_flottant,,photos/photo_3438@07-05-2026_08-46-33.jpg,,,En route aussi 🎯
+14820,2026-05-07T20:57:06,profit_flottant,EURUSD,photos/photo_3441@07-05-2026_20-57-06.jpg,,,Eurusd en route 🎯
+14829,2026-05-11T09:38:34,profit_flottant,,,,,Notre premier setup de la semaine est en profit 😍
+14845,2026-05-12T13:19:51,be,EURUSD,,,,Mettez vous a BE sur eurusd
+14849,2026-05-12T13:53:39,be,,,,,"Chaque fois, je réalise que collaborer avec Rachid sur SignalX était ma meilleure collaboration de 2025. En réalité, quand on met deux forces solides ensemble, on réalise beaucoup plus que ce qu’on au"
+14872,2026-05-15T01:37:35,rate,,photos/photo_3456@15-05-2026_01-37-35.jpg,,,"Dommage, le prix est parti directement a notre tp. Annulez donc le sell limit"
+14880,2026-05-22T11:14:11,entree,,,4900$,,"Vous achetez 3 comptes de 100k sachant que vous pouvez cramer 2 comptes, et le 3e compte vous faites un benefice de 7%. Premier payout c'est 70% donc on vous verse 4900$.  4900$ apres avoir pris 3 bon"
+14894,2026-05-26T17:58:19,be,,,,,NB: on est parti a BE tres vite donc ça a retracé sur nous avant de tomber
+14913,2026-06-03T07:55:57,be,,,,,Dommage c'etait un trade BE 😑
+14954,2026-06-19T00:53:14,profit_flottant,,,7000$,,Conseil gratuit 🫠 il est en profit de 7000$ !
+14990,2026-06-30T22:01:28,be,EURGBP,photos/photo_3492@30-06-2026_22-01-28.jpg,,,On se met a BE sur eurgbp
+15004,2026-07-01T13:24:55,entree,EURAUD,,,,Je vend EURAUD maintenant
+15007,2026-07-01T17:33:43,tp,EURGBP,photos/photo_3496@01-07-2026_17-33-43.jpg,,,Tp sur eurgbp
+15008,2026-07-02T08:36:29,be,AUDUSD,,,,Fermez audusd a BE
+15021,2026-07-03T17:43:35,be,EURAUD,,,,Fermez euraud a BE
+15045,2026-07-10T09:10:01,be,,photos/photo_3506@10-07-2026_09-10-01.jpg,,,Le degré de precision est juste incroyable! Mettez vous a BE maintenant
+15071,2026-07-13T13:42:50,entree,,,,,"Bon bref, achetez vos comptes et on verra si ces deux prochains mois seront des mois d'opportunités pour nous"
+15078,2026-07-14T11:20:16,be,,,,,Mettez vous a BE maintenant
+15097,2026-07-14T12:48:36,entree,EURUSD,,,,Sell limit sur EURUSD a 1.15000
+15101,2026-07-14T12:58:23,entree,GBPUSD,,,,Sell limit sur Gbpusd
+15102,2026-07-14T13:14:55,be,GBPUSD,photos/photo_3519@14-07-2026_13-14-55.jpg,,,On se met a BE sur gbpusd maintenant !
+15104,2026-07-14T13:15:47,be,,,,,"Mettez vous a BE, kevin warsh doit parler a 14h, je ne sais pas ce qu'il a a dire"
+15109,2026-07-14T14:06:51,entree,,,,,si vous avez les moyens achetez un compte parceque vous risquez de gagner un autre compte gratuitement au cas ou la france gagne
+15110,2026-07-14T14:10:05,tp,AUDJPY,,,,Tp sur audjpy
+15113,2026-07-14T14:25:54,entree,GBPUSD,,,,vendez gbpusd tout de suite
+15120,2026-07-14T19:52:11,profit_flottant,,,,,"Vous savez, on a énormément de chance d'avoir accès aux admins d'OPF. Il y a eu une erreur générale aujourd'hui et certains ont perdu leur compte. Je l'ai su suite à la perte du compte de deux de nos "
+15163,2026-07-24T10:22:09,be,EURAUD,,,,Mettez vous a BE sur euraud
+15176,2026-07-28T08:54:12,be,,photos/photo_3536@28-07-2026_08-54-12.jpg,,,On se met a BE sur eurnok
+15195,2026-08-07T13:18:38,be,EURUSD,,,,Mettez vous a BE sur eurusd tt de suite
+15198,2026-08-12T10:10:46,be,AUDNZD,photos/photo_3542@12-08-2026_10-10-46.jpg,,,On se met a BE sur audnzd
+15199,2026-08-12T10:10:46,tp,AUDNZD,photos/photo_3543@12-08-2026_10-10-46.jpg,,,Cetait un excellent trade 😬 tp sur audnzd
+15278,2026-09-01T10:10:54,profit_flottant,,photos/photo_3561@01-09-2026_10-10-54.jpg,,,En route
+15281,2026-09-01T14:51:10,rate,,photos/photo_3564@01-09-2026_14-51-10.jpg,,3 pips,On a raté notre trade de 3 pips shit
+15284,2026-09-02T12:28:54,profit_flottant,,photos/photo_3561@01-09-2026_10-10-54.jpg,,,En route
+15333,2026-09-10T11:27:37,entree,,,,,Jai deja mis mon sell limit. On se dit rdv apres la new 🎯
+15361,2026-09-16T12:08:24,entree,,,,,les trades sont a prendre maintenant
+15362,2026-09-16T12:15:48,be,,,,,"Ma pensée est que le dollar va partir à la hausse, car Warsh ne peut pas se permettre de créer un doute dans l'esprit des investisseurs. Le consensus sera maintenu et on verra une continuation de la p"
+15366,2026-09-16T13:16:36,be,,,,,Vous pouvez aller a BE pour l'instant
+15372,2026-09-16T18:19:57,profit_flottant,,photos/photo_3584@16-09-2026_18-19-57.jpg,,,En route !
+15393,2026-09-17T11:42:24,profit_flottant,,photos/photo_3587@17-09-2026_11-42-24.jpg,1000$,,"Trade securisé, 1000$ de benefice floating 🎯. En temps reel !"
+15407,2026-09-18T02:51:47,be,GBPAUD,,,,"nous sommes en profit sur gbpaud, mettez vous a BE maintenant"
+15409,2026-09-18T02:56:39,rate,,,,,haha on a raté ce trade de justesse. Vous avez vu comment mon anticipation etait au point ?
+15412,2026-09-18T02:57:47,tp,,,,,lui il est parti direct au tp
+15415,2026-09-18T03:02:55,entree,,,,,"pour contexte; le premier mouvement haussier etait clairement attendu. Le marché avait deja integré cette hausse de taux, le forward guidance va determiner le reste de la direction du yen. Ueda doit p"
+15438,2026-09-21T22:55:38,be,,photos/photo_3592@21-09-2026_22-55-38.jpg,,,Mettez vous a BE mtn 🫱🏾‍🫲🏽
+15443,2026-09-22T14:35:04,be,EURGBP,photos/photo_3595@22-09-2026_14-35-04.jpg,,,Mettez vous a BE maintenant sur eurgbp
+15463,2026-09-29T06:48:08,tp,GBPAUD,photos/photo_3605@29-09-2026_06-48-08.jpg,,,Tp sur gbpaud!
+15482,2026-09-30T04:31:49,tp,USDJPY,photos/photo_3610@30-09-2026_04-31-49.jpg,,,Tp sur usdjpy
+15493,2026-09-30T16:20:30,rate,,photos/photo_3616@30-09-2026_16-20-30.jpg,,,Dommage ! Tp touché sans être déclenché
+15505,2026-10-01T00:39:07,sl,USDJPY,,,,"usdjpy nous a fait du mali hein, toucher notre sl et partir direct au tp"
+15509,2026-10-01T00:54:59,profit_flottant,,photos/photo_3624@01-10-2026_00-54-59.jpg,,,Ça aussi c'est en route !
+15520,2026-10-01T12:25:07,be,,,,,beautiful setup 🙂 on se met a BE maintenant sur le point d'entrée du haut
+15529,2026-10-01T16:21:21,entree,EURAUD,,,,je vend euraud maintenant
+15532,2026-10-01T16:37:26,be,,,,,vous pouvez deplacer votre SL au niveau de BE maintenant et on laisse le marché couler  tranquillement 🙂
