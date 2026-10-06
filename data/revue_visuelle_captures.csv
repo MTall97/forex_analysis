@@ -491,3 +491,83 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 489,ChatExport_2026-10-01/photos/photo_1493@22-12-2021_17-11-15.jpg,5261,2021-12-22T17:11:15,photo,trade,NZDUSD,achat,H1,0.6716,0.6718,,MT4 ; stop remonté ; prix 0.68155
 490,assets/tradingview/2021-12/2021-12-23_12h17_msg5266_cvKJmpNF.png,5266,2021-12-23T12:17:31,tv,trade,EURNZD,achat,H1,1.65675,1.65475,1.68078,
 491,ChatExport_2026-10-01/photos/photo_1494@23-12-2021_13-41-52.jpg,5267,2021-12-23T13:41:52,photo,trade,EURNZD,achat,M5,1.6567,1.6573,,MT4 ; stop remonté ; prix 1.66054
+492,assets/tradingview/2021-12/2021-12-24_04h26_msg5274_y7GzXXNI.png,5274,2021-12-24T04:26:00,tv,trade,EURNZD,achat,H1,1.65675,1.65475,1.68127,en gain (prix 1.66323)
+493,assets/tradingview/2021-12/2021-12-29_04h06_msg5305_bU5zcuT7.png,5305,2021-12-29T04:06:31,tv,trade,NZDUSD,achat,M30,0.67940,0.67857,0.68472,en gain (prix 0.68096)
+494,assets/tradingview/2021-12/2021-12-29_04h08_msg5308_mSSQdNhp.png,5308,2021-12-29T04:08:07,tv,trade,AUDUSD,achat,M30,0.72132,0.72046,0.72614,en gain (prix 0.72334)
+495,assets/tradingview/2021-12/2021-12-29_18h25_msg5313_PaVPDnvy.png,5313,2021-12-29T18:25:54,tv,trade,NZDUSD,achat,M30,0.67929,0.67872,0.68369,TP atteint (prix 0.68302 après un plus haut)
+496,ChatExport_2026-10-01/photos/photo_1497@30-12-2021_11-44-03.jpg,5317,2021-12-30T11:44:03,photo,trade,EURUSD,achat,H1,1.12810,1.12722,1.13709,en gain (prix 1.13206)
+497,ChatExport_2026-10-01/photos/photo_1499@30-12-2021_15-39-16.jpg,5329,2021-12-30T15:39:16,photo,trade,USDCAD,achat,M1,1.2780,1.2777,,MT4 buy ; prix 1.28015
+498,assets/tradingview/2021-12/2021-12-30_22h11_msg5337_HHvpa8CK.png,5337,2021-12-30T22:11:34,tv,trade,USDCAD,achat,H1,1.27756,1.27653,1.29403,stop touché (prix 1.27381)
+499,ChatExport_2026-10-01/photos/photo_1502@05-01-2022_17-55-35.jpg,5367,2022-01-05T17:55:35,photo,analyse,EURUSD,,H1,,,,zone
+500,assets/tradingview/2022-01/2022-01-06_21h12_msg5379_oWXBv9gJ.png,5379,2022-01-06T21:12:56,tv,analyse,AUDUSD,,H1,,,,zone de vente
+501,ChatExport_2026-10-01/photos/photo_1503@06-01-2022_21-15-48.jpg,5382,2022-01-06T21:15:48,photo,autre,,,,,,,schéma « phase impulsive / phase corrective »
+502,ChatExport_2026-10-01/photos/photo_1504@07-01-2022_21-20-29.jpg,5383,2022-01-07T21:20:29,photo,autre,,,,,,,liste CoinMarketCap
+503,ChatExport_2026-10-01/photos/photo_1505@10-01-2022_18-15-05.jpg,5392,2022-01-10T18:15:05,photo,trade,NZDJPY,achat,H1,77.65,77.55,,MT4 buy limit 11.20
+504,ChatExport_2026-10-01/photos/photo_1506@10-01-2022_18-52-47.jpg,5393,2022-01-10T18:52:47,photo,trade,NZDJPY,achat,H1,77.65,77.55,,"MT4 buy limit, prix 77.843"
+505,assets/tradingview/2022-01/2022-01-11_04h29_msg5394_THOd7A4Q.png,5394,2022-01-11T04:29:25,tv,analyse,AUDUSD,,H1,,,,projection hausse puis baisse
+506,assets/tradingview/2022-01/2022-01-11_16h22_msg5397_mpqKxdoq.png,5397,2022-01-11T16:22:06,tv,trade,USDCAD,achat,H1,1.26232,1.26060,1.28064,stop touché (prix 1.26031)
+507,ChatExport_2026-10-01/photos/photo_1507@11-01-2022_19-18-16.jpg,5398,2022-01-11T19:18:16,photo,trade,NZDJPY,achat,H1,77.612,77.552,78.335,TP atteint (prix 78.320)
+508,ChatExport_2026-10-01/photos/photo_1508@12-01-2022_13-46-25.jpg,5404,2022-01-12T13:46:25,photo,analyse,GBPJPY,,M15,,,,zone 157.71
+509,assets/tradingview/2022-01/2022-01-12_14h06_msg5407_Z1UXq5aK.png,5407,2022-01-12T14:06:56,tv,analyse,GBPJPY,,H1,,,,projection baissière
+510,assets/tradingview/2022-01/2022-01-12_14h12_msg5409_YJRRfTWA.png,5409,2022-01-12T14:12:02,tv,analyse,AUDUSD,,H1,,,,projection baissière
+511,ChatExport_2026-10-01/photos/photo_1509@12-01-2022_14-44-33.jpg,5411,2022-01-12T14:44:33,photo,trade,EURNZD,achat,M30,1.6720,1.6700,,MT4 buy limit 13.30
+512,assets/tradingview/2022-01/2022-01-12_22h29_msg5420_4YLcxp66.png,5420,2022-01-12T22:29:14,tv,trade,GBPJPY,vente,H1,157.50,157.665,155.924,en gain (prix 157.102)
+513,ChatExport_2026-10-01/photos/photo_1510@13-01-2022_12-35-05.jpg,5423,2022-01-13T12:35:05,photo,trade,GBPJPY,vente,H1,157.500,157.652,156.493,prix 157.037
+514,ChatExport_2026-10-01/photos/photo_1511@13-01-2022_12-42-30.jpg,5427,2022-01-13T12:42:30,photo,trade,GBPJPY,vente,M15,157.50,157.66,,MT4 sell limit 7.60 ; prix 156.967
+515,ChatExport_2026-10-01/photos/photo_1512@13-01-2022_19-31-04.jpg,5428,2022-01-13T19:31:04,photo,trade,GBPJPY,vente,H1,157.500,157.650,156.286,TP presque atteint (prix 156.412)
+516,ChatExport_2026-10-01/photos/photo_1514@13-01-2022_19-42-06.jpg,5434,2022-01-13T19:42:06,photo,trade,GBPJPY,vente,H1,157.357,157.618,156.781,membre (Fibonacci) ; RR 2.21
+517,ChatExport_2026-10-01/photos/photo_1516@13-01-2022_19-42-06.jpg,5436,2022-01-13T19:42:06,photo,trade,GBPJPY,vente,H1,157.36,157.62,156.76,membre (edemade3)
+518,ChatExport_2026-10-01/photos/photo_1517@13-01-2022_19-42-06.jpg,5437,2022-01-13T19:42:06,photo,trade,GBPJPY,vente,H1,157.357,157.618,156.781,membre : clôturé en TP (RR 2.21)
+519,assets/tradingview/2022-01/2022-01-13_21h11_msg5442_6lcVJl6C.png,5442,2022-01-13T21:11:32,tv,analyse,EURUSD,,H4,,,,sortie de range
+520,ChatExport_2026-10-01/photos/photo_1519@17-01-2022_08-54-27.jpg,5453,2022-01-17T08:54:27,photo,analyse,GBPAUD,,D1,,,,« major whole number » 1.90
+521,assets/tradingview/2022-01/2022-01-20_06h01_msg5459_BKfNMftE.png,5459,2022-01-20T06:01:59,tv,analyse,AUDUSD,,H1,,,,« major larger quarter » 0.725 (MLQ) ; projection baissière
+522,ChatExport_2026-10-01/photos/photo_1520@20-01-2022_16-14-03.jpg,5468,2022-01-20T16:14:03,photo,trade,NZDUSD,achat,H1,0.67602,0.67525,0.68612,en gain (prix 0.68005)
+523,ChatExport_2026-10-01/photos/photo_1521@20-01-2022_16-14-42.jpg,5470,2022-01-20T16:14:42,photo,trade,NZDUSD,achat,H1,0.6762,0.6770,,MT4 buy 10.00 ; stop remonté ; prix 0.68017
+524,ChatExport_2026-10-01/photos/photo_1522@20-01-2022_16-14-58.jpg,5471,2022-01-20T16:14:58,photo,resultat,NZDUSD,achat,,0.67620,,,"position NZDUSD buy 10 lots, +4 210 $ flottant ; ordre EURGBP sell limit 4.90 à 0.83646"
+525,ChatExport_2026-10-01/photos/photo_1523@21-01-2022_20-27-12.jpg,5475,2022-01-21T20:27:12,photo,trade,EURGBP,vente,H4,0.83744,0.83818,0.82593,prix 0.83680
+526,ChatExport_2026-10-01/photos/photo_1524@21-01-2022_20-28-10.jpg,5476,2022-01-21T20:28:10,photo,trade,EURGBP,vente,M5,0.8373,,,MT4 sell 4.90 ; prix 0.83691
+527,ChatExport_2026-10-01/photos/photo_1525@23-01-2022_22-22-44.jpg,5484,2022-01-23T22:22:44,photo,trade,EURGBP,vente,M5,0.83726,0.83806,,"modification : sell 4.90, stop 0.83806"
+528,ChatExport_2026-10-01/photos/photo_1526@24-01-2022_03-25-45.jpg,5488,2022-01-24T03:25:45,photo,trade,EURGBP,vente,H1,0.8373,,,MT4 sell 4.90 ; prix 0.83585
+529,assets/tradingview/2022-01/2022-01-24_21h36_msg5491_7nyIYWTi.png,5491,2022-01-24T21:36:30,tv,analyse,EURUSD,,H4,,,,liquidité
+530,assets/tradingview/2022-01/2022-01-25_03h00_msg5495_aE6m22Qa.png,5495,2022-01-25T03:00:00,tv,analyse,NZDJPY,,D1,,,,niveau 75.000
+531,ChatExport_2026-10-01/photos/photo_1527@25-01-2022_15-57-52.jpg,5496,2022-01-25T15:57:52,photo,autre,,,,,,,"photo d'un téléphone : compte de 5 000 000 $, ventes EURAUD 1 000 lots, +1 295 910 $ (non vérifiable)"
+532,assets/tradingview/2022-01/2022-01-27_19h50_msg5507_vmKVDX9E.png,5507,2022-01-27T19:50:43,tv,analyse,AUDUSD,,H1,,,,MLQ 0.725 ; chute vers 0.700
+533,assets/tradingview/2022-01/2022-01-27_19h51_msg5509_hVH5f7M7.png,5509,2022-01-27T19:51:44,tv,analyse,AUDUSD,,H1,,,,zone 0.725 (MLQ)
+534,ChatExport_2026-10-01/photos/photo_1530@30-01-2022_00-18-45.jpg,5516,2022-01-30T00:18:45,photo,resultat,XAUUSD,vente,,1848.02,1852.00,,"historique : XAUUSD sell 2.00 le 25/01/2022, stop touché, -800 $"
+535,assets/tradingview/2022-01/2022-01-30_00h20_msg5519_yEKzwePr.png,5519,2022-01-30T00:20:19,tv,analyse,XAUUSD,,H4,,,,« mon point de vente » 1850 (MLQ)
+536,assets/tradingview/2022-01/2022-01-30_00h27_msg5520_FmDEaUQX.png,5520,2022-01-30T00:27:55,tv,trade,XAUUSD,vente,M3,1848.0,1852.0,,"même trade que [534] : stop touché, puis « je pouvais ré-entrer ici »"
+537,ChatExport_2026-10-01/photos/photo_1531@31-01-2022_06-38-27.jpg,5524,2022-01-31T06:38:27,photo,analyse,AUDUSD,,H1,,,,rejet de 0.700 (MLQ)
+538,ChatExport_2026-10-01/photos/photo_1532@31-01-2022_06-40-48.jpg,5525,2022-01-31T06:40:48,photo,analyse,GBPUSD,,M15,,,,niveaux 1.350
+539,ChatExport_2026-10-01/photos/photo_1533@31-01-2022_06-42-06.jpg,5526,2022-01-31T06:42:06,photo,analyse,EURNZD,,H1,,,,niveau 1.700
+540,ChatExport_2026-10-01/photos/photo_1534@31-01-2022_06-44-47.jpg,5527,2022-01-31T06:44:47,photo,analyse,USDCAD,,H1,,,,niveaux 1.275 / 1.250
+541,ChatExport_2026-10-01/photos/photo_1535@31-01-2022_06-46-25.jpg,5528,2022-01-31T06:46:25,photo,analyse,GBPUSD,,H1,,,,niveaux 1.375 / 1.350 / 1.325 (MLQ)
+542,ChatExport_2026-10-01/photos/photo_1536@31-01-2022_06-48-49.jpg,5529,2022-01-31T06:48:49,photo,analyse,EURJPY,,H4,,,,niveaux 130 / 127.5
+543,ChatExport_2026-10-01/photos/photo_1538@31-01-2022_15-34-36.jpg,5532,2022-01-31T15:34:36,photo,autre,,,,,,,croquis
+544,ChatExport_2026-10-01/photos/photo_1539@31-01-2022_15-34-36.jpg,5533,2022-01-31T15:34:36,photo,analyse,EURJPY,,H1,,,,niveaux 128.6 / 128.4
+545,assets/tradingview/2022-01/2022-01-31_15h34_msg5534_e6JyvtRj.png,5534,2022-01-31T15:34:36,tv,analyse,EURJPY,,H1,,,,même zone
+546,ChatExport_2026-10-01/photos/photo_1540@31-01-2022_16-52-13.jpg,5539,2022-01-31T16:52:13,photo,trade,GBPJPY,vente,M5,155.128,155.239,154.828,TP atteint (prix 154.799)
+547,ChatExport_2026-10-01/photos/photo_1541@31-01-2022_16-52-58.jpg,5541,2022-01-31T16:52:58,photo,resultat,GBPJPY,vente,,155.130,,,"historique : GBPJPY sell 9.50 le 31/01/2022, 155.130 -> 154.826, +2 504.79 $"
+548,ChatExport_2026-10-01/photos/photo_1542@31-01-2022_17-56-57.jpg,5542,2022-01-31T17:56:57,photo,analyse,EURGBP,,H2,,,,"élève (Tanimoune01) : catalyst, POI"
+549,ChatExport_2026-10-01/photos/photo_1543@31-01-2022_17-57-09.jpg,5543,2022-01-31T17:57:09,photo,analyse,EURGBP,,H1,,,,élève
+550,ChatExport_2026-10-01/photos/photo_1544@31-01-2022_18-13-56.jpg,5544,2022-01-31T18:13:56,photo,trade,USDJPY,vente,M15,115.581,115.675,114.753,membre (diarrabouna737)
+551,ChatExport_2026-10-01/photos/photo_1545@31-01-2022_18-13-56.jpg,5545,2022-01-31T18:13:56,photo,trade,USDJPY,vente,M15,115.581,115.675,114.753,membre ; prix 115.177
+552,ChatExport_2026-10-01/photos/photo_1546@01-02-2022_15-03-05.jpg,5548,2022-02-01T15:03:05,photo,trade,XAUUSD,vente,M30,1807.6,1809.8,,MT4 sell limit 5.00
+553,ChatExport_2026-10-01/photos/photo_1547@01-02-2022_15-03-47.jpg,5549,2022-02-01T15:03:47,photo,trade,XAUUSD,vente,M1,1807.570,1809.630,1795.5,objectif approximatif ; en gain (prix 1799.37)
+554,ChatExport_2026-10-01/photos/photo_1548@01-02-2022_16-45-53.jpg,5551,2022-02-01T16:45:53,photo,trade,XAUUSD,vente,M5,1807.65,,,MT4 sell 5.00 ; prix 1805.0
+555,ChatExport_2026-10-01/photos/photo_1549@01-02-2022_16-46-25.jpg,5552,2022-02-01T16:46:25,photo,resultat,XAUUSD,vente,,1807.65,,,"position XAUUSD sell 5.00, +1 280 $ flottant"
+556,ChatExport_2026-10-01/photos/photo_1550@01-02-2022_18-43-57.jpg,5553,2022-02-01T18:43:57,photo,trade,XAUUSD,vente,M5,1807.65,,1795.5,MT4 ; tp 1795.5 ; prix 1801.77
+557,ChatExport_2026-10-01/photos/photo_1551@01-02-2022_18-44-24.jpg,5554,2022-02-01T18:44:24,photo,resultat,XAUUSD,vente,,1807.65,,,"position, +2 900 $ flottant"
+558,ChatExport_2026-10-01/photos/photo_1552@02-02-2022_04-05-42.jpg,5563,2022-02-02T04:05:42,photo,resultat,XAUUSD,vente,,1807.65,,,"position, +4 645 $ flottant"
+559,assets/tradingview/2022-02/2022-02-02_06h09_msg5565_QX3DWFP7.png,5565,2022-02-02T06:09:24,tv,trade,EURJPY,vente,H1,129.465,129.555,128.0,objectif approximatif ; prix 129.347
+560,ChatExport_2026-10-01/photos/photo_1553@02-02-2022_08-12-19.jpg,5570,2022-02-02T08:12:19,photo,resultat,XAUUSD,vente,,1807.65,,,"historique : XAUUSD sell 5.00 1807.65 -> 1795.49, +6 080 $ (TP)"
+561,ChatExport_2026-10-01/photos/photo_1554@02-02-2022_08-24-39.jpg,5574,2022-02-02T08:24:39,photo,trade,AUDJPY,vente,H1,82.010,82.198,80.744,prix 81.744
+562,ChatExport_2026-10-01/photos/photo_1555@02-02-2022_12-49-01.jpg,5576,2022-02-02T12:49:01,photo,trade,EURJPY,vente,M5,129.450,129.550,,en gain (prix 129.338)
+563,assets/tradingview/2022-02/2022-02-02_15h01_msg5579_sCe9KwM5.png,5579,2022-02-02T15:01:23,tv,trade,EURJPY,vente,M15,129.450,129.550,128.3,objectif approximatif ; prix 129.138
+564,ChatExport_2026-10-01/photos/photo_1556@02-02-2022_15-04-45.jpg,5581,2022-02-02T15:04:45,photo,trade,EURJPY,vente,M5,129.45,129.42,,MT4 ; stop remonté ; prix 129.148
+565,ChatExport_2026-10-01/photos/photo_1557@04-02-2022_15-14-37.jpg,5583,2022-02-04T15:14:37,photo,trade,XAUUSD,achat,M15,1795.0,,,MT4 : 3 achats 1.00 (1792.87-1796.72)
+566,ChatExport_2026-10-01/photos/photo_1558@04-02-2022_15-15-05.jpg,5584,2022-02-04T15:15:05,photo,resultat,XAUUSD,achat,,1795.0,,,"3 positions XAUUSD buy 1.00, +3 317 $ flottant"
+567,ChatExport_2026-10-01/photos/photo_1562@04-02-2022_18-03-06.jpg,5591,2022-02-04T18:03:06,photo,autre,,,,,,,liste CoinMarketCap
+568,assets/tradingview/2022-02/2022-02-04_18h06_msg5594_L7h9NH0o.png,5594,2022-02-04T18:06:44,tv,analyse,BTCUSDT,,W,,,,crypto
+569,ChatExport_2026-10-01/photos/photo_1563@07-02-2022_16-44-45.jpg,5597,2022-02-07T16:44:45,photo,autre,,,,,,,liste CoinMarketCap
+570,assets/tradingview/2022-02/2022-02-08_05h19_msg5603_oPO8uFvy.png,5603,2022-02-08T05:19:46,tv,trade,NZDUSD,vente,M5,0.66483,0.66552,0.65918,prix 0.66371
+571,ChatExport_2026-10-01/photos/photo_1564@08-02-2022_05-22-47.jpg,5605,2022-02-08T05:22:47,photo,trade,NZDUSD,vente,M15,0.6650,0.6646,,MT4 ; stop remonté ; prix 0.66367
