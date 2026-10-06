@@ -1783,3 +1783,75 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 1781,ChatExport_2026-10-01/photos/photo_3043@09-02-2025_10-58-11.jpg,12889,2025-02-09T10:58:11,photo,resultat,,,,,,,compte à 104 162 $ sans position
 1782,ChatExport_2026-10-01/photos/photo_3044@11-02-2025_15-34-26.jpg,12895,2025-02-11T15:34:26,photo,analyse,EURUSD,vente,H1,,,,TradingView mobile ; projection vers 1.025
 1783,ChatExport_2026-10-01/photos/photo_3045@12-02-2025_13-35-41.jpg,12898,2025-02-12T13:35:41,photo,trade,EURUSD,vente,M15,1.03572,1.03872,,"cTrader sell 3.33 lots, prix 1.0322"
+1784,ChatExport_2026-10-01/photos/photo_3047@12-02-2025_15-47-07.jpg,12902,2025-02-12T15:47:07,photo,trade,EURUSD,vente,M5,1.03585,1.03889,1.03425,"TradingView mobile ; prix 1.0375, au-dessus de l'entrée (CPI)"
+1785,ChatExport_2026-10-01/photos/photo_3048@12-02-2025_15-50-41.jpg,12903,2025-02-12T15:50:41,photo,resultat,EURUSD,vente,,,,,
+1786,assets/tradingview/2025-03/2025-03-04_16h47_msg12940_oSUP64T0.png,12940,2025-03-04T16:47:19,tv,analyse,DXY,vente,D1,,,,"BLACKMAKER ; rejet de 107.5, projection vers 106.1"
+1787,ChatExport_2026-10-01/photos/photo_3060@20-03-2025_09-07-11.jpg,12994,2025-03-20T09:07:11,photo,trade,EURAUD,achat,H1,1.71781,1.71428,1.72664,TradingView mobile
+1788,ChatExport_2026-10-01/photos/photo_3061@20-03-2025_09-07-11.jpg,12995,2025-03-20T09:07:11,photo,trade,EURAUD,achat,H1,1.71780,1.71422,1.72675,TradingView mobile ; prix 1.7213
+1789,ChatExport_2026-10-01/photos/photo_3062@20-03-2025_09-22-53.jpg,12997,2025-03-20T09:22:53,photo,trade,EURUSD,vente,H4,1.09186,1.09589,1.08171,TradingView mobile ; prix 1.0853
+1790,ChatExport_2026-10-01/photos/photo_3063@20-03-2025_11-01-42.jpg,13000,2025-03-20T11:01:42,photo,trade,EURCHF,achat,H1,0.95551,0.95285,0.96215,TradingView mobile
+1791,ChatExport_2026-10-01/photos/photo_3064@20-03-2025_11-02-16.jpg,13001,2025-03-20T11:02:16,photo,trade,EURCHF,achat,M30,0.95551,0.95285,0.96215,TradingView mobile ; prix 0.9569
+1792,ChatExport_2026-10-01/photos/photo_3065@20-03-2025_11-03-15.jpg,13003,2025-03-20T11:03:15,photo,resultat,EURAUD,achat,,1.71840,,,"membre (petit compte) : EURAUD et EURCHF buy, +459 $"
+1793,ChatExport_2026-10-01/photos/photo_3066@20-03-2025_12-11-30.jpg,13004,2025-03-20T12:11:30,photo,resultat,EURAUD,achat,,1.71948,,1.72665,"membre : EURAUD buy 0.12, +54 $"
+1794,ChatExport_2026-10-01/photos/photo_3068@20-03-2025_13-32-33.jpg,13011,2025-03-20T13:32:33,photo,resultat,EURAUD,achat,,1.71871,,1.72506,"membre : EURAUD buy 0.2 et 0.01, +84 $"
+1795,ChatExport_2026-10-01/photos/photo_3069@20-03-2025_15-23-08.jpg,13016,2025-03-20T15:23:08,photo,trade,GBPCHF,achat,M30,1.14211,1.13709,1.15718,analyse d'un membre (agrachid)
+1796,ChatExport_2026-10-01/photos/photo_3070@20-03-2025_15-23-08.jpg,13018,2025-03-20T15:23:08,photo,trade,GBPCHF,achat,M30,1.14211,1.13709,1.15718,analyse d'un membre (agrachid) ; suite
+1797,assets/tradingview/2025-03/2025-03-26_11h57_msg13033_RJPp2f9z.png,13033,2025-03-26T11:57:45,tv,trade,AUDUSD,vente,H4,0.63209,0.63461,0.62024,BLACKMAKER
+1798,ChatExport_2026-10-01/photos/photo_3072@26-03-2025_19-08-17.jpg,13040,2025-03-26T19:08:17,photo,trade,AUDUSD,vente,H4,0.63209,0.63461,0.62024,TradingView mobile ; prix 0.6285
+1799,ChatExport_2026-10-01/photos/photo_3073@26-03-2025_19-08-56.jpg,13041,2025-03-26T19:08:56,photo,trade,GBPUSD,vente,H4,1.29511,1.29763,1.28624,TradingView mobile ; prix 1.2884
+1800,ChatExport_2026-10-01/photos/photo_3074@31-03-2025_16-23-43.jpg,13065,2025-03-31T16:23:43,photo,trade,AUDUSD,vente,H4,0.63209,0.63461,0.62024,TradingView mobile ; prix 0.6239
+1801,ChatExport_2026-10-01/photos/photo_3075@31-03-2025_16-37-55.jpg,13066,2025-03-31T16:37:55,photo,analyse,NZDUSD,vente,H4,,,,TradingView mobile ; projection atteinte (0.5670)
+1802,ChatExport_2026-10-01/photos/photo_3077@04-04-2025_18-39-13.jpg,13099,2025-04-04T18:39:13,photo,analyse,NZDUSD,,D1,,,,"TradingView mobile ; chute de 3,8 % (droits de douane, avril 2025)"
+1803,ChatExport_2026-10-01/photos/photo_3078@04-04-2025_18-39-50.jpg,13100,2025-04-04T18:39:50,photo,analyse,AUDUSD,,D1,,,,"TradingView mobile ; chute de 5 % (droits de douane, avril 2025)"
+1804,ChatExport_2026-10-01/photos/photo_3080@08-04-2025_17-14-31.jpg,13110,2025-04-08T17:14:31,photo,analyse,CADJPY,vente,H4,,,,TradingView mobile ; projection vers 101.544
+1805,assets/tradingview/2025-04/2025-04-08_23h45_msg13119_NGaKxErd.png,13119,2025-04-08T23:45:46,tv,analyse,EURJPY,vente,D1,,,,"BLACKMAKER ; Major whole number 162.5, projection baissière"
+1806,assets/tradingview/2025-04/2025-04-09_00h06_msg13128_TU47n1fd.png,13128,2025-04-09T00:06:54,tv,analyse,CADJPY,vente,D1,,,,BLACKMAKER ; projection vers 101.544
+1807,ChatExport_2026-10-01/photos/photo_3083@13-04-2025_03-30-58.jpg,13148,2025-04-13T03:30:58,photo,autre,,,,,,,"« Journal de trading - Méthode d'impulsion momentum » : 458 trades, 83 % de réussite, 1,6 R (auteur et source non indiqués)"
+1808,ChatExport_2026-10-01/photos/photo_3084@13-04-2025_03-33-43.jpg,13149,2025-04-13T03:33:43,photo,autre,,,,,,,"journal de backtest « méthode d'impulsion momentum », trades datés de janvier-février 2020, prix masqués (pas des trades réels)"
+1809,ChatExport_2026-10-01/photos/photo_3085@15-04-2025_09-16-12.jpg,13153,2025-04-15T09:16:12,photo,trade,GBPJPY,achat,H1,187.942,186.937,189.994,TradingView mobile ; Major whole number 190
+1810,ChatExport_2026-10-01/photos/photo_3086@17-04-2025_11-11-41.jpg,13158,2025-04-17T11:11:41,photo,trade,GBPJPY,achat,H4,187.942,186.937,189.965,TradingView mobile ; prix 188.57
+1811,ChatExport_2026-10-01/photos/photo_3087@22-04-2025_20-20-59.jpg,13166,2025-04-22T20:20:59,photo,analyse,EURJPY,achat,H4,,,,TradingView mobile ; Major whole number 160
+1812,ChatExport_2026-10-01/photos/photo_3088@22-04-2025_20-29-09.jpg,13169,2025-04-22T20:29:09,photo,autre,,,,,,,"FX Replay (backtest, compte « YOLEM ») : +181 060 $, 88 % de gagnants ; simulation sur données passées, pas des trades réels"
+1813,ChatExport_2026-10-01/photos/photo_3089@22-04-2025_20-29-09.jpg,13170,2025-04-22T20:29:09,photo,autre,,,,,,,"FX Replay (backtest) : 100 opérations (toutes à la vente), 88 % de gagnants, 4 ans 7 mois d'historique revus en 22 h"
+1814,assets/tradingview/2025-04/2025-04-22_23h23_msg13177_fn03AU4F.png,13177,2025-04-22T23:23:53,tv,analyse,EURUSD,vente,D1,,,,BLACKMAKER ; rejet de 1.15
+1815,assets/tradingview/2025-04/2025-04-22_23h37_msg13181_fIJWUSe9.png,13181,2025-04-22T23:37:33,tv,analyse,AUDJPY,achat,M,,,,"BLACKMAKER ; bougie mensuelle d'avril, ouverture mensuelle, Major larger quarter 87.5 (règle T4)"
+1816,assets/tradingview/2025-04/2025-04-23_13h51_msg13191_L8SJjPit.png,13191,2025-04-23T13:51:20,tv,trade,EURUSD,vente,M15,1.14165,1.14986,1.12122,BLACKMAKER ; indicateur « EURUSD Weekly Edge Strategy » (triple EMA)
+1817,assets/tradingview/2025-04/2025-04-23_14h13_msg13195_cNOHWQTJ.png,13195,2025-04-23T14:13:13,tv,trade,EURUSD,vente,H1,1.14288,1.15306,1.12245,BLACKMAKER ; Major larger quarter 1.15
+1818,ChatExport_2026-10-01/photos/photo_3091@24-04-2025_20-26-56.jpg,13199,2025-04-24T20:26:56,photo,trade,AUDJPY,achat,H1,90.487,89.609,92.516,"TradingView mobile ; Major larger quarter 92.5, « 1er scénario »"
+1819,assets/tradingview/2025-04/2025-04-29_06h29_msg13209_fnO40zgF.png,13209,2025-04-29T06:29:47,tv,trade,USDCHF,vente,H4,0.82509,0.83339,0.80516,BLACKMAKER ; Major larger quarter 0.825
+1820,assets/tradingview/2025-04/2025-04-29_06h30_msg13211_tT1NGJIs.png,13211,2025-04-29T06:30:52,tv,trade,NZDJPY,vente,H1,84.991,85.498,83.718,BLACKMAKER ; Major whole number 85
+1821,assets/tradingview/2025-04/2025-04-29_06h32_msg13212_vqTt3GQi.png,13212,2025-04-29T06:32:03,tv,analyse,XAUUSD,achat,H4,,,,BLACKMAKER ; projection vers 3 370
+1822,assets/tradingview/2025-04/2025-04-29_06h32_msg13213_WZDjPd60.png,13213,2025-04-29T06:32:10,tv,trade,XAUUSD,achat,M30,3310.075,3271.909,3391.641,BLACKMAKER
+1823,assets/tradingview/2025-04/2025-04-29_14h55_msg13220_Risr3qeL.png,13220,2025-04-29T14:55:08,tv,trade,NZDJPY,vente,M30,85.000,85.507,83.727,BLACKMAKER ; prix 84.41
+1824,ChatExport_2026-10-01/photos/photo_3092@01-05-2025_15-51-22.jpg,13238,2025-05-01T15:51:22,photo,autre,,,,,,,"tableau de bord de backtest : réussite par session (New York 79,8 %, Europe 75,1 %, Asie 70,2 %)"
+1825,ChatExport_2026-10-01/photos/photo_3093@01-05-2025_15-52-45.jpg,13239,2025-05-01T15:52:45,photo,autre,,,,,,,"tableau de bord de backtest : réussite par jour (mercredi 82,5 %, mardi 67,8 %)"
+1826,ChatExport_2026-10-01/photos/photo_3094@07-05-2025_18-46-36.jpg,13251,2025-05-07T18:46:36,photo,trade,GBPUSD,vente,D1,1.33494,1.34417,1.31572,TradingView mobile
+1827,assets/tradingview/2025-05/2025-05-07_19h51_msg13255_dm2RFfh3.png,13255,2025-05-07T19:51:23,tv,trade,EURUSD,vente,D1,1.13475,1.13876,1.12674,"BLACKMAKER ; « mardi établit le high de la semaine, mercredi fait chuter le prix » (règle T2/T3)"
+1828,ChatExport_2026-10-01/photos/photo_3095@08-05-2025_08-51-48.jpg,13257,2025-05-08T08:51:48,photo,trade,EURUSD,vente,H1,1.13475,1.13876,1.12674,TradingView mobile ; prix 1.1289
+1829,assets/tradingview/2025-05/2025-05-08_16h14_msg13258_iH5EGAfJ.png,13258,2025-05-08T16:14:45,tv,resultat,EURUSD,vente,H1,1.13475,1.13876,1.12666,BLACKMAKER ; TP atteint (1.1226)
+1830,assets/tradingview/2025-05/2025-05-08_16h21_msg13261_XPL9l1B7.png,13261,2025-05-08T16:21:48,tv,analyse,DXY,achat,H4,,,,BLACKMAKER ; projection haussière
+1831,assets/tradingview/2025-05/2025-05-08_16h34_msg13264_8rnQUtM3.png,13264,2025-05-08T16:34:21,tv,analyse,NZDJPY,achat,D1,,,,"BLACKMAKER ; Major whole number 85, projection haussière"
+1832,assets/tradingview/2025-05/2025-05-08_16h37_msg13265_vyT5nakN.png,13265,2025-05-08T16:37:44,tv,analyse,AUDJPY,achat,D1,,,,BLACKMAKER ; repli sur Major larger quarter 92.5 puis hausse
+1833,assets/tradingview/2025-05/2025-05-08_16h39_msg13268_445cpQce.png,13268,2025-05-08T16:39:35,tv,analyse,XAUUSD,vente,H4,,,,BLACKMAKER ; projection baissière
+1834,assets/tradingview/2025-05/2025-05-08_16h40_msg13269_HDl7DVyG.png,13269,2025-05-08T16:40:17,tv,analyse,XAUUSD,vente,H4,,,,"BLACKMAKER ; projection baissière, suite"
+1835,ChatExport_2026-10-01/photos/photo_3097@21-05-2025_20-05-40.jpg,13289,2025-05-21T20:05:40,photo,trade,AUDJPY,vente,H4,93.159,93.669,92.071,TradingView mobile ; prix 92.44
+1836,assets/tradingview/2025-05/2025-05-22_15h11_msg13292_T4ktDmL1.png,13292,2025-05-22T15:11:06,tv,analyse,GBPJPY,,D1,,,,BLACKMAKER ; zones 192-194
+1837,assets/tradingview/2025-05/2025-05-22_15h14_msg13295_uypljKPf.png,13295,2025-05-22T15:14:30,tv,analyse,EURJPY,,D1,,,,"BLACKMAKER ; oblique haussière, zone 163.5"
+1838,assets/tradingview/2025-05/2025-05-22_15h16_msg13297_nguj9G1z.png,13297,2025-05-22T15:16:11,tv,analyse,NZDJPY,vente,D1,,,,BLACKMAKER ; projection vers 84.2
+1839,assets/tradingview/2025-05/2025-05-22_15h21_msg13300_3Adrazys.png,13300,2025-05-22T15:21:40,tv,trade,AUDJPY,vente,D1,93.159,93.669,92.071,BLACKMAKER ; TP presque atteint
+1840,assets/tradingview/2025-05/2025-05-22_15h22_msg13302_eomJEms2.png,13302,2025-05-22T15:22:11,tv,analyse,CHFJPY,vente,H4,,,,BLACKMAKER ; projection baissière
+1841,assets/tradingview/2025-05/2025-05-22_15h22_msg13303_XyG5NHk3.png,13303,2025-05-22T15:22:39,tv,analyse,CHFJPY,vente,D1,,,,BLACKMAKER ; cassure de l'oblique
+1842,ChatExport_2026-10-01/photos/photo_3099@28-05-2025_00-32-00.jpg,13327,2025-05-28T00:32:00,photo,analyse,USDJPY,,D1,,,,flashcard « Naruto » (Minato) : probabilités de rupture de l'englobante USDJPY
+1843,ChatExport_2026-10-01/photos/photo_3100@28-05-2025_00-35-43.jpg,13328,2025-05-28T00:35:43,photo,analyse,USDJPY,achat,H4,,,,TradingView mobile ; projection haussière
+1844,ChatExport_2026-10-01/photos/photo_3101@28-05-2025_15-24-24.jpg,13336,2025-05-28T15:24:24,photo,analyse,USDJPY,achat,D1,,,,TradingView mobile ; projection haussière
+1845,assets/tradingview/2025-05/2025-05-28_23h40_msg13339_8GqqszNc.png,13339,2025-05-28T23:40:59,tv,analyse,EURNZD,vente,D1,,,,BLACKMAKER ; « on a anticipé cette baisse »
+1846,ChatExport_2026-10-01/photos/photo_3102@28-05-2025_23-41-49.jpg,13340,2025-05-28T23:41:49,photo,analyse,EURNZD,,D1,,,,flashcard « Naruto » (Sakura) : probabilités de rupture EURNZD
+1847,ChatExport_2026-10-01/photos/photo_3103@29-05-2025_21-44-57.jpg,13342,2025-05-29T21:44:57,photo,analyse,USDCAD,,M30,,,,TradingView mobile ; plus bas à 1.3790
+1848,ChatExport_2026-10-01/photos/photo_3104@29-05-2025_21-45-24.jpg,13343,2025-05-29T21:45:24,photo,analyse,USDCAD,,D1,,,,flashcard « Naruto » (Pain) : probabilités de rupture USDCAD
+1849,assets/tradingview/2025-05/2025-05-30_01h49_msg13346_USOZ3bRZ.png,13346,2025-05-30T01:49:29,tv,trade,XAUUSD,achat,H4,3293.762,3273.236,3334.815,BLACKMAKER
+1850,ChatExport_2026-10-01/photos/photo_3105@30-05-2025_12-32-54.jpg,13349,2025-05-30T12:32:54,photo,trade,USDCAD,vente,H1,1.38347,1.38577,1.37830,TradingView mobile ; prix 1.3796
+1851,ChatExport_2026-10-01/photos/photo_3106@30-05-2025_14-33-39.jpg,13350,2025-05-30T14:33:39,photo,resultat,USDCAD,vente,H1,1.38347,1.38577,1.37830,TradingView mobile ; TP atteint (1.3772)
+1852,ChatExport_2026-10-01/photos/photo_3107@02-06-2025_14-41-53.jpg,13351,2025-06-02T14:41:53,photo,resultat,USDCAD,vente,H1,1.38347,1.38577,1.37845,"TradingView mobile ; TP atteint, prix 1.3696"
+1853,ChatExport_2026-10-01/photos/photo_3108@02-06-2025_14-46-08.jpg,13353,2025-06-02T14:46:08,photo,resultat,XAUUSD,achat,H4,3293.763,3273.236,3378.452,TradingView mobile ; TP atteint (3 376)
+1854,ChatExport_2026-10-01/photos/photo_3111@10-06-2025_22-05-19.jpg,13370,2025-06-10T22:05:19,photo,autre,,,,,,,"tableau des composantes de l'inflation américaine (énergie, alimentation, logement…)"
+1855,ChatExport_2026-10-01/photos/photo_3112@11-06-2025_15-56-23.jpg,13387,2025-06-11T15:56:23,photo,analyse,GBPJPY,,D1,,,,"flashcard « Naruto » (Naruto) : probabilités de rupture GBPJPY, avec FVG"
