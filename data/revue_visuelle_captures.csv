@@ -2143,3 +2143,99 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 2141,ChatExport_2026-10-01/photos/photo_3521@14-07-2026_14-10-29.jpg,15112,2026-07-14T14:10:29,photo,resultat,AUDJPY,achat,M30,112.489,112.181,113.121,TradingView mobile ; TP atteint
 2142,ChatExport_2026-10-01/photos/photo_3522@14-07-2026_15-42-44.jpg,15116,2026-07-14T15:42:44,photo,resultat,GBPUSD,vente,H1,1.34134,1.34400,,"MT5 sell 4, +1 036 $ flottant"
 2143,ChatExport_2026-10-01/photos/photo_3523@14-07-2026_17-24-48.jpg,15118,2026-07-14T17:24:48,photo,trade,GBPUSD,vente,M30,1.34140,1.34390,1.33629,"TradingView mobile ; prix 1.3373, proche du TP"
+2144,ChatExport_2026-10-01/photos/photo_3524@14-07-2026_17-26-07.jpg,15119,2026-07-14T17:26:07,photo,resultat,GBPUSD,vente,H1,1.34134,1.34100,,"MT5 sell 4, +1 668 $ flottant ; stop sous l'entrée"
+2145,ChatExport_2026-10-01/photos/photo_3525@16-07-2026_16-53-09.jpg,15125,2026-07-16T16:53:09,photo,resultat,,,,,,,"petit compte (dépôt 921 $, juillet 2026) : 7 trades, +334 $ ; une perte EURCAD −70 $ ; retrait de 200 $ en USDT"
+2146,ChatExport_2026-10-01/photos/photo_3526@16-07-2026_16-56-23.jpg,15128,2026-07-16T16:56:23,photo,resultat,EURUSD,vente,,1.14539,,1.14363,"petit compte : EURUSD sell 0.18, +32 $"
+2147,ChatExport_2026-10-01/photos/photo_3527@21-07-2026_01-13-13.jpg,15131,2026-07-21T01:13:13,photo,trade,EURNZD,vente,M5,,,,"MT5, prix 1.9470"
+2148,ChatExport_2026-10-01/photos/photo_3528@21-07-2026_01-16-53.jpg,15133,2026-07-21T01:16:53,photo,resultat,,,,,,,"petit compte : 9 trades, +582 $ ; perte EURCAD −70 $ ; solde 49 $ après retrait et crédit retiré"
+2149,assets/tradingview/2026-07/2026-07-21_04h10_msg15138_9fZDznmI.png,15138,2026-07-21T04:10:02,tv,trade,EURNZD,vente,H1,1.95005,1.95314,1.94383,BLACKMAKER ; Major whole number 1.95
+2150,ChatExport_2026-10-01/photos/photo_3534@24-07-2026_10-22-09.jpg,15164,2026-07-24T10:22:09,photo,trade,EURAUD,vente,H4,1.63119,1.63415,1.62259,TradingView mobile ; prix 1.6287
+2151,assets/tradingview/2026-07/2026-07-24_17h00_msg15165_TdBA8WL4.png,15165,2026-07-24T17:00:58,tv,analyse,AUDUSD,vente,H1,,,,"BLACKMAKER ; rejet de 0.70, projection baissière"
+2152,assets/tradingview/2026-07/2026-07-28_08h54_msg15175_BLmsTlYT.png,15175,2026-07-28T08:54:11,tv,trade,EURNOK,achat,H4,10.98381,10.93368,11.08725,BLACKMAKER
+2153,ChatExport_2026-10-01/photos/photo_3536@28-07-2026_08-54-12.jpg,15176,2026-07-28T08:54:12,photo,trade,EURNOK,achat,H1,10.98381,10.93368,11.08725,TradingView mobile ; prix 11.028
+2154,ChatExport_2026-10-01/photos/photo_3537@29-07-2026_15-25-37.jpg,15180,2026-07-29T15:25:37,photo,analyse,AUDUSD,vente,H4,,,,TradingView mobile ; rejet de 0.70
+2155,ChatExport_2026-10-01/photos/photo_3540@07-08-2026_13-02-22.jpg,15194,2026-08-07T13:02:22,photo,trade,EURUSD,vente,M5,1.15736,1.15887,1.15261,TradingView mobile
+2156,ChatExport_2026-10-01/photos/photo_3541@12-08-2026_10-10-46.jpg,15197,2026-08-12T10:10:46,photo,trade,AUDNZD,achat,H1,1.20002,1.19748,1.20528,TradingView mobile ; Major whole number 1.20
+2157,ChatExport_2026-10-01/photos/photo_3542@12-08-2026_10-10-46.jpg,15198,2026-08-12T10:10:46,photo,trade,AUDNZD,achat,M30,1.20002,1.19748,1.20528,TradingView mobile ; prix 1.2016
+2158,ChatExport_2026-10-01/photos/photo_3543@12-08-2026_10-10-46.jpg,15199,2026-08-12T10:10:46,photo,resultat,AUDNZD,achat,M30,1.20005,1.19751,1.20531,TradingView mobile ; TP atteint
+2159,assets/tradingview/2026-08/2026-08-12_13h48_msg15210_EzeBD1Bc.png,15210,2026-08-12T13:48:32,tv,trade,GBPAUD,vente,H1,1.91201,1.91449,1.90683,BLACKMAKER
+2160,ChatExport_2026-10-01/photos/photo_3544@12-08-2026_16-51-28.jpg,15212,2026-08-12T16:51:28,photo,analyse,USDJPY,achat,H1,,,,TradingView mobile ; projection vers 160
+2161,ChatExport_2026-10-01/photos/photo_3545@17-08-2026_10-15-01.jpg,15214,2026-08-17T10:15:01,photo,resultat,AUDJPY,achat,M30,112.828,112.627,113.430,TradingView mobile ; TP atteint
+2162,ChatExport_2026-10-01/photos/photo_3546@17-08-2026_10-15-30.jpg,15215,2026-08-17T10:15:30,photo,resultat,AUDJPY,achat,M5,112.855,113.090,,"MT5 buy 7.9, +2 804 $ flottant ; stop au-dessus de l'entrée"
+2163,ChatExport_2026-10-01/photos/photo_3547@17-08-2026_11-34-22.jpg,15221,2026-08-17T11:34:22,photo,analyse,GBPAUD,vente,H4,,,,TradingView mobile ; chute dans la zone 1.905
+2164,ChatExport_2026-10-01/photos/photo_3548@17-08-2026_15-57-08.jpg,15227,2026-08-17T15:57:08,photo,analyse,EURUSD,achat,D1,,,,TradingView mobile ; hausse à 1.159
+2165,ChatExport_2026-10-01/photos/photo_3549@20-08-2026_14-51-00.jpg,15235,2026-08-20T14:51:00,photo,trade,GBPAUD,achat,H1,1.91279,1.90925,1.91947,TradingView mobile ; TP touché puis retour à 1.9139
+2166,ChatExport_2026-10-01/photos/photo_3550@20-08-2026_14-51-22.jpg,15236,2026-08-20T14:51:22,photo,resultat,GBPAUD,achat,M5,1.91286,,,"MT5 buy 4.1, +369 $ flottant"
+2167,assets/tradingview/2026-08/2026-08-26_06h24_msg15244_uxBPIjmg.png,15244,2026-08-26T06:24:38,tv,analyse,GBPAUD,vente,H4,,,,BLACKMAKER ; projection vers 1.90
+2168,assets/tradingview/2026-08/2026-08-26_06h24_msg15245_ncFQOGQD.png,15245,2026-08-26T06:24:52,tv,analyse,EURAUD,vente,H4,,,,BLACKMAKER ; projection vers 1.625
+2169,ChatExport_2026-10-01/photos/photo_3553@26-08-2026_06-28-03.jpg,15248,2026-08-26T06:28:03,photo,analyse,GBPAUD,vente,H4,,,,TradingView mobile ; cassure sous 1.90
+2170,ChatExport_2026-10-01/photos/photo_3554@26-08-2026_06-28-03.jpg,15249,2026-08-26T06:28:03,photo,analyse,EURAUD,vente,H4,,,,TradingView mobile ; projection atteinte (1.6243)
+2171,assets/tradingview/2026-08/2026-08-26_06h28_msg15250_m5WcLgLS.png,15250,2026-08-26T06:28:41,tv,trade,AUDNZD,achat,H4,1.20001,1.19695,1.20611,BLACKMAKER ; Major whole number 1.20
+2172,ChatExport_2026-10-01/photos/photo_3555@26-08-2026_06-28-41.jpg,15251,2026-08-26T06:28:41,photo,trade,AUDNZD,achat,H1,1.20011,1.19654,1.20749,"TradingView mobile ; prix 1.2075, TP presque atteint"
+2173,assets/tradingview/2026-09/2026-09-01_10h06_msg15271_ZdyH7sGq.png,15271,2026-09-01T10:06:20,tv,analyse,EURUSD,,D1,,,,BLACKMAKER ; bougies de septembre
+2174,ChatExport_2026-10-01/photos/photo_3558@01-09-2026_10-07-38.jpg,15273,2026-09-01T10:07:38,photo,analyse,EURUSD,,D1,,,,TradingView mobile ; même analyse
+2175,ChatExport_2026-10-01/photos/photo_3559@01-09-2026_10-09-57.jpg,15276,2026-09-01T10:09:57,photo,analyse,NZDUSD,vente,D1,,,,TradingView mobile ; projection baissière
+2176,ChatExport_2026-10-01/photos/photo_3560@01-09-2026_10-10-21.jpg,15277,2026-09-01T10:10:21,photo,analyse,EURNZD,achat,H1,,,,TradingView mobile ; projection haussière
+2177,ChatExport_2026-10-01/photos/photo_3561@01-09-2026_10-10-54.jpg,15278,2026-09-01T10:10:54,photo,analyse,EURAUD,vente,H1,,,,TradingView mobile ; retour vers 1.625 puis baisse
+2178,ChatExport_2026-10-01/photos/photo_3563@01-09-2026_14-03-57.jpg,15280,2026-09-01T14:03:57,photo,trade,EURUSD,vente,H1,1.16110,1.16262,1.15726,TradingView mobile
+2179,ChatExport_2026-10-01/photos/photo_3565@01-09-2026_17-15-47.jpg,15282,2026-09-01T17:15:47,photo,trade,EURUSD,vente,H1,1.16102,1.16252,1.15772,TradingView mobile ; prix 1.1589
+2180,assets/tradingview/2026-09/2026-09-02_12h29_msg15286_1DGTtL1w.png,15286,2026-09-02T12:29:39,tv,trade,EURAUD,vente,H4,1.62500,1.63003,1.61470,BLACKMAKER ; Major larger quarter 1.625
+2181,ChatExport_2026-10-01/photos/photo_3567@02-09-2026_12-30-20.jpg,15287,2026-09-02T12:30:20,photo,trade,EURAUD,vente,H1,1.62501,1.63004,1.61483,TradingView mobile ; prix 1.6197
+2182,assets/tradingview/2026-09/2026-09-02_13h49_msg15292_6UMGn5oC.png,15292,2026-09-02T13:49:41,tv,trade,EURAUD,vente,H1,1.62492,1.62993,1.61474,BLACKMAKER ; prix 1.6177
+2183,assets/tradingview/2026-09/2026-09-03_18h01_msg15304_LyCO82W1.png,15304,2026-09-03T18:01:35,tv,trade,EURNZD,achat,M15,1.97502,1.97098,1.98347,BLACKMAKER ; Major larger quarter 1.975
+2184,ChatExport_2026-10-01/photos/photo_3571@08-09-2026_09-54-54.jpg,15315,2026-09-08T09:54:54,photo,resultat,EURNZD,achat,H4,1.97500,1.97000,1.98510,TradingView mobile ; TP atteint
+2185,ChatExport_2026-10-01/photos/photo_3572@10-09-2026_11-22-06.jpg,15330,2026-09-10T11:22:06,photo,autre,,,,,,,petit compte : dépôt de 100 $ en USDT et 20 $ de crédit (bonus)
+2186,ChatExport_2026-10-01/photos/photo_3573@10-09-2026_11-27-07.jpg,15332,2026-09-10T11:27:07,photo,trade,EURUSD,vente,H1,1.16300,1.16450,1.15670,petit compte : EURUSD sell limit 0.54
+2187,ChatExport_2026-10-01/photos/photo_3574@10-09-2026_12-10-49.jpg,15334,2026-09-10T12:10:49,photo,trade,EURUSD,vente,H1,1.16300,1.16451,1.15669,TradingView mobile ; prix 1.1616
+2188,ChatExport_2026-10-01/photos/photo_3575@10-09-2026_12-40-02.jpg,15337,2026-09-10T12:40:02,photo,resultat,EURUSD,vente,M5,1.16142,,,"MT5 sell 0.2, +39 $ flottant"
+2189,ChatExport_2026-10-01/photos/photo_3577@10-09-2026_20-06-06.jpg,15339,2026-09-10T20:06:06,photo,trade,EURUSD,vente,H1,1.16299,1.16449,1.15843,TradingView mobile ; prix 1.1610
+2190,ChatExport_2026-10-01/photos/photo_3578@11-09-2026_10-41-22.jpg,15340,2026-09-11T10:41:22,photo,trade,EURUSD,vente,H1,1.16299,1.16449,1.15843,TradingView mobile ; prix 1.1591
+2191,ChatExport_2026-10-01/photos/photo_3579@11-09-2026_12-37-36.jpg,15343,2026-09-11T12:37:36,photo,resultat,EURUSD,vente,H1,1.16299,1.16449,1.15843,"TradingView mobile ; prix 1.1587, proche du TP"
+2192,assets/tradingview/2026-09/2026-09-16_12h24_msg15363_KZJSeRJz.png,15363,2026-09-16T12:24:12,tv,trade,USDJPY,achat,M30,154.998,154.690,155.672,BLACKMAKER ; deux scénarios (155.0 et 154.61)
+2193,assets/tradingview/2026-09/2026-09-16_13h16_msg15365_FdtOFBc9.png,15365,2026-09-16T13:16:12,tv,trade,USDJPY,achat,M30,154.998,154.690,155.672,BLACKMAKER ; prix 155.20
+2194,ChatExport_2026-10-01/photos/photo_3583@16-09-2026_18-19-32.jpg,15371,2026-09-16T18:19:32,photo,resultat,USDJPY,achat,,155.293,,155.553,"USDJPY buy 3.8, +635 $ flottant"
+2195,ChatExport_2026-10-01/photos/photo_3584@16-09-2026_18-19-57.jpg,15372,2026-09-16T18:19:57,photo,resultat,USDJPY,achat,M5,155.293,155.270,,"MT5 buy 3.8, +508 $ flottant"
+2196,ChatExport_2026-10-01/photos/photo_3585@16-09-2026_19-08-08.jpg,15374,2026-09-16T19:08:08,photo,resultat,EURGBP,vente,,0.85678,,0.85741,"historique (16/09/2026) : EURGBP sell 1.86 −158 $ (perte), USDJPY +68 $ et +1 433 $ ; total +1 344 $"
+2197,assets/tradingview/2026-09/2026-09-16_23h28_msg15381_eiKejJIx.png,15381,2026-09-16T23:28:44,tv,trade,EURUSD,vente,H4,1.15000,1.15250,1.14474,BLACKMAKER ; Major whole number 1.15
+2198,assets/tradingview/2026-09/2026-09-17_10h54_msg15388_rewastuP.png,15388,2026-09-17T10:54:39,tv,analyse,EURGBP,vente,D1,,,,BLACKMAKER ; projection baissière
+2199,ChatExport_2026-10-01/photos/photo_3586@17-09-2026_11-35-14.jpg,15392,2026-09-17T11:35:14,photo,resultat,EURGBP,vente,M1,0.85857,,,"MT5 sell 10.37, +541 $ flottant"
+2200,ChatExport_2026-10-01/photos/photo_3587@17-09-2026_11-42-24.jpg,15393,2026-09-17T11:42:24,photo,resultat,EURGBP,vente,M1,0.85857,0.85850,,"MT5 sell 10.37, +1 026 $ flottant ; stop sous l'entrée"
+2201,ChatExport_2026-10-01/photos/photo_3588@17-09-2026_16-29-15.jpg,15395,2026-09-17T16:29:15,photo,trade,EURUSD,vente,H1,1.14999,1.15250,1.14474,TradingView mobile ; prix 1.1477
+2202,assets/tradingview/2026-09/2026-09-17_16h49_msg15396_XleNC655.png,15396,2026-09-17T16:49:28,tv,analyse,NZDUSD,vente,H4,,,,BLACKMAKER ; rejet de 0.575
+2203,ChatExport_2026-10-01/photos/photo_3589@17-09-2026_16-50-07.jpg,15397,2026-09-17T16:50:07,photo,analyse,NZDUSD,vente,H1,,,,TradingView mobile ; rejet de 0.575
+2204,assets/tradingview/2026-09/2026-09-18_02h48_msg15403_EI3jKk9S.png,15403,2026-09-18T02:48:17,tv,trade,NZDJPY,achat,M30,89.248,88.985,89.993,"BLACKMAKER ; Wyckoff (ps, scx, ar, stb, test)"
+2205,assets/tradingview/2026-09/2026-09-18_02h51_msg15408_p3b5qzUz.png,15408,2026-09-18T02:51:48,tv,trade,GBPAUD,vente,M30,1.87806,1.88017,1.87340,BLACKMAKER
+2206,assets/tradingview/2026-09/2026-09-18_02h57_msg15413_AMtzCSjN.png,15413,2026-09-18T02:57:49,tv,trade,AUDJPY,achat,M30,111.055,110.799,111.615,BLACKMAKER
+2207,assets/tradingview/2026-09/2026-09-21_19h10_msg15432_j7lpxiiC.png,15432,2026-09-21T19:10:44,tv,analyse,NZDJPY,achat,H1,,,,"BLACKMAKER ; Wyckoff (ps, scx, ar, stb, test, lps), prix sur 90"
+2208,ChatExport_2026-10-01/photos/photo_3592@21-09-2026_22-55-38.jpg,15438,2026-09-21T22:55:38,photo,trade,EURGBP,vente,H1,0.85812,0.85962,0.85509,TradingView mobile
+2209,ChatExport_2026-10-01/photos/photo_3593@22-09-2026_10-58-18.jpg,15440,2026-09-22T10:58:18,photo,trade,EURGBP,vente,H4,0.85814,0.85964,0.85511,TradingView mobile ; prix 0.8582
+2210,ChatExport_2026-10-01/photos/photo_3594@22-09-2026_12-28-53.jpg,15441,2026-09-22T12:28:53,photo,resultat,EURGBP,vente,M1,0.85813,,,"MT5 sell 2.2, +165 $ flottant"
+2211,ChatExport_2026-10-01/photos/photo_3595@22-09-2026_14-35-04.jpg,15443,2026-09-22T14:35:04,photo,trade,EURGBP,vente,H1,0.85814,0.85964,0.85505,TradingView mobile ; prix 0.8573
+2212,ChatExport_2026-10-01/photos/photo_3597@23-09-2026_09-26-26.jpg,15445,2026-09-23T09:26:26,photo,analyse,EURUSD,vente,M,,,,"TradingView mobile ; « 1re semaine de septembre », plus haut à 1.16507 (règle de la semaine 1 d'Amirou)"
+2213,ChatExport_2026-10-01/photos/photo_3602@29-09-2026_04-39-25.jpg,15460,2026-09-29T04:39:25,photo,trade,AUDUSD,vente,M5,0.70140,0.70340,0.69735,TradingView mobile
+2214,ChatExport_2026-10-01/photos/photo_3603@29-09-2026_06-44-10.jpg,15461,2026-09-29T06:44:10,photo,trade,AUDUSD,vente,M5,0.70140,0.70340,0.69735,TradingView mobile ; prix 0.6994
+2215,ChatExport_2026-10-01/photos/photo_3604@29-09-2026_06-48-08.jpg,15462,2026-09-29T06:48:08,photo,trade,GBPAUD,achat,M30,1.88636,1.88306,1.89298,TradingView mobile
+2216,ChatExport_2026-10-01/photos/photo_3605@29-09-2026_06-48-08.jpg,15463,2026-09-29T06:48:08,photo,resultat,GBPAUD,achat,M15,1.88636,1.88306,1.89298,TradingView mobile ; TP atteint (1.8932)
+2217,ChatExport_2026-10-01/photos/photo_3606@29-09-2026_14-14-17.jpg,15465,2026-09-29T14:14:17,photo,resultat,AUDUSD,vente,M5,0.70080,,,"MT5 : deux ventes AUDUSD (0.70080 et 0.70003), en gain"
+2218,assets/tradingview/2026-09/2026-09-29_15h22_msg15466_AuLy2YiP.png,15466,2026-09-29T15:22:34,tv,trade,AUDUSD,vente,H1,0.70140,0.70340,0.69738,"BLACKMAKER ; deux positions, prix 0.6976"
+2219,assets/tradingview/2026-09/2026-09-29_16h13_msg15474_g60N4wkH.png,15474,2026-09-29T16:13:41,tv,analyse,US30,vente,W1,,,,"BLACKMAKER ; Dow Jones, « ce mouvement a l'air inévitable », projection vers 50 000"
+2220,ChatExport_2026-10-01/photos/photo_3609@30-09-2026_04-31-49.jpg,15481,2026-09-30T04:31:49,photo,trade,USDJPY,vente,H4,157.511,157.869,156.459,TradingView mobile ; Major larger quarter 157.5
+2221,ChatExport_2026-10-01/photos/photo_3610@30-09-2026_04-31-49.jpg,15482,2026-09-30T04:31:49,photo,resultat,USDJPY,vente,H1,157.511,157.869,156.459,TradingView mobile ; TP presque atteint (156.5)
+2222,ChatExport_2026-10-01/photos/photo_3611@30-09-2026_07-59-17.jpg,15483,2026-09-30T07:59:17,photo,analyse,GBPJPY,,H4,,,,TradingView mobile ; range 207.5-210.02
+2223,ChatExport_2026-10-01/photos/photo_3612@30-09-2026_09-52-58.jpg,15484,2026-09-30T09:52:58,photo,resultat,EURGBP,vente,H4,0.85855,0.86028,0.85506,TradingView mobile ; TP presque atteint (0.8552)
+2224,ChatExport_2026-10-01/photos/photo_3613@30-09-2026_11-43-00.jpg,15489,2026-09-30T11:43:00,photo,analyse,GBPJPY,achat,H4,,,,TradingView mobile ; rebond sur 207.5
+2225,ChatExport_2026-10-01/photos/photo_3614@30-09-2026_16-20-30.jpg,15490,2026-09-30T16:20:30,photo,trade,AUDUSD,vente,H4,0.69980,0.70230,0.69480,TradingView mobile ; Major whole number 0.70
+2226,ChatExport_2026-10-01/photos/photo_3615@30-09-2026_16-20-30.jpg,15491,2026-09-30T16:20:30,photo,trade,USDJPY,achat,M30,157.010,156.652,157.755,TradingView mobile
+2227,assets/tradingview/2026-09/2026-09-30_16h20_msg15492_W0Tqm9yy.png,15492,2026-09-30T16:20:30,tv,trade,USDJPY,achat,M30,157.012,156.654,157.691,BLACKMAKER ; prix 157.14
+2228,ChatExport_2026-10-01/photos/photo_3616@30-09-2026_16-20-30.jpg,15493,2026-09-30T16:20:30,photo,trade,AUDUSD,vente,H1,0.69980,0.70230,0.69480,"TradingView mobile ; prix 0.6949, TP presque atteint"
+2229,assets/tradingview/2026-10/2026-10-01_00h47_msg15506_4RTzsjXN.png,15506,2026-10-01T00:47:35,tv,analyse,GBPJPY,achat,H4,,,,BLACKMAKER ; rebond vers 210.02
+2230,ChatExport_2026-10-01/photos/photo_3624@01-10-2026_00-54-59.jpg,15509,2026-10-01T00:54:59,photo,analyse,US30,vente,D1,,,,"TradingView mobile ; Dow Jones, cassure sous 51 165, projection vers 50 000"
+2231,ChatExport_2026-10-01/photos/photo_3625@01-10-2026_08-32-58.jpg,15511,2026-10-01T08:32:58,photo,analyse,US30,vente,H4,,,,"TradingView mobile ; Dow Jones, prix 50 677"
+2232,ChatExport_2026-10-01/photos/photo_3626@01-10-2026_08-37-08.jpg,15512,2026-10-01T08:37:08,photo,trade,US30,vente,M15,,,,"MT5, Dow Jones, chute à 50 778"
+2233,assets/tradingview/2026-10/2026-10-01_11h19_msg15514_KdrI1brM.png,15514,2026-10-01T11:19:36,tv,trade,EURCHF,vente,H4,0.944650,0.946150,0.940029,BLACKMAKER
+2234,assets/tradingview/2026-10/2026-10-01_11h25_msg15518_mcb7yR1P.png,15518,2026-10-01T11:25:37,tv,trade,EURCHF,vente,H4,0.942984,0.945492,0.937968,BLACKMAKER ; deux positions (0.94298 et 0.94465)
+2235,assets/tradingview/2026-10/2026-10-01_12h25_msg15521_roKvQfOt.png,15521,2026-10-01T12:25:08,tv,trade,EURCHF,vente,H1,0.942984,0.945492,0.937036,BLACKMAKER ; deux positions
+2236,ChatExport_2026-10-01/photos/photo_3627@01-10-2026_14-22-01.jpg,15523,2026-10-01T14:22:01,photo,resultat,EURCHF,vente,H1,0.942984,0.945492,0.937026,"TradingView mobile ; prix 0.9392, proche du TP"
+2237,assets/tradingview/2026-10/2026-10-01_16h13_msg15527_1Ume8dId.png,15527,2026-10-01T16:13:44,tv,resultat,EURCHF,vente,H1,0.942984,0.945492,0.937026,BLACKMAKER ; TP atteint (chute à 0.9331)
+2238,assets/tradingview/2026-10/2026-10-01_16h21_msg15528_krIBSfk6.png,15528,2026-10-01T16:21:14,tv,trade,EURAUD,vente,H1,1.62505,1.62912,1.61561,BLACKMAKER ; Major larger quarter 1.625
+2239,assets/tradingview/2026-10/2026-10-01_16h35_msg15531_CYM4U3HJ.png,15531,2026-10-01T16:35:43,tv,trade,EURAUD,vente,H1,1.62505,1.62912,1.61561,BLACKMAKER ; prix 1.6229
