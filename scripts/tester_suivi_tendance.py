@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Suivi de tendance « cassure du plus haut ou du plus bas de la veille dans le sens des 5 derniers jours », mis en
-règles à partir des trades de juin 2026 de l'utilisateur, avec des objectifs de 1 R (et 2 R, 3 R pour comparer).
+Suivi de tendance « cassure du plus haut ou du plus bas de la veille dans le sens des 5 derniers jours », avec des
+objectifs de 1 R (et 2 R, 3 R pour comparer).
 
 Règle (vente ; l'achat est symétrique) :
 - tendance : clôture de J-1 inférieure d'au moins 1 ATR(14) journalier à la clôture de J-6 (variante : 2 ATR) ;

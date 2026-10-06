@@ -26,14 +26,14 @@
 - **Mais pas avant 2020** : sur 2012-2019, la même règle perd (−0,09 à −0,05 R) et fait moins bien que les niveaux décalés. L'avantage n'existe donc que sur une partie de l'histoire : c'est pourquoi la règle est suivie en démo avant d'y croire ([`SUIVI_DEMO.md`](SUIVI_DEMO.md)).
 - **1 R contre 2 R** : 1 R fait gagner plus souvent (55-58 % de trades gagnants en horaire), mais rapporte moins par trade (+0,11 contre +0,15 R à l'achat). Les ventes sont faibles quel que soit l'objectif.
 
-## 2. Votre suivi de tendance
+## 2. Suivi de tendance par cassure
 
-**Règle**, tirée de vos trades de juin 2026 (vente ; l'achat est symétrique) :
+**Règle** (vente ; l'achat est symétrique) :
 - **tendance** : la clôture de la veille est au moins 1 ATR(14) journalier sous celle d'il y a 5 jours (variante : 2 ATR) ;
 - **déclencheur**, entre 07h et 17h UTC :
   - « **cassure** » : vente 1 pip sous le plus bas de la veille ;
-  - « **faux dépassement** » : le prix passe au-dessus du plus haut de la veille, puis une bougie 1h clôture de nouveau en dessous : vente à cette clôture (votre GBPUSD du 22/06) ;
-- **stop** à 0,25 ATR de l'entrée, soit 20 pips en médiane, comme vos stops (variante : 0,5 ATR, 39 pips) ;
+  - « **faux dépassement** » : le prix passe au-dessus du plus haut de la veille, puis une bougie 1h clôture de nouveau en dessous : vente à cette clôture ;
+- **stop** à 0,25 ATR de l'entrée, soit 20 pips en médiane (variante : 0,5 ATR, 39 pips) ;
 - **objectif 1 R** (2 R et 3 R pour comparer) ;
 - **sortie à 20h UTC** si rien n'est touché, avant le rollover (variante : 20h le lendemain) ;
 - spread déduit ; un trade par paire et par jour.
@@ -58,5 +58,5 @@
 ## Ce qu'il faut retenir
 
 1. **L'englobante sur un MLQ (achats) reste la seule piste positive**, depuis 2020 seulement. Avec un objectif de 2 R, elle fait mieux qu'avec 1 R.
-2. **Votre suivi de tendance de juin, mis en règles, ne gagne pas** : c'est un pile ou face avant frais, et le spread le rend perdant, surtout avec des stops de 20 pips et des objectifs de 1 R. Vos bons départs de juin tiennent à la période (forte baisse de la livre et du dollar néo-zélandais), pas à un avantage de la méthode.
-3. Si vous gardez cette approche : stops plus larges (au moins 0,5 ATR), paires à faible spread (EURUSD, USDJPY, EURJPY), et jamais à contre-tendance.
+2. **Le suivi de tendance par cassure ne gagne pas** : c'est un pile ou face avant frais, et le spread le rend perdant, surtout avec des stops de 20 pips et des objectifs de 1 R. De bons résultats sur quelques semaines tiennent à la période, pas à un avantage de la méthode.
+3. Pour qui garde cette approche : stops plus larges (au moins 0,5 ATR), paires à faible spread (EURUSD, USDJPY, EURJPY), et jamais à contre-tendance.
