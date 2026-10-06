@@ -2023,3 +2023,75 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 2021,ChatExport_2026-10-01/photos/photo_3354@06-03-2026_13-57-34.jpg,14525,2026-03-06T13:57:34,photo,analyse,AUDUSD,vente,H1,,,,TradingView mobile ; projection vers 0.69448
 2022,assets/tradingview/2026-03/2026-03-08_23h40_msg14532_wgSp6XSJ.png,14532,2026-03-08T23:40:37,tv,analyse,AUDCAD,vente,D1,,,,BLACKMAKER ; objectif 0.95 atteint
 2023,assets/tradingview/2026-03/2026-03-08_23h54_msg14536_pq2m3VRl.png,14536,2026-03-08T23:54:29,tv,analyse,EURUSD,vente,H4,,,,"BLACKMAKER ; projection baissière (crise d'Ormuz, mars 2026)"
+2024,ChatExport_2026-10-01/photos/photo_3356@09-03-2026_09-38-09.jpg,14542,2026-03-09T09:38:09,photo,trade,GBPJPY,achat,H1,210.985,210.578,211.797,TradingView mobile ; prix 211.48
+2025,assets/tradingview/2026-03/2026-03-09_13h09_msg14545_MHQWIdLg.png,14545,2026-03-09T13:09:15,tv,resultat,GBPJPY,achat,M30,210.988,210.578,211.809,BLACKMAKER ; TP atteint
+2026,assets/tradingview/2026-03/2026-03-17_16h32_msg14569_8YxfjvHf.png,14569,2026-03-17T16:32:34,tv,analyse,XAUUSD,achat,H1,,,,BLACKMAKER ; zone « 85 % de chance de réaction du PA » (chiffre non sourcé)
+2027,ChatExport_2026-10-01/photos/photo_3361@17-03-2026_16-32-48.jpg,14570,2026-03-17T16:32:48,photo,analyse,XAUUSD,achat,H4,,,,TradingView mobile ; zone « 85 % » atteinte
+2028,ChatExport_2026-10-01/photos/photo_3363@18-03-2026_13-06-26.jpg,14582,2026-03-18T13:06:26,photo,analyse,DXY,,D1,,,,TradingView mobile ; niveau 100
+2029,ChatExport_2026-10-01/photos/photo_3364@18-03-2026_13-50-33.jpg,14586,2026-03-18T13:50:33,photo,analyse,USOIL,,M30,,,,TradingView mobile ; pétrole en hausse à 98.8 (crise d'Ormuz)
+2030,ChatExport_2026-10-01/photos/photo_3365@18-03-2026_13-54-54.jpg,14588,2026-03-18T13:54:54,photo,trade,USDJPY,achat,M5,158.990,,,"MT5 buy 4.5, prix 159.50"
+2031,ChatExport_2026-10-01/photos/photo_3366@18-03-2026_18-52-11.jpg,14597,2026-03-18T18:52:11,photo,trade,EURUSD,vente,H1,1.15300,1.15704,1.14121,TradingView mobile
+2032,assets/tradingview/2026-03/2026-03-19_10h04_msg14603_F7Bv40Rp.png,14603,2026-03-19T10:04:08,tv,analyse,AUDJPY,vente,H1,,,,BLACKMAKER ; projection vers 110.013
+2033,ChatExport_2026-10-01/photos/photo_3368@19-03-2026_10-05-05.jpg,14606,2026-03-19T10:05:05,photo,analyse,AUDJPY,vente,H1,,,,TradingView mobile ; projection vers 110.013
+2034,ChatExport_2026-10-01/photos/photo_3370@31-03-2026_14-30-52.jpg,14629,2026-03-31T14:30:52,photo,analyse,USDJPY,vente,H4,,,,TradingView mobile ; rejet de 160
+2035,ChatExport_2026-10-01/photos/photo_3371@01-04-2026_09-10-04.jpg,14631,2026-04-01T09:10:04,photo,analyse,GBPUSD,,D1,,,,TradingView mobile ; zone 1.335-1.345
+2036,ChatExport_2026-10-01/photos/photo_3372@02-04-2026_02-38-07.jpg,14634,2026-04-02T02:38:07,photo,analyse,DXY,,D1,,,,TradingView mobile ; niveau 99.42
+2037,ChatExport_2026-10-01/photos/photo_3373@02-04-2026_02-47-49.jpg,14635,2026-04-02T02:47:49,photo,trade,GBPUSD,vente,H4,1.32817,1.33224,1.31581,TradingView mobile
+2038,ChatExport_2026-10-01/photos/photo_3374@03-04-2026_13-45-16.jpg,14637,2026-04-03T13:45:16,photo,trade,GBPUSD,vente,H4,1.32499,1.32803,1.31565,TradingView mobile
+2039,ChatExport_2026-10-01/photos/photo_3375@03-04-2026_13-46-05.jpg,14639,2026-04-03T13:46:05,photo,trade,NZDUSD,vente,M30,0.57224,0.57533,0.56573,TradingView mobile
+2040,ChatExport_2026-10-01/photos/photo_3379@04-04-2026_11-20-00.jpg,14648,2026-04-04T11:20:00,photo,trade,GBPUSD,vente,H1,1.32500,1.32800,1.31879,"TradingView mobile ; prix 1.3198, proche du TP"
+2041,ChatExport_2026-10-01/photos/photo_3380@07-04-2026_09-00-33.jpg,14655,2026-04-07T09:00:33,photo,analyse,USDCHF,vente,H1,,,,TradingView mobile ; projection vers 0.79027
+2042,ChatExport_2026-10-01/photos/photo_3381@07-04-2026_09-01-34.jpg,14656,2026-04-07T09:01:34,photo,trade,AUDUSD,achat,H1,0.69029,0.68693,0.69742,TradingView mobile
+2043,ChatExport_2026-10-01/photos/photo_3382@07-04-2026_22-02-04.jpg,14659,2026-04-07T22:02:04,photo,trade,USDCHF,vente,H1,0.79956,0.80206,0.79034,TradingView mobile
+2044,ChatExport_2026-10-01/photos/photo_3384@07-04-2026_22-03-34.jpg,14661,2026-04-07T22:03:34,photo,trade,CHFJPY,achat,H1,199.712,199.161,200.845,TradingView mobile
+2045,ChatExport_2026-10-01/photos/photo_3385@07-04-2026_22-12-44.jpg,14662,2026-04-07T22:12:44,photo,analyse,AUDJPY,achat,H4,,,,"TradingView mobile ; points de rebond, prix 111.51 (règle d'avril, #14662)"
+2046,ChatExport_2026-10-01/photos/photo_3386@07-04-2026_22-51-19.jpg,14666,2026-04-07T22:51:19,photo,trade,USDCHF,vente,H1,0.79956,0.80206,0.79034,TradingView mobile ; prix 0.7944
+2047,ChatExport_2026-10-01/photos/photo_3387@08-04-2026_01-12-38.jpg,14667,2026-04-08T01:12:38,photo,resultat,USDCHF,vente,H1,0.79956,0.80206,0.79034,TradingView mobile ; TP presque atteint (0.7906)
+2048,ChatExport_2026-10-01/photos/photo_3388@08-04-2026_11-11-44.jpg,14670,2026-04-08T11:11:44,photo,resultat,CADCHF,vente,H1,0.57399,0.57629,0.56945,TradingView mobile ; TP atteint (0.5688)
+2049,ChatExport_2026-10-01/photos/photo_3390@08-04-2026_13-41-56.jpg,14677,2026-04-08T13:41:56,photo,analyse,GBPNZD,vente,H4,,,,TradingView mobile ; rejet de 2.32535
+2050,ChatExport_2026-10-01/photos/photo_3392@08-04-2026_13-42-13.jpg,14680,2026-04-08T13:42:13,photo,trade,GBPNZD,vente,H4,2.31119,2.31938,2.29466,TradingView mobile ; prix 2.3036
+2051,ChatExport_2026-10-01/photos/photo_3393@09-04-2026_13-22-35.jpg,14685,2026-04-09T13:22:35,photo,trade,CHFJPY,achat,H1,200.065,199.565,201.198,TradingView mobile ; Major whole number 200
+2052,ChatExport_2026-10-01/photos/photo_3394@09-04-2026_13-22-35.jpg,14686,2026-04-09T13:22:35,photo,trade,EURJPY,achat,M30,185.080,184.755,185.762,TradingView mobile ; Major whole number 185
+2053,ChatExport_2026-10-01/photos/photo_3399@15-04-2026_17-01-36.jpg,14701,2026-04-15T17:01:36,photo,trade,GBPNZD,vente,H1,2.30000,2.30410,2.28870,TradingView mobile ; Major whole number 2.30
+2054,ChatExport_2026-10-01/photos/photo_3400@15-04-2026_17-02-06.jpg,14703,2026-04-15T17:02:06,photo,trade,GBPNZD,vente,M30,2.30003,2.30416,2.28872,TradingView mobile ; prix 2.2957
+2055,ChatExport_2026-10-01/photos/photo_3403@16-04-2026_22-47-41.jpg,14715,2026-04-16T22:47:41,photo,analyse,USOIL,vente,H1,,,,"TradingView mobile ; rejet de 95, projection vers 84.22"
+2056,ChatExport_2026-10-01/photos/photo_3404@16-04-2026_22-50-23.jpg,14716,2026-04-16T22:50:23,photo,analyse,USOIL,vente,D1,,,,TradingView mobile ; projection vers 84.22
+2057,ChatExport_2026-10-01/photos/photo_3406@17-04-2026_13-53-47.jpg,14718,2026-04-17T13:53:47,photo,analyse,USOIL,vente,H4,,,,"TradingView mobile ; objectif 84.22 atteint (−9,5 % dans la journée)"
+2058,ChatExport_2026-10-01/photos/photo_3412@30-04-2026_14-20-25.jpg,14740,2026-04-30T14:20:25,photo,analyse,EURGBP,vente,D1,,,,TradingView mobile ; projection vers 0.86109
+2059,ChatExport_2026-10-01/photos/photo_3413@30-04-2026_14-20-25.jpg,14741,2026-04-30T14:20:25,photo,trade,EURGBP,vente,H4,0.86634,0.86799,0.86178,TradingView mobile
+2060,ChatExport_2026-10-01/photos/photo_3417@30-04-2026_14-21-51.jpg,14747,2026-04-30T14:21:51,photo,resultat,EURAUD,achat,H1,1.63532,1.63175,1.64248,TradingView mobile ; TP atteint
+2061,ChatExport_2026-10-01/photos/photo_3418@30-04-2026_14-22-07.jpg,14748,2026-04-30T14:22:07,photo,trade,EURCAD,vente,H4,1.60000,1.60301,1.59366,TradingView mobile ; Major whole number 1.60
+2062,ChatExport_2026-10-01/photos/photo_3419@30-04-2026_14-22-07.jpg,14749,2026-04-30T14:22:07,photo,trade,EURCAD,vente,H1,1.60000,1.60301,1.59366,TradingView mobile ; prix 1.5964
+2063,ChatExport_2026-10-01/photos/photo_3421@30-04-2026_20-01-50.jpg,14758,2026-04-30T20:01:50,photo,resultat,EURGBP,vente,D1,0.86634,0.86849,0.86197,TradingView mobile ; TP presque atteint (0.8625)
+2064,assets/tradingview/2026-05/2026-05-05_23h08_msg14774_pzqaPU2Y.png,14774,2026-05-05T23:08:01,tv,analyse,EURUSD,,D1,,,,"BLACKMAKER ; mèche, niveau 1.17491"
+2065,assets/tradingview/2026-05/2026-05-05_23h16_msg14776_1UdL4ku8.png,14776,2026-05-05T23:16:28,tv,analyse,EURNZD,vente,H4,,,,BLACKMAKER ; projection vers 1.975
+2066,ChatExport_2026-10-01/photos/photo_3423@06-05-2026_00-37-56.jpg,14779,2026-05-06T00:37:56,photo,trade,EURNZD,vente,H1,1.98431,1.98778,1.97822,TradingView mobile
+2067,ChatExport_2026-10-01/photos/photo_3424@06-05-2026_00-56-56.jpg,14782,2026-05-06T00:56:56,photo,trade,EURNZD,vente,H1,1.98431,1.98778,1.97822,TradingView mobile ; prix 1.9805
+2068,ChatExport_2026-10-01/photos/photo_3427@06-05-2026_01-52-13.jpg,14785,2026-05-06T01:52:13,photo,trade,EURNZD,vente,H1,1.98431,1.98778,1.97721,TradingView mobile ; TP presque atteint
+2069,ChatExport_2026-10-01/photos/photo_3428@06-05-2026_03-59-48.jpg,14786,2026-05-06T03:59:48,photo,resultat,EURNZD,vente,H4,1.98431,1.98778,1.97721,TradingView mobile ; TP atteint (1.9762)
+2070,ChatExport_2026-10-01/photos/photo_3429@06-05-2026_09-28-16.jpg,14788,2026-05-06T09:28:16,photo,analyse,EURUSD,achat,D1,,,,TradingView mobile ; cassure au-dessus de 1.17491
+2071,ChatExport_2026-10-01/photos/photo_3432@07-05-2026_08-13-16.jpg,14797,2026-05-07T08:13:16,photo,trade,EURAUD,vente,H1,1.62506,1.62915,1.61684,TradingView mobile ; Major larger quarter 1.625
+2072,ChatExport_2026-10-01/photos/photo_3433@07-05-2026_08-41-12.jpg,14803,2026-05-07T08:41:12,photo,trade,EURUSD,achat,H1,1.17559,1.17254,1.18202,TradingView mobile
+2073,ChatExport_2026-10-01/photos/photo_3436@07-05-2026_08-43-59.jpg,14806,2026-05-07T08:43:59,photo,trade,GBPJPY,achat,M30,212.563,212.160,213.391,TradingView mobile ; Major larger quarter 212.5
+2074,ChatExport_2026-10-01/photos/photo_3437@07-05-2026_08-46-21.jpg,14807,2026-05-07T08:46:21,photo,trade,EURCAD,achat,M15,1.60214,1.59794,1.61059,TradingView mobile
+2075,ChatExport_2026-10-01/photos/photo_3439@07-05-2026_20-20-44.jpg,14816,2026-05-07T20:20:44,photo,trade,USDJPY,achat,M30,156.583,156.176,157.415,TradingView mobile
+2076,ChatExport_2026-10-01/photos/photo_3440@07-05-2026_20-21-55.jpg,14817,2026-05-07T20:21:55,photo,trade,USDJPY,achat,M30,156.592,156.176,157.427,TradingView mobile ; prix 156.87
+2077,ChatExport_2026-10-01/photos/photo_3441@07-05-2026_20-57-06.jpg,14820,2026-05-07T20:57:06,photo,trade,EURUSD,vente,H4,1.17418,1.17777,1.16522,TradingView mobile
+2078,ChatExport_2026-10-01/photos/photo_3442@11-05-2026_09-38-46.jpg,14830,2026-05-11T09:38:46,photo,trade,USDJPY,achat,H1,156.881,156.430,157.791,TradingView mobile
+2079,ChatExport_2026-10-01/photos/photo_3443@11-05-2026_09-38-57.jpg,14831,2026-05-11T09:38:57,photo,trade,USDJPY,achat,M30,156.881,156.430,157.783,TradingView mobile ; prix 157.12
+2080,assets/tradingview/2026-05/2026-05-11_14h24_msg14832_cTopMuTc.png,14832,2026-05-11T14:24:42,tv,trade,EURUSD,achat,H4,1.17500,1.17245,1.18032,BLACKMAKER ; Major larger quarter 1.175
+2081,ChatExport_2026-10-01/photos/photo_3444@12-05-2026_12-33-08.jpg,14843,2026-05-12T12:33:08,photo,trade,EURUSD,vente,H1,1.17501,1.17812,1.16876,TradingView mobile
+2082,ChatExport_2026-10-01/photos/photo_3445@12-05-2026_13-19-44.jpg,14844,2026-05-12T13:19:44,photo,trade,EURUSD,vente,H1,1.17499,1.17802,1.16990,TradingView mobile ; prix 1.1736
+2083,ChatExport_2026-10-01/photos/photo_3446@12-05-2026_13-22-26.jpg,14846,2026-05-12T13:22:26,photo,resultat,EURUSD,vente,M5,1.17500,,,"MT5 sell 3.5, +500 $ flottant"
+2084,ChatExport_2026-10-01/photos/photo_3449@13-05-2026_07-51-19.jpg,14853,2026-05-13T07:51:19,photo,trade,EURUSD,vente,H4,1.17499,1.17800,1.16883,TradingView mobile ; prix 1.1714
+2085,ChatExport_2026-10-01/photos/photo_3450@13-05-2026_09-32-30.jpg,14854,2026-05-13T09:32:30,photo,resultat,EURUSD,vente,H4,1.17499,1.17800,1.16891,TradingView mobile ; TP presque atteint (1.1698)
+2086,ChatExport_2026-10-01/photos/photo_3451@13-05-2026_09-35-36.jpg,14855,2026-05-13T09:35:36,photo,resultat,EURUSD,vente,M15,1.17500,1.17400,,"MT5 sell 3.5, +1 729 $ flottant ; stop sous l'entrée"
+2087,ChatExport_2026-10-01/photos/photo_3455@14-05-2026_19-18-04.jpg,14868,2026-05-14T19:18:04,photo,resultat,,,,,,,"compte 100 000 $ (mai 2026) : 10 trades, +4 329 $ ; une perte USDJPY −2 $"
+2088,ChatExport_2026-10-01/photos/photo_3456@15-05-2026_01-37-35.jpg,14872,2026-05-15T01:37:35,photo,trade,AUDUSD,vente,H4,0.72403,0.72652,0.71904,TradingView mobile ; Major larger quarter 0.725
+2089,ChatExport_2026-10-01/photos/photo_3461@26-05-2026_17-56-54.jpg,14891,2026-05-26T17:56:54,photo,analyse,XAUUSD,vente,H4,,,,TradingView mobile ; niveau 4 520
+2090,ChatExport_2026-10-01/photos/photo_3462@26-05-2026_17-57-05.jpg,14892,2026-05-26T17:57:05,photo,trade,XAUUSD,vente,H4,4524.033,4541.631,4488.448,TradingView mobile
+2091,ChatExport_2026-10-01/photos/photo_3463@26-05-2026_17-57-22.jpg,14893,2026-05-26T17:57:22,photo,resultat,XAUUSD,vente,H4,4523.695,4542.113,4486.430,"TradingView mobile ; prix 4 496, proche du TP"
+2092,ChatExport_2026-10-01/photos/photo_3465@28-05-2026_15-10-40.jpg,14896,2026-05-28T15:10:40,photo,trade,GBPNZD,vente,H1,2.27499,2.27846,2.26391,TradingView mobile ; Major larger quarter 2.275
+2093,ChatExport_2026-10-01/photos/photo_3466@28-05-2026_15-11-06.jpg,14898,2026-05-28T15:11:06,photo,trade,GBPNZD,vente,H1,2.27500,2.27850,2.26441,TradingView mobile ; prix 2.2666
+2094,ChatExport_2026-10-01/photos/photo_3467@28-05-2026_15-11-33.jpg,14899,2026-05-28T15:11:33,photo,resultat,GBPNZD,vente,M5,2.27460,,,"MT5 sell 4.81, +2 155 $ flottant"
+2095,ChatExport_2026-10-01/photos/photo_3471@02-06-2026_14-10-33.jpg,14910,2026-06-02T14:10:33,photo,resultat,GBPNZD,vente,M1,2.27489,,,"MT5 sell 4.2, +595 $ flottant"
