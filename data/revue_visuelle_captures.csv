@@ -1687,3 +1687,27 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 1685,ChatExport_2026-10-01/photos/photo_2942@19-11-2024_08-14-56.jpg,12296,2024-11-19T08:14:56,photo,trade,EURNZD,vente,H4,1.80155,1.80556,1.78893,TradingView mobile
 1686,assets/tradingview/2024-11/2024-11-21_17h11_msg12317_tiz4EsdA.png,12317,2024-11-21T17:11:47,tv,trade,GBPAUD,vente,H4,1.95217,1.95711,1.93421,"BLACKMAKER ; prix 1.9349, proche du TP"
 1687,ChatExport_2026-10-01/photos/photo_2945@21-11-2024_18-28-51.jpg,12324,2024-11-21T18:28:51,photo,resultat,XAUUSD,achat,,2630.57,2644.28,,"membre : XAUUSD buy 2, +8 315 $"
+1688,assets/tradingview/2024-11/2024-11-25_15h29_msg12360_MCjehORo.png,12360,2024-11-25T15:29:03,tv,analyse,NZDJPY,vente,H4,,,,"BLACKMAKER ; range de 61 jours, cassure attendue"
+1689,assets/tradingview/2024-11/2024-11-25_17h10_msg12366_C2X741eP.png,12366,2024-11-25T17:10:03,tv,analyse,EURAUD,vente,H1,,,,BLACKMAKER ; « setup A+ » atteint
+1690,ChatExport_2026-10-01/photos/photo_2962@26-11-2024_00-44-52.jpg,12371,2024-11-26T00:44:52,photo,resultat,EURUSD,vente,,,,,
+1691,assets/tradingview/2024-11/2024-11-26_01h36_msg12376_JNBFuR3p.png,12376,2024-11-26T01:36:20,tv,analyse,NZDJPY,vente,H4,,,,"BLACKMAKER ; cassure du range, projection baissière"
+1692,assets/tradingview/2024-11/2024-11-27_00h52_msg12377_LdIXJDcr.png,12377,2024-11-27T00:52:39,tv,analyse,NZDJPY,vente,H4,,,,BLACKMAKER ; cassure sous 90
+1693,assets/tradingview/2024-11/2024-11-27_01h02_msg12381_BN2sEOMQ.png,12381,2024-11-27T01:02:34,tv,analyse,NZDJPY,vente,M15,,,,BLACKMAKER ; retour sur 90
+1694,assets/tradingview/2024-11/2024-11-27_01h30_msg12388_0x8KhcH7.png,12388,2024-11-27T01:30:15,tv,analyse,EURAUD,vente,H4,,,,"BLACKMAKER ; « setup A+ », projection baissière"
+1695,assets/tradingview/2024-11/2024-11-27_01h35_msg12389_WY1L8xtf.png,12389,2024-11-27T01:35:23,tv,trade,NZDJPY,vente,M5,90.002,90.508,88.287,BLACKMAKER
+1696,ChatExport_2026-10-01/photos/photo_2963@27-11-2024_02-15-46.jpg,12391,2024-11-27T02:15:46,photo,trade,NZDJPY,vente,M15,90.002,90.508,88.285,TradingView mobile ; prix 89.25
+1697,ChatExport_2026-10-01/photos/photo_2964@27-11-2024_23-08-29.jpg,12393,2024-11-27T23:08:29,photo,analyse,EURAUD,vente,H4,,,,TradingView mobile ; projection baissière
+1698,assets/tradingview/2024-11/2024-11-29_07h08_msg12399_yTUaOQIK.png,12399,2024-11-29T07:08:49,tv,analyse,NZDJPY,vente,H4,,,,BLACKMAKER ; prix 88.74
+1699,ChatExport_2026-10-01/photos/photo_2965@29-11-2024_16-04-00.jpg,12404,2024-11-29T16:04:00,photo,trade,EURAUD,vente,H1,1.62292,1.62792,1.60279,TradingView mobile
+1700,ChatExport_2026-10-01/photos/photo_2966@29-11-2024_17-00-59.jpg,12406,2024-11-29T17:00:59,photo,resultat,EURAUD,vente,,,,1.60703,"photo d'écran MT5 : sl 1.62759, +2 498 $ flottant"
+1701,ChatExport_2026-10-01/photos/photo_2967@02-12-2024_15-44-21.jpg,12414,2024-12-02T15:44:21,photo,analyse,NZDJPY,vente,H4,,,,TradingView mobile ; prix 88.11
+1702,assets/tradingview/2024-12/2024-12-03_15h57_msg12419_nSvZ3Qd7.png,12419,2024-12-03T15:57:34,tv,trade,GBPJPY,vente,D1,190.078,191.358,187.756,BLACKMAKER
+1703,assets/tradingview/2024-12/2024-12-06_11h31_msg12434_F2l25Usi.png,12434,2024-12-06T11:31:06,tv,analyse,EURUSD,,W1,,,,BLACKMAKER ; zone 1.06-1.065
+1704,assets/tradingview/2024-12/2024-12-06_13h32_msg12441_5LkLEuy7.png,12441,2024-12-06T13:32:50,tv,trade,EURUSD,vente,H1,1.06507,1.07063,1.04800,"BLACKMAKER ; deux scénarios (achat 1.05491 → 1.06524, puis vente)"
+1705,ChatExport_2026-10-01/photos/photo_2969@06-12-2024_14-11-18.jpg,12448,2024-12-06T14:11:18,photo,analyse,EURUSD,vente,M30,,,,TradingView mobile ; rejet de la zone (NFP)
+1706,ChatExport_2026-10-01/photos/photo_2970@06-12-2024_15-44-04.jpg,12452,2024-12-06T15:44:04,photo,analyse,EURUSD,vente,M30,,,,TradingView mobile ; prix 1.0550
+1707,assets/tradingview/2024-12/2024-12-08_15h53_msg12457_1K4v2F1r.png,12457,2024-12-08T15:53:57,tv,trade,EURUSD,vente,H4,1.06507,1.07063,1.04715,BLACKMAKER ; deux scénarios
+1708,ChatExport_2026-10-01/photos/photo_2971@08-12-2024_15-58-48.jpg,12459,2024-12-08T15:58:48,photo,autre,,,,,,,CME FedWatch : probabilités pour la réunion de la Fed du 18/12/2024
+1709,assets/tradingview/2024-12/2024-12-08_16h04_msg12463_qKPsJ0n7.png,12463,2024-12-08T16:04:55,tv,trade,EURUSD,achat,M15,1.05491,1.05187,1.06524,BLACKMAKER ; vente barrée (croix rouge)
+1710,ChatExport_2026-10-01/photos/photo_2973@10-12-2024_01-18-04.jpg,12482,2024-12-10T01:18:04,photo,trade,AUDNZD,achat,H1,1.09731,,,MT5 buy limit 20.68 avec sl
+1711,assets/tradingview/2024-12/2024-12-10_03h29_msg12486_GGBEkbZj.png,12486,2024-12-10T03:29:55,tv,trade,EURAUD,vente,H4,1.64532,1.65307,1.62974,BLACKMAKER
