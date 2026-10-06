@@ -79,6 +79,7 @@ Tous les scripts se lancent **depuis la racine du dépôt** : `python scripts/<s
 | Suivi en démo | `python scripts/prix_yahoo.py --mettre-a-jour …`, puis `python scripts/suivi_demo_englobante_mlq.py` | Yahoo horaire | `data/suivi_demo/journal_englobante_mlq.csv`, `analyses/SUIVI_DEMO.md` | oui (Yahoo) |
 | Englobante + FVG | `python scripts/tester_englobante_fvg.py`, `python scripts/tester_entrees_englobante.py` | Yahoo horaire (22 paires) | `data/englobante_fvg/`, `analyses/ENGLOBANTE_FVG.md` | non (cache) |
 | Entrées lundi-mardi-mercredi | `python scripts/tester_entrees_lmm.py` | Yahoo horaire (22 paires) | `data/lmm_entrees/`, `analyses/ENTREES_LUNDI_MARDI_MERCREDI.md` | non (cache) |
+| Aller-retour +1 R | `python scripts/tester_aller_retour_1r.py` | `data/verification_trades.csv`, Yahoo horaire | `data/aller_retour_1r/`, `analyses/ALLER_RETOUR_1R.md` | non (cache) |
 | Figures | `python scripts/figures_rapports.py` | tout | `assets/figures/` | non |
 
 ## 4. Mettre à jour les données
