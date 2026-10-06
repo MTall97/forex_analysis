@@ -59,6 +59,8 @@ Les fichiers s'ouvrent dans Excel ou LibreOffice. Les colonnes sont : date, pair
 
 ## 2. Année par année, 2020-2026
 
+![R moyen par règle et par année](../assets/figures/masterclass_2020_2026_par_annee.png)
+
 **R moyen par année**
 
 | Règle | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |
@@ -117,6 +119,10 @@ Les fichiers s'ouvrent dans Excel ou LibreOffice. Les colonnes sont : date, pair
 3. **Une seule piste ressort, mais elle ne vient pas de la masterclass telle quelle** (section 4).
 
 ## 4. La seule piste : achat sur englobante haussière qui rejette un MLQ (2020-2026)
+
+![Vrais niveaux MLQ contre niveaux décalés](../assets/figures/masterclass_englobante_mlq_controle.png)
+
+Suivi en démo depuis le 02/10/2026 : [`SUIVI_DEMO.md`](SUIVI_DEMO.md).
 
 C'est la combinaison « englobante + MLQ » de `MASTERCLASS_VERIFIEE.md` (section 6), limitée aux **achats**.
 

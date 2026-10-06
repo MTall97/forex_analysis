@@ -29,6 +29,8 @@
     - **un an plus tôt** (autre actualité).
   - Si Amirou reprenait Chandler, « avant » dépasserait nettement « après ».
 
+![Similarité avant, après, un an avant](../assets/figures/marc_similarite.png)
+
 | Textes d'Amirou | Paragraphes | Similarité moyenne : 7 jours avant | 7 jours après | un an avant | Paragraphes ≥ 0,8 avant / après |
 |---|---|---|---|---|---|
 | Rapports PDF 2026 | 431 | 0,626 | 0,636 | 0,628 | 11 / 11 |
@@ -85,6 +87,8 @@ C'est à peine mieux qu'une pièce. Chandler commente le marché, il ne donne pa
 | Registre texte 2019-2026 | 141 | **51,8 %** | — | — |
 | Captures OCR copiables | 120 | **50,0 %** | +1,08 (60) | +1,95 (60) |
 | Revue visuelle copiables | 37 | **45,9 %** | −0,24 (17) | +0,14 (20) |
+
+![Trades dans le sens de Chandler, par année](../assets/figures/marc_accord_par_annee.png)
 
 | Année | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|---|---|---|
