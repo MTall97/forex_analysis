@@ -65,3 +65,55 @@ Déduit des trades eux-mêmes (tendance sur 5 jours, plus haut et plus bas de la
 - **Méthode d'Amirou appliquée** : 3 entrées sur 12 à moins d'un pip d'un MLQ (multiple de 250 pips), ce qui n'arrive pas par hasard ; objectifs à 2,5-3 R ; stops de 10 à 40 pips ; 11 trades sur 12 un lundi, mardi ou mercredi, la plupart à l'ouverture de Londres (09h-11h UTC) ou de New York (13h-14h UTC).
 - **Deux familles** : en juin, une continuation de tendance personnelle (cassure du plus haut ou du plus bas de la veille dans le sens des 5 derniers jours), plutôt réussie au départ (gains latents de +26 à +240 $) ; en juillet, surtout des copies de signaux d'Amirou et des entrées sur MLQ, à contre-tendance pour les GBPUSD du 14/07.
 - **Ce que disent les tests du projet** : le MLQ seul n'a aucun avantage mesurable (15,6 % d'objectifs, −0,08 R) ; l'englobante + MLQ est la seule piste positive, encore à confirmer ; les trades d'Amirou copiés à la publication font +0,21 R par trade, sans certitude.
+
+## Mes raisons : ce que dit la discussion d'analyse (22/06 - 09/07/2026)
+
+*Source : [`data/compte_propfirm/discussion_analyse_signalx_2026-06-22_au_07-09.md`](../data/compte_propfirm/discussion_analyse_signalx_2026-06-22_au_07-09.md), journal de recherche tenu avec une IA, qui croise les rapports SignalX, les billets de Marc Chandler (Marc to Market), le COT de la CFTC et le sentiment des particuliers (Myfxbook, FXSSI). L'en-tête de l'export indique « Auteur : Hamma dit Amirou Touré », parce que les rapports SignalX analysés sont les siens. Les citations sont reprises telles quelles.*
+
+**La méthode d'analyse** :
+1. **force et faiblesse des devises** d'après les banques centrales et l'actualité (rapport SignalX du 22/06 : USD et CHF forts ; JPY, AUD, NZD, CAD faibles ; EUR et GBP « sous pression ») ;
+2. **COT** : suivre les positions des spéculateurs et surtout leurs variations (« NZD : −45 161 (−13 590 — −43 %) — accélération massive ») ;
+3. **sentiment des particuliers à contre-courant** : vendre ce que 80-94 % des particuliers achètent (« NZDUSD : 94 % LONG retail → contrarien extrême ») ;
+4. **Chandler** pour les niveaux et le contexte (plus bas annuels, options, différentiels de taux) ;
+5. un **classement par étoiles** des idées, révisé à chaque nouvelle donnée ;
+6. pour l'entrée : les **niveaux** (MLQ, plus bas annuels, rebond vers une résistance), et les signaux d'Amirou en juillet.
+
+**Trade par trade** :
+
+| Trade | Raison documentée dans la discussion | Ce qui s'est passé |
+|---|---|---|
+| USDCAD vente 03/06 | **aucune** (avant le début du journal) ; le journal classe ensuite USDCAD à l'**achat** ⭐⭐⭐⭐⭐ (CAD « le plus shorté du G10 », 88-94 % des particuliers vendeurs) | la vente allait contre l'analyse faite ensuite ; stop touché en 4 h |
+| GBPUSD vente 22/06 | GBP « sous pression » (« prime de risque politique Burnham/Starmer ») ; COT GBP −64 213 puis −71 585 ; entrée sur le MLQ 1.3250 | gain latent de +26 $ seulement, sortie au point mort ; l'objectif est atteint le 24/06 |
+| NZDUSD vente 23/06 | NZD faible ; classée ⭐⭐ (« trade surchargé ») le 22/06, puis ⭐⭐⭐⭐⭐ après le COT du 16/06 (« signal COT accélère ») ; 89-94 % des particuliers acheteurs | +135 $ latents, stop de protection touché au rollover (+14 $) ; l'objectif est atteint le lendemain |
+| GBPUSD vente 23/06 | « Starmer démissionne — Burnham successeur probable » ; short GBP qui s'aggrave au COT ; 65 % des particuliers acheteurs (« biais sell ») | **+234 $**, le meilleur trade, en accord avec l'analyse |
+| NZDUSD achat 23/06 21h07 | **aucune** : contraire à toute l'analyse (NZD à vendre) ; vous dites ne pas l'avoir passé | −101 $ en 55 s au rollover |
+| EURNZD achat 24/06 | COT EUR acheteur (+34 353, « institutions achètent EUR fortement ») contre NZD vendu (−45 161) : devise forte contre devise faible | +59 $ latents, sortie à +4 $ ; la sortie rapide était la bonne |
+| NZDUSD vente 24/06 (1,01 lot) | même raison qu'au 23/06, renforcée : « 94 % LONG retail », Chandler (AUD au plus bas depuis avril, Fed : probabilité de hausse remontée à 68 %) | stop de 9,8 pips touché à 18h35, avant que le marché n'y arrive ; position la plus lourde (10 $/pip) avec le stop le plus court |
+| AUDUSD achat 01/07 | signal d'Amirou (#14993) ; **contraire à la discussion**, qui voit l'AUD baissier (« AUD casse la 200MA à 0,6865 → H&S activé, cible 0,6680 », COT AUD retourné à la vente) ; seuls arguments pour : cible Bloomberg 0,6964 et saisonnalité (« fond fin mai → hausse jusqu'en fin juillet ») | +114 $ latents, sortie à +44 $ ; l'objectif est atteint le lendemain |
+| EURAUD vente 01/07 | signal d'Amirou (#15004), sur le MLQ 1.6500 ; cohérent avec « CPI eurozone juin : 2,8 % — surprise baissière majeure → BCE ne peut plus monter » | +48 $ latents, puis −56 $ ; l'objectif n'est pas atteint |
+| AUDJPY vente 08/07 | pas de signal d'Amirou ; contexte du 08/07 : « Renewed War Roils Markets » (fin du cessez-le-feu, actions en baisse) défavorable à l'AUD ; vente sur le MLQ 112.50 | +70 $ latents, puis stop touché au rollover, à un prix que le marché n'a pas atteint |
+| GBPUSD ventes 14/07 | signal d'Amirou (#15101, #15113) ; **contraire à votre propre synthèse du 09/07** : « GBP la devise la plus shortée du retail […] Signal contrarien massif », GBPUSD 77 % vendeurs → « BUY GBP », saisonnalité et Bailey en « Convergence ✅ », et dès le 29/06 « GBPUSD → Envisager BUY au-dessus de 1,3280 » | −255 $ ; GBPUSD monte ensuite à 1,355 : **votre analyse avait raison** contre le signal suivi |
+
+**Ce que valaient les idées de la discussion** (mouvement des cours, à partir de la date de l'idée) :
+
+| Idée | Période | Résultat |
+|---|---|---|
+| USDJPY achat ⭐⭐⭐⭐⭐ | 22/06 → 09/07 | +67 pips |
+| USDCAD achat ⭐⭐⭐⭐⭐ | 23/06 → 09/07 | −11 pips |
+| NZDUSD vente ⭐⭐⭐⭐⭐ (« sortir avant 8 juillet ») | 23/06 → 07/07 | −7 pips (après une baisse d'environ 100 pips le 24/06) |
+| EURGBP achat (abandonné le 29/06) | 22/06 → 29/06 | −21 pips |
+| NZDCAD vente ⭐⭐⭐⭐ | 23/06 → 09/07 | −92 pips |
+| EURUSD vente sous 1,1385 (29/06) | 29/06 → 14/07 | −42 pips |
+| **GBPUSD achat au-dessus de 1,3280 (29/06)** | 29/06 → 14/07 | **+173 pips** |
+| GBPUSD achat (synthèse du 09/07) | 09/07 → 16/07 | +114 pips |
+| USDJPY achat (09/07) | 09/07 → 23/07 | +123 pips |
+
+- **L'analyse de fond tient la route sur la livre et le yen** : les trois meilleures idées (GBPUSD achat, USDJPY achat) sont celles où COT, sentiment et banques centrales allaient dans le même sens.
+- **Elle n'a pas été suivie quand elle comptait** : les plus grosses pertes (GBPUSD du 14/07, −255 $) viennent de signaux d'Amirou pris contre votre propre conclusion, et l'achat AUDUSD du 01/07 allait aussi contre elle.
+- **Les trades qui suivaient votre analyse étaient bien orientés** (GBPUSD et NZDUSD des 22-24/06 : gains latents de +26 à +240 $) ; ils ont été perdus ou réduits par la gestion : point mort trop tôt, rollover, stop de 9,8 pips sur la position la plus lourde.
+- **Prix à vérifier dans la discussion** : le 25/06, « GBP/USD 1,3250 (rebond depuis 1,3160) » alors que GBPUSD cotait 1,3152-1,3219 ce jour-là ; dans la synthèse du 09/07, GBPUSD est à 1,3253 alors qu'il cotait 1,338-1,343 (le tableau Myfxbook du même jour donne 1,33534, plus juste). Les autres prix cités correspondent aux cours.
+
+**Règles à tirer de vos propres raisons** :
+1. Ne prendre un signal d'Amirou que s'il va dans le sens de votre analyse COT, sentiment et banques centrales ; sinon, s'abstenir.
+2. Sur les trades alignés avec l'analyse, laisser de la place : point mort à +1 R seulement, stop d'au moins 0,5 ATR, rien de serré ouvert au rollover de 21h UTC.
+3. Taille constante : pas de 1,01 lot avec 10 pips de stop sur une idée déjà en place depuis la veille.
