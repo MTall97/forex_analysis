@@ -70,9 +70,37 @@ Sur toutes les englobantes des 10 paires, avec un ordre au haut du FVG 1h le plu
 
 C'est le piège classique des entrées sur repli : le ratio affiché s'améliore (stop plus court, objectif plus loin), mais l'ordre ne s'exécute que dans les cas défavorables.
 
+## Autres entrées : repli tenté la nuit, ordre stop, confirmation
+
+*Ajouté le 06/10/2026. Script : [`scripts/tester_entrees_englobante.py`](../scripts/tester_entrees_englobante.py) ; résultats : `data/englobante_fvg/entrees_resultats.csv`.*
+
+Le défaut du FVG étant de rater les trades qui partent directement, six autres entrées ont été testées. La liste a été fixée avant de lancer le test, avec le même stop, un objectif à 2 R depuis l'entrée réelle et la même sortie à J+3 :
+
+- **Londres 07h** : au marché à 07h UTC le lendemain ;
+- **ordre stop au-delà de J** : achat 1 pip au-dessus du plus haut de l'englobante (vente : sous le plus bas), valable 24 h ou 48 h ;
+- **confirmation 1h** : à la clôture de la première bougie 1h qui clôture au-delà de l'extrême de J ;
+- **repli la nuit, sinon Londres** : ordre limite à 30 % de la distance clôture-stop (ou au haut du FVG 4h le plus récent) entre 00h et 07h UTC ; s'il n'est pas exécuté, entrée au marché à 07h. Aucun signal n'est raté.
+
+Écart avec l'entrée à la clôture, **calculé signal par signal** (R par signal, ± erreur type de l'écart) :
+
+| Entrée | Achats + MLQ, 10 paires (175) | Achats + MLQ, autres paires (209) | Toutes, 10 paires (1 779) | Toutes, autres paires (2 183) |
+|---|---|---|---|---|
+| Clôture (référence, R par signal) | +0,20 | +0,10 | +0,01 | −0,07 |
+| Londres 07h | −0,05 (±0,05) | −0,13 (±0,05) | −0,06 (±0,02) | −0,02 (±0,01) |
+| Ordre stop au-delà de J, 24 h | −0,06 (±0,05) | −0,02 (±0,05) | −0,00 (±0,02) | +0,02 (±0,02) |
+| Ordre stop au-delà de J, 48 h | −0,06 (±0,05) | −0,02 (±0,05) | −0,01 (±0,02) | +0,01 (±0,02) |
+| Confirmation 1h | −0,10 (±0,05) | −0,03 (±0,06) | −0,01 (±0,02) | +0,04 (±0,02) |
+| Repli 30 % la nuit, sinon Londres | +0,01 (±0,06) | +0,01 (±0,05) | −0,02 (±0,02) | +0,02 (±0,01) |
+| FVG 4h la nuit, sinon Londres | −0,04 (±0,05) | −0,11 (±0,04) | −0,05 (±0,02) | −0,02 (±0,01) |
+
+- **Aucune entrée ne bat nettement la clôture.** Le meilleur écart (« repli 30 % la nuit, sinon Londres » : +0,01 R) est 6 fois plus petit que son erreur type.
+- **Attendre Londres coûte** : de 0,02 à 0,13 R. Après une englobante, le prix tend à poursuivre dans son sens pendant la nuit, et l'entrée à la clôture en profite.
+- **La confirmation (ordre stop, clôture 1h au-delà de J)** n'aide que là où l'englobante perd déjà (autres paires, toutes englobantes : +0,02 à +0,04 R, pour un résultat qui reste négatif). Sur la règle suivie en démo, elle coûte de 0,06 à 0,10 R.
+- **Conclusion** : l'entrée à la clôture est déjà la meilleure des entrées testées. S'il y a un avantage, il vient du choix du signal (englobante qui rejette un MLQ), pas du point d'entrée.
+
 ## Ce qu'il faut retenir
 
-1. **Non, les FVG 1h ou 4h n'améliorent pas l'entrée sur l'englobante**, sur près de trois ans de cours horaires et 22 paires. Ils la dégradent : de +0,20 R à +0,08 R par signal au mieux, et à moins de zéro en 1h.
+1. **Ni les FVG 1h ou 4h, ni les replis, ni les entrées sur confirmation n'améliorent l'entrée sur l'englobante**, sur près de trois ans de cours horaires et 22 paires. Ils la dégradent : de +0,20 R à +0,08 R par signal au mieux, et à moins de zéro en 1h.
 2. **Un repli fixe, sans FVG, fait mieux que le FVG**, et lui-même fait moins bien que l'entrée à la clôture. Le FVG n'apporte aucune information sur l'endroit où le prix va se retourner.
 3. **Le R par trade est trompeur** : certaines variantes FVG affichent un R par trade plus élevé (+0,33 R), mais sur un quart des signaux seulement.
 4. **La règle suivie en démo ne change pas** (CLAUDE.md : ne pas changer la règle en cours de suivi). Sur cette période, elle fait +0,20 R par signal, mais l'erreur type est de ±0,09 R : le suivi hors échantillon reste nécessaire.
@@ -83,5 +111,6 @@ C'est le piège classique des entrées sur repli : le ratio affiché s'améliore
 ```
 python scripts/prix_yahoo.py --mettre-a-jour      # compléter les cours horaires
 python scripts/tester_englobante_fvg.py
+python scripts/tester_entrees_englobante.py
 python scripts/figures_rapports.py
 ```

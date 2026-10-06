@@ -1,0 +1,29 @@
+sous_ensemble,variante,signaux,trades,r_par_signal,ecart_vs_cloture,erreur_type_ecart
+"achats MLQ, 10 paires (règle en démo)",clôture,175,175,0.202,0.0,0.0
+"achats MLQ, 10 paires (règle en démo)",Londres 07h,175,175,0.149,-0.053,0.052
+"achats MLQ, 10 paires (règle en démo)",stop au-delà de J 24h,175,129,0.141,-0.061,0.054
+"achats MLQ, 10 paires (règle en démo)",stop au-delà de J 48h,175,147,0.139,-0.064,0.051
+"achats MLQ, 10 paires (règle en démo)",confirmation 1h,175,133,0.104,-0.098,0.054
+"achats MLQ, 10 paires (règle en démo)","repli 30 % la nuit, sinon Londres",175,175,0.21,0.008,0.056
+"achats MLQ, 10 paires (règle en démo)","FVG 4h la nuit, sinon Londres",175,175,0.165,-0.037,0.051
+"achats MLQ, autres paires",clôture,209,208,0.102,0.0,0.0
+"achats MLQ, autres paires",Londres 07h,209,209,-0.028,-0.129,0.045
+"achats MLQ, autres paires",stop au-delà de J 24h,209,143,0.081,-0.02,0.053
+"achats MLQ, autres paires",stop au-delà de J 48h,209,159,0.085,-0.017,0.051
+"achats MLQ, autres paires",confirmation 1h,209,138,0.069,-0.033,0.057
+"achats MLQ, autres paires","repli 30 % la nuit, sinon Londres",209,209,0.11,0.009,0.046
+"achats MLQ, autres paires","FVG 4h la nuit, sinon Londres",209,209,-0.008,-0.11,0.044
+"toutes englobantes, 10 paires",clôture,1779,1779,0.014,0.0,0.0
+"toutes englobantes, 10 paires",Londres 07h,1779,1779,-0.041,-0.055,0.018
+"toutes englobantes, 10 paires",stop au-delà de J 24h,1779,1227,0.009,-0.004,0.018
+"toutes englobantes, 10 paires",stop au-delà de J 48h,1779,1385,0.003,-0.011,0.017
+"toutes englobantes, 10 paires",confirmation 1h,1779,1208,0.003,-0.011,0.019
+"toutes englobantes, 10 paires","repli 30 % la nuit, sinon Londres",1779,1779,-0.006,-0.019,0.016
+"toutes englobantes, 10 paires","FVG 4h la nuit, sinon Londres",1779,1778,-0.038,-0.052,0.017
+"toutes englobantes, autres paires",clôture,2183,2182,-0.069,0.0,0.0
+"toutes englobantes, autres paires",Londres 07h,2183,2183,-0.09,-0.021,0.014
+"toutes englobantes, autres paires",stop au-delà de J 24h,2183,1440,-0.053,0.016,0.016
+"toutes englobantes, autres paires",stop au-delà de J 48h,2183,1628,-0.059,0.011,0.016
+"toutes englobantes, autres paires",confirmation 1h,2183,1370,-0.031,0.038,0.017
+"toutes englobantes, autres paires","repli 30 % la nuit, sinon Londres",2183,2183,-0.05,0.019,0.013
+"toutes englobantes, autres paires","FVG 4h la nuit, sinon Londres",2183,2182,-0.085,-0.016,0.013
