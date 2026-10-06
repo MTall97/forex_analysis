@@ -1,0 +1,129 @@
+{
+ "previsions_chandler": {
+  "constat->r0": {
+   "jours": 13516,
+   "meme_sens_pct": 55.5,
+   "par_annee": {
+    "2019": 57.6,
+    "2020": 57.8,
+    "2021": 55.5,
+    "2022": 50.9,
+    "2023": 58.2,
+    "2024": 54.1,
+    "2025": 56.4,
+    "2026": 52.6
+   }
+  },
+  "avant->r0": {
+   "jours": 5900,
+   "meme_sens_pct": 53.4,
+   "par_annee": {
+    "2019": 46.8,
+    "2020": 53.9,
+    "2021": 50.3,
+    "2022": 60.4,
+    "2023": 50.9,
+    "2024": 57.5,
+    "2025": 51.1,
+    "2026": 59.5
+   }
+  },
+  "avant->r1": {
+   "jours": 5894,
+   "meme_sens_pct": 51.2,
+   "par_annee": {
+    "2019": 49.6,
+    "2020": 52.3,
+    "2021": 51.7,
+    "2022": 53.0,
+    "2023": 50.7,
+    "2024": 54.3,
+    "2025": 47.3,
+    "2026": 51.2
+   }
+  },
+  "avant->r5": {
+   "jours": 5872,
+   "meme_sens_pct": 52.0,
+   "par_annee": {
+    "2019": 52.7,
+    "2020": 51.1,
+    "2021": 51.2,
+    "2022": 54.1,
+    "2023": 46.7,
+    "2024": 60.6,
+    "2025": 47.2,
+    "2026": 52.3
+   }
+  }
+ },
+ "trades_amirou": {
+  "captures OCR": {
+   "trades": 248,
+   "avec_avis": 120,
+   "meme_sens_pct": 50.0,
+   "r_meme_sens": 1.083,
+   "r_oppose": 1.946,
+   "n_meme": 60,
+   "n_oppose": 60
+  },
+  "registre texte": {
+   "trades": 281,
+   "avec_avis": 141,
+   "meme_sens_pct": 51.8,
+   "r_meme_sens": null,
+   "r_oppose": null,
+   "n_meme": 73,
+   "n_oppose": 68,
+   "meme_sens_pct_tp": 36.4,
+   "meme_sens_pct_sl": 57.9
+  },
+  "revue visuelle": {
+   "trades": 83,
+   "avec_avis": 37,
+   "meme_sens_pct": 45.9,
+   "r_meme_sens": -0.238,
+   "r_oppose": 0.14,
+   "n_meme": 17,
+   "n_oppose": 20
+  }
+ },
+ "trades_amirou_par_annee": {
+  "2019": {
+   "n": 46,
+   "meme_sens_pct": 58.7
+  },
+  "2020": {
+   "n": 54,
+   "meme_sens_pct": 46.3
+  },
+  "2021": {
+   "n": 52,
+   "meme_sens_pct": 46.2
+  },
+  "2022": {
+   "n": 26,
+   "meme_sens_pct": 53.8
+  },
+  "2023": {
+   "n": 32,
+   "meme_sens_pct": 40.6
+  },
+  "2024": {
+   "n": 20,
+   "meme_sens_pct": 60.0
+  },
+  "2025": {
+   "n": 35,
+   "meme_sens_pct": 68.6
+  },
+  "2026": {
+   "n": 33,
+   "meme_sens_pct": 33.3
+  }
+ },
+ "biais_ecrit": {
+  "cas": 202,
+  "meme_sens_pct": 51.5
+ }
+}

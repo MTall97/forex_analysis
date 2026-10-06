@@ -1,0 +1,954 @@
+date,paire,sens,source,id_message,issue_canal,ids_issue,entree,stop,objectif,statut_rejeu,issue_rejeu,r,texte,canal,cours,detail_cours,ecart,note_verification,resolution,mois
+2019-03-14 08:00:29,AUDCHF,vente,texte,11.0,be,18,,,,,,,Sell Audchf now at 0.70876 stop loss at 0.71092,➖,❔,pas de niveaux,,,journalier,2019-03
+2019-03-14 08:04:31,EURNZD,achat,texte,12.0,be,17,1.65539,1.65076,1.66218,annoncé,stop,-1.0,Buy eurnzd now at 1.65539 stop loss at 1.65076 tp at 1.66218,➖,❌,stop,,,journalier,2019-03
+2019-03-14 10:15:38,NZDCAD,vente,texte,,be,19,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,journalier,2019-03
+2019-03-15 06:29:46,NZDCHF,vente,texte,25.0,inconnue,,,,,,,,"Nzdchf retest the previous support, the ema has been touched, the trend in downward. This is a great setup,  wait london opening to sell this pair. Entry arroun",❔,❔,pas de niveaux,,,journalier,2019-03
+2019-03-28 07:15:45,NZDCAD,achat,texte,260.0,inconnue,,0.91339,0.91041,0.9185,annoncé,stop,-1.0,Nzdcad buy stop at 0.91339 Stop loss: 0.91041 Take profit: 0.91850,❔,❌,stop,,,journalier,2019-03
+2019-03-28 07:48:13,NZDCHF,achat,texte,262.0,inconnue,,0.67769,0.67562,0.68199,annoncé,stop,-1.0,Nzdchf buy stop at 0.67769 Stop loss: 0.67562 Take profit: 0.68199,❔,❌,stop,,,journalier,2019-03
+2019-03-28 08:18:18,EURJPY,vente,texte,263.0,inconnue,,,,,,,,Sell stop eurjpy at 123.889 Stop loss at: 124741 Take profit at: 122.820,❔,❔,pas de niveaux,,,journalier,2019-03
+2019-03-28 08:30:57,EURJPY,vente,texte,264.0,inconnue,,,,,,,,"Even if eurjpy dont come back to our sell stop area, sell it at 9:00 GMT",❔,❔,pas de niveaux,,,journalier,2019-03
+2019-03-28 08:32:21,EURJPY,vente,texte,265.0,inconnue,,,,,,,,"Meme si eurjpy natteint pas notre prix de vente, vendez le 9:00 GMT (heure du Mali)",❔,❔,pas de niveaux,,,journalier,2019-03
+2019-04-02 09:44:54,EURJPY,vente,texte,315.0,profit_flottant,519,,,,,,,"Il est 4:43 chez moi et j’attends toujours une confirmation de eurjpy, sil nya pas de confirmation a 5:00 (dans 15min) je vais me coucher et mettre un sell stop",⚠️,❔,pas de niveaux,,,journalier,2019-04
+2019-04-02 10:27:09,USDCAD,vente,texte,320.0,profit_flottant,328,,,,,,,vendez usdcad maintenant.,⚠️,❔,pas de niveaux,,,journalier,2019-04
+2019-04-09 13:07:49,XAUUSD,achat,texte,,be,435,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,journalier,2019-04
+2019-04-09 15:42:51,CADJPY,vente,texte,449.0,inconnue,,,,,,,,"cadjpy malgré que moi je vais pas la trader, elle a un joli setup. Vous pouvez l'observer lorsqu'elle casse le support, vendez la. Il va retourner pour retest l",❔,❔,pas de niveaux,,,journalier,2019-04
+2019-04-10 22:05:24,NZDCHF,achat,texte,,be,473,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,journalier,2019-04
+2019-04-12 14:48:11,EURUSD,achat,texte,,be,547,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,journalier,2019-04
+2019-04-15 14:18:10,NZDCAD,vente,texte,,be,617,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,journalier,2019-04
+2019-04-16 01:22:12,USDCHF,vente,texte,624.0,inconnue,,,,,,,,mettez un sell stop a 1.00495 sur usdchf,❔,❔,pas de niveaux,,,journalier,2019-04
+2019-04-16 17:56:08,GBPUSD,vente,texte,636.0,inconnue,,1.3075,1.31129,1.28133,annoncé,stop,-1.0,SELL GBPUSD @1.30750 SL 1.31129 TP 1.28133,❔,❌,stop,,,journalier,2019-04
+2019-04-17 06:30:01,XAUUSD,achat,texte,638.0,inconnue,,,,,,,,BUY GOLD NOW STOP LOSS AT LAST LOWER LOW,❔,❔,pas de niveaux,,,journalier,2019-04
+2019-04-17 09:24:31,AUDUSD,achat,texte,640.0,profit_flottant,649 656 677,,,,,,,buy audusd now at market price,⚠️,❔,pas de niveaux,,,journalier,2019-04
+2019-04-17 10:28:07,USDJPY,vente,texte,644.0,profit_flottant,657,,,,,,,sell usdjpy now at market price,⚠️,❔,pas de niveaux,,,journalier,2019-04
+2019-04-19 05:25:52,GBPUSD,achat,texte,681.0,inconnue,,,,,,,,buy gbpusd at market price,❔,❔,pas de niveaux,,,journalier,2019-04
+2019-04-24 09:04:48,GBPJPY,achat,texte,721.0,profit_flottant,730,,,,,,,BUY GBPJPY NOW at market price,⚠️,❔,pas de niveaux,,,journalier,2019-04
+2019-04-24 20:14:15,GBPUSD,achat,texte,731.0,inconnue,,,,,,,,very good risk ratio trade on gbpusd. buy now,❔,❔,pas de niveaux,,,journalier,2019-04
+2019-05-01 14:45:37,CADCHF,vente,texte,,be,768,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,journalier,2019-05
+2019-05-06 09:13:11,EURNZD,vente,texte,778.0,inconnue,,,,,,,,sell eurnzd. Stop loss 1.69600,❔,❔,pas de niveaux,,,journalier,2019-05
+2019-05-08 19:47:55,XAUUSD,vente,texte,799.0,inconnue,,,,,,,,SELL XAUUSD 1283.82 SL 1285.50,❔,❔,pas de niveaux,,,journalier,2019-05
+2019-05-14 17:28:50,AUDNZD,achat,texte,823.0,inconnue,,,,,,,,buy audnzd now at market price,❔,❔,pas de niveaux,,,journalier,2019-05
+2019-05-16 11:36:58,EURNZD,vente,texte,837.0,inconnue,,,,,,,,sell eurnzd now at market price,❔,❔,pas de niveaux,,,journalier,2019-05
+2019-05-22 23:21:42,EURAUD,achat,texte,862.0,inconnue,926,,,,,,,buy euraud now at market price,❔,❔,pas de niveaux,,,journalier,2019-05
+2019-05-23 14:52:35,EURGBP,vente,texte,867.0,inconnue,,,,,,,,"eurgbp setup, sell now at market price",❔,❔,pas de niveaux,,,journalier,2019-05
+2019-05-23 22:41:07,EURGBP,vente,texte,878.0,inconnue,,,,,,,,sell eurgbp now at market price,❔,❔,pas de niveaux,,,journalier,2019-05
+2019-05-24 10:22:03,AUDUSD,achat,texte,881.0,inconnue,933,,,,,,,Buy Audusd now at market price,❔,❔,pas de niveaux,,,journalier,2019-05
+2019-05-27 15:31:22,EURCAD,vente,texte,891.0,inconnue,,,,,,,,sell eurcad now at market price,❔,❔,pas de niveaux,,,journalier,2019-05
+2019-05-29 09:26:38,EURAUD,achat,texte,918.0,sl,926,,,,,,,Buy euraud now at market price,❌,❔,pas de niveaux,,,journalier,2019-05
+2019-05-29 11:42:25,AUDUSD,achat,texte,920.0,inconnue,933,,,,,,,buy audusd now at market price,❔,❔,pas de niveaux,,,journalier,2019-05
+2019-05-30 05:01:44,AUDUSD,achat,texte,932.0,sl,933,,,,,,,Buy Audusd. Stop loss 0.69100,❌,❔,pas de niveaux,,,journalier,2019-05
+2019-06-04 05:34:38,NZDAUD,achat,texte,946.0,inconnue,,,,,,,,le setup a ete validé. Achetez nzdaud maintenant stop loss at 1.05600,❔,❔,pas de niveaux,,,journalier,2019-06
+2019-06-05 03:18:21,AUDNZD,achat,texte,,sl,951,,,,,,,(entrée non retrouvée),❌,❔,pas de niveaux,,,journalier,2019-06
+2019-06-05 18:47:17,EURCAD,vente,texte,962.0,inconnue,,,,,,,,le trade sur eurcad est un tres bon setup. Vendez eurcad,❔,❔,pas de niveaux,,,journalier,2019-06
+2019-06-05 18:59:34,NZDJPY,vente,texte,,tp,963,,,,,,,(entrée non retrouvée),✅,❔,pas de niveaux,,,journalier,2019-06
+2019-06-12 02:42:21,NZDCHF,vente,texte,987.0,sl,1015,,,,,,,Sell nzdchf now at market price,❌,❔,pas de niveaux,,,journalier,2019-06
+2019-06-14 06:15:26,NZDJPY,vente,texte,,rate,1013,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2019-06
+2019-06-14 06:37:16,GBPJPY,vente,texte,1020.0,tp,1023,,,,,,,sell gbpjpy now at market price,✅,❔,pas de niveaux,,,journalier,2019-06
+2019-06-17 17:31:20,AUDCAD,vente,texte,1028.0,inconnue,,,,,,,,sell audcad now at market price,❔,❔,pas de niveaux,,,journalier,2019-06
+2019-06-18 07:02:00,CHFJPY,vente,texte,1029.0,sl,1044,,,,,,,sell chfjpy now at market price,❌,❔,pas de niveaux,,,journalier,2019-06
+2019-06-18 15:52:30,USDCHF,achat,texte,1036.0,inconnue,,,,,,,,Buy usdchf now at market price,❔,❔,pas de niveaux,,,journalier,2019-06
+2019-06-18 20:02:37,USDCAD,vente,texte,1038.0,profit_flottant,1045 1065,,,,,,,"formation de M terminé, vendez usdcad maintenant au prix du marché. Mettez stop loss en haut de la zone rouge sur le dessin",⚠️,❔,pas de niveaux,,,journalier,2019-06
+2019-06-18 20:45:46,EURNZD,vente,texte,1039.0,inconnue,,,,,,,,sell eurnzd now at market price,❔,❔,pas de niveaux,,,journalier,2019-06
+2019-06-19 20:38:53,EURJPY,vente,texte,1048.0,sl,1072,,,,,,,sell eurjpy now at market price,❌,❔,pas de niveaux,,,journalier,2019-06
+2019-06-19 20:54:35,NZDCAD,vente,texte,1051.0,inconnue,,,,,,,,sell nzdcad now at market price,❔,❔,pas de niveaux,,,journalier,2019-06
+2019-06-24 11:47:21,GBPUSD,achat,texte,1068.0,inconnue,,,,,,,,buy gbpusd now at market price,❔,❔,pas de niveaux,,,journalier,2019-06
+2019-07-02 10:40:21,CHFJPY,vente,texte,1087.0,profit_flottant,1090,,,,,,,sell chfjpy now at market price,⚠️,❔,pas de niveaux,,,journalier,2019-07
+2019-08-26 13:50:48,XAUUSD,?,texte,,rate,1103,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2019-08
+2019-08-26 21:11:28,EURNZD,vente,texte,1112.0,tp,1164,,,,,,,sell eurnzd at market price,✅,❔,pas de niveaux,,,journalier,2019-08
+2019-08-26 21:31:45,AUDCAD,achat,texte,1115.0,inconnue,,,,,,,,buy audcad now at market price,❔,❔,pas de niveaux,,,journalier,2019-08
+2019-09-04 03:21:45,AUDCAD,vente,texte,1144.0,inconnue,,,,,,,,"audcad est dans la zone de vente, faites attention, le candle qui a traversé la zone de liquidité est tres forte. Nous attendrons un  bon retournement de situat",❔,❔,pas de niveaux,,,journalier,2019-09
+2019-09-04 23:36:27,GBPAUD,achat,texte,,be,1158,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,journalier,2019-09
+2019-09-04 23:53:40,NZDUSD,vente,texte,1159.0,sl,1166,,,,,,,vendez nzdusd au prix du marché,❌,❔,pas de niveaux,,,journalier,2019-09
+2019-09-04 23:59:56,USDCAD,achat,texte,1160.0,sl,1165,,,,,,,il est temps mtn d'acheter usdcad.,❌,❔,pas de niveaux,,,journalier,2019-09
+2019-09-05 14:27:40,USDCHF,achat,texte,,tp,1167,,,,,,,(entrée non retrouvée),✅,❔,pas de niveaux,,,journalier,2019-09
+2019-09-05 14:32:43,GBPAUD,achat,texte,,tp,1168,,,,,,,(entrée non retrouvée),✅,❔,pas de niveaux,,,journalier,2019-09
+2019-09-06 00:29:02,NZDCAD,vente,texte,1175.0,inconnue,,,,,,,,"nzdcad a formé un order block, vendez la mtn.",❔,❔,pas de niveaux,,,journalier,2019-09
+2019-09-17 00:15:43,AUDUSD,vente,texte,1188.0,be,1190 1203,,,,,,,sell audusd now at market price,➖,❔,pas de niveaux,,,journalier,2019-09
+2019-09-17 14:13:09,EURAUD,achat,texte,1194.0,gain,1200 1209 1216 1251,,,,,,,Buy euraud now at market price,✅,❔,pas de niveaux,,,journalier,2019-09
+2019-09-18 06:59:14,NZDCAD,vente,texte,1199.0,gain,1215 1251,,,,,,,sell nzdcad now at market price,✅,❔,pas de niveaux,,,journalier,2019-09
+2019-09-18 17:36:57,CADJPY,vente,texte,1202.0,sl,1204,,,,,,,sell cadjpy now at market price,❌,❔,pas de niveaux,,,journalier,2019-09
+2019-09-19 04:06:12,GBPJPY,vente,texte,1211.0,sl,1214 1239 1267,,,,,,,gbpjpy setup. Sell now at market price,❌,❔,pas de niveaux,,,journalier,2019-09
+2019-09-23 08:01:49,GBPJPY,vente,texte,1246.0,sl,1251 1267,,,,,,,sell gbpjpy now at market price,❌,❔,pas de niveaux,,,journalier,2019-09
+2019-09-23 09:02:09,USDJPY,vente,texte,1248.0,sl,1251,,,,,,,sell usdjpy at market price,❌,❔,pas de niveaux,,,journalier,2019-09
+2019-09-23 09:06:28,GBPUSD,vente,texte,1249.0,sl,1251 1274,,,,,,,sell gbpusd at market price,❌,❔,pas de niveaux,,,journalier,2019-09
+2019-09-24 17:23:40,USDJPY,vente,texte,1255.0,profit_flottant,1293,,,,,,,sell usdjpy now at market price,⚠️,❔,pas de niveaux,,,journalier,2019-09
+2019-09-24 17:34:10,GBPJPY,?,texte,1260.0,be,1267,,,,,,,je me repositionne sur gbpjpy egalement,➖,❔,pas de niveaux,,,journalier,2019-09
+2019-09-25 02:28:48,USDCAD,?,texte,,be,1264,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,journalier,2019-09
+2019-09-25 07:06:52,USDCHF,vente,texte,1265.0,inconnue,1285,,,,,,,sell usdchf now at market price,❔,❔,pas de niveaux,,,journalier,2019-09
+2019-09-27 16:17:30,GBPAUD,achat,texte,1271.0,inconnue,,,,,,,,Buy gbpaud now at market price,❔,❔,pas de niveaux,,,journalier,2019-09
+2019-09-30 19:04:13,USDCHF,vente,texte,1281.0,sl,1285 1307,,,,,,,sell usdchf now at market price,❌,❔,pas de niveaux,,,journalier,2019-09
+2019-10-18 05:29:39,AUDNZD,?,texte,,rate,1339,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2019-10
+2019-10-22 12:57:06,USDCAD,achat,texte,1362.0,inconnue,,,,,,,,buy usdcad now at market price,❔,❔,pas de niveaux,,,journalier,2019-10
+2019-10-22 13:06:31,EURAUD,vente,texte,1363.0,inconnue,,,,,,,,vendez euraud !,❔,❔,pas de niveaux,,,journalier,2019-10
+2019-10-23 12:26:03,AUDJPY,achat,texte,1370.0,inconnue,,,,,,,,buy audjpy now at market price,❔,❔,pas de niveaux,,,journalier,2019-10
+2019-10-25 03:33:22,USDJPY,achat,texte,1371.0,inconnue,,,,,,,,Buy USDJPY @ market price SL 108.490,❔,❔,pas de niveaux,,,journalier,2019-10
+2019-11-05 17:15:22,GBPNZD,vente,texte,,sl,1383,,,,,,,(entrée non retrouvée),❌,❔,pas de niveaux,,,journalier,2019-11
+2019-11-06 02:11:49,NZDUSD,achat,texte,1387.0,inconnue,,,,,,,,achetez nzdusd now,❔,❔,pas de niveaux,,,journalier,2019-11
+2019-11-07 03:48:55,AUDUSD,vente,texte,1392.0,inconnue,,,,,,,,sell audusd at market price,❔,❔,pas de niveaux,,,journalier,2019-11
+2020-01-03 09:03:44,EURUSD,vente,texte,1412.0,inconnue,,,,,,,,sell eurusd now at market price,❔,❔,pas de niveaux,,,journalier,2020-01
+2020-01-13 09:49:57,GBPUSD,vente,texte,,sl,1415,,,,,,,(entrée non retrouvée),❌,❔,pas de niveaux,,,journalier,2020-01
+2020-01-15 08:02:29,EURJPY,vente,texte,1420.0,inconnue,,,,,,,,vendez eurjpy maintenant au prix du marché,❔,❔,pas de niveaux,,,journalier,2020-01
+2020-01-16 20:52:45,GBPJPY,achat,texte,1423.0,inconnue,,,,,,,,buy gbpjpy now at market price. HPTS (high probability trading setup),❔,❔,pas de niveaux,,,journalier,2020-01
+2020-01-23 11:03:49,USDCHF,vente,texte,1439.0,inconnue,,,,,,,,"sell usdchf now at market price. Ne risquez pas plus de 1% de votre compte, ce sont des trades basiques. Le risque ratio est de 1:3 donc vous pouvez gagner jusq",❔,❔,pas de niveaux,,,journalier,2020-01
+2020-01-24 07:31:06,EURUSD,vente,texte,1452.0,be,1464 1471 1480,,,,,,,vendez eurusd au prix du marché. HPTS (vous pouvez ajouter sur vos risque jusqu’a 3%. Mais attention il y’a une nouvelle economique dans 1h30 min sur l’euro,➖,❔,pas de niveaux,,,journalier,2020-01
+2020-01-24 07:43:46,GBPUSD,vente,texte,1454.0,profit_flottant,1484,,,,,,,"gbpusd formation de gatyley, sell at market price. Trade a petite probabilité, ne risquez pas plus de 1% sur ce trade",⚠️,❔,pas de niveaux,,,journalier,2020-01
+2020-01-28 07:31:00,GBPUSD,vente,texte,1476.0,profit_flottant,1484,,,,,,,vendez gbpusd now at market price,⚠️,❔,pas de niveaux,,,journalier,2020-01
+2020-01-29 04:04:00,CHFJPY,vente,texte,1486.0,be,1551,,,,,,,sell chfjpy now at market price. Ne risquez pas plus de 2% de votre capital sur ce trade,➖,❔,pas de niveaux,,,journalier,2020-01
+2020-02-03 10:22:10,EURUSD,vente,texte,1530.0,profit_flottant,1550,,,,,,,Sell eurusd now at market price. Stop loss 1.10800 tp 1.10180,⚠️,❔,pas de niveaux,,,journalier,2020-02
+2020-02-04 09:44:26,XAUUSD,?,texte,,rate,1542,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2020-02
+2020-02-04 10:01:08,CHFJPY,achat,texte,1547.0,be,1551,,,,,,,achetez chfjpy maintenant au prix du marché,➖,❔,pas de niveaux,,,journalier,2020-02
+2020-02-05 16:29:52,CADCHF,vente,texte,1556.0,inconnue,,,,,,,,"bon comme prevu le marché essaye de rejeter cette zone, mais attention ce trade a une probabilité faible. ne risquez pas plus de 1% de votre compte la dessus. V",❔,❔,pas de niveaux,,,journalier,2020-02
+2020-02-06 17:48:35,NZDUSD,vente,texte,1572.0,inconnue,,,,,,,,sell nzdusd now au prix du marché. ce trade a une probabilité de 75% mais sommes tres loin de l’entrée pour placer un bon stop loss donc risquez que 2% sur ce t,❔,❔,pas de niveaux,,,journalier,2020-02
+2020-02-06 20:40:42,GBPCAD,vente,texte,,tp,1574,,,,,,,(entrée non retrouvée),✅,❔,pas de niveaux,,,journalier,2020-02
+2020-02-07 17:12:58,NZDCAD,vente,texte,,tp,1600,,,,,,,(entrée non retrouvée),✅,❔,pas de niveaux,,,journalier,2020-02
+2020-02-10 08:20:57,GBPCHF,vente,texte,1616.0,sl,1618,,,,,,,sell gbpchf now at market price,❌,❔,pas de niveaux,,,journalier,2020-02
+2020-02-11 16:58:02,NZDCAD,vente,texte,,sl,1624,,,,,,,(entrée non retrouvée),❌,❔,pas de niveaux,,,journalier,2020-02
+2020-02-18 02:37:45,CHFJPY,vente,texte,1649.0,sl,1656,,,,,,,sell chfjpy now at market price. ne risquez pas plus de 3%,❌,❔,pas de niveaux,,,journalier,2020-02
+2020-02-19 17:34:20,NZDUSD,?,texte,,rate,1663,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2020-02
+2020-02-20 09:51:05,GBPAUD,achat,texte,1668.0,inconnue,,,,,,,,buy gbpaud now at market price,❔,❔,pas de niveaux,,,journalier,2020-02
+2020-02-20 18:10:30,GBPUSD,vente,texte,,rate,1672,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2020-02
+2020-02-25 20:00:26,AUDJPY,?,texte,,be,1689,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,journalier,2020-02
+2020-02-26 08:00:52,NZDCAD,vente,texte,1691.0,inconnue,,,,,,,,sell nzdcad now at market price,❔,❔,pas de niveaux,,,journalier,2020-02
+2020-02-28 09:53:01,EURUSD,vente,texte,1709.0,inconnue,,,,,,,,je suis entrain de mettre un sell limit sur eurusd. Je pense qu’il est survendu.,❔,❔,pas de niveaux,,,journalier,2020-02
+2020-03-03 17:07:13,GBPAUD,vente,texte,,tp,1727,,,,,,,(entrée non retrouvée),✅,❔,pas de niveaux,,,journalier,2020-03
+2020-03-06 01:02:08,EURJPY,vente,texte,1742.0,inconnue,,,,,,,,sell eurjpy now at market price,❔,❔,pas de niveaux,,,journalier,2020-03
+2020-03-09 02:30:07,GBPAUD,achat,texte,,tp,1753,,,,,,,(entrée non retrouvée),✅,❔,pas de niveaux,,,journalier,2020-03
+2020-03-09 07:34:03,EURGBP,vente,texte,1764.0,inconnue,,,,,,,,mettez un sell limit sur eurgbp,❔,❔,pas de niveaux,,,journalier,2020-03
+2020-03-11 08:35:50,GBPUSD,vente,texte,1778.0,inconnue,,,,,,,,nous allons vendre gbpusd. Mettez un sell stop a 1.30100,❔,❔,pas de niveaux,,,journalier,2020-03
+2020-03-16 07:08:42,EURJPY,achat,texte,1847.0,be,1864,,,,,,,buy eurjpy now at market price,➖,❔,pas de niveaux,,,journalier,2020-03
+2020-03-16 11:59:28,GBPAUD,vente,texte,1873.0,inconnue,1962,,,,,,,"mettez un sell stop sur gbpaud a 2.00067, stop loss a 2.00900",❔,❔,pas de niveaux,,,journalier,2020-03
+2020-03-17 05:04:28,GBPJPY,vente,texte,1891.0,profit_flottant,1995,,,,,,,mettez un sell limit sur gbpjpy a 131.280,⚠️,❔,pas de niveaux,,,journalier,2020-03
+2020-03-18 00:30:31,NZDUSD,vente,texte,1914.0,rate,1950,0.5995,0.60532,0.56487,annoncé,non déclenché (objectif atteint sans entrée),,sell limit sur nzdusd a 0.59950 stop loss a 0.60532 et notre take profit sera a 0.56487,⏸,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2020-03
+2020-03-18 01:14:23,USDJPY,vente,texte,1917.0,profit_flottant,1945 1949,,,,,,,sell usdjpy now at market price,⚠️,❔,pas de niveaux,,,journalier,2020-03
+2020-03-19 01:53:28,EURUSD,vente,texte,1958.0,rate,1972,1.09316,1.09667,1.07847,annoncé,objectif,4.19,sell limit sur eurusd a 1.09316 stop loss a 1.09667 et take profit a 1.07847,⏸,✅,objectif,,,journalier,2020-03
+2020-03-19 06:14:09,GBPAUD,achat,texte,1959.0,sl,1962,2.03062,2.01221,2.10907,incohérent,prix déjà au-delà du stop,,buy limit sur gbpaud at 2.03062 stop loss a 2.01221 et take profit a 2.10907,❌,⚠️,prix déjà au-delà du stop,,,journalier,2020-03
+2020-03-19 08:21:17,EURUSD,vente,texte,1963.0,rate,1972,1.08737,1.09178,1.0595,incohérent,prix déjà au-delà du stop,,sell limit sur eurusd a 1.08737 stop loss a 1.09178 et take profit a 1.05950,⏸,⚠️,prix déjà au-delà du stop,,,journalier,2020-03
+2020-03-23 05:38:45,XAUUSD,achat,texte,1981.0,inconnue,,,,,,,,buy gold at market price,❔,❔,pas de niveaux,,,journalier,2020-03
+2020-03-23 07:49:41,GBPJPY,vente,texte,1989.0,profit_flottant,1995,,,,,,,sell gbpjpy now at market price,⚠️,❔,pas de niveaux,,,journalier,2020-03
+2020-03-23 12:48:22,USDCAD,vente,texte,2003.0,be,2111,,,,,,,vendez usdcad now au prix du marché,➖,❔,pas de niveaux,,,journalier,2020-03
+2020-03-24 05:40:32,GBPAUD,vente,texte,2013.0,inconnue,,1.98,1.985,1.93336,annoncé,stop,-1.0,sell order sur gbpaud a 1.98000 stop loss a 1.98500 et take profit a 1.93336,❔,❌,stop,,,journalier,2020-03
+2020-03-24 09:06:08,EURUSD,vente,texte,2017.0,inconnue,,,,,,,,vendez eurusd au prix du marché,❔,❔,pas de niveaux,,,journalier,2020-03
+2020-03-25 07:26:39,GBPJPY,achat,texte,2023.0,inconnue,,,,,,,,buy limit sur gbpjpy,❔,❔,pas de niveaux,,,journalier,2020-03
+2020-03-25 09:26:06,GBPJPY,achat,texte,2028.0,inconnue,,,,,,,,"annulez le buy limit sur gbpjpy, il a presque touche notre take profit sans venir dans notre zone dachat",❔,❔,pas de niveaux,,,journalier,2020-03
+2020-03-27 06:18:55,AUDJPY,achat,texte,2046.0,rate,2059,,,,,,,"buy stop sur audjpy, ne risquez pas plus de 2%.",⏸,❔,pas de niveaux,,,journalier,2020-03
+2020-03-27 09:06:00,EURUSD,vente,texte,2049.0,inconnue,,1.10265,1.1056,1.0949,annoncé,stop,-1.0,sell limit sur eurusd a 1.10265 stop loss a 1.10560 take profit a 1.09490,❔,❌,stop,,,journalier,2020-03
+2020-03-27 13:26:06,USDCAD,vente,texte,2057.0,be,2111,1.41648,1.42151,1.4005,annoncé,non déclenché (objectif atteint sans entrée),,sell limit sur usdcad a 1.41648 stop loss a 1.42151 et take profit a 1.40050,➖,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2020-03
+2020-03-30 05:30:39,USDCAD,vente,texte,2064.0,be,2111,,,,,,,vendez usdcad au prix du marche,➖,❔,pas de niveaux,,,journalier,2020-03
+2020-03-31 12:08:51,NZDUSD,vente,texte,2077.0,rate,2091,0.5983,0.60145,0.59163,annoncé,stop,-1.0,sell limit sur nzdusd a 0.59830 stop loss a 0.60145 et take profit a 0.59163,⏸,❌,stop,,,journalier,2020-03
+2020-04-01 13:22:22,USDCAD,vente,texte,2100.0,be,2111,,,,,,,vendez usdcad mtn au prix du marche,➖,❔,pas de niveaux,,,journalier,2020-04
+2020-04-03 02:58:45,XAUUSD,achat,texte,2120.0,inconnue,,,,,,,,buy limit sur gold a 1602.563,❔,❔,pas de niveaux,,,journalier,2020-04
+2020-04-06 02:09:08,GBPCAD,vente,texte,2123.0,inconnue,,1.74225,1.74938,1.71685,annoncé,stop,-1.0,sell limit sur gbpcad a 1.74225 stop loss a 1.74938 take profit a 1.71685,❔,❌,stop,,,journalier,2020-04
+2020-04-06 23:29:34,GBPUSD,vente,texte,2124.0,inconnue,,1.224,1.2288,1.2105,annoncé,stop,-1.0,sell limit sur gbpusd a 1.22400 stop loss a 1.22880 take profit at 1.21050,❔,❌,stop,,,journalier,2020-04
+2020-04-07 11:35:55,EURUSD,achat,texte,2125.0,inconnue,,1.0835,1.07981,1.09084,annoncé,stop,-1.0,buy limit on eurusd 1.08350 stop loss at 1.07981 take profit at 1.09084,❔,❌,stop,,,journalier,2020-04
+2020-04-07 12:10:53,USDCAD,vente,texte,2126.0,inconnue,,1.408,1.41266,1.39614,annoncé,objectif,2.55,sell limit sur usdcad a 1.40800 stop loss at 1.41266 et take profit at 1.39614,❔,✅,objectif,,,journalier,2020-04
+2020-04-07 14:10:27,EURUSD,vente,texte,2129.0,inconnue,,,,,,,,annullez les sell et buy limit sur eurusd et usdcad,❔,❔,pas de niveaux,,,journalier,2020-04
+2020-04-08 10:37:11,EURNZD,vente,texte,2135.0,profit_flottant,2138,,,,,,,sell eurnzd now at market price,⚠️,❔,pas de niveaux,,,journalier,2020-04
+2020-04-09 09:32:39,EURUSD,achat,texte,2144.0,inconnue,,,,,,,,buy eurusd at market price,❔,❔,pas de niveaux,,,journalier,2020-04
+2020-04-09 22:07:11,USDJPY,vente,texte,2151.0,profit_flottant,2154,108.564,108.771,107.939,incohérent,prix déjà au-delà du stop,,sell limit sur usdjpy a 108.564 stop loss 108.771 take profit a 107.939,⚠️,⚠️,prix déjà au-delà du stop,,,journalier,2020-04
+2020-04-13 01:45:27,EURJPY,vente,texte,2168.0,inconnue,,118.373,118.622,117.74,incohérent,prix déjà au-delà du stop,,sell limit sur eurjpy at 118.373 stop loss at 118.622 et take profit a 117.740,❔,⚠️,prix déjà au-delà du stop,,,journalier,2020-04
+2020-04-13 20:47:29,EURUSD,achat,texte,2178.0,inconnue,,1.08945,1.08535,1.1015,annoncé,stop,-1.0,buy limit sur eurusd at 1.08945 stop loss at 1.08535 tp at 1.10150,❔,❌,stop,,,journalier,2020-04
+2020-04-14 12:09:59,GBPUSD,achat,texte,2188.0,inconnue,,,,,,,,buy gbpusd at market price,❔,❔,pas de niveaux,,,journalier,2020-04
+2020-04-14 20:17:12,NZDJPY,vente,texte,2200.0,inconnue,,65.465,65.724,64.776,annoncé,stop,-1.0,Sell limit sur nzdjpy a 65.465 stop loss a 65.724 et take profit a 64.776,❔,❌,stop,,,journalier,2020-04
+2020-04-15 15:58:54,EURAUD,achat,texte,2219.0,inconnue,,1.71831,1.70923,1.73659,incohérent,prix déjà au-delà du stop,,buy limit sur euraud a 1.71831 stop loss a 1.70923 take profit a 1.73659,❔,⚠️,prix déjà au-delà du stop,,,journalier,2020-04
+2020-04-15 16:13:16,AUDJPY,vente,texte,2220.0,inconnue,,68.325,68.764,67.025,incohérent,prix déjà au-delà du stop,,sell limit sur audjpy a 68.325 stop loss at 68.764 take profit at 67.025,❔,⚠️,prix déjà au-delà du stop,,,journalier,2020-04
+2020-04-15 16:22:59,NZDUSD,vente,texte,2221.0,inconnue,,0.603,0.608,0.59135,incohérent,prix déjà au-delà du stop,,sell limit sur nzdusd at 0.60300 stop loss at 0.60800 take profit at 0.59135,❔,⚠️,prix déjà au-delà du stop,,,journalier,2020-04
+2020-04-17 02:25:28,GBPJPY,achat,texte,2236.0,inconnue,,134.5,134.1,135.28,annoncé,stop,-1.0,buy limit sur gbpjpy at 134.500 stop loss at 134.100 take profit at 135.280,❔,❌,stop,,,journalier,2020-04
+2020-04-17 03:00:41,AUDJPY,achat,texte,2238.0,inconnue,,,,,,,,buy limit sur audjpy 68.308 at 67.950 take profit at 69.025,❔,❔,pas de niveaux,,,journalier,2020-04
+2020-04-17 03:07:35,AUDUSD,achat,texte,2239.0,rate,2241,0.63465,0.6306,0.6434,annoncé,stop,-1.0,buy limit sur audusd at 0.63465 stop loss a 0.63060 and take profit at 0.64340,⏸,❌,stop,,,journalier,2020-04
+2020-04-20 11:45:07,GBPNZD,vente,texte,2251.0,inconnue,,2.06464,2.07208,2.04975,annoncé,stop,-1.0,sell limit sur gbpnzd at 2.06464 stop loss at 2.07208 take profit at 2.04975,❔,❌,stop,,,journalier,2020-04
+2020-04-20 12:20:40,EURCAD,achat,texte,2255.0,inconnue,,1.53,1.5265,1.53721,incohérent,prix déjà au-delà du stop,,buy limit sur eurcad a 1.53000 stop loss a 1.52650 et take profit a 1.53721,❔,⚠️,prix déjà au-delà du stop,,,journalier,2020-04
+2020-04-22 02:29:30,NZDUSD,vente,texte,2261.0,inconnue,,0.60062,0.60484,0.58797,annoncé,stop,-1.0,sell limit sur nzdusd at 0.60062 stop loss at 0.60484 and take profit at 0.58797,❔,❌,stop,,,journalier,2020-04
+2020-04-22 03:22:46,USDCAD,achat,texte,2265.0,profit_flottant,2268,1.41465,1.40553,1.43296,annoncé,stop,-1.0,buy limit sur usdcad at 1.41465 stop loss a 1.40553 take profit at 1.43296,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,journalier,2020-04
+2020-04-23 18:42:23,GBPUSD,vente,texte,2271.0,inconnue,,1.2409,1.248,1.2248,annoncé,stop,-1.0,sell limit sur gbpusd at 1.24090 stop loss a 1.24800 take profit a 1.22480,❔,❌,stop,,,journalier,2020-04
+2020-04-23 20:50:17,GBPCAD,vente,texte,2272.0,inconnue,,1.74175,1.747,1.734,incohérent,prix déjà au-delà du stop,,sell limit sur gbpcad at 1.74175 stop loss at 1.74700 take profit at 1.73400,❔,⚠️,prix déjà au-delà du stop,,,journalier,2020-04
+2020-04-27 13:07:46,GBPUSD,achat,texte,2275.0,inconnue,,1.23872,1.23367,1.24882,annoncé,objectif,2.0,mettez un buy limit sur gbpusd a 1.23872 stop loss a 1.23367 et take profit  1.24882,❔,✅,objectif,,,journalier,2020-04
+2020-04-27 21:46:47,NZDUSD,achat,texte,2280.0,inconnue,,0.6026,0.59975,0.607,annoncé,objectif,1.54,buy limit sur nzdusd a 0.60260 stop loss at 0.59975 take profit at 0.60700,❔,✅,objectif,,,journalier,2020-04
+2020-05-01 02:42:05,GBPJPY,achat,texte,2292.0,inconnue,,133.72,132.69,135.83,annoncé,stop,-1.0,buy limit sur gbpjpy at 133.720 stop loss at 132.690 take profit at 135.830,❔,❌,stop,,,journalier,2020-05
+2020-05-13 07:59:07,GBPUSD,vente,texte,2302.0,sl,2306,,,,,,,sell gbpusd now at market price,❌,❔,pas de niveaux,,,journalier,2020-05
+2020-05-14 06:48:07,AUDJPY,vente,texte,2308.0,rate,2309,69.132,69.475,68.109,annoncé,stop,-1.0,sell limit sur audjpy at 69.132 stop loss at 69.475 take profit at 68.109,⏸,❌,stop,,,journalier,2020-05
+2020-05-27 03:55:08,NZDJPY,achat,texte,2318.0,rate,2320,66.25,65.82,67.15,annoncé,non déclenché (objectif atteint sans entrée),,buy limit sur nzdjpy at 66.250 stop loss at 65.820 take profit at 67.150,⏸,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2020-05
+2020-05-27 11:08:09,NZDJPY,achat,texte,2321.0,inconnue,,,,,,,,"Nzdjpy hit our profit zone without coming back to touch our entry zone, therefore cancel the buy limit.",❔,❔,pas de niveaux,,,journalier,2020-05
+2020-05-27 22:09:57,NZDCAD,vente,texte,2323.0,inconnue,,0.8527,0.8551,0.8475,annoncé,stop,-1.0,sell limit sur nzdcad at 0.85270 stop loss at 0.85510 take profit at 0.84750,❔,❌,stop,,,journalier,2020-05
+2020-05-27 22:44:41,GBPUSD,vente,texte,2324.0,inconnue,,1.228,1.2322,1.2196,incohérent,prix déjà au-delà du stop,,sell limit sur gbpusd at 1.22800 stop loss at 1.23220 take profit at 1.21960,❔,⚠️,prix déjà au-delà du stop,,,journalier,2020-05
+2020-05-29 06:31:34,USDJPY,vente,texte,2337.0,inconnue,,107.4,107.7,106.77,annoncé,stop,-1.0,sell limit sur usdjpy at 107.400 stop loss at 107.700 take profit at 106.770,❔,❌,stop,,,journalier,2020-05
+2020-06-05 12:13:03,GBPUSD,achat,texte,2340.0,be,2365,,,,,,,buy gbpusd now at market price,➖,❔,pas de niveaux,,,journalier,2020-06
+2020-06-12 08:16:14,GBPJPY,vente,texte,2361.0,inconnue,,,,,,,,sell limit sur gbpjpy at 135.600 stop loss at 136.660,❔,❔,pas de niveaux,,,journalier,2020-06
+2020-07-10 10:03:03,GBPCHF,achat,texte,,rate,2408,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2020-07
+2020-07-13 01:49:50,EURJPY,vente,texte,2411.0,inconnue,,,,,,,,"bonsoir, ce soirnous allons pratiquer ce que nous avons appris avec les zones de supply et demand. Sell limit sur eurjpy at 121.200",❔,❔,pas de niveaux,,,journalier,2020-07
+2020-07-13 02:14:22,GBPCHF,achat,texte,,rate,2419,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2020-07
+2020-07-27 06:47:37,NZDCAD,achat,texte,2465.0,inconnue,,,,,,,,buy limit sur nzdcad,❔,❔,pas de niveaux,,,journalier,2020-07
+2020-07-30 08:11:41,EURJPY,achat,texte,2483.0,profit_flottant,2491,,,,,,,buy limit sur eurjpy at 123.400 stop loss at 123.300,⚠️,❔,pas de niveaux,,,journalier,2020-07
+2020-07-31 10:24:48,NZDUSD,achat,texte,2497.0,rate,2510,,,,,,,buy limit sur nzdusd a 0.66804 stop loss a 0.66729,⏸,❔,pas de niveaux,,,journalier,2020-07
+2020-08-05 10:36:06,NZDUSD,vente,texte,2508.0,rate,2510,,,,,,,sell limit sur nzdusd a 0.66592 stop loss est a 3 pips de l'entree a 0.66620,⏸,❔,pas de niveaux,,,journalier,2020-08
+2020-08-05 11:12:56,GBPCAD,achat,texte,2509.0,inconnue,,,,,,,,buy limit sur gbpcad at 1.73831 stop loss at 1.73769,❔,❔,pas de niveaux,,,journalier,2020-08
+2020-08-07 07:22:30,GBPAUD,?,texte,,rate,2523,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2020-08
+2020-08-13 11:48:17,EURUSD,?,texte,,sl,2566,,,,,,,(entrée non retrouvée),❌,❔,pas de niveaux,,,journalier,2020-08
+2020-08-18 11:30:16,GBPUSD,vente,texte,2594.0,rate,2606,,,,,,,gbpusd case study. Voici un setup que je vais prendre. Pas de sell limit mais la premiere bougie engulfing a partir de mon point d'entree,⏸,❔,pas de niveaux,,,journalier,2020-08
+2020-08-20 12:33:40,NZDCAD,?,texte,,rate,2605,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2020-08
+2020-10-07 06:20:27,GBPJPY,?,texte,,tp,2794,,,,,,,(entrée non retrouvée),✅,❔,pas de niveaux,,,journalier,2020-10
+2020-10-09 05:56:59,XAUUSD,vente,texte,2809.0,rate,2843 2851,,,,,,,Un sell limit sur gold qui n’a pas été remplie et le marché a changé de direction. Ce n’est pas grave je vais vous donner le case study tout de suite,⏸,❔,pas de niveaux,,,journalier,2020-10
+2020-11-03 18:50:21,XAUUSD,?,texte,,rate,3009,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2020-11
+2020-11-12 12:04:26,EURUSD,vente,texte,3046.0,inconnue,,,,,,,,sell limit a 18.200 sur eurusd,❔,❔,pas de niveaux,,,journalier,2020-11
+2020-12-16 08:47:22,EURJPY,achat,texte,3174.0,rate,3179,,,,,,,Buy limit sur eurjpy a 125.850 et stop loss a 125.688,⏸,❔,pas de niveaux,,,journalier,2020-12
+2020-12-17 13:29:53,GBPCAD,vente,texte,3181.0,inconnue,,,,,,,,Sell limit sur gbpcad a 1.72914,❔,❔,pas de niveaux,,,journalier,2020-12
+2020-12-17 14:55:57,GBPCAD,vente,texte,3185.0,inconnue,,,,,,,,Sell limit sur gbpcad at 1.72918,❔,❔,pas de niveaux,,,journalier,2020-12
+2021-01-04 15:42:23,EURGBP,achat,capture revue,3237.0,inconnue,,0.89405,0.89318,0.90699,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-01
+2021-01-06 05:30:00,EURGBP,achat,capture OCR,3241.0,inconnue,,0.90182,0.90122,0.9035,annoncé,objectif,2.8,,❔,✅,objectif,,,journalier,2021-01
+2021-01-11 17:15:01,XAUUSD,achat,capture revue,3260.0,inconnue,,1827.4,1825.0,1874.0,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-01
+2021-01-14 11:30:10,EURGBP,achat,capture revue,3280.0,inconnue,,0.88904,0.88863,0.89153,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-01
+2021-01-14 11:54:00,EURJPY,achat,capture OCR,3282.0,inconnue,,126.55,126.365,126.767,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2021-01
+2021-01-14 17:24:00,USDJPY,vente,capture OCR,3284.0,inconnue,,104.105,104.145,103.691,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-01
+2021-01-15 17:19:00,GBPUSD,vente,capture OCR,3288.0,inconnue,,1.36963,1.37015,1.35752,annoncé,objectif,23.29,,❔,✅,objectif,,,journalier,2021-01
+2021-01-18 16:16:34,GBPJPY,achat,capture revue,3301.0,inconnue,,140.427,140.387,140.789,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2021-01
+2021-01-18 16:17:00,GBPAUD,vente,capture OCR,3303.0,inconnue,,1.76573,1.76671,1.76293,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-01
+2021-01-20 01:44:51,GBPCAD,achat,texte + capture,3316.0,inconnue,,1.7305,1.7287,1.7344,annoncé,objectif,2.17,buy limit sur gbpcad a 1.72970 stop loss a 1.72870,❔,✅,objectif,,,journalier,2021-01
+2021-01-21 11:54:46,GBPAUD,achat,capture revue,3326.0,inconnue,,1.76013,1.75936,1.77286,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-01
+2021-01-21 15:09:29,AUDCAD,vente,texte,3330.0,inconnue,,,,,,,,Sell limit sur audcad,❔,❔,pas de niveaux,,,journalier,2021-01
+2021-01-21 15:14:00,EURNZD,achat,capture OCR,3340.0,inconnue,,1.6817,1.68109,1.68806,annoncé,objectif,10.43,,❔,✅,objectif,,,journalier,2021-01
+2021-01-26 16:11:00,USDCHF,achat,capture OCR,3361.0,inconnue,,0.88517,0.88457,0.89301,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-01
+2021-01-27 16:11:00,US30,vente,capture OCR,3364.0,inconnue,,30667.48,30688.53,30381.28,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2021-01
+2021-01-29 08:22:45,EURUSD,achat,texte + capture,3385.0,inconnue,3406 3416,1.20975,1.20915,1.2163,annoncé,stop,-1.0,buy limit sur eurusd at 1.20975 stop loss at 1.20915,❔,❌,stop,,,journalier,2021-01
+2021-01-29 09:08:00,USDCAD,vente,capture OCR,3391.0,inconnue,,1.28723,1.28763,1.28326,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,journalier,2021-01
+2021-02-03 00:59:36,GBPJPY,vente,capture OCR,3403.0,profit_flottant,#3422 #3433,143.686,143.747,142.463,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,journalier,2021-02
+2021-02-03 08:28:19,NZDUSD,vente,capture revue,3413.0,inconnue,,0.72313,0.72383,0.711,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-02
+2021-02-04 06:22:23,AUDCHF,vente,texte + capture,3429.0,inconnue,,0.68724,0.68764,0.6853,annoncé,stop,-1.0,sell limit sur audchf at 0.68724 stop loss at 0.68764,❔,❌,stop,,,journalier,2021-02
+2021-02-04 09:59:28,USDMXN,achat,capture revue,3442.0,inconnue,,20.14437,20.10261,20.59945,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-02
+2021-02-04 14:47:55,EURAUD,vente,capture OCR,3444.0,tp,#3445 (capture),1.59356,1.59461,1.56969,annoncé,non déclenché (objectif atteint sans entrée),,,✅,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-02
+2021-02-05 19:07:00,NZDUSD,achat,capture OCR,3449.0,inconnue,,0.71396,0.71351,0.72007,annoncé,objectif,13.58,,❔,✅,objectif,,,journalier,2021-02
+2021-02-08 11:34:53,AUDCHF,vente,capture revue,3455.0,inconnue,,0.69057,0.69106,0.6856,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-02
+2021-02-19 18:40:20,AUDUSD,achat,capture OCR,3475.0,inconnue,,0.77678,0.77245,0.78512,annoncé,objectif,1.93,,❔,✅,objectif,,,journalier,2021-02
+2021-02-19 18:47:00,USDJPY,achat,capture OCR,3476.0,inconnue,,105.601,105.239,106.188,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-02
+2021-02-19 18:59:00,AUDUSD,achat,capture OCR,3479.0,inconnue,,0.77343,0.77269,0.78564,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-02
+2021-02-24 19:21:00,XAUUSD,vente,capture OCR,3488.0,inconnue,,1813.391,1815.042,1790.325,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-02
+2021-03-01 07:55:00,EURGBP,vente,capture OCR,3520.0,inconnue,,0.8645,0.86496,0.8635,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2021-03
+2021-03-01 08:35:00,GBPUSD,vente,capture OCR,3508.0,rate,#3533,1.40936,1.41238,1.40321,après coup,objectif déjà dépassé à la publication,,,⏸,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2021-03
+2021-03-01 08:37:17,GBPUSD,vente,capture revue,3509.0,rate,#3533,1.40185,1.40206,1.39131,annoncé,non déclenché (objectif atteint sans entrée),,,⏸,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-03
+2021-03-01 09:27:14,EURGBP,vente,capture OCR,3519.0,inconnue,,0.8665,0.86678,0.8635,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-03
+2021-03-02 17:38:00,EURGBP,vente,capture OCR,3526.0,inconnue,,0.86579,0.86639,0.86002,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-03
+2021-03-03 12:55:00,GBPUSD,vente,capture OCR,3534.0,rate,#3533,1.39789,1.39852,1.39153,annoncé,stop,-1.0,,⏸,❌,stop,,,journalier,2021-03
+2021-03-03 13:10:00,EURAUD,achat,capture OCR,3537.0,tp,#3538 (capture),1.54342,1.54289,1.55123,annoncé,stop,-1.0,,✅,❌,stop,"TP annoncé, stop selon les cours",,journalier,2021-03
+2021-03-03 13:21:00,AUDCAD,achat,capture OCR,3532.0,inconnue,,0.987,0.98198,0.98974,annoncé,objectif,0.55,,❔,✅,objectif,,,journalier,2021-03
+2021-03-03 17:31:01,GBPUSD,?,texte,,rate,3533,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2021-03
+2021-03-03 18:10:00,AUDCAD,achat,capture OCR,3539.0,inconnue,,0.98259,0.982,0.98976,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-03
+2021-03-05 07:15:00,EURNZD,achat,capture OCR,3563.0,inconnue,,1.6569,1.6559,1.66995,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-03
+2021-03-08 14:45:00,EURUSD,vente,capture OCR,3565.0,inconnue,,1.21679,1.21729,1.21168,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2021-03
+2021-03-08 14:46:00,EURUSD,vente,capture OCR,3566.0,inconnue,,1.21153,1.21203,1.20884,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2021-03
+2021-03-08 14:47:00,EURUSD,vente,capture OCR,3567.0,inconnue,,1.20488,1.20522,1.20447,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2021-03
+2021-03-11 23:15:26,GBPUSD,vente,capture revue,3576.0,tp,#3601 (capture),1.3955,1.396,1.377,annoncé,stop,-1.0,,✅,❌,stop,"TP annoncé, stop selon les cours",,journalier,2021-03
+2021-03-15 10:36:00,GBPUSD,achat,capture OCR,3585.0,profit_flottant,#3586 #3594,1.37958,1.37925,1.38474,après coup,objectif déjà dépassé à la publication,,,⚠️,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2021-03
+2021-03-15 10:46:05,GBPUSD,vente,capture OCR,3591.0,tp,#3601 (capture),1.39444,1.39503,1.38026,annoncé,stop,-1.0,,✅,❌,stop,"TP annoncé, stop selon les cours",,journalier,2021-03
+2021-03-16 15:51:00,GBPJPY,vente,capture OCR,3603.0,inconnue,,151.697,151.778,150.805,annoncé,objectif,11.01,,❔,✅,objectif,,,journalier,2021-03
+2021-03-16 16:26:00,GBPJPY,vente,capture OCR,3605.0,inconnue,,151.448,151.484,151.043,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2021-03
+2021-03-16 16:46:59,GBPJPY,achat,capture revue,3609.0,inconnue,,151.035,151.0,151.686,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-03
+2021-03-25 23:32:00,EURJPY,achat,capture OCR,3641.0,inconnue,,128.411,128.289,128.613,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-03
+2021-03-30 11:21:00,USDJPY,vente,capture OCR,3669.0,inconnue,,109.264,109.328,108.769,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2021-03
+2021-04-01 01:34:00,EURJPY,vente,capture OCR,3696.0,inconnue,,129.992,130.094,128.305,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-04
+2021-04-09 16:17:53,XAUUSD,achat,capture revue,3782.0,inconnue,,1733.115,1730.258,1745.818,après coup,objectif,4.45,,❔,⚠️,publié après l'entrée (objectif),,,journalier,2021-04
+2021-04-09 17:52:26,GBPCAD,vente,capture OCR,3788.0,inconnue,,1.74684,1.74934,1.71748,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-04
+2021-04-09 21:37:00,NZDUSD,vente,capture OCR,3792.0,inconnue,,0.70504,0.70529,0.70404,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2021-04
+2021-04-19 14:59:00,EURUSD,achat,capture OCR,3846.0,inconnue,,1.21318,1.21133,1.21522,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2021-04
+2021-04-20 04:39:00,EURUSD,vente,capture OCR,3859.0,inconnue,,1.20625,1.2074,1.20387,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-04
+2021-04-29 07:25:28,GBPJPY,achat,capture OCR,3894.0,inconnue,,150.5,148.881,151.975,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-04
+2021-04-29 07:25:28,GBPNZD,vente,capture revue,3893.0,inconnue,,1.9294,1.93546,1.91768,annoncé,objectif,1.93,,❔,✅,objectif,,,journalier,2021-04
+2021-05-05 13:20:00,EURUSD,achat,capture OCR,3912.0,be,#3931 #3934,1.19995,1.19902,1.21391,annoncé,stop,-1.0,,➖,❌,stop,,,journalier,2021-05
+2021-05-05 13:29:00,EURUSD,achat,capture OCR,3918.0,be,#3931 #3934,1.19932,1.19861,1.21445,annoncé,objectif,21.31,,➖,✅,objectif,,,journalier,2021-05
+2021-05-05 13:50:22,GBPNZD,vente,capture revue,3926.0,inconnue,,1.94248,1.94318,1.91714,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-05
+2021-05-05 13:53:27,EURJPY,vente,capture OCR,3930.0,inconnue,,131.442,131.463,131.13,annoncé,objectif,14.86,,❔,✅,objectif,,,journalier,2021-05
+2021-05-05 14:01:40,EURUSD,?,texte,,be,3931,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,journalier,2021-05
+2021-05-06 12:57:53,EURUSD,?,texte,,be,3934,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,journalier,2021-05
+2021-05-06 13:34:35,AUDCAD,vente,capture OCR,3945.0,inconnue,,0.96806,0.9701,0.95432,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2021-05
+2021-05-11 13:48:00,AUDCAD,achat,capture OCR,3991.0,inconnue,,0.94749,0.94689,0.94816,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-05
+2021-06-16 18:28:33,USDCAD,?,texte,,rate,4131,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2021-06
+2021-06-16 19:08:00,EURJPY,vente,capture OCR,4134.0,inconnue,,133.576,133.617,132.85,annoncé,objectif,17.71,,❔,✅,objectif,,,journalier,2021-06
+2021-06-17 12:42:26,GBPNZD,vente,capture OCR,4148.0,inconnue,,1.98498,1.98599,1.96867,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-06
+2021-06-17 23:08:58,GBPCAD,achat,capture revue,4158.0,inconnue,,1.71684,1.71644,1.72557,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-06
+2021-06-21 16:30:44,EURUSD,achat,capture OCR,4176.0,profit_flottant,#4192,1.18516,1.18466,1.19175,annoncé,objectif,13.18,,⚠️,✅,objectif,,,journalier,2021-06
+2021-06-21 16:32:06,EURUSD,achat,capture revue,4177.0,profit_flottant,#4192,1.18615,1.18556,1.19248,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,journalier,2021-06
+2021-06-22 10:17:20,USDJPY,vente,capture revue,4181.0,inconnue,,110.44,110.49,109.73,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-06
+2021-06-25 03:57:00,EURUSD,achat,capture OCR,4189.0,tp,#4192 (capture),1.19282,1.19247,1.19404,annoncé,stop,-1.0,,✅,❌,stop,"TP annoncé, stop selon les cours",,journalier,2021-06
+2021-06-28 01:46:00,NZDUSD,vente,capture OCR,4194.0,tp,#4196 (capture),0.70919,0.70969,0.70018,annoncé,non déclenché (objectif atteint sans entrée),,,✅,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-06
+2021-06-30 11:09:45,EURNZD,vente,capture revue,4202.0,inconnue,,1.70383,1.70483,1.693,annoncé,objectif,10.83,,❔,✅,objectif,,,journalier,2021-06
+2021-06-30 18:35:00,EURJPY,achat,capture OCR,4212.0,inconnue,,131.315,131.261,132.151,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-06
+2021-07-01 17:31:19,USDCAD,achat,capture revue,4222.0,inconnue,,1.23637,1.23537,1.24337,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-07
+2021-07-06 13:15:00,GBPCHF,vente,capture OCR,4237.0,tp,#4290 (capture),1.28074,1.28204,1.26532,annoncé,non déclenché (objectif atteint sans entrée),,,✅,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-07
+2021-07-07 13:32:00,USDJPY,achat,capture OCR,4258.0,inconnue,,110.536,110.496,111.641,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-07
+2021-07-08 01:59:00,EURGBP,achat,capture OCR,4268.0,inconnue,,0.8575,0.85668,0.8584,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2021-07
+2021-07-08 07:18:33,USDCAD,achat,capture revue,4273.0,inconnue,,1.24,1.2385,1.259,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-07
+2021-07-08 08:19:00,GBPJPY,achat,capture OCR,4286.0,inconnue,,153.157,153.127,153.899,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2021-07
+2021-07-12 10:21:24,EURJPY,vente,capture revue,4308.0,inconnue,,130.775,130.875,129.9,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-07
+2021-07-13 11:33:19,EURGBP,achat,capture revue,4314.0,inconnue,,0.854,0.8536,0.85763,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-07
+2021-07-13 12:36:09,EURNZD,?,texte,,be,4316,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,journalier,2021-07
+2021-07-13 12:36:12,EURNZD,achat,capture OCR,4317.0,inconnue,,1.69486,1.69382,1.70306,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-07
+2021-07-13 12:39:00,EURGBP,achat,capture OCR,4320.0,inconnue,,0.85544,0.8536,0.85763,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-07
+2021-07-30 17:37:56,EURGBP,achat,capture revue,4345.0,profit_flottant,#4347,0.85091,0.84994,0.861,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,journalier,2021-07
+2021-08-23 14:57:00,GBPUSD,achat,capture OCR,4406.0,tp,#4408 (capture),1.36083,1.36007,1.37528,annoncé,non déclenché (objectif atteint sans entrée),,,✅,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-08
+2021-08-25 13:18:28,EURJPY,achat,capture revue,4415.0,inconnue,,128.8,128.75,129.27,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-08
+2021-09-01 14:59:04,EURUSD,achat,capture revue,4447.0,inconnue,,1.1784,1.178,1.1891,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-09
+2021-09-09 13:05:00,EURJPY,achat,capture OCR,4471.0,inconnue,,128.779,128.697,130.682,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-09
+2021-09-09 13:24:00,EURJPY,achat,capture OCR,4475.0,inconnue,,129.897,128.697,130.695,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-09
+2021-09-15 16:56:00,AUDCAD,vente,capture OCR,4494.0,inconnue,,0.92963,0.93013,0.92692,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-09
+2021-09-15 19:48:00,NZDUSD,achat,capture OCR,4498.0,inconnue,,0.71083,0.71056,0.71456,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2021-09
+2021-09-23 02:54:00,AUDUSD,vente,capture OCR,4525.0,profit_flottant,#4526,0.72396,0.7243,0.72137,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,journalier,2021-09
+2021-09-30 18:34:41,XAUUSD,achat,capture revue,4544.0,inconnue,,1724.119,1723.156,1760.416,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-09
+2021-09-30 18:37:00,AUDUSD,vente,capture OCR,4546.0,tp,#4555 (capture),0.73111,0.7315,0.72267,après coup,objectif,21.64,,✅,⚠️,publié après l'entrée (objectif),,,journalier,2021-09
+2021-09-30 18:50:00,EURUSD,vente,capture OCR,4551.0,inconnue,,1.17688,1.18057,1.17091,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2021-09
+2021-10-03 23:57:00,AUDUSD,achat,capture OCR,4562.0,inconnue,,0.72515,0.7248,0.7281,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-10
+2021-10-04 14:22:00,XAUUSD,achat,capture OCR,4567.0,inconnue,,1748.889,1748.223,1764.074,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-10
+2021-10-04 14:38:00,EURJPY,vente,capture OCR,4574.0,tp,#4575 (capture),129.337,129.366,128.987,après coup,objectif déjà dépassé à la publication,,,✅,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2021-10
+2021-10-05 13:05:00,USDJPY,vente,capture OCR,4576.0,inconnue,,111.223,111.248,110.847,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-10
+2021-10-05 13:10:00,USDJPY,achat,capture OCR,4577.0,inconnue,,111.223,111.106,111.316,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2021-10
+2021-10-05 13:48:00,EURNZD,achat,capture OCR,4584.0,inconnue,,1.66616,1.66396,1.67243,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-10
+2021-10-05 13:52:00,EURGBP,vente,capture OCR,4587.0,inconnue,,0.85201,0.85221,0.85049,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2021-10
+2021-10-08 15:26:00,XAUUSD,achat,capture OCR,4608.0,inconnue,,1757.615,1754.187,1780.697,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-10
+2021-10-15 16:44:00,EURUSD,vente,capture OCR,4619.0,inconnue,,1.16086,1.16111,1.15853,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-10
+2021-10-15 16:48:00,EURUSD,vente,capture OCR,4622.0,inconnue,,1.15963,1.16111,1.15853,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-10
+2021-10-19 04:50:00,XAUUSD,achat,capture OCR,4630.0,inconnue,,1761.587,1761.116,1774.95,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-10
+2021-10-25 16:48:00,XAUUSD,vente,capture OCR,4654.0,tp,#4660 (capture),1812.249,1814.275,1783.196,annoncé,non déclenché (objectif atteint sans entrée),,,✅,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-10
+2021-11-04 15:00:00,GBPUSD,achat,capture OCR,4714.0,inconnue,,1.37637,1.37559,1.38298,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2021-11
+2021-11-08 14:33:00,EURJPY,achat,capture OCR,4734.0,inconnue,,131.659,131.547,132.398,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2021-11
+2021-11-08 14:34:00,EURJPY,vente,capture OCR,4737.0,inconnue,,131.327,131.547,130.991,annoncé,objectif,1.53,,❔,✅,objectif,,,journalier,2021-11
+2021-11-08 14:55:37,EURJPY,vente,capture revue,4747.0,inconnue,,131.25,131.31,130.87,annoncé,objectif,6.33,,❔,✅,objectif,,,journalier,2021-11
+2021-11-11 03:41:00,GBPUSD,vente,capture OCR,4782.0,inconnue,,1.36003,1.36084,1.34044,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-11
+2021-11-11 17:14:00,USDCAD,achat,capture OCR,4795.0,inconnue,,1.23899,1.23722,1.25921,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-11
+2021-11-11 17:19:00,NZDUSD,vente,capture OCR,4799.0,inconnue,,0.71739,0.71829,0.70736,après coup,objectif,11.14,,❔,⚠️,publié après l'entrée (objectif),,,journalier,2021-11
+2021-11-11 23:27:00,USDJPY,vente,capture OCR,4803.0,inconnue,,114.2,114.305,114.071,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2021-11
+2021-11-12 20:03:00,AUDJPY,achat,capture OCR,4817.0,inconnue,,83.05,82.947,84.186,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-11
+2021-11-16 17:44:00,GBPUSD,achat,capture OCR,4847.0,tp,#4876 (capture),1.34107,1.34038,1.34756,annoncé,stop,-1.0,,✅,❌,stop,"TP annoncé, stop selon les cours",,journalier,2021-11
+2021-11-17 12:24:00,NZDJPY,vente,capture OCR,4865.0,tp,#4907 (capture),80.595,80.647,79.814,annoncé,objectif,15.02,,✅,✅,objectif,,,journalier,2021-11
+2021-11-18 07:16:00,XAUUSD,vente,capture OCR,4889.0,inconnue,,1874.615,1878.616,1846.758,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-11
+2021-11-19 08:36:00,GBPUSD,vente,capture OCR,4903.0,tp,#4906 (capture),1.35062,1.35297,1.34568,annoncé,objectif,2.1,,✅,✅,objectif,,,journalier,2021-11
+2021-11-19 10:38:00,USDJPY,achat,capture OCR,4905.0,inconnue,,114.112,114.041,114.694,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-11
+2021-11-19 14:14:14,GBPUSD,vente,capture revue,4906.0,inconnue,,1.3499,1.351,1.34085,annoncé,objectif,8.23,,❔,✅,objectif,,,journalier,2021-11
+2021-11-19 18:24:00,EURNZD,achat,capture OCR,4911.0,tp,#4946,1.60884,1.60601,1.63353,annoncé,objectif,8.72,,✅,✅,objectif,,,journalier,2021-11
+2021-11-23 06:20:05,EURNZD,achat,texte + capture,,tp,4946,1.60708,1.60608,1.62325,annoncé,objectif,16.17,(entrée non retrouvée),✅,✅,objectif,,,journalier,2021-11
+2021-11-23 17:23:00,EURAUD,vente,capture OCR,4950.0,inconnue,,1.56411,1.5655,1.54426,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-11
+2021-11-24 17:07:00,AUDUSD,achat,capture OCR,4958.0,sl,#5104,0.71822,0.71695,0.73716,annoncé,stop,-1.0,,❌,❌,stop,,,journalier,2021-11
+2021-11-26 00:42:24,AUDUSD,achat,capture revue,4972.0,sl,#5104,0.71744,0.7167,0.73604,annoncé,stop,-1.0,,❌,❌,stop,,,journalier,2021-11
+2021-11-30 17:54:04,EURJPY,achat,texte + capture,,rate,5020,127.606,127.479,129.542,annoncé,objectif,15.24,(entrée non retrouvée),⏸,✅,objectif,,,journalier,2021-11
+2021-12-01 18:31:29,GBPNZD,vente,capture revue,5041.0,inconnue,,1.9475,1.9478,1.941,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-12
+2021-12-02 15:17:25,AUDUSD,achat,capture revue,5064.0,sl,#5104,0.70861,0.70607,0.72774,annoncé,stop,-1.0,,❌,❌,stop,,,journalier,2021-12
+2021-12-02 17:15:00,GBPJPY,vente,capture OCR,5076.0,inconnue,,151.5,152.54,150.687,après coup,objectif,0.78,,❔,⚠️,publié après l'entrée (objectif),,,journalier,2021-12
+2021-12-02 17:29:00,USDJPY,achat,capture OCR,5083.0,inconnue,,112.779,112.629,114.041,annoncé,objectif,8.41,,❔,✅,objectif,,,journalier,2021-12
+2021-12-02 17:56:00,AUDUSD,achat,capture OCR,5093.0,sl,#5104,0.714,0.70809,0.71714,annoncé,objectif,0.53,,❌,✅,objectif,"SL annoncé, objectif selon les cours",,journalier,2021-12
+2021-12-03 15:15:51,USDCHF,vente,capture revue,5101.0,inconnue,,0.92144,0.9217,0.92108,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,journalier,2021-12
+2021-12-04 05:11:19,AUDUSD,achat,texte + capture,,sl,5104,0.715,0.71073,0.71714,annoncé,objectif,0.5,(entrée non retrouvée),❌,✅,objectif,"SL annoncé, objectif selon les cours",,journalier,2021-12
+2021-12-16 12:52:40,EURGBP,achat,capture revue,5213.0,inconnue,,0.84598,0.84411,0.85877,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-12
+2021-12-16 23:35:00,GBPJPY,vente,capture OCR,5226.0,inconnue,,152.0,152.54,149.592,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-12
+2021-12-17 11:52:17,GBPJPY,vente,capture revue,5231.0,inconnue,,152.5,152.54,149.592,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-12
+2021-12-21 01:25:00,NZDUSD,achat,capture OCR,5253.0,profit_flottant,#5255 #5258,0.67011,0.67004,0.67111,après coup,objectif déjà dépassé à la publication,,,⚠️,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2021-12
+2021-12-22 17:08:00,NZDUSD,achat,capture OCR,5259.0,profit_flottant,#5258,0.67117,0.67004,0.68187,annoncé,non déclenché (objectif atteint sans entrée),,,⚠️,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-12
+2021-12-23 05:31:00,EURNZD,achat,capture OCR,5264.0,be,#5267,1.65675,1.65475,1.68078,annoncé,stop,-1.0,,➖,❌,stop,,,journalier,2021-12
+2021-12-23 05:31:00,EURNZD,achat,capture OCR,5263.0,be,#5267,1.67,1.66472,1.68078,incohérent,prix déjà au-delà du stop,,,➖,⚠️,prix déjà au-delà du stop,,,journalier,2021-12
+2021-12-23 13:41:52,EURNZD,?,texte,,be,5267,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,journalier,2021-12
+2021-12-29 02:33:00,AUDUSD,achat,capture OCR,5307.0,inconnue,,0.72132,0.72046,0.72614,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-12
+2021-12-29 02:34:00,NZDUSD,achat,capture OCR,5304.0,tp,#5313 (capture),0.6794,0.67857,0.68472,annoncé,objectif,6.41,,✅,✅,objectif,,,journalier,2021-12
+2021-12-29 18:21:00,AUDUSD,achat,capture OCR,5311.0,inconnue,,0.723,0.72048,0.7247,annoncé,objectif,0.67,,❔,✅,objectif,,,journalier,2021-12
+2021-12-30 11:44:03,EURUSD,achat,capture revue,5317.0,inconnue,,1.1281,1.12722,1.13709,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2021-12
+2021-12-30 13:19:00,USDCAD,achat,capture OCR,5325.0,inconnue,,1.27764,1.2766,1.28833,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2021-12
+2022-01-10 15:42:00,USDCAD,achat,capture OCR,5391.0,inconnue,,1.2625,1.26068,1.269,annoncé,objectif,3.57,,❔,✅,objectif,,,journalier,2022-01
+2022-01-11 19:18:16,NZDJPY,achat,capture revue,5398.0,inconnue,,77.612,77.552,78.335,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-01
+2022-01-12 16:01:00,GBPJPY,achat,capture OCR,5413.0,inconnue,,157.4,157.165,157.71,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-01
+2022-01-12 22:20:00,GBPJPY,vente,capture OCR,5414.0,inconnue,,157.507,157.665,155.924,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-01
+2022-01-12 23:55:00,GBPJPY,vente,capture OCR,5435.0,inconnue,,157.301,157.486,157.174,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-01
+2022-01-13 21:12:19,EURUSD,vente,texte,5443.0,profit_flottant,5469,,,,,,,2e loi de wyckoff. Cause et effet. Si vous vendez eurusd ce que vous n'avez rien compris du marché,⚠️,❔,pas de niveaux,,,journalier,2022-01
+2022-01-20 07:16:00,EURGBP,vente,capture OCR,5463.0,inconnue,,0.83646,0.83795,0.83309,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2022-01
+2022-01-20 16:14:03,NZDUSD,achat,capture revue,5468.0,profit_flottant,#5471 (capture),0.67602,0.67525,0.68612,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,journalier,2022-01
+2022-01-24 03:23:00,EURGBP,vente,capture OCR,5486.0,inconnue,,0.83745,0.83819,0.82506,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-01
+2022-01-24 21:36:41,EURUSD,achat,capture OCR,5492.0,inconnue,,1.12948,1.12818,1.14417,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-01
+2022-01-30 01:36:43,XAUUSD,achat,capture OCR,5522.0,inconnue,,1829.993,1827.717,1850.729,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2022-01
+2022-01-31 16:52:13,GBPJPY,vente,capture revue,5539.0,inconnue,,155.128,155.239,154.828,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2022-01
+2022-02-01 15:03:47,XAUUSD,vente,capture revue,5549.0,profit_flottant,#5552 #5554 #5563 (capture),1807.57,1809.63,1795.5,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,journalier,2022-02
+2022-02-02 06:12:00,EURJPY,vente,capture OCR,5568.0,inconnue,,129.45,129.55,129.361,après coup,objectif,0.89,,❔,⚠️,publié après l'entrée (objectif),,,journalier,2022-02
+2022-02-02 08:24:39,AUDJPY,vente,capture revue,5574.0,inconnue,,82.01,82.198,80.744,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-02
+2022-02-08 04:38:00,NZDUSD,vente,capture OCR,5601.0,inconnue,,0.66483,0.66552,0.65918,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-02
+2022-02-11 05:17:00,NZDJPY,vente,capture OCR,5607.0,inconnue,,77.913,78.033,77.059,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2022-02
+2022-02-16 22:14:16,EURUSD,achat,capture revue,5615.0,inconnue,,1.128,1.127,1.1395,annoncé,non déclenché,,,❔,⏸,non déclenché,,,journalier,2022-02
+2022-02-18 18:41:17,NZDUSD,vente,capture OCR,5619.0,inconnue,,0.67255,0.67385,0.6573,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-02
+2022-02-23 01:21:48,NZDJPY,?,texte,,rate,5627,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2022-02
+2022-03-02 15:50:00,USDJPY,achat,capture OCR,5654.0,inconnue,,114.697,114.596,115.734,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2022-03
+2022-03-02 15:51:00,AUDUSD,vente,capture OCR,5656.0,inconnue,,0.72705,0.7292,0.70869,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-03
+2022-03-28 18:10:10,XAUUSD,achat,capture revue,5674.0,inconnue,,1920.629,1905.531,2075.052,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-03
+2022-04-20 17:18:00,GBPJPY,vente,capture OCR,5726.0,inconnue,,167.624,167.78,166.043,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2022-04
+2022-04-21 04:31:00,USDCHF,vente,capture OCR,5734.0,rate,#5733,0.95118,0.95168,0.94563,annoncé,stop,-1.0,,⏸,❌,stop,,,journalier,2022-04
+2022-04-21 07:11:24,USDCHF,?,texte,,rate,5733,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2022-04
+2022-06-30 19:44:00,EURUSD,achat,capture OCR,5902.0,inconnue,,1.03873,1.03823,1.04672,annoncé,objectif,15.98,,❔,✅,objectif,,,journalier,2022-06
+2022-07-20 12:06:43,EURUSD,?,texte,,sl,5991,,,,,,,(entrée non retrouvée),❌,❔,pas de niveaux,,,journalier,2022-07
+2022-07-20 12:08:01,EURUSD,vente,capture revue,5992.0,inconnue,,1.02587,1.02676,1.01814,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-07
+2022-07-20 12:09:00,GBPUSD,vente,capture OCR,5996.0,be,#6029,1.2028,1.20425,1.19769,annoncé,objectif,3.52,,➖,✅,objectif,,,journalier,2022-07
+2022-07-20 19:55:00,NZDUSD,achat,capture OCR,6011.0,inconnue,,0.626,0.61009,0.6355,annoncé,objectif,0.6,,❔,✅,objectif,,,journalier,2022-07
+2022-07-21 12:27:52,GBPUSD,achat,texte,,be,6029,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,journalier,2022-07
+2022-07-21 20:00:00,NZDUSD,achat,capture OCR,6042.0,inconnue,,0.628,0.62371,0.63243,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2022-07
+2022-07-21 20:02:00,NZDUSD,achat,capture OCR,6043.0,inconnue,,0.6215,0.61844,0.62349,annoncé,objectif,0.65,,❔,✅,objectif,,,journalier,2022-07
+2022-07-22 13:51:00,NZDUSD,achat,capture OCR,6063.0,inconnue,,0.6194,0.61844,0.63218,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2022-07
+2022-07-26 13:56:00,EURUSD,achat,capture OCR,6083.0,inconnue,,1.00933,1.00733,1.0296,annoncé,non déclenché,,,❔,⏸,non déclenché,,,journalier,2022-07
+2022-07-27 19:06:00,EURUSD,vente,capture OCR,6096.0,inconnue,,1.0158,1.0173,0.99966,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-07
+2022-08-02 12:37:00,CHFJPY,vente,capture OCR,6110.0,inconnue,,141.964,143.306,141.163,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2022-08
+2022-08-04 15:01:00,EURAUD,achat,capture OCR,6121.0,inconnue,,1.45671,1.4525,1.46738,annoncé,objectif,2.53,,❔,✅,objectif,,,journalier,2022-08
+2022-08-05 12:54:00,GBPJPY,vente,capture OCR,6134.0,inconnue,,161.5,162.111,159.4,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-08
+2022-08-08 18:15:00,EURAUD,achat,capture OCR,6150.0,inconnue,,1.45418,1.4526,1.47445,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-08
+2022-08-10 13:12:00,USDJPY,vente,capture OCR,6160.0,inconnue,,134.973,135.245,133.237,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-08
+2022-08-12 14:56:00,EURJPY,vente,capture OCR,6167.0,tp,#6170,137.423,137.726,136.651,annoncé,objectif,2.55,,✅,✅,objectif,,,journalier,2022-08
+2022-08-12 14:57:25,EURJPY,vente,capture revue,6168.0,tp,#6170,137.409,137.5,136.8,annoncé,stop,-1.0,,✅,❌,stop,"TP annoncé, stop selon les cours",,journalier,2022-08
+2022-08-14 23:56:37,EURJPY,?,texte,,tp,6170,,,,,,,(entrée non retrouvée),✅,❔,pas de niveaux,,,journalier,2022-08
+2022-08-17 06:55:00,NZDCAD,vente,capture OCR,6177.0,inconnue,,0.8231,0.8244,0.81489,après coup,objectif,6.32,,❔,⚠️,publié après l'entrée (objectif),,,journalier,2022-08
+2022-08-24 15:30:44,NZDUSD,achat,capture OCR,6203.0,inconnue,,0.62187,0.61763,0.62495,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-08
+2022-08-24 15:31:12,NZDUSD,vente,capture OCR,6205.0,inconnue,,0.61706,0.62358,0.6106,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-08
+2022-08-26 14:03:00,NZDUSD,vente,capture OCR,6220.0,profit_flottant,#6223 #6236 (capture),0.62267,0.62368,0.61608,annoncé,objectif,6.52,,⚠️,✅,objectif,,,journalier,2022-08
+2022-09-08 13:14:00,EURUSD,vente,capture OCR,6291.0,profit_flottant,#6293 (capture),1.00086,1.004,0.987,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,journalier,2022-09
+2022-09-15 13:31:32,XAUUSD,vente,capture revue,6335.0,inconnue,,1691.67,1693.455,1682.692,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2022-09
+2022-09-20 19:02:00,EURUSD,vente,capture OCR,6349.0,rate,#6358,0.995,0.99634,0.99256,incohérent,prix déjà au-delà du stop,,,⏸,⚠️,prix déjà au-delà du stop,,,journalier,2022-09
+2022-09-20 20:12:55,EURUSD,vente,capture revue,6346.0,rate,#6358,0.99969,0.99993,0.99724,incohérent,prix déjà au-delà du stop,,,⏸,⚠️,prix déjà au-delà du stop,,,journalier,2022-09
+2022-09-21 11:02:46,EURUSD,?,texte,,rate,6358,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2022-09
+2022-09-21 16:34:28,NZDUSD,vente,capture revue,6371.0,inconnue,,0.60001,0.6017,0.58779,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2022-09
+2022-09-22 14:02:00,EURUSD,vente,capture OCR,6378.0,inconnue,,0.99999,1.00977,0.98752,après coup,objectif,1.28,,❔,⚠️,publié après l'entrée (objectif),,,journalier,2022-09
+2022-09-22 14:11:00,USDJPY,achat,capture OCR,6381.0,inconnue,,140.74,140.134,141.887,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2022-09
+2022-09-22 14:16:55,EURJPY,vente,capture revue,6384.0,inconnue,,144.059,144.567,138.713,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2022-09
+2022-09-23 10:42:00,GBPCAD,achat,capture OCR,6398.0,inconnue,,1.494,1.49,1.49617,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2022-09
+2022-09-23 10:43:44,GBPCAD,vente,capture revue,6397.0,inconnue,,1.51493,1.51699,1.49617,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2022-09
+2022-09-27 12:30:58,AUDJPY,vente,texte + capture,,sl,6427,93.623,93.824,93.245,annoncé,stop,-1.0,(entrée non retrouvée),❌,❌,stop,,,journalier,2022-09
+2022-09-29 12:53:00,NZDUSD,vente,capture OCR,6447.0,inconnue,,0.5674,0.57185,0.56477,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2022-09
+2022-10-04 13:25:00,AUDUSD,vente,capture OCR,6485.0,inconnue,,0.64981,0.65144,0.63871,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-10
+2022-10-05 10:21:00,EURUSD,vente,capture OCR,6516.0,inconnue,,0.99916,1.00009,0.99136,annoncé,objectif,8.39,,❔,✅,objectif,,,journalier,2022-10
+2022-10-05 12:57:00,GBPJPY,achat,capture OCR,6526.0,inconnue,,165.024,164.846,165.578,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2022-10
+2022-10-11 16:25:00,NZDCAD,achat,capture OCR,6568.0,inconnue,,0.77249,0.77136,0.77634,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2022-10
+2022-10-12 01:35:00,EURUSD,vente,capture OCR,6564.0,profit_flottant,#6565 (capture),0.97119,0.97146,0.96906,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,journalier,2022-10
+2022-10-12 16:06:00,NZDJPY,vente,capture OCR,6587.0,inconnue,,82.497,82.76,82.319,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2022-10
+2022-10-13 14:42:51,NZDJPY,vente,capture OCR,6611.0,inconnue,,82.945,83.095,82.14,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2022-10
+2022-10-13 14:43:24,NZDUSD,vente,capture OCR,6612.0,inconnue,,0.57019,0.57315,0.56584,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2022-10
+2022-10-14 13:41:00,AUDUSD,achat,capture OCR,6625.0,inconnue,,0.62506,0.62255,0.63525,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-10
+2022-10-14 14:01:00,AUDUSD,achat,capture OCR,6628.0,inconnue,,0.62506,0.62457,0.63525,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-10
+2022-10-20 12:58:02,GBPUSD,vente,texte + capture,6679.0,tp,6694 6722,1.12482,1.13274,1.09212,annoncé,stop,-1.0,"Prenez des comptes prop firm, vendez gbpusd !!!",✅,❌,stop,"TP annoncé, stop selon les cours",,journalier,2022-10
+2022-10-24 11:54:26,GBPUSD,vente,capture revue,6721.0,sl,#6722,1.12499,1.13082,1.09229,incohérent,prix déjà au-delà du stop,,,❌,⚠️,prix déjà au-delà du stop,,,journalier,2022-10
+2022-10-25 01:34:00,XAUUSD,vente,capture OCR,6725.0,inconnue,,1654.465,1655.749,1644.79,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-10
+2022-10-26 14:58:00,AUDCAD,achat,capture OCR,6739.0,inconnue,,0.87786,0.87702,0.88335,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2022-10
+2022-10-27 03:17:00,AUDUSD,vente,capture OCR,6786.0,inconnue,,0.65002,0.65012,0.64831,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-10
+2022-10-27 09:09:00,EURUSD,vente,capture OCR,6788.0,inconnue,,1.00778,1.00849,1.00249,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2022-10
+2022-10-27 10:33:12,AUDUSD,vente,capture revue,6783.0,inconnue,,0.64856,0.65014,0.64128,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-10
+2022-11-01 14:11:00,XAUUSD,vente,capture OCR,6851.0,inconnue,,1654.0,1657.35,1644.5,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2022-11
+2022-11-09 23:34:00,XAUUSD,achat,capture OCR,6880.0,profit_flottant,#6881 (capture),1704.853,1704.363,1706.192,après coup,stop,-1.0,,⚠️,⚠️,publié après l'entrée (stop),,,journalier,2022-11
+2022-11-11 16:30:44,AUDUSD,vente,capture OCR,6860.0,profit_flottant,#6923,0.64934,0.65093,0.6424,incohérent,prix déjà au-delà du stop,,,⚠️,⚠️,prix déjà au-delà du stop,,,journalier,2022-11
+2022-11-11 16:30:45,EURUSD,achat,capture OCR,6883.0,inconnue,,1.00121,0.99922,1.00966,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,journalier,2022-11
+2022-11-11 16:30:45,EURUSD,achat,capture revue,6882.0,inconnue,,1.00121,1.00102,1.00273,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,journalier,2022-11
+2022-11-11 16:37:00,EURUSD,achat,capture OCR,6886.0,inconnue,,0.99493,0.99219,1.01984,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2022-11
+2022-11-11 16:45:00,EURUSD,achat,capture OCR,6892.0,inconnue,,0.99389,0.99115,1.0188,après coup,objectif,9.09,,❔,⚠️,publié après l'entrée (objectif),,,journalier,2022-11
+2022-11-15 20:48:48,EURUSD,vente,capture revue,6904.0,inconnue,,1.03627,1.03776,1.02547,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2022-11
+2022-11-18 16:07:00,AUDUSD,vente,capture OCR,6925.0,profit_flottant,#6926 #6929 (capture),0.67167,0.67319,0.6629,annoncé,objectif,5.77,,⚠️,✅,objectif,,,journalier,2022-11
+2022-11-21 18:15:00,AUDUSD,vente,capture OCR,6928.0,inconnue,,0.65255,0.65368,0.65191,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2022-11
+2022-11-29 00:10:00,EURCHF,vente,capture OCR,6950.0,inconnue,,1.00229,1.00328,1.00141,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2022-11
+2023-01-12 15:37:00,USDJPY,vente,capture OCR,7137.0,inconnue,,132.653,132.888,129.508,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-01
+2023-01-18 21:35:00,USDJPY,achat,capture OCR,7191.0,inconnue,,127.598,127.049,131.463,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-01
+2023-01-18 21:36:00,AUDUSD,achat,capture OCR,7192.0,inconnue,,0.69416,0.69271,0.70453,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-01
+2023-01-20 06:06:00,EURJPY,achat,capture OCR,7202.0,tp,#7213 (capture),138.212,137.903,140.265,annoncé,non déclenché (objectif atteint sans entrée),,,✅,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-01
+2023-01-24 10:26:00,EURUSD,achat,capture OCR,7239.0,profit_flottant,#7242 #7245 #7256 (capture),1.08451,1.08333,1.09,annoncé,objectif,4.65,,⚠️,✅,objectif,,,journalier,2023-01
+2023-01-25 06:04:00,GBPUSD,achat,capture OCR,7269.0,inconnue,,1.23132,1.22617,1.24531,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-01
+2023-01-25 15:19:00,USDCAD,vente,capture OCR,7257.0,inconnue,,1.344,1.34674,1.3401,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2023-01
+2023-01-26 08:18:00,EURJPY,achat,capture OCR,7284.0,profit_flottant,#7369,142.0,140.931,143.045,annoncé,non déclenché,,,⚠️,⏸,non déclenché,,,journalier,2023-01
+2023-01-26 14:17:00,EURJPY,achat,capture OCR,7285.0,profit_flottant,#7369,141.345,140.941,143.045,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,journalier,2023-01
+2023-01-31 06:27:00,EURJPY,achat,capture OCR,7325.0,sl,#7353 (capture),140.909,140.509,143.002,annoncé,stop,-1.0,,❌,❌,stop,,,journalier,2023-01
+2023-02-01 05:58:00,EURJPY,achat,capture OCR,7333.0,sl,#7353 (capture),140.909,140.6,141.672,annoncé,non déclenché (objectif atteint sans entrée),,,❌,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-02
+2023-02-03 09:50:00,EURJPY,achat,capture OCR,7370.0,tp,#7385 (capture),140.003,139.497,142.645,annoncé,objectif,5.22,,✅,✅,objectif,,,journalier,2023-02
+2023-02-07 16:45:33,AUDJPY,achat,capture revue,7407.0,profit_flottant,#7414 #7423 (capture),90.931,90.689,91.736,annoncé,objectif,3.33,,⚠️,✅,objectif,,,journalier,2023-02
+2023-02-07 20:37:40,GBPUSD,vente,capture revue,7410.0,profit_flottant,#7415,1.20593,1.2098,1.18414,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,journalier,2023-02
+2023-02-08 02:38:12,AUDJPY,achat,capture OCR,7420.0,inconnue,,91.2,90.689,91.636,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-02
+2023-02-14 14:50:00,AUDUSD,vente,capture OCR,7458.0,profit_flottant,#7472 #7490 (capture),0.69683,0.70224,0.68061,annoncé,objectif,3.0,,⚠️,✅,objectif,,,journalier,2023-02
+2023-02-16 08:41:00,AUDUSD,vente,capture OCR,7500.0,profit_flottant,#7503 (capture),0.69243,0.69385,0.6822,annoncé,objectif,7.2,,⚠️,✅,objectif,,,journalier,2023-02
+2023-02-23 09:31:00,GBPUSD,vente,capture OCR,7563.0,inconnue,,1.21042,1.21296,1.18468,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-02
+2023-02-24 07:25:00,GBPUSD,vente,capture OCR,7576.0,inconnue,,1.20306,1.20457,1.20212,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,journalier,2023-02
+2023-02-28 19:04:00,EURUSD,vente,capture OCR,7601.0,inconnue,,1.06272,1.06474,1.05329,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-02
+2023-03-01 06:59:00,EURUSD,vente,capture OCR,7603.0,inconnue,,1.06163,1.06488,1.05324,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-03
+2023-03-01 18:54:00,USDJPY,achat,capture OCR,7608.0,inconnue,,135.907,135.511,136.139,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2023-03
+2023-03-02 05:11:00,GBPUSD,vente,capture OCR,7611.0,inconnue,,1.20727,1.21263,1.19094,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-03
+2023-03-15 19:39:33,GBPUSD,vente,capture revue,7697.0,rate,#7713,1.21296,1.21994,1.18433,annoncé,stop,-1.0,,⏸,❌,stop,,,journalier,2023-03
+2023-03-16 16:06:08,AUDUSD,?,texte,,rate,7713,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2023-03
+2023-03-17 04:24:35,AUDUSD,vente,capture revue,7717.0,sl,#7718,0.6664,0.67132,0.64813,annoncé,stop,-1.0,,❌,❌,stop,,,journalier,2023-03
+2023-03-17 04:25:39,AUDUSD,vente,texte + capture,,sl,7718,0.66409,0.66978,0.64673,annoncé,stop,-1.0,(entrée non retrouvée),❌,❌,stop,,,journalier,2023-03
+2023-03-22 14:36:00,GBPJPY,achat,capture OCR,7738.0,inconnue,,161.51,160.805,163.695,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-03
+2023-03-29 14:40:09,AUDJPY,achat,capture revue,7758.0,inconnue,,87.504,86.764,89.739,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-03
+2023-04-03 12:15:51,AUDJPY,achat,capture revue,7781.0,inconnue,,87.516,87.004,90.014,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-04
+2023-04-04 04:51:00,EURNZD,achat,capture OCR,7809.0,inconnue,,1.735,1.71996,1.74818,annoncé,objectif,0.88,,❔,✅,objectif,,,journalier,2023-04
+2023-04-05 08:38:00,EURNZD,achat,capture OCR,7814.0,inconnue,,1.7252,1.71896,1.75337,annoncé,objectif,4.51,,❔,✅,objectif,,,journalier,2023-04
+2023-04-06 16:06:22,EURNZD,achat,capture revue,7826.0,inconnue,,1.72667,1.72161,1.74901,annoncé,objectif,4.42,,❔,✅,objectif,,,journalier,2023-04
+2023-04-10 16:23:00,AUDJPY,achat,capture OCR,7846.0,profit_flottant,#7863 #7876 #7886 (capture),87.909,87.533,88.597,annoncé,non déclenché (objectif atteint sans entrée),,,⚠️,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-04
+2023-04-12 04:41:00,AUDJPY,achat,capture OCR,7869.0,profit_flottant,#7876 #7886 (capture),87.978,87.644,90.479,annoncé,non déclenché (objectif atteint sans entrée),,,⚠️,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-04
+2023-04-13 10:27:00,USDJPY,vente,capture OCR,7878.0,inconnue,,133.616,134.075,133.247,après coup,objectif,0.8,,❔,⚠️,publié après l'entrée (objectif),,,journalier,2023-04
+2023-04-26 06:02:00,GBPJPY,achat,capture OCR,7977.0,inconnue,,165.003,164.295,166.131,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-04
+2023-04-27 09:44:24,USDJPY,achat,capture revue,7968.0,profit_flottant,#7971 (capture),133.2,132.797,135.129,annoncé,non déclenché (objectif atteint sans entrée),,,⚠️,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-04
+2023-04-27 18:55:00,AUDJPY,achat,capture OCR,7985.0,inconnue,,88.319,87.947,89.659,annoncé,objectif,3.6,,❔,✅,objectif,,,journalier,2023-04
+2023-05-05 06:13:00,AUDJPY,achat,capture OCR,8040.0,profit_flottant,#8042 (capture),89.998,89.509,92.473,annoncé,objectif,5.06,,⚠️,✅,objectif,,,journalier,2023-05
+2023-05-10 12:36:39,USDJPY,achat,capture revue,8080.0,inconnue,,134.219,133.519,137.896,annoncé,objectif,5.25,,❔,✅,objectif,,,journalier,2023-05
+2023-05-16 06:20:00,AUDJPY,achat,capture OCR,8129.0,inconnue,,90.398,89.889,92.523,annoncé,non déclenché,,,❔,⏸,non déclenché,,,journalier,2023-05
+2023-05-16 07:39:00,GBPUSD,vente,capture OCR,8134.0,inconnue,,1.25688,1.2637,1.22478,annoncé,non déclenché,,,❔,⏸,non déclenché,,,journalier,2023-05
+2023-05-16 15:22:00,GBPUSD,vente,capture OCR,8144.0,inconnue,,1.245,1.24809,1.22478,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2023-05
+2023-05-16 15:36:43,USDJPY,achat,capture OCR,8149.0,tp,#8204 (capture),133.869,133.564,136.636,annoncé,non déclenché (objectif atteint sans entrée),,,✅,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-05
+2023-05-17 02:57:00,NZDCAD,achat,capture OCR,8155.0,inconnue,,0.848,0.84151,0.85332,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2023-05
+2023-05-17 07:48:00,NZDCAD,achat,capture OCR,8161.0,inconnue,,0.83987,0.83686,0.85339,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-05
+2023-05-19 08:36:00,NZDCAD,achat,capture OCR,8213.0,inconnue,,0.846,0.83695,0.85247,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-05
+2023-05-19 12:21:00,NZDCAD,achat,capture OCR,8219.0,inconnue,,0.84219,0.8392,0.85342,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-05
+2023-05-23 06:15:00,GBPCAD,achat,capture OCR,8231.0,inconnue,,1.68,1.67743,1.69277,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-05
+2023-05-30 18:17:00,GBPCAD,achat,capture OCR,8253.0,inconnue,,1.67503,1.67002,1.69005,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-05
+2023-06-01 06:54:00,AUDJPY,achat,capture OCR,8261.0,profit_flottant,#8263 #8276 #8277 (capture),90.331,89.619,90.905,annoncé,objectif,0.81,,⚠️,✅,objectif,,,journalier,2023-06
+2023-06-01 07:01:12,AUDJPY,achat,capture OCR,8268.0,inconnue,,91.538,89.859,92.504,annoncé,objectif,0.58,,❔,✅,objectif,,,journalier,2023-06
+2023-06-01 16:17:21,AUDJPY,achat,texte + capture,8274.0,inconnue,,91.5,90.961,92.501,annoncé,stop,-1.0,"J’ai mis buy limit sur Audjpy pour ajouter a ma position, le marché est venu jusqu’à 2pips de mon point d’entrée et est parti sans moi eeeh",❔,❌,stop,,,journalier,2023-06
+2023-06-02 10:26:36,AUDJPY,achat,capture OCR,8282.0,inconnue,,90.608,90.133,92.989,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-06
+2023-06-06 13:04:00,EURUSD,achat,capture OCR,8299.0,rate,#8320,1.07037,1.06248,1.08058,annoncé,objectif,1.29,,⏸,✅,objectif,,,journalier,2023-06
+2023-06-08 13:24:21,EURUSD,?,texte,,rate,8320,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2023-06
+2023-06-08 13:24:21,EURUSD,achat,capture OCR,8320.0,inconnue,,1.06548,1.06248,1.08058,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-06
+2023-06-13 22:04:00,GBPAUD,achat,capture OCR,8378.0,profit_flottant,#8395 #8424 (capture),1.85801,1.85,1.89402,annoncé,objectif,4.5,,⚠️,✅,objectif,,,journalier,2023-06
+2023-06-14 17:31:07,GBPAUD,achat,capture OCR,8394.0,profit_flottant,#8395 #8424 (capture),1.85647,1.84995,1.86051,après coup,objectif,0.62,,⚠️,⚠️,publié après l'entrée (objectif),,,journalier,2023-06
+2023-06-19 10:43:00,EURNZD,achat,capture OCR,8449.0,inconnue,,1.755,1.745,1.77255,annoncé,objectif,1.76,,❔,✅,objectif,,,journalier,2023-06
+2023-06-19 10:45:20,AUDJPY,achat,capture revue,8452.0,inconnue,,90.378,89.773,95.024,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2023-06
+2023-06-20 09:37:19,EURNZD,achat,capture OCR,8459.0,inconnue,,1.75009,1.745,1.76805,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-06
+2023-06-21 23:11:00,GBPCAD,achat,capture OCR,8484.0,tp,#8493,1.68075,1.67565,1.70187,annoncé,stop,-1.0,,✅,❌,stop,"TP annoncé, stop selon les cours",,journalier,2023-06
+2023-06-23 12:29:09,GBPCAD,achat,capture OCR,8500.0,inconnue,,1.685,1.66994,1.6974,annoncé,non déclenché,,,❔,⏸,non déclenché,,,journalier,2023-06
+2023-06-27 06:56:00,EURNZD,achat,capture OCR,8521.0,inconnue,,1.75562,1.75055,1.78307,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-06
+2023-06-27 14:08:20,EURUSD,achat,capture revue,8530.0,inconnue,,1.09119,1.08714,1.10784,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-06
+2023-06-28 03:06:00,NZDUSD,achat,capture OCR,8531.0,inconnue,,0.60871,0.60371,0.63072,annoncé,objectif,4.4,,❔,✅,objectif,,,journalier,2023-06
+2023-06-28 08:40:05,EURNZD,achat,capture OCR,8532.0,inconnue,,1.76045,1.75352,1.79907,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-06
+2023-06-29 10:25:58,EURUSD,achat,capture OCR,8543.0,inconnue,,1.09039,1.08695,1.10765,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-06
+2023-07-03 01:07:00,NZDUSD,achat,capture OCR,8569.0,inconnue,,0.60808,0.60307,0.63028,annoncé,non déclenché,,,❔,⏸,non déclenché,,,journalier,2023-07
+2023-07-04 14:24:00,NZDUSD,achat,capture OCR,8587.0,inconnue,,0.61045,0.60288,0.63092,annoncé,non déclenché,,,❔,⏸,non déclenché,,,journalier,2023-07
+2023-07-04 14:27:00,GBPUSD,achat,capture OCR,8590.0,inconnue,,1.26508,1.25904,1.28587,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-07
+2023-07-10 02:40:05,AUDJPY,achat,capture revue,8624.0,inconnue,,95.328,94.702,97.685,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-07
+2023-07-12 21:54:08,EURNZD,vente,capture revue,8641.0,inconnue,,1.7749,1.77993,1.74958,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-07
+2023-07-13 06:50:34,EURNZD,vente,capture revue,8650.0,inconnue,,1.7749,1.7829,1.74958,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-07
+2023-07-21 08:23:00,AUDJPY,achat,capture OCR,8680.0,inconnue,,94.878,94.579,97.996,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-07
+2023-07-21 08:23:00,EURJPY,achat,capture OCR,8681.0,inconnue,,155.812,155.304,157.989,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-07
+2023-07-24 12:08:00,AUDUSD,achat,capture OCR,8732.0,inconnue,,0.67107,0.66598,0.67378,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-07
+2023-07-25 17:24:00,AUDUSD,achat,capture OCR,8734.0,inconnue,,0.6718,0.66627,0.67849,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-07
+2023-07-26 00:14:00,EURNZD,achat,capture OCR,8741.0,inconnue,,1.77173,1.76667,1.80748,annoncé,objectif,7.07,,❔,✅,objectif,,,journalier,2023-07
+2023-07-28 03:36:00,AUDJPY,achat,capture OCR,8803.0,inconnue,,92.499,91.26,97.834,annoncé,ouvert après 20 jours,0.94,,❔,❔,ouvert après 20 jours,,,journalier,2023-07
+2023-07-28 15:04:00,AUDJPY,achat,capture OCR,8810.0,inconnue,,91.889,91.254,97.687,annoncé,ouvert après 20 jours,2.79,,❔,❔,ouvert après 20 jours,,,journalier,2023-07
+2023-08-02 07:05:00,GBPUSD,vente,capture OCR,8852.0,inconnue,,1.2896,1.29956,1.259,annoncé,non déclenché,,,❔,⏸,non déclenché,,,journalier,2023-08
+2023-08-08 10:31:00,GBPUSD,vente,capture OCR,8909.0,profit_flottant,#8949 (capture),1.28079,1.2858,1.26378,annoncé,objectif,3.4,,⚠️,✅,objectif,,,journalier,2023-08
+2023-08-08 12:55:00,EURJPY,achat,capture OCR,8931.0,inconnue,,157.2,156.007,157.958,annoncé,objectif,0.64,,❔,✅,objectif,,,journalier,2023-08
+2023-08-09 15:06:32,EURJPY,achat,capture OCR,8933.0,tp,#8934 (capture),156.666,156.3,157.956,annoncé,non déclenché (objectif atteint sans entrée),,,✅,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-08
+2023-08-10 12:03:00,GBPUSD,vente,capture OCR,8941.0,profit_flottant,#8949 (capture),1.28109,1.28812,1.27677,après coup,objectif déjà dépassé à la publication,,,⚠️,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2023-08
+2023-08-15 09:50:00,AUDJPY,achat,capture OCR,8972.0,inconnue,,94.278,93.576,97.588,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-08
+2023-08-15 11:10:00,EURUSD,vente,capture OCR,8973.0,inconnue,,1.09599,1.10102,1.09318,après coup,objectif,0.56,,❔,⚠️,publié après l'entrée (objectif),,,journalier,2023-08
+2023-08-22 09:08:00,EURUSD,vente,capture OCR,9028.0,inconnue,,1.098,1.09994,1.08292,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-08
+2023-08-23 10:19:00,GBPCAD,achat,capture OCR,9045.0,inconnue,,1.71184,1.70592,1.73546,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-08
+2023-08-28 09:56:20,EURNZD,achat,capture OCR,9097.0,inconnue,,1.82222,1.81489,1.84623,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-08
+2023-08-30 12:20:53,GBPCAD,achat,capture OCR,9120.0,inconnue,,1.715,1.706,1.71997,annoncé,objectif,0.55,,❔,✅,objectif,,,journalier,2023-08
+2023-08-31 13:06:00,GBPCAD,achat,capture OCR,9133.0,inconnue,,1.725,1.706,1.735,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-08
+2023-08-31 13:24:00,AUDCAD,achat,capture OCR,9149.0,inconnue,,0.879,0.87626,0.88243,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-08
+2023-09-01 12:44:00,GBPCAD,vente,capture OCR,9164.0,inconnue,,1.71961,1.72484,1.70026,annoncé,objectif,3.7,,❔,✅,objectif,,,journalier,2023-09
+2023-09-01 13:02:00,GBPCAD,vente,capture OCR,9168.0,inconnue,,1.71961,1.72361,1.70026,annoncé,objectif,4.84,,❔,✅,objectif,,,journalier,2023-09
+2023-09-05 22:21:00,USDCAD,vente,capture OCR,9219.0,inconnue,,1.362,1.3638,1.3581,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-09
+2023-09-06 14:26:33,GBPCAD,vente,texte,9239.0,rate,9321,1.71935,1.72494,1.70573,annoncé,non déclenché (objectif atteint sans entrée),,"Je peux me contenter de vous donner sous ce format Sell limit sur GBPCAD @ 1.71935 Stop loss: 1.72494 Take profit: 1.70573 Mais non, je vous montre tout donc pr",⏸,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-09
+2023-09-08 03:49:04,USDCAD,vente,capture OCR,9258.0,inconnue,,1.37,1.375,1.3581,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-09
+2023-09-08 07:16:58,GBPJPY,achat,capture OCR,9259.0,inconnue,,183.5,183.0,183.877,annoncé,objectif,0.75,,❔,✅,objectif,,,journalier,2023-09
+2023-09-12 12:23:00,USDCAD,vente,capture OCR,9292.0,inconnue,,1.374,1.375,1.35737,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-09
+2023-09-15 01:05:00,GBPJPY,achat,capture OCR,9315.0,rate,#9345 #9383,182.401,181.89,186.732,annoncé,stop,-1.0,,⏸,❌,stop,,,journalier,2023-09
+2023-09-20 06:13:29,GBPJPY,vente,texte,,rate,9345,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2023-09
+2023-09-20 18:57:00,EURUSD,vente,capture OCR,9361.0,profit_flottant,#9371 #9427 #9428 (capture),1.07174,1.07603,1.05886,annoncé,objectif,3.0,,⚠️,✅,objectif,,,journalier,2023-09
+2023-09-21 11:15:55,GBPJPY,vente,texte,,rate,9383,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,journalier,2023-09
+2023-09-29 11:33:58,EURUSD,vente,capture revue,9445.0,rate,#9546,1.07208,1.07691,1.05144,annoncé,non déclenché (objectif atteint sans entrée),,,⏸,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-09
+2023-10-02 10:26:12,EURUSD,vente,capture OCR,9461.0,rate,#9546,1.06087,1.06196,1.05226,annoncé,non déclenché (objectif atteint sans entrée),,,⏸,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-10
+2023-10-03 03:33:56,GBPAUD,vente,capture OCR,9479.0,inconnue,,1.92531,1.93048,1.90042,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2023-10
+2023-10-04 12:20:02,NZDCAD,vente,capture OCR,9507.0,inconnue,,0.81142,0.81447,0.79827,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-10
+2023-10-05 03:04:10,NZDCAD,vente,capture OCR,9513.0,inconnue,,0.81142,0.81517,0.79827,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-10
+2023-10-06 15:37:59,GBPUSD,vente,texte + capture,,rate,9546,1.215,1.228,1.20622,annoncé,stop,-1.0,(entrée non retrouvée),⏸,❌,stop,,,journalier,2023-10
+2023-10-17 11:05:00,GBPJPY,achat,capture OCR,9577.0,inconnue,,181.241,180.733,183.799,annoncé,objectif,5.04,,❔,✅,objectif,,,journalier,2023-10
+2023-10-18 15:03:39,USDJPY,vente,capture OCR,9597.0,inconnue,,149.995,150.492,148.473,annoncé,non déclenché,,,❔,⏸,non déclenché,,,journalier,2023-10
+2023-10-24 08:00:02,USDJPY,vente,capture OCR,9620.0,inconnue,,150.4,150.507,148.008,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-10
+2023-10-24 12:46:31,GBPUSD,vente,capture OCR,9630.0,inconnue,,1.215,1.22079,1.203,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,journalier,2023-10
+2023-10-26 08:21:00,GBPUSD,vente,capture OCR,9643.0,tp,#9644 (capture),1.225,1.23,1.20918,annoncé,non déclenché (objectif atteint sans entrée),,,✅,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-10
+2023-10-27 13:11:30,EURUSD,vente,capture OCR,9659.0,inconnue,,1.05798,1.06148,1.04548,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-10
+2023-10-27 13:11:43,EURUSD,vente,capture OCR,9660.0,inconnue,,1.05798,1.06,1.05693,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,journalier,2023-10
+2023-10-27 21:01:08,XAUUSD,achat,capture revue,9664.0,inconnue,,1821.668,1806.606,2003.063,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-10
+2023-11-01 14:49:11,GBPUSD,vente,capture revue,9686.0,inconnue,,1.22059,1.22565,1.20302,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-11
+2023-11-02 11:43:21,GBPUSD,vente,capture revue,9705.0,inconnue,,1.2215,1.22654,1.20302,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-11
+2023-11-08 20:59:28,EURJPY,achat,texte,9769.0,inconnue,,,,,,,,"Achetez un café ou une boisson énergétique, je vous balance une vidéo de 36 min dans moins d’une heure de temps pour vous expliquer exactement le contexte fonda",❔,❔,pas de niveaux,,,journalier,2023-11
+2023-11-14 10:31:38,GBPUSD,achat,capture OCR,9829.0,inconnue,,1.22865,1.22665,1.23012,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-11
+2023-11-14 13:33:00,EURUSD,achat,capture OCR,9835.0,profit_flottant,#9839,1.07049,1.06849,1.07654,annoncé,objectif,3.03,,⚠️,✅,objectif,,,journalier,2023-11
+2023-11-15 06:51:00,GBPAUD,vente,capture OCR,9860.0,inconnue,,1.924,1.92811,1.91564,annoncé,objectif,2.03,,❔,✅,objectif,,,journalier,2023-11
+2023-11-15 12:06:54,GBPAUD,vente,capture revue,9867.0,inconnue,,1.92515,1.93018,1.90956,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-11
+2023-11-15 17:05:00,AUDUSD,achat,capture OCR,9876.0,inconnue,,0.64401,0.63895,0.65164,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-11
+2023-11-20 02:35:00,AUDUSD,achat,capture OCR,9930.0,inconnue,,0.64406,0.63993,0.6535,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-11
+2023-11-23 15:58:03,AUDJPY,achat,texte,,sl,9940,,,,,,,(entrée non retrouvée),❌,❔,pas de niveaux,,,journalier,2023-11
+2023-11-28 15:47:40,EURNZD,vente,capture OCR,9954.0,inconnue,,1.804,1.80464,1.7901,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,journalier,2023-11
+2023-11-29 17:48:09,GBPAUD,achat,capture OCR,9958.0,inconnue,,1.91015,1.90628,1.9251,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-11
+2023-11-30 11:43:00,GBPJPY,achat,capture OCR,9965.0,profit_flottant,#9973,186.293,185.785,186.654,après coup,objectif déjà dépassé à la publication,,,⚠️,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,journalier,2023-11
+2023-12-01 13:31:16,GBPJPY,achat,capture OCR,9984.0,inconnue,,186.989,186.688,187.223,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-12
+2023-12-05 01:55:00,GBPJPY,achat,capture OCR,10005.0,inconnue,,185.704,185.287,188.734,annoncé,stop,-1.0,,❔,❌,stop,,,journalier,2023-12
+2023-12-08 12:56:00,EURUSD,achat,capture OCR,10031.0,inconnue,,1.07508,1.07008,1.09092,annoncé,objectif,3.17,,❔,✅,objectif,,,journalier,2023-12
+2023-12-08 13:33:13,EURUSD,vente,texte,10034.0,profit_flottant,10041,,,,,,,Ne vendez pas non plus EURUSD. Quittez juste le marché et vaguez a vos occupations,⚠️,❔,pas de niveaux,,,journalier,2023-12
+2023-12-16 18:15:42,EURUSD,achat,capture revue,10085.0,inconnue,,1.08319,1.07618,1.10439,annoncé,non déclenché,,,❔,⏸,non déclenché,,,horaire,2023-12
+2023-12-21 10:36:00,EURNZD,vente,capture OCR,10113.0,inconnue,,1.75501,1.76012,1.75222,après coup,objectif,0.55,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2023-12
+2024-01-04 17:59:26,GBPJPY,?,texte,,sl,10363,,,,,,,(entrée non retrouvée),❌,❔,pas de niveaux,,,horaire,2024-01
+2024-01-05 18:24:00,EURUSD,vente,capture OCR,10387.0,inconnue,,1.09957,1.10257,1.09373,après coup,objectif,1.95,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2024-01
+2024-01-24 09:01:15,AUDJPY,vente,capture revue,10510.0,sl,#10529,97.499,98.002,96.52,annoncé,objectif,1.95,,❔,✅,objectif,,"le « SL » vient du message #10529 mal classé (« imaginez, vous fermez ce soir… ») : aucune issue publiée ; les cours donnent l'objectif le 31/01/2024",horaire,2024-01
+2024-01-24 14:28:07,AUDJPY,vente,capture OCR,10513.0,sl,#10529,96.5,97.985,94.992,annoncé,non déclenché,,,❔,⏸,non déclenché,,précision de l'objectif du trade #10510 (« mon tp … jusqu'à 95.000 ») ; même « SL » mal classé (#10529),horaire,2024-01
+2024-01-25 18:58:55,AUDJPY,vente,capture revue,10529.0,inconnue,,97.233,97.634,95.536,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-01
+2024-02-01 08:37:18,AUDJPY,vente,capture revue,10561.0,tp,#10584 #10585 (capture),97.441,97.945,94.969,annoncé,non déclenché,,,✅,⏸,non déclenché,,,horaire,2024-02
+2024-02-02 10:17:39,NZDUSD,vente,capture OCR,10597.0,inconnue,,0.61723,0.62269,0.60547,annoncé,objectif,2.15,,❔,✅,objectif,,,horaire,2024-02
+2024-02-05 16:53:00,EURNZD,achat,capture OCR,10616.0,sl,#10627,1.77514,1.76996,1.79981,annoncé,stop,-1.0,,❌,❌,stop,,,horaire,2024-02
+2024-02-06 03:32:00,AUDJPY,achat,capture OCR,10619.0,profit_flottant,#10630 (capture),96.488,96.259,96.674,après coup,objectif,0.81,,⚠️,⚠️,publié après l'entrée (objectif),,,horaire,2024-02
+2024-02-06 12:43:00,AUDUSD,vente,capture OCR,10625.0,inconnue,,0.65196,0.65458,0.63943,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2024-02
+2024-02-06 12:44:06,EURNZD,?,texte,,sl,10627,,,,,,,(entrée non retrouvée),❌,❔,pas de niveaux,,,horaire,2024-02
+2024-02-13 11:31:00,EURUSD,vente,capture OCR,10677.0,inconnue,,1.07954,1.08716,1.07092,annoncé,objectif,1.13,,❔,✅,objectif,,,horaire,2024-02
+2024-02-13 13:31:00,EURUSD,vente,capture OCR,10680.0,inconnue,,1.08312,1.08716,1.07092,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2024-02
+2024-02-13 13:48:00,GBPUSD,vente,capture OCR,10685.0,inconnue,,1.26766,1.2716,1.25219,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2024-02
+2024-02-29 10:33:00,GBPUSD,vente,capture OCR,10722.0,sl,#10740,1.26923,1.27126,1.26679,après coup,objectif,1.2,,❌,⚠️,publié après l'entrée (objectif),,,horaire,2024-02
+2024-03-01 14:59:12,GBPUSD,vente,capture revue,10730.0,sl,#10740,1.26315,1.26716,1.25016,après coup,stop,-1.0,,❌,⚠️,publié après l'entrée (stop),,,horaire,2024-03
+2024-03-19 04:49:05,AUDJPY,achat,capture OCR,10794.0,tp,#10811 (capture),97.601,97.28,98.267,après coup,objectif,2.07,,✅,⚠️,publié après l'entrée (objectif),,,horaire,2024-03
+2024-03-21 20:01:33,GBPUSD,vente,capture revue,10821.0,tp,#10822 (capture),1.27597,1.27898,1.26636,après coup,objectif,3.19,,✅,⚠️,publié après l'entrée (objectif),,,horaire,2024-03
+2024-03-22 03:23:00,NZDJPY,achat,capture OCR,10825.0,inconnue,,91.067,90.762,92.799,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-03
+2024-04-02 12:01:00,GBPJPY,achat,capture OCR,10853.0,tp,#10865 (capture),190.439,190.03,193.363,annoncé,stop,-1.0,,✅,❌,stop,,position fermée en gain avant l'objectif (#10865 : +9 900 $ le 03/04/2024) ; le plan publié aurait fini au stop le 12/04,horaire,2024-04
+2024-04-05 01:25:17,EURUSD,vente,capture revue,10887.0,profit_flottant,#10890 (capture),1.08531,1.08735,1.07931,après coup,stop,-1.0,,⚠️,⚠️,publié après l'entrée (stop),,,horaire,2024-04
+2024-04-05 12:34:03,EURUSD,vente,capture revue,10889.0,profit_flottant,#10890 (capture),1.08376,1.08525,1.07926,après coup,stop,-1.0,,⚠️,⚠️,publié après l'entrée (stop),,,horaire,2024-04
+2024-04-10 00:58:00,NZDJPY,vente,capture OCR,10928.0,inconnue,,92.505,92.805,91.972,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,horaire,2024-04
+2024-04-12 08:43:01,GBPAUD,achat,capture revue,10961.0,tp,#10974 #11012 #11015 (capture),1.92041,1.91787,1.92858,annoncé,objectif,3.22,,✅,✅,objectif,,,horaire,2024-04
+2024-04-15 02:00:16,NZDJPY,achat,capture revue,10999.0,tp,#11008 (capture),91.038,90.695,92.295,après coup,stop,-1.0,,✅,⚠️,publié après l'entrée (stop),,,horaire,2024-04
+2024-04-15 19:04:38,AUDJPY,achat,capture revue,11009.0,inconnue,,99.212,98.908,100.24,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-04
+2024-04-16 09:57:17,AUDJPY,achat,capture revue,11014.0,inconnue,,99.212,98.858,100.24,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-04
+2024-04-17 09:26:00,EURNZD,vente,capture revue,11032.0,inconnue,,1.80126,1.80584,1.78574,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-04
+2024-04-17 16:44:40,EURNZD,vente,capture OCR,11037.0,inconnue,,1.796,1.80584,1.78574,annoncé,non déclenché,,,❔,⏸,non déclenché,,,horaire,2024-04
+2024-04-26 12:53:00,EURUSD,vente,capture OCR,11097.0,profit_flottant,#11143 #11147 (capture),1.07505,1.07554,1.07479,après coup,objectif,0.53,,⚠️,⚠️,publié après l'entrée (objectif),,,horaire,2024-04
+2024-04-26 14:51:00,EURUSD,vente,capture OCR,11101.0,profit_flottant,#11143 #11147 (capture),1.07505,1.07808,1.06792,après coup,objectif,2.35,,⚠️,⚠️,publié après l'entrée (objectif),,,horaire,2024-04
+2024-04-30 13:43:15,EURUSD,vente,capture OCR,11139.0,profit_flottant,#11143 #11147 (capture),1.07505,1.07908,1.06553,annoncé,non déclenché (objectif atteint sans entrée),,,⚠️,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2024-04
+2024-05-02 18:38:21,EURUSD,vente,capture revue,11162.0,inconnue,,1.07485,1.07965,1.06321,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-05
+2024-05-03 09:48:56,EURUSD,vente,capture OCR,11165.0,inconnue,,1.07563,1.07965,1.064,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-05
+2024-05-03 12:36:05,EURUSD,vente,capture OCR,11174.0,inconnue,,1.07563,1.07908,1.06553,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,horaire,2024-05
+2024-05-08 16:15:00,GBPUSD,vente,capture OCR,11216.0,inconnue,,1.25308,1.25809,1.23749,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-05
+2024-05-15 13:19:00,EURCHF,achat,capture OCR,11268.0,inconnue,,0.97548,0.97248,0.98461,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2024-05
+2024-05-23 20:24:21,GBPUSD,vente,capture OCR,11320.0,inconnue,,1.27093,1.27841,1.25826,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-05
+2024-05-28 17:37:26,EURAUD,vente,capture revue,11330.0,sl,#11390,1.63357,1.64058,1.61353,annoncé,stop,-1.0,,❌,❌,stop,,,horaire,2024-05
+2024-06-03 14:04:05,EURAUD,vente,capture OCR,11341.0,sl,#11390 #11405,1.63543,1.64058,1.61419,annoncé,stop,-1.0,,❌,❌,stop,,,horaire,2024-06
+2024-06-04 22:55:00,NZDJPY,achat,capture OCR,11379.0,inconnue,,98.054,97.244,103.478,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,horaire,2024-06
+2024-06-06 12:33:59,EURAUD,vente,texte,,sl,11390,,,,,,,(entrée non retrouvée),❌,❔,pas de niveaux,,,horaire,2024-06
+2024-06-10 19:05:40,EURAUD,vente,texte,,sl,11405,,,,,,,(entrée non retrouvée),❌,❔,pas de niveaux,,,horaire,2024-06
+2024-06-19 03:16:05,EURAUD,vente,texte + capture,,sl,11427,1.63563,1.64054,1.61391,après coup,objectif déjà dépassé à la publication,,(entrée non retrouvée),❌,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,horaire,2024-06
+2024-07-12 04:17:00,AUDUSD,achat,capture OCR,11473.0,inconnue,,0.67598,0.67309,0.70089,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-07
+2024-07-31 02:26:00,EURJPY,achat,capture OCR,11526.0,inconnue,,165.27,163.749,170.051,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-07
+2024-08-27 19:42:19,EURNZD,vente,capture revue,11621.0,inconnue,,1.80001,1.80225,1.78869,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2024-08
+2024-08-27 19:53:23,EURAUD,vente,capture revue,11628.0,profit_flottant,#11632 (capture),1.64872,1.65076,1.64443,après coup,objectif,2.1,,⚠️,⚠️,publié après l'entrée (objectif),,,horaire,2024-08
+2024-08-28 12:05:06,GBPAUD,vente,capture OCR,11635.0,profit_flottant,#11639 (capture),1.94995,1.95208,1.943,annoncé,objectif,3.26,,⚠️,✅,objectif,,,horaire,2024-08
+2024-08-30 02:17:00,AUDJPY,achat,capture OCR,11740.0,inconnue,,98.8,98.338,99.201,annoncé,objectif,0.87,,❔,✅,objectif,,,horaire,2024-08
+2024-08-30 02:20:00,AUDJPY,achat,capture OCR,11742.0,inconnue,,98.363,97.762,99.201,annoncé,objectif,1.39,,❔,✅,objectif,,,horaire,2024-08
+2024-08-30 18:42:54,AUDJPY,achat,capture revue,11744.0,inconnue,,98.111,97.462,99.06,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2024-08
+2024-09-03 09:57:03,AUDUSD,?,texte,,rate,11770,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,horaire,2024-09
+2024-09-03 17:33:23,XAUUSD,achat,capture revue,11796.0,inconnue,,2477.389,2474.789,2504.077,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,horaire,2024-09
+2024-09-03 17:33:23,XAUUSD,achat,capture revue,11795.0,inconnue,,2478.73,2472.759,2504.077,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,horaire,2024-09
+2024-09-04 14:06:18,USDJPY,vente,capture revue,11810.0,inconnue,,145.146,145.347,144.195,après coup,objectif,4.73,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2024-09
+2024-09-06 13:04:31,AUDNZD,vente,texte + capture,,rate,11828,1.08523,1.08769,1.07779,annoncé,stop,-1.0,(entrée non retrouvée),⏸,❌,stop,,,horaire,2024-09
+2024-09-10 11:32:00,AUDNZD,achat,capture OCR,11871.0,rate,#11872,1.0825,1.0805,1.08765,annoncé,stop,-1.0,,⏸,❌,stop,,,horaire,2024-09
+2024-09-11 10:15:26,EURNZD,vente,texte + capture,,be,11853,1.79758,1.80267,1.78241,annoncé,objectif,2.98,(entrée non retrouvée),➖,✅,objectif,,,horaire,2024-09
+2024-09-11 10:18:47,EURNZD,vente,capture OCR,11855.0,rate,#11931,1.794,1.80302,1.73049,annoncé,stop,-1.0,,⏸,❌,stop,,,horaire,2024-09
+2024-09-11 12:31:00,EURNZD,vente,capture OCR,11856.0,rate,#11931,1.802,1.80302,1.79864,après coup,objectif,3.29,,⏸,⚠️,publié après l'entrée (objectif),,,horaire,2024-09
+2024-09-11 22:01:00,EURNZD,vente,capture OCR,11867.0,rate,#11931,1.79922,1.80222,1.79065,après coup,objectif,2.86,,⏸,⚠️,publié après l'entrée (objectif),,,horaire,2024-09
+2024-09-11 22:57:36,AUDNZD,vente,texte,,rate,11872,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,horaire,2024-09
+2024-09-12 11:55:00,GBPUSD,vente,capture OCR,11883.0,inconnue,,1.30724,1.30976,1.2996,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-09
+2024-09-18 03:22:59,EURAUD,vente,capture revue,11931.0,tp,#11934 (capture),1.64997,1.65256,1.64132,annoncé,non déclenché (objectif atteint sans entrée),,,✅,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2024-09
+2024-09-18 03:22:59,EURNZD,vente,texte + capture,,rate,11931,1.79627,1.79885,1.7897,annoncé,stop,-1.0,(entrée non retrouvée),⏸,❌,stop,,,horaire,2024-09
+2024-09-18 16:08:00,GBPAUD,achat,capture OCR,11942.0,profit_flottant,#11980 (capture),1.94996,1.94481,1.97102,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,horaire,2024-09
+2024-09-19 13:39:46,XAUUSD,vente,capture revue,11978.0,inconnue,,2583.811,2596.346,2543.595,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,horaire,2024-09
+2024-09-19 23:44:00,GBPAUD,achat,capture OCR,11979.0,inconnue,,1.94481,1.93974,1.96076,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2024-09
+2024-10-07 03:27:00,GBPUSD,vente,capture OCR,12040.0,inconnue,,1.32491,1.32993,1.31264,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2024-10
+2024-10-07 03:32:00,GBPJPY,achat,capture OCR,12042.0,inconnue,,193.492,192.191,194.898,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2024-10
+2024-10-07 16:36:41,GBPJPY,achat,capture OCR,12050.0,inconnue,,193.834,192.907,196.697,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-10
+2024-10-16 12:51:00,EURNZD,vente,capture OCR,12102.0,inconnue,,1.79729,1.80082,1.79488,après coup,objectif,0.68,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2024-10
+2024-10-17 01:02:00,EURAUD,vente,capture OCR,12109.0,inconnue,,1.62496,1.6301,1.60927,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2024-10
+2024-10-17 11:12:00,EURAUD,vente,capture OCR,12111.0,inconnue,,1.628,1.63104,1.60997,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2024-10
+2024-10-17 11:13:00,GBPAUD,vente,capture OCR,12113.0,profit_flottant,#12123,1.94649,1.95075,1.94413,après coup,objectif,0.55,,⚠️,⚠️,publié après l'entrée (objectif),,,horaire,2024-10
+2024-10-17 14:10:02,EURAUD,vente,capture revue,12115.0,inconnue,,1.625,1.63104,1.61284,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2024-10
+2024-10-17 14:57:51,GBPAUD,vente,capture revue,12122.0,profit_flottant,#12123,1.94476,1.94782,1.92674,après coup,stop,-1.0,,⚠️,⚠️,publié après l'entrée (stop),,,horaire,2024-10
+2024-10-22 12:50:00,EURAUD,vente,capture OCR,12146.0,inconnue,,1.62529,1.62778,1.61749,après coup,objectif,3.13,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2024-10
+2024-10-22 12:54:00,GBPAUD,vente,capture OCR,12148.0,inconnue,,1.94649,1.94782,1.94413,après coup,objectif,1.77,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2024-10
+2024-10-22 12:55:00,AUDJPY,achat,capture OCR,12151.0,inconnue,,100.255,99.398,102.596,après coup,ouvert après 20 jours,0.05,,❔,⚠️,publié après l'entrée (ouvert après 20 jours),,,horaire,2024-10
+2024-10-23 13:59:08,AUDJPY,achat,capture revue,12159.0,inconnue,,100.309,99.799,102.652,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-10
+2024-10-31 12:14:00,GBPJPY,achat,capture OCR,12177.0,inconnue,,197.51,197.01,199.537,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2024-10
+2024-11-06 02:39:42,EURUSD,vente,capture revue,12216.0,profit_flottant,#12255 #12263 (capture),1.08742,1.09386,1.07432,après coup,objectif,2.03,,⚠️,⚠️,publié après l'entrée (objectif),,,horaire,2024-11
+2024-11-07 02:41:00,GBPAUD,vente,capture OCR,12228.0,inconnue,,1.97519,1.98123,1.9536,après coup,objectif,3.57,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2024-11
+2024-11-07 02:57:00,EURNZD,vente,capture OCR,12233.0,inconnue,,1.81546,1.82203,1.79496,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2024-11
+2024-11-07 18:56:00,GBPUSD,vente,capture OCR,12243.0,inconnue,,1.29996,1.306,1.28321,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2024-11
+2024-11-08 17:03:00,GBPUSD,vente,capture OCR,12250.0,inconnue,,1.30009,1.30409,1.28706,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2024-11
+2024-11-15 02:22:00,GBPJPY,achat,capture OCR,12275.0,profit_flottant,#12274 (capture),197.504,196.992,199.169,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,horaire,2024-11
+2024-11-19 08:14:56,EURNZD,vente,capture revue,12296.0,inconnue,,1.80155,1.80556,1.78893,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2024-11
+2024-11-19 08:24:00,AUDJPY,achat,capture OCR,12299.0,inconnue,,100.8,99.743,101.552,annoncé,objectif,0.71,,❔,✅,objectif,,,horaire,2024-11
+2024-11-21 14:12:00,USDJPY,vente,capture OCR,12311.0,rate,#12310,155.836,156.643,154.493,après coup,objectif,1.66,,⏸,⚠️,publié après l'entrée (objectif),,,horaire,2024-11
+2024-11-21 14:13:54,USDJPY,?,texte,,rate,12310,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,horaire,2024-11
+2024-11-21 17:11:47,GBPAUD,vente,capture revue,12317.0,inconnue,,1.95217,1.95711,1.93421,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,horaire,2024-11
+2024-11-22 02:45:00,AUDNZD,achat,capture OCR,12334.0,inconnue,,1.10307,1.10061,1.11089,après coup,objectif,3.18,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2024-11
+2024-11-27 01:20:00,NZDJPY,vente,capture OCR,12384.0,inconnue,,90.006,90.506,88.475,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2024-11
+2024-11-29 04:34:00,EURAUD,vente,capture OCR,12397.0,profit_flottant,#12406 (capture),1.62292,1.62792,1.60279,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,horaire,2024-11
+2024-12-03 15:57:34,GBPJPY,vente,capture revue,12419.0,inconnue,,190.078,191.358,187.756,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2024-12
+2024-12-06 11:33:00,EURUSD,achat,capture OCR,12435.0,inconnue,,1.05491,1.05187,1.06304,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-12
+2024-12-06 13:18:00,EURUSD,vente,capture OCR,12438.0,inconnue,,1.06507,1.07063,1.04715,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2024-12
+2024-12-09 23:26:00,AUDNZD,achat,capture OCR,12476.0,profit_flottant,#12495,1.09846,1.09452,1.1069,annoncé,objectif,2.14,,⚠️,✅,objectif,,,horaire,2024-12
+2024-12-10 01:12:00,EURAUD,vente,capture OCR,12479.0,inconnue,,1.64532,1.65307,1.62974,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2024-12
+2024-12-10 11:05:14,AUDNZD,achat,capture OCR,12496.0,profit_flottant,#12498 #12509 #12512 (capture),1.09725,1.09419,1.1069,annoncé,objectif,3.15,,⚠️,✅,objectif,,,horaire,2024-12
+2025-01-07 14:42:00,USDCHF,achat,capture OCR,12607.0,inconnue,,0.90495,0.90194,0.91243,après coup,objectif,2.49,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-01
+2025-01-10 08:37:00,GBPUSD,vente,capture OCR,12633.0,inconnue,,1.234,1.2366,1.22968,après coup,objectif,1.66,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-01
+2025-01-10 08:39:00,GBPUSD,vente,capture OCR,12635.0,inconnue,,1.24026,1.24358,1.22928,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2025-01
+2025-01-10 08:41:39,GBPUSD,vente,capture revue,12637.0,inconnue,,1.2258,1.23082,1.20889,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-01
+2025-01-10 13:38:00,GBPUSD,vente,capture OCR,12640.0,inconnue,,1.22498,1.23215,1.19997,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-01
+2025-01-10 16:17:00,GBPUSD,vente,capture OCR,12643.0,inconnue,,1.228,1.23215,1.19997,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2025-01
+2025-01-14 00:18:00,AUDJPY,vente,capture OCR,12664.0,sl,#12681 #12690,97.494,98.024,95.887,annoncé,stop,-1.0,,❌,❌,stop,,,horaire,2025-01
+2025-01-14 02:53:13,EURNZD,?,texte,,rate,12670,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,horaire,2025-01
+2025-01-14 22:56:06,AUDJPY,?,texte,,sl,12681,,,,,,,(entrée non retrouvée),❌,❔,pas de niveaux,,,horaire,2025-01
+2025-01-23 12:38:00,CHFJPY,vente,capture OCR,12765.0,inconnue,,172.507,173.011,170.491,annoncé,objectif,4.0,,❔,✅,objectif,,,horaire,2025-01
+2025-01-29 13:06:00,AUDUSD,vente,capture OCR,12811.0,inconnue,,0.62408,0.62559,0.61666,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2025-01
+2025-01-29 23:47:00,EURUSD,vente,capture OCR,12827.0,be,#12845,1.04451,1.04758,1.04264,annoncé,non déclenché (objectif atteint sans entrée),,,➖,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2025-01
+2025-01-31 17:12:36,EURUSD,achat,texte,,be,12845,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,horaire,2025-01
+2025-02-05 07:10:00,CHFJPY,vente,capture OCR,12853.0,inconnue,,170.666,171.269,168.067,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2025-02
+2025-02-06 01:51:43,EURJPY,?,texte,,rate,12865,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,horaire,2025-02
+2025-02-07 13:49:00,AUDUSD,vente,capture OCR,12880.0,inconnue,,0.62978,0.63086,0.6233,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2025-02
+2025-02-07 17:00:00,AUDUSD,vente,capture OCR,12886.0,inconnue,,0.62978,0.63042,0.62068,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2025-02
+2025-02-12 15:32:46,EURUSD,vente,capture OCR,12901.0,sl,#12903 (capture),1.03585,1.03889,1.02258,annoncé,stop,-1.0,,❌,❌,stop,,,horaire,2025-02
+2025-03-06 13:29:00,CHFJPY,vente,capture OCR,12946.0,inconnue,,167.502,168.065,166.524,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2025-03
+2025-03-06 13:34:00,USDJPY,achat,capture OCR,12948.0,inconnue,,147.887,147.706,148.259,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,horaire,2025-03
+2025-03-20 09:22:53,EURUSD,vente,capture revue,12997.0,inconnue,,1.09186,1.09589,1.08171,après coup,objectif,2.52,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-03
+2025-03-20 11:01:42,EURCHF,achat,capture revue,13000.0,inconnue,,0.95551,0.95285,0.96215,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2025-03
+2025-03-20 12:15:59,EURAUD,achat,capture OCR,13007.0,inconnue,,1.7178,1.71422,1.72675,après coup,objectif,2.5,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-03
+2025-03-20 15:23:00,GBPCHF,achat,capture OCR,13019.0,inconnue,,1.14218,1.13783,1.15305,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2025-03
+2025-03-26 11:56:00,GBPUSD,vente,capture OCR,13032.0,inconnue,,1.29511,1.29763,1.28624,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-03
+2025-03-26 11:57:45,AUDUSD,vente,capture revue,13033.0,inconnue,,0.63209,0.63461,0.62024,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-03
+2025-03-26 12:04:00,AUDJPY,achat,capture OCR,13036.0,inconnue,,94.325,94.024,95.707,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2025-03
+2025-04-02 01:12:00,CADJPY,vente,capture OCR,13074.0,profit_flottant,#13110,104.991,105.993,101.895,annoncé,objectif,3.09,,⚠️,✅,objectif,,,horaire,2025-04
+2025-04-02 15:00:45,CADJPY,vente,capture OCR,13076.0,profit_flottant,#13110,105.009,105.51,103.468,annoncé,objectif,3.08,,⚠️,✅,objectif,,,horaire,2025-04
+2025-04-08 23:40:58,EURUSD,vente,texte + capture,,be,13115,1.0989,1.10895,1.07241,annoncé,stop,-1.0,(entrée non retrouvée),➖,❌,stop,,,horaire,2025-04
+2025-04-08 23:55:00,NZDJPY,vente,capture OCR,13122.0,inconnue,,83.331,84.739,80.227,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2025-04
+2025-04-08 23:59:00,CHFJPY,achat,capture OCR,13125.0,inconnue,,172.5,172.397,173.2,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,horaire,2025-04
+2025-04-15 09:16:12,GBPJPY,achat,capture revue,13153.0,inconnue,,187.942,186.937,189.994,annoncé,objectif,2.04,,❔,✅,objectif,,,horaire,2025-04
+2025-04-22 13:12:00,GBPNZD,achat,capture OCR,13160.0,inconnue,,2.23087,2.21863,2.26812,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-04
+2025-04-22 23:41:00,AUDJPY,achat,capture OCR,13182.0,inconnue,,90.487,89.609,92.516,après coup,objectif,2.31,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-04
+2025-04-23 12:01:16,EURUSD,vente,capture OCR,13187.0,inconnue,,1.14288,1.15306,1.12245,annoncé,objectif,2.01,,❔,✅,objectif,,,horaire,2025-04
+2025-04-23 13:51:20,EURUSD,vente,capture revue,13191.0,inconnue,,1.14165,1.14986,1.12122,après coup,objectif,2.49,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-04
+2025-04-25 04:01:00,AUDJPY,achat,capture OCR,13200.0,inconnue,,91.5,89.609,92.516,annoncé,objectif,0.54,,❔,✅,objectif,,,horaire,2025-04
+2025-04-29 00:33:00,EURUSD,achat,capture OCR,13207.0,inconnue,,1.13766,1.13367,1.14762,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2025-04
+2025-04-29 00:36:00,NZDJPY,vente,capture OCR,13208.0,inconnue,,84.991,85.498,83.718,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-04
+2025-04-29 06:29:47,USDCHF,vente,capture revue,13209.0,inconnue,,0.82509,0.83339,0.80516,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-04
+2025-04-29 06:30:00,EURUSD,achat,capture OCR,13210.0,inconnue,,1.1345,1.13381,1.14776,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-04
+2025-04-29 06:32:10,XAUUSD,achat,capture revue,13213.0,inconnue,,3310.075,3271.909,3391.641,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-04
+2025-05-07 18:46:36,GBPUSD,vente,capture revue,13251.0,inconnue,,1.33494,1.34417,1.31572,annoncé,objectif,2.08,,❔,✅,objectif,,,horaire,2025-05
+2025-05-07 18:47:00,EURUSD,vente,capture OCR,13253.0,tp,#13258 (capture),1.13475,1.13876,1.12674,annoncé,non déclenché (objectif atteint sans entrée),,,✅,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2025-05
+2025-05-21 00:39:00,AUDJPY,vente,capture OCR,13287.0,inconnue,,93.181,93.691,92.884,après coup,objectif,0.58,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-05
+2025-05-28 23:40:56,EURNZD,?,texte,,rate,13338,,,,,,,(entrée non retrouvée),⏸,❔,pas de niveaux,,,horaire,2025-05
+2025-05-30 01:41:00,USDCAD,vente,capture OCR,13344.0,tp,#13350 #13351 (capture),1.38352,1.38582,1.38154,annoncé,non déclenché (objectif atteint sans entrée),,,✅,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2025-05
+2025-05-30 01:49:29,XAUUSD,achat,capture revue,13346.0,sl,#13352,3293.762,3273.236,3334.815,annoncé,non déclenché (objectif atteint sans entrée),,,❌,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2025-05
+2025-06-02 14:43:34,XAUUSD,?,texte,,sl,13352,,,,,,,(entrée non retrouvée),❌,❔,pas de niveaux,,,horaire,2025-06
+2025-06-11 11:38:00,EURUSD,vente,capture OCR,13376.0,inconnue,,1.1445,1.14492,1.14304,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2025-06
+2025-06-11 12:32:00,EURUSD,vente,capture OCR,13381.0,inconnue,,1.14342,1.14492,1.14032,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,horaire,2025-06
+2025-06-11 12:39:00,GBPJPY,vente,capture OCR,13384.0,inconnue,,196.2,196.313,194.793,après coup,objectif,12.45,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-06
+2025-06-12 10:04:03,GBPJPY,vente,capture revue,13389.0,inconnue,,195.846,196.353,194.788,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2025-06
+2025-06-13 00:23:00,NZDUSD,achat,capture OCR,13393.0,inconnue,,0.60307,0.60055,0.60811,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-06
+2025-06-24 14:35:00,AUDJPY,achat,capture OCR,13407.0,inconnue,,94.524,94.267,94.845,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,horaire,2025-06
+2025-06-25 12:30:55,AUDJPY,achat,capture revue,13414.0,inconnue,,94.181,93.951,94.845,après coup,objectif,2.89,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-06
+2025-07-02 15:27:00,EURCHF,achat,capture OCR,13433.0,tp,#13436 (capture),0.93239,0.93089,0.93553,après coup,objectif,2.09,,✅,⚠️,publié après l'entrée (objectif),,,horaire,2025-07
+2025-07-03 12:35:00,USDJPY,vente,capture OCR,13440.0,inconnue,,143.885,143.986,143.076,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,horaire,2025-07
+2025-07-08 12:24:14,EURUSD,vente,capture revue,13455.0,inconnue,,1.17353,1.17696,1.16388,annoncé,objectif,2.81,,❔,✅,objectif,,,horaire,2025-07
+2025-07-08 13:20:00,AUDUSD,vente,capture OCR,13458.0,inconnue,,0.65365,0.65665,0.64741,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-07
+2025-07-15 12:39:00,NZDUSD,vente,capture OCR,13480.0,inconnue,,0.59999,0.60301,0.59378,annoncé,objectif,2.06,,❔,✅,objectif,,,horaire,2025-07
+2025-07-16 13:38:00,EURNZD,vente,capture OCR,13496.0,inconnue,,1.95352,1.95702,1.9453,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-07
+2025-07-22 11:53:19,USDJPY,vente,capture revue,13521.0,inconnue,,147.491,147.793,146.862,après coup,objectif,2.08,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-07
+2025-08-05 10:33:00,EURJPY,achat,capture OCR,13569.0,inconnue,,170.06,169.656,171.076,après coup,objectif,2.51,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-08
+2025-08-05 14:59:00,EURUSD,achat,capture OCR,13592.0,tp,#13593 (capture),1.15506,1.15198,1.16559,après coup,objectif,3.42,,✅,⚠️,publié après l'entrée (objectif),,,horaire,2025-08
+2025-08-06 20:59:00,GBPJPY,vente,capture OCR,13581.0,inconnue,,197.483,198.233,195.152,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-08
+2025-08-07 07:35:30,CADJPY,vente,capture OCR,13583.0,be,#13642,107.484,107.987,106.454,après coup,objectif,2.05,,➖,⚠️,publié après l'entrée (objectif),,,horaire,2025-08
+2025-08-07 07:40:26,EURJPY,achat,capture OCR,13588.0,inconnue,,169.984,169.473,172.065,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2025-08
+2025-08-12 01:44:00,EURAUD,achat,capture OCR,13614.0,inconnue,,1.78082,1.77272,1.79713,annoncé,objectif,2.01,,❔,✅,objectif,,,horaire,2025-08
+2025-08-12 02:11:00,GBPUSD,vente,capture OCR,13619.0,inconnue,,1.34473,1.34782,1.33851,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-08
+2025-08-12 08:29:52,EURAUD,achat,capture OCR,13623.0,tp,#13674 (capture),1.78595,1.78392,1.78961,après coup,objectif,1.8,,✅,⚠️,publié après l'entrée (objectif),,,horaire,2025-08
+2025-08-12 11:54:00,CADJPY,vente,capture OCR,13626.0,be,#13642,107.563,107.76,107.154,annoncé,objectif,2.08,,➖,✅,objectif,,,horaire,2025-08
+2025-08-12 12:31:00,CADJPY,vente,capture OCR,13630.0,be,#13642,107.35,107.396,107.154,incohérent,prix déjà au-delà du stop,,,➖,⚠️,prix déjà au-delà du stop,,,horaire,2025-08
+2025-08-12 23:59:00,USDJPY,vente,capture OCR,13634.0,inconnue,,147.979,148.483,146.773,annoncé,objectif,2.39,,❔,✅,objectif,,,horaire,2025-08
+2025-08-13 00:02:00,EURAUD,achat,capture OCR,13636.0,tp,#13674 (capture),1.78536,1.78148,1.79471,annoncé,objectif,2.41,,✅,✅,objectif,,,horaire,2025-08
+2025-08-13 01:26:00,EURNZD,achat,capture OCR,13638.0,profit_flottant,#13641 (capture),1.96032,1.9578,1.96541,après coup,stop,-1.0,,⚠️,⚠️,publié après l'entrée (stop),,,horaire,2025-08
+2025-08-13 01:31:53,CADJPY,?,texte,,be,13642,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,horaire,2025-08
+2025-08-13 08:22:14,CADJPY,vente,capture revue,13649.0,inconnue,,107.469,107.727,106.946,après coup,objectif,2.03,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-08
+2025-08-14 04:12:21,EURAUD,achat,capture revue,13668.0,tp,#13674 (capture),1.78519,1.78257,1.79042,après coup,objectif,2.0,,✅,⚠️,publié après l'entrée (objectif),,,horaire,2025-08
+2025-08-19 02:26:21,EURAUD,achat,capture OCR,13678.0,inconnue,,1.79621,1.79421,1.80017,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-08
+2025-08-19 13:35:02,CADJPY,vente,capture revue,13686.0,inconnue,,106.818,107.219,106.002,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2025-08
+2025-08-19 15:04:00,NZDJPY,vente,capture OCR,13695.0,inconnue,,87.49,87.694,86.993,après coup,objectif,2.44,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-08
+2025-08-19 15:13:00,NZDUSD,vente,capture OCR,13698.0,inconnue,,0.59283,0.59435,0.58978,après coup,objectif,2.01,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-08
+2025-08-19 15:21:00,GBPAUD,achat,capture OCR,13701.0,tp,#13700,2.08199,2.08049,2.08509,après coup,objectif,2.07,,✅,⚠️,publié après l'entrée (objectif),,,horaire,2025-08
+2025-08-19 15:21:36,GBPAUD,?,texte,,tp,13700,,,,,,,(entrée non retrouvée),✅,❔,pas de niveaux,,,horaire,2025-08
+2025-08-19 16:28:20,NZDCHF,achat,capture revue,13710.0,inconnue,,0.475,0.47303,0.48679,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-08
+2025-08-20 07:21:00,GBPJPY,achat,capture OCR,13712.0,inconnue,,198.954,198.595,199.509,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2025-08
+2025-08-20 07:46:00,GBPNZD,achat,capture OCR,13719.0,tp,#13724,2.3157,2.31317,2.32085,après coup,objectif,2.04,,✅,⚠️,publié après l'entrée (objectif),,,horaire,2025-08
+2025-08-20 08:15:50,GBPNZD,vente,texte,,tp,13724,,,,,,,(entrée non retrouvée),✅,❔,pas de niveaux,,,horaire,2025-08
+2025-08-26 07:16:00,EURAUD,achat,capture OCR,13741.0,inconnue,,1.79537,1.79282,1.80262,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-08
+2025-08-26 13:45:45,EURAUD,achat,capture OCR,13747.0,inconnue,,1.79537,1.79187,1.80259,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-08
+2025-08-27 17:16:00,GBPUSD,achat,capture OCR,13758.0,inconnue,,1.34722,1.3442,1.35344,après coup,objectif,2.06,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-08
+2025-08-27 17:34:00,EURGBP,vente,capture OCR,13762.0,inconnue,,0.8605,0.8621,0.85809,annoncé,non déclenché,,,❔,⏸,non déclenché,,,horaire,2025-08
+2025-09-12 10:28:00,EURUSD,achat,capture OCR,13808.0,tp,#13836 (capture),1.17306,1.16575,1.19593,annoncé,stop,-1.0,,✅,✅,stop,,"objectif mal lu par l'OCR (1.19593) : la capture #13836 montre l'objectif 1.18722, atteint",horaire,2025-09
+2025-09-16 09:56:23,USDCHF,vente,capture revue,13821.0,inconnue,,0.79433,0.79586,0.79115,après coup,objectif,2.08,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-09
+2025-09-16 09:56:44,USDJPY,vente,capture revue,13822.0,inconnue,,147.497,147.747,146.975,après coup,objectif,2.09,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-09
+2025-09-16 09:57:08,EURAUD,achat,capture OCR,13823.0,inconnue,,1.76402,1.76198,1.77188,après coup,objectif,3.85,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-09
+2025-09-17 00:04:00,CADJPY,vente,capture OCR,13842.0,be,#13856,106.575,106.985,105.711,annoncé,stop,-1.0,,➖,❌,stop,,,horaire,2025-09
+2025-09-17 00:06:00,GBPCAD,achat,capture OCR,13844.0,inconnue,,1.87592,1.87241,1.88294,annoncé,objectif,2.0,,❔,✅,objectif,,,horaire,2025-09
+2025-09-17 12:42:00,GBPCAD,achat,capture OCR,13850.0,inconnue,,1.87626,1.87472,1.87954,après coup,objectif,2.13,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-09
+2025-09-17 14:56:10,CADJPY,?,texte,,be,13856,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,horaire,2025-09
+2025-09-17 15:35:00,EURAUD,achat,capture OCR,13861.0,inconnue,,1.76988,1.76487,1.7822,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2025-09
+2025-09-22 00:59:00,GBPAUD,vente,capture OCR,13923.0,profit_flottant,#13905 (capture),2.0495,2.05552,2.0451,annoncé,non déclenché (objectif atteint sans entrée),,,⚠️,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2025-09
+2025-09-24 02:34:54,GBPAUD,vente,capture revue,13925.0,inconnue,,2.04995,2.05409,2.04141,après coup,objectif,2.06,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-09
+2025-09-24 13:24:45,AUDUSD,achat,capture revue,13931.0,inconnue,,0.66032,0.6585,0.66397,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-09
+2025-09-30 06:31:00,EURGBP,vente,capture OCR,13987.0,inconnue,,0.87313,0.87513,0.86906,annoncé,objectif,2.03,,❔,✅,objectif,,,horaire,2025-09
+2025-10-01 01:10:00,USDJPY,vente,capture OCR,13979.0,profit_flottant,#14002,147.497,147.747,146.975,incohérent,prix déjà au-delà du stop,,,⚠️,⚠️,prix déjà au-delà du stop,,,horaire,2025-10
+2025-10-01 01:41:47,USDJPY,vente,capture revue,13980.0,profit_flottant,#14002,148.127,148.489,147.396,annoncé,non déclenché (objectif atteint sans entrée),,,⚠️,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2025-10
+2025-10-01 14:16:08,CADJPY,vente,capture OCR,13997.0,inconnue,,107.197,107.449,106.476,après coup,objectif,2.86,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-10
+2025-10-01 14:29:57,USDCHF,vente,capture revue,14000.0,profit_flottant,#14002,0.79719,0.80073,0.79068,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,horaire,2025-10
+2025-10-01 14:30:23,USDJPY,vente,capture revue,14001.0,profit_flottant,#14002,146.888,147.243,146.156,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,horaire,2025-10
+2025-10-01 23:17:00,EURUSD,achat,capture OCR,14007.0,inconnue,,1.17362,1.17105,1.17877,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-10
+2025-10-02 18:23:00,EURUSD,achat,capture OCR,14015.0,inconnue,,1.17021,1.16764,1.17795,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2025-10
+2025-10-08 00:09:00,GBPNZD,achat,capture OCR,14036.0,inconnue,,2.31281,2.30875,2.32092,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2025-10
+2025-10-09 23:54:00,CHFJPY,vente,capture OCR,14052.0,inconnue,,189.862,190.359,188.857,annoncé,objectif,2.02,,❔,✅,objectif,,,horaire,2025-10
+2025-10-10 11:55:25,CHFJPY,vente,capture OCR,14050.0,inconnue,,190.015,190.538,188.939,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2025-10
+2025-10-10 11:55:26,CADJPY,vente,capture revue,14054.0,inconnue,,109.123,109.63,108.091,annoncé,objectif,2.04,,❔,✅,objectif,,,horaire,2025-10
+2025-10-10 11:56:00,CADJPY,vente,capture OCR,14056.0,inconnue,,109.073,109.398,108.864,après coup,objectif,0.64,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-10
+2025-10-17 14:12:42,XAUUSD,vente,capture revue,14072.0,inconnue,,4310.347,4354.008,4221.824,après coup,objectif,2.03,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-10
+2025-10-17 14:12:42,XAUUSD,vente,capture revue,14073.0,inconnue,,4309.741,4349.213,4221.218,après coup,objectif,2.24,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-10
+2025-10-28 06:45:30,CADJPY,vente,capture revue,14107.0,inconnue,,109.233,109.531,108.615,après coup,objectif,2.07,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-10
+2025-10-28 06:45:30,CADJPY,?,texte,,tp,14109,,,,,,,(entrée non retrouvée),✅,❔,pas de niveaux,,,horaire,2025-10
+2025-10-28 06:45:30,CADJPY,?,texte,,be,14108,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,horaire,2025-10
+2025-10-29 00:42:28,AUDJPY,achat,texte + capture,14114.0,profit_flottant,14127,99.999,99.692,100.769,annoncé,objectif,2.51,mettez des buy limit sur audjpy a 100.000,⚠️,✅,objectif,,,horaire,2025-10
+2025-11-04 12:49:25,EURNZD,achat,texte + capture,14133.0,inconnue,,2.02489,2.01675,2.04114,après coup,objectif,2.0,Setup A+ avec tous les criteres qu'il faut. Mettez un Buy limit sur EURNZD,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-11
+2025-11-11 11:42:00,EURGBP,achat,capture OCR,14146.0,inconnue,,0.8815,0.88031,0.88318,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,horaire,2025-11
+2025-11-11 23:06:00,GBPAUD,vente,capture OCR,14149.0,be,#14151,2.0147,2.02085,2.0024,annoncé,objectif,2.0,,➖,✅,objectif,,,horaire,2025-11
+2025-11-12 07:22:07,GBPAUD,vente,capture OCR,14151.0,inconnue,,2.016,2.02085,2.0024,après coup,objectif,2.8,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2025-11
+2025-11-12 07:22:07,GBPAUD,?,texte,,be,14151,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,horaire,2025-11
+2025-12-02 08:29:00,USDCAD,vente,capture OCR,14201.0,be,#14205,1.39969,1.40154,1.39635,annoncé,objectif,1.81,,➖,✅,objectif,,,horaire,2025-12
+2025-12-02 22:57:29,USDCAD,?,texte,,be,14205,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,horaire,2025-12
+2025-12-12 02:06:57,GBPAUD,achat,capture OCR,14224.0,inconnue,,2.0097,2.00447,2.0175,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2025-12
+2026-01-20 11:44:34,CADCHF,vente,capture revue,14339.0,inconnue,,0.57495,0.57844,0.56997,après coup,objectif,1.43,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-01
+2026-01-28 16:16:45,EURAUD,vente,texte + capture,14366.0,inconnue,,1.71672,1.72179,1.70654,annoncé,non déclenché (objectif atteint sans entrée),,Je vend euraud maintenant,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-01
+2026-01-28 23:12:36,EURUSD,achat,capture revue,14377.0,be,#14379,1.19546,1.19138,1.20377,après coup,stop,-1.0,,➖,⚠️,publié après l'entrée (stop),,,horaire,2026-01
+2026-01-29 00:44:45,EURUSD,?,texte,,be,14379,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,horaire,2026-01
+2026-01-29 07:06:47,GBPUSD,achat,capture revue,14382.0,inconnue,,1.38384,1.37926,1.39303,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2026-01
+2026-01-29 07:08:00,EURUSD,achat,capture OCR,14383.0,inconnue,,1.19902,1.19502,1.20699,annoncé,non déclenché,,,❔,⏸,non déclenché,,,horaire,2026-01
+2026-02-10 13:07:36,USDJPY,vente,texte + capture,14405.0,be,14407 14412,156.047,156.497,155.131,après coup,objectif,2.04,sell limit sur usdjpy,➖,⚠️,publié après l'entrée (objectif),,,horaire,2026-02
+2026-02-20 15:58:00,EURUSD,achat,capture OCR,14422.0,inconnue,,1.1783,1.17322,1.19313,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2026-02
+2026-02-25 13:32:00,EURNZD,vente,capture OCR,14429.0,inconnue,,1.97337,1.97684,1.96641,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-02
+2026-02-25 13:39:00,EURUSD,achat,capture OCR,14426.0,inconnue,,1.17843,1.17591,1.18346,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2026-02
+2026-02-26 01:28:00,GBPNZD,vente,capture OCR,14432.0,inconnue,,2.26125,2.2658,2.252,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2026-02
+2026-03-02 06:14:51,USDJPY,achat,texte + capture,,be,14472,156.6,155.95,157.2,annoncé,non déclenché (objectif atteint sans entrée),,(entrée non retrouvée),➖,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-03
+2026-03-02 12:52:48,USDJPY,achat,texte + capture,,tp,14473,156.405,155.95,157.327,annoncé,objectif,2.03,(entrée non retrouvée),✅,✅,objectif,,,horaire,2026-03
+2026-03-02 12:58:07,AUDCAD,vente,capture revue,14474.0,sl,#14483 #14484 (capture),0.96489,0.96855,0.95002,annoncé,stop,-1.0,,❌,❌,stop,,,horaire,2026-03
+2026-03-03 20:27:05,EURGBP,vente,capture revue,14479.0,inconnue,,0.87498,0.87799,0.86747,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-03
+2026-03-03 23:46:00,EURUSD,achat,capture OCR,14497.0,tp,#14501 (capture),1.15786,1.15626,1.16106,après coup,objectif,2.0,,✅,⚠️,publié après l'entrée (objectif),,,horaire,2026-03
+2026-03-04 04:00:00,EURJPY,vente,capture OCR,14505.0,inconnue,,182.848,183.249,181.841,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2026-03
+2026-03-04 04:57:00,USDJPY,vente,capture OCR,14502.0,inconnue,,157.504,157.804,156.885,annoncé,objectif,2.06,,❔,✅,objectif,,,horaire,2026-03
+2026-03-04 10:00:41,EURJPY,vente,capture OCR,14506.0,inconnue,,182.848,183.153,181.841,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2026-03
+2026-03-05 05:03:26,AUDUSD,vente,texte + capture,,be,14509,0.70383,0.7109,0.69871,annoncé,objectif,0.72,(entrée non retrouvée),➖,✅,objectif,,,horaire,2026-03
+2026-03-05 05:03:26,AUDUSD,vente,capture revue,14509.0,inconnue,,0.70786,0.7109,0.69871,après coup,objectif,3.01,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-03
+2026-03-05 09:37:00,EURAUD,vente,capture OCR,14515.0,sl,#14517,1.652,1.65252,1.64494,après coup,stop,-1.0,,❌,⚠️,publié après l'entrée (stop),,,horaire,2026-03
+2026-03-05 11:01:54,EURAUD,vente,capture OCR,14517.0,inconnue,,1.64762,1.65252,1.64494,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2026-03
+2026-03-05 11:01:54,EURAUD,?,texte,,be,14517,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,horaire,2026-03
+2026-03-06 13:46:00,AUDUSD,vente,capture OCR,14526.0,inconnue,,0.70086,0.70345,0.69563,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2026-03
+2026-03-06 13:57:00,AUDUSD,vente,capture OCR,14527.0,inconnue,,0.697,0.69855,0.69563,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,horaire,2026-03
+2026-03-09 00:36:00,GBPJPY,achat,capture OCR,14540.0,tp,#14545 (capture),210.985,210.578,211.809,annoncé,objectif,2.02,,✅,✅,objectif,,,horaire,2026-03
+2026-03-10 18:26:48,USDJPY,achat,capture OCR,14550.0,inconnue,,157.521,157.115,158.331,après coup,objectif,2.0,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-03
+2026-03-11 01:41:00,EURUSD,vente,capture OCR,14554.0,inconnue,,1.16217,1.1662,1.15035,annoncé,objectif,2.93,,❔,✅,objectif,,,horaire,2026-03
+2026-03-11 02:14:00,EURUSD,vente,capture OCR,14555.0,inconnue,,1.16217,1.16522,1.15705,annoncé,objectif,1.68,,❔,✅,objectif,,,horaire,2026-03
+2026-03-11 09:05:32,EURUSD,vente,capture OCR,14557.0,inconnue,,1.16319,1.16621,1.15203,après coup,objectif,3.7,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-03
+2026-03-18 12:35:00,EURUSD,vente,capture OCR,14581.0,inconnue,,1.156,1.15704,1.14121,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2026-03
+2026-03-18 18:52:11,EURUSD,vente,capture revue,14597.0,inconnue,,1.153,1.15704,1.14121,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2026-03
+2026-03-18 21:43:00,EURCAD,vente,capture OCR,14601.0,sl,#14611,1.57503,1.58007,1.56269,annoncé,stop,-1.0,,❌,❌,stop,,,horaire,2026-03
+2026-03-20 21:42:12,EURCAD,?,texte,,sl,14611,,,,,,,(entrée non retrouvée),❌,❔,pas de niveaux,,,horaire,2026-03
+2026-04-02 02:47:49,GBPUSD,vente,capture revue,14635.0,inconnue,,1.32817,1.33224,1.31581,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2026-04
+2026-04-03 13:45:00,GBPUSD,vente,capture OCR,14638.0,inconnue,,1.325,1.328,1.31734,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2026-04
+2026-04-03 13:46:00,NZDUSD,vente,capture OCR,14640.0,inconnue,,0.574,0.57533,0.56629,annoncé,non déclenché,,,❔,⏸,non déclenché,,,horaire,2026-04
+2026-04-03 13:46:05,NZDUSD,vente,capture revue,14639.0,inconnue,,0.57224,0.57533,0.56573,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2026-04
+2026-04-07 09:01:34,AUDUSD,achat,capture revue,14656.0,inconnue,,0.69029,0.68693,0.69742,après coup,objectif,2.12,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-04
+2026-04-07 22:02:04,USDCHF,vente,capture revue,14659.0,inconnue,,0.79956,0.80206,0.79034,après coup,objectif,3.69,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-04
+2026-04-07 22:03:17,CHFJPY,achat,capture OCR,14660.0,inconnue,,199.712,199.161,200.845,après coup,objectif,2.06,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-04
+2026-04-08 11:11:44,CADCHF,vente,capture revue,14670.0,inconnue,,0.57399,0.57629,0.56945,après coup,objectif,1.97,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-04
+2026-04-08 13:41:57,GBPNZD,vente,capture OCR,14679.0,inconnue,,2.31119,2.31938,2.30469,après coup,objectif,0.79,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-04
+2026-04-09 13:17:00,EURJPY,achat,capture OCR,14687.0,inconnue,,185.092,184.784,185.751,après coup,objectif,2.14,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-04
+2026-04-09 13:20:00,CHFJPY,achat,capture OCR,14688.0,inconnue,,200.134,199.565,201.276,après coup,objectif,2.01,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-04
+2026-04-15 17:01:36,GBPNZD,vente,capture revue,14701.0,inconnue,,2.3,2.3041,2.2887,après coup,objectif,2.76,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-04
+2026-04-30 14:20:24,XAUUSD,achat,capture OCR,14738.0,inconnue,,4707.63,4685.07,4819.56,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,horaire,2026-04
+2026-04-30 14:20:24,XAUUSD,achat,capture OCR,14739.0,inconnue,,4704.64,4685.07,4752.66,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,horaire,2026-04
+2026-04-30 14:20:25,EURGBP,?,texte,,be,14742,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,horaire,2026-04
+2026-04-30 14:20:25,EURGBP,vente,capture revue,14741.0,inconnue,,0.86634,0.86799,0.86178,après coup,objectif,2.76,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-04
+2026-04-30 14:21:27,GBPAUD,achat,capture OCR,14745.0,inconnue,,1.886,1.87648,1.89261,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-04
+2026-04-30 14:21:27,GBPAUD,achat,capture OCR,14743.0,inconnue,,1.88008,1.87608,1.89214,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-04
+2026-04-30 14:21:27,EURAUD,vente,capture OCR,14746.0,inconnue,,1.64018,1.64078,1.63564,après coup,objectif,7.57,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-04
+2026-04-30 14:21:51,EURAUD,achat,capture revue,14747.0,inconnue,,1.63532,1.63175,1.64248,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,horaire,2026-04
+2026-04-30 14:22:07,EURCAD,vente,capture revue,14748.0,inconnue,,1.6,1.60301,1.59366,après coup,objectif,2.11,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-04
+2026-04-30 20:01:50,EURGBP,vente,capture revue,14758.0,inconnue,,0.86634,0.86849,0.86197,après coup,objectif,2.03,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-04
+2026-05-05 23:20:00,EURNZD,vente,capture OCR,14778.0,tp,#14786 (capture),1.98433,1.98737,1.97824,annoncé,objectif,2.0,,✅,✅,objectif,,,horaire,2026-05
+2026-05-06 00:57:38,XAUUSD,achat,capture OCR,14783.0,inconnue,,4553.2,4521.97,4600.09,après coup,objectif,1.5,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-05
+2026-05-06 00:59:56,XAUUSD,achat,capture OCR,14784.0,inconnue,,4580.0,4521.97,4623.302,après coup,objectif,0.75,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-05
+2026-05-06 12:47:00,EURAUD,vente,capture OCR,14795.0,inconnue,,1.62502,1.62911,1.6168,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2026-05
+2026-05-07 08:41:42,EURUSD,achat,capture OCR,14804.0,be,#14845,1.17559,1.17254,1.18202,après coup,stop,-1.0,,➖,⚠️,publié après l'entrée (stop),,,horaire,2026-05
+2026-05-07 08:41:56,GBPJPY,achat,capture OCR,14805.0,inconnue,,212.565,212.16,213.38,après coup,objectif,2.01,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-05
+2026-05-07 08:46:33,EURCAD,achat,capture OCR,14808.0,inconnue,,1.60225,1.59794,1.6111,annoncé,objectif,2.05,,❔,✅,objectif,,,horaire,2026-05
+2026-05-07 17:32:00,EURUSD,vente,capture OCR,14814.0,be,#14845,1.17501,1.17804,1.16811,annoncé,stop,-1.0,,➖,❌,stop,,,horaire,2026-05
+2026-05-07 20:20:44,USDJPY,achat,capture revue,14816.0,inconnue,,156.583,156.176,157.415,après coup,objectif,2.04,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-05
+2026-05-07 20:57:06,EURUSD,vente,capture revue,14820.0,be,#14845,1.17418,1.17777,1.16522,annoncé,stop,-1.0,,➖,❌,stop,,,horaire,2026-05
+2026-05-11 09:38:46,USDJPY,achat,capture revue,14830.0,inconnue,,156.881,156.43,157.791,après coup,objectif,2.02,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-05
+2026-05-11 14:24:42,EURUSD,achat,capture revue,14832.0,be,#14845,1.175,1.17245,1.18032,annoncé,stop,-1.0,,➖,❌,stop,,,horaire,2026-05
+2026-05-12 13:19:51,EURUSD,vente,texte,,be,14845,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,horaire,2026-05
+2026-05-14 22:56:00,AUDUSD,vente,capture OCR,14870.0,inconnue,,0.72403,0.72652,0.71904,après coup,objectif,2.0,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-05
+2026-05-26 17:57:05,XAUUSD,vente,capture revue,14892.0,inconnue,,4524.033,4541.631,4488.448,après coup,objectif,2.02,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-05
+2026-05-28 15:10:40,GBPNZD,vente,capture revue,14896.0,profit_flottant,#14899 #14910 (capture),2.27499,2.27846,2.26391,après coup,objectif,3.19,,⚠️,⚠️,publié après l'entrée (objectif),,,horaire,2026-05
+2026-06-02 11:10:18,GBPNZD,vente,capture OCR,14908.0,inconnue,,2.265,2.27146,2.24007,annoncé,non déclenché,,,❔,⏸,non déclenché,,,horaire,2026-06
+2026-06-03 08:32:34,EURJPY,achat,capture OCR,14914.0,inconnue,,185.438,184.498,186.179,annoncé,objectif,0.79,,❔,✅,objectif,,,horaire,2026-06
+2026-06-04 16:04:30,EURJPY,achat,capture revue,14918.0,inconnue,,185.0,184.498,186.338,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2026-06
+2026-06-05 12:03:21,EURUSD,achat,capture revue,14921.0,inconnue,,1.1623,1.15925,1.17151,incohérent,prix déjà au-delà du stop,,,❔,⚠️,prix déjà au-delà du stop,,,horaire,2026-06
+2026-06-16 08:21:00,NZDJPY,achat,capture OCR,14943.0,profit_flottant,#14944 (capture),93.325,92.979,94.394,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,horaire,2026-06
+2026-06-22 14:05:00,EURJPY,vente,capture OCR,14956.0,inconnue,,185.037,185.539,184.121,après coup,objectif,1.82,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-06
+2026-06-22 15:01:00,EURJPY,vente,capture OCR,14959.0,inconnue,,185.037,185.339,184.642,après coup,objectif,1.31,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-06
+2026-06-23 21:26:39,GBPUSD,vente,capture OCR,14965.0,inconnue,,1.32433,1.32834,1.31653,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-06
+2026-06-23 23:25:35,EURNOK,achat,capture revue,14967.0,inconnue,,11.07946,11.0343,11.17633,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-06
+2026-06-25 14:49:49,EURNOK,achat,capture revue,14969.0,inconnue,,11.08725,11.03609,11.33301,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-06
+2026-06-30 21:39:00,EURJPY,achat,capture OCR,14982.0,inconnue,,185.468,185.066,186.328,annoncé,stop,-1.0,,❔,❌,stop,,,horaire,2026-06
+2026-06-30 22:01:27,EURGBP,vente,capture revue,14989.0,tp,#15007,0.86245,0.86502,0.8575,annoncé,non déclenché (objectif atteint sans entrée),,,✅,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-06
+2026-06-30 22:01:28,EURGBP,?,texte,,be,14990,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,horaire,2026-06
+2026-07-01 11:04:19,AUDUSD,achat,capture revue,14993.0,be,#15008,0.68981,0.68759,0.69475,annoncé,objectif,2.23,,➖,✅,objectif,,,horaire,2026-07
+2026-07-01 13:24:00,EURAUD,vente,capture OCR,15003.0,be,#15021,1.65003,1.65612,1.63758,annoncé,objectif,2.04,,➖,✅,objectif,,,horaire,2026-07
+2026-07-01 13:24:55,EURAUD,vente,texte + capture,15004.0,be,15021 15045,1.64998,1.65399,1.63753,annoncé,stop,-1.0,Je vend EURAUD maintenant,➖,❌,stop,,,horaire,2026-07
+2026-07-01 17:33:43,EURGBP,?,texte,,tp,15007,,,,,,,(entrée non retrouvée),✅,❔,pas de niveaux,,,horaire,2026-07
+2026-07-01 17:33:43,EURGBP,vente,capture revue,15007.0,inconnue,,0.86192,0.86449,0.85677,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-07
+2026-07-02 08:36:29,AUDUSD,achat,texte + capture,,be,15008,0.69057,0.68807,0.69583,annoncé,objectif,2.1,(entrée non retrouvée),➖,✅,objectif,,,horaire,2026-07
+2026-07-02 12:41:00,EURJPY,achat,capture OCR,15017.0,inconnue,,184.283,183.876,184.822,annoncé,objectif,1.32,,❔,✅,objectif,,,horaire,2026-07
+2026-07-06 17:35:37,EURAUD,vente,capture revue,15030.0,inconnue,,1.64992,1.65492,1.6395,annoncé,objectif,2.08,,❔,✅,objectif,,,horaire,2026-07
+2026-07-08 02:20:00,EURNZD,vente,capture OCR,15037.0,tp,#15053 (capture),2.00469,2.0098,1.99439,après coup,objectif,2.02,,✅,⚠️,publié après l'entrée (objectif),,,horaire,2026-07
+2026-07-10 09:10:01,EURJPY,vente,capture OCR,15045.0,profit_flottant,#15047 (capture),185.063,185.457,184.844,annoncé,non déclenché (objectif atteint sans entrée),,,⚠️,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-07
+2026-07-10 14:09:26,EURNZD,vente,capture revue,15053.0,inconnue,,2.00469,2.01083,1.9916,après coup,objectif,2.13,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-07
+2026-07-13 22:11:46,EURNOK,vente,capture revue,15073.0,inconnue,,11.14412,11.18875,11.03384,annoncé,objectif,2.47,,❔,✅,objectif,,,horaire,2026-07
+2026-07-14 11:20:03,EURNOK,vente,capture revue,15077.0,inconnue,,11.13112,11.17093,11.03384,après coup,objectif,2.44,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-07
+2026-07-14 12:48:36,EURUSD,vente,texte + capture,15097.0,inconnue,,1.152,1.15301,1.14534,après coup,objectif déjà dépassé à la publication,,Sell limit sur EURUSD a 1.15000,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,horaire,2026-07
+2026-07-14 12:58:23,GBPUSD,vente,texte + capture,15101.0,be,15102,1.3414,1.3439,1.33629,annoncé,stop,-1.0,Sell limit sur Gbpusd,➖,❌,stop,,,horaire,2026-07
+2026-07-14 14:10:05,AUDJPY,achat,texte + capture,,tp,15110,112.489,112.181,113.105,annoncé,non déclenché (objectif atteint sans entrée),,(entrée non retrouvée),✅,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-07
+2026-07-14 14:25:54,GBPUSD,vente,texte + capture,15113.0,inconnue,,1.34063,1.34364,1.33394,annoncé,stop,-1.0,vendez gbpusd tout de suite,❔,❌,stop,,,horaire,2026-07
+2026-07-21 04:10:02,EURNZD,vente,capture revue,15138.0,inconnue,,1.95005,1.95314,1.94383,après coup,objectif,2.01,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-07
+2026-07-24 10:22:09,EURAUD,?,texte,,be,15163,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,horaire,2026-07
+2026-07-24 10:22:09,EURAUD,vente,capture OCR,15162.0,inconnue,,1.63128,1.63411,1.62258,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2026-07
+2026-07-28 08:54:11,EURNOK,achat,capture revue,15175.0,inconnue,,10.98381,10.93368,11.08725,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2026-07
+2026-07-31 12:29:23,USDJPY,achat,capture OCR,15189.0,inconnue,,159.877,159.375,161.077,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2026-07
+2026-08-07 13:18:38,EURUSD,vente,texte + capture,,be,15195,1.15736,1.15887,1.15261,après coup,objectif,3.15,(entrée non retrouvée),➖,⚠️,publié après l'entrée (objectif),,,horaire,2026-08
+2026-08-12 10:10:46,AUDNZD,achat,capture revue,15197.0,inconnue,,1.20002,1.19748,1.20528,après coup,objectif,2.07,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-08
+2026-08-12 10:10:46,AUDNZD,?,texte,,tp,15199,,,,,,,(entrée non retrouvée),✅,❔,pas de niveaux,,,horaire,2026-08
+2026-08-12 10:10:46,AUDNZD,?,texte,,be,15198,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,horaire,2026-08
+2026-08-12 12:38:00,GBPAUD,vente,capture OCR,15209.0,inconnue,,1.91201,1.91449,1.90683,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2026-08
+2026-08-17 10:15:01,AUDJPY,achat,capture revue,15214.0,profit_flottant,#15215 (capture),112.828,112.627,113.43,après coup,objectif,3.0,,⚠️,⚠️,publié après l'entrée (objectif),,,horaire,2026-08
+2026-08-20 14:51:00,GBPAUD,achat,capture revue,15235.0,profit_flottant,#15236 (capture),1.91279,1.90925,1.91947,annoncé,stop,-1.0,,⚠️,❌,stop,"gain flottant annoncé, stop selon les cours",,horaire,2026-08
+2026-08-26 06:28:41,AUDNZD,achat,capture revue,15250.0,inconnue,,1.20001,1.19695,1.20611,après coup,objectif,1.99,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-08
+2026-09-01 10:14:07,EURUSD,vente,capture OCR,15279.0,profit_flottant,#15337 (capture),1.1611,1.16262,1.15943,après coup,objectif,1.1,,⚠️,⚠️,publié après l'entrée (objectif),,,horaire,2026-09
+2026-09-01 14:51:10,EURUSD,vente,capture OCR,15281.0,profit_flottant,#15337 (capture),1.162,1.16262,1.15751,annoncé,non déclenché (objectif atteint sans entrée),,,⚠️,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-09
+2026-09-02 12:29:39,EURAUD,vente,capture revue,15286.0,inconnue,,1.625,1.63003,1.6147,après coup,objectif,2.05,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-09
+2026-09-03 02:05:00,EURNZD,achat,capture OCR,15295.0,tp,#15315 (capture),1.97502,1.97098,1.98347,annoncé,stop,-1.0,,✅,⚠️,stop,,"stop élargi après la publication (1.97098 -> 1.97, #15315) : le plan publié touche le stop le 04/09/2026 avant l'objectif ; la version modifiée atteint l'objectif",horaire,2026-09
+2026-09-10 11:24:00,EURUSD,vente,capture OCR,15331.0,profit_flottant,#15337 (capture),1.16,1.1646,1.15669,annoncé,objectif,0.72,,⚠️,✅,objectif,,,horaire,2026-09
+2026-09-10 17:05:10,EURUSD,vente,capture OCR,15338.0,inconnue,,1.16299,1.16449,1.15792,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-09
+2026-09-16 12:07:00,USDJPY,achat,capture OCR,15359.0,inconnue,,154.998,154.205,155.8,annoncé,objectif,1.01,,❔,✅,objectif,,,horaire,2026-09
+2026-09-16 12:24:12,USDJPY,achat,capture revue,15363.0,inconnue,,154.998,154.69,155.672,après coup,objectif,2.19,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-09
+2026-09-16 23:28:44,EURUSD,vente,capture revue,15381.0,inconnue,,1.15,1.1525,1.14474,après coup,stop,-1.0,,❔,⚠️,publié après l'entrée (stop),,,horaire,2026-09
+2026-09-18 00:47:00,GBPAUD,vente,capture OCR,15399.0,be,#15407,1.87806,1.88017,1.87346,annoncé,objectif,2.18,,➖,✅,objectif,,,horaire,2026-09
+2026-09-18 02:49:00,AUDJPY,achat,capture OCR,15405.0,inconnue,,111.055,110.799,111.615,après coup,objectif,2.19,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-09
+2026-09-18 02:51:47,GBPAUD,?,texte,,be,15407,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,horaire,2026-09
+2026-09-18 02:55:00,NZDJPY,achat,capture OCR,15410.0,inconnue,,89.248,88.985,89.993,après coup,objectif,2.83,,❔,⚠️,publié après l'entrée (objectif),,,horaire,2026-09
+2026-09-18 03:07:00,GBPAUD,achat,capture OCR,15417.0,inconnue,,1.87806,1.8674,1.88431,annoncé,objectif,0.59,,❔,✅,objectif,,,horaire,2026-09
+2026-09-21 19:08:00,EURGBP,vente,capture OCR,15430.0,be,#15443,0.85812,0.85962,0.85509,annoncé,stop,-1.0,,➖,❌,stop,,,horaire,2026-09
+2026-09-21 19:11:59,NZDJPY,achat,capture OCR,15434.0,inconnue,,89.372,89.123,89.869,après coup,objectif déjà dépassé à la publication,,,❔,⚠️,publié après l'entrée (objectif déjà dépassé à la publication),,,horaire,2026-09
+2026-09-22 14:35:04,EURGBP,?,texte,,be,15443,,,,,,,(entrée non retrouvée),➖,❔,pas de niveaux,,,horaire,2026-09
+2026-09-29 04:39:25,AUDUSD,vente,capture revue,15460.0,inconnue,,0.7014,0.7034,0.69735,annoncé,objectif,2.02,,❔,✅,objectif,,,horaire,2026-09
+2026-09-29 06:48:08,GBPAUD,achat,texte + capture,,tp,15463,1.88636,1.88306,1.89298,après coup,objectif,2.01,(entrée non retrouvée),✅,⚠️,publié après l'entrée (objectif),,,horaire,2026-09
+2026-09-30 04:31:49,USDJPY,vente,texte + capture,,tp,15482,157.511,157.869,156.459,après coup,objectif,2.94,(entrée non retrouvée),✅,⚠️,publié après l'entrée (objectif),,,horaire,2026-09
+2026-09-30 09:52:58,EURGBP,vente,capture revue,15484.0,inconnue,,0.85855,0.86028,0.85506,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-09
+2026-09-30 16:20:30,AUDUSD,vente,capture revue,15490.0,inconnue,,0.6998,0.7023,0.6948,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-09
+2026-10-01 00:39:07,USDJPY,achat,texte + capture,,sl,15505,157.012,156.654,157.842,après coup,objectif,2.32,(entrée non retrouvée),❌,⚠️,publié après l'entrée (objectif),,,horaire,2026-10
+2026-10-01 11:19:36,EURCHF,vente,capture revue,15514.0,inconnue,,0.94465,0.94615,0.940029,annoncé,non déclenché (objectif atteint sans entrée),,,❔,⏸,non déclenché (objectif atteint sans entrée),,,horaire,2026-10
+2026-10-01 11:25:37,EURCHF,vente,capture revue,15518.0,tp,#15527 (capture),0.942984,0.945492,0.937968,annoncé,objectif,2.0,,✅,✅,objectif,,,horaire,2026-10
+2026-10-01 16:21:21,EURAUD,vente,texte + capture,15529.0,be,15532,1.62505,1.62912,1.61561,annoncé,non déclenché,,je vend euraud maintenant,➖,⏸,non déclenché,,,horaire,2026-10
