@@ -1,0 +1,71 @@
+regle,annee,n,gagnants_pct,r_moyen,r_cumule,t
+T2 Lundi-mardi-mercredi « trois barres »,2020,21,52.4,0.071,1.5,0.27
+T2 Lundi-mardi-mercredi « trois barres »,2021,19,31.6,-0.078,-1.5,-0.24
+T2 Lundi-mardi-mercredi « trois barres »,2022,25,20.0,-0.287,-7.2,-0.85
+T2 Lundi-mardi-mercredi « trois barres »,2023,18,38.9,0.245,4.4,0.53
+T2 Lundi-mardi-mercredi « trois barres »,2024,24,37.5,-0.218,-5.2,-0.94
+T2 Lundi-mardi-mercredi « trois barres »,2025,34,32.4,0.324,11.0,0.96
+T2 Lundi-mardi-mercredi « trois barres »,2026,12,58.3,0.4,4.8,1.03
+"T3 Lundi et mardi haussiers, mercredi prend le high",2020,137,29.9,0.063,8.7,0.41
+"T3 Lundi et mardi haussiers, mercredi prend le high",2021,119,25.2,-0.083,-9.9,-0.52
+"T3 Lundi et mardi haussiers, mercredi prend le high",2022,112,18.8,-0.334,-37.4,-2.25
+"T3 Lundi et mardi haussiers, mercredi prend le high",2023,145,19.3,-0.334,-48.5,-2.57
+"T3 Lundi et mardi haussiers, mercredi prend le high",2024,131,19.8,-0.319,-41.8,-2.34
+"T3 Lundi et mardi haussiers, mercredi prend le high",2025,136,22.8,-0.247,-33.6,-1.81
+"T3 Lundi et mardi haussiers, mercredi prend le high",2026,90,27.8,-0.002,-0.2,-0.01
+T5 MLQ ±25 / stop 50 / objectif 250 pips,2020,412,18.2,0.034,14.1,0.3
+T5 MLQ ±25 / stop 50 / objectif 250 pips,2021,326,20.6,0.165,53.8,1.25
+T5 MLQ ±25 / stop 50 / objectif 250 pips,2022,516,13.6,-0.219,-113.2,-2.42
+T5 MLQ ±25 / stop 50 / objectif 250 pips,2023,423,18.4,0.046,19.4,0.41
+T5 MLQ ±25 / stop 50 / objectif 250 pips,2024,360,15.3,-0.116,-41.8,-1.02
+T5 MLQ ±25 / stop 50 / objectif 250 pips,2025,410,16.6,-0.039,-15.9,-0.35
+T5 MLQ ±25 / stop 50 / objectif 250 pips,2026,265,18.9,0.047,12.5,0.34
+Bébé abandonné (journalier),2020,27,48.1,0.056,1.5,0.31
+Bébé abandonné (journalier),2021,44,43.2,-0.139,-6.1,-1.0
+Bébé abandonné (journalier),2022,32,53.1,0.09,2.9,0.58
+Bébé abandonné (journalier),2023,29,55.2,-0.002,-0.1,-0.01
+Bébé abandonné (journalier),2024,40,57.5,0.153,6.1,1.1
+Bébé abandonné (journalier),2025,38,42.1,-0.095,-3.6,-0.65
+Bébé abandonné (journalier),2026,24,41.7,-0.181,-4.3,-1.0
+Bébé abandonné (horaire),2020,0,,,,
+Bébé abandonné (horaire),2021,0,,,,
+Bébé abandonné (horaire),2022,0,,,,
+Bébé abandonné (horaire),2023,35,42.9,-0.246,-8.6,-1.48
+Bébé abandonné (horaire),2024,946,48.9,-0.154,-146.1,-4.77
+Bébé abandonné (horaire),2025,887,49.3,-0.121,-106.9,-3.61
+Bébé abandonné (horaire),2026,710,44.5,-0.233,-165.2,-6.27
+Bombe (H1),2020,0,,,,
+Bombe (H1),2021,0,,,,
+Bombe (H1),2022,0,,,,
+Bombe (H1),2023,0,,,,
+Bombe (H1),2024,13,53.8,0.864,11.2,1.2
+Bombe (H1),2025,14,21.4,-0.141,-2.0,-0.46
+Bombe (H1),2026,19,31.6,-0.217,-4.1,-1.01
+Englobante du mercredi (objectif 2 R),2020,119,42.0,-0.125,-14.8,-1.51
+Englobante du mercredi (objectif 2 R),2021,157,41.4,-0.005,-0.8,-0.06
+Englobante du mercredi (objectif 2 R),2022,153,47.1,-0.032,-4.9,-0.39
+Englobante du mercredi (objectif 2 R),2023,136,39.7,-0.111,-15.1,-1.31
+Englobante du mercredi (objectif 2 R),2024,162,43.8,0.028,4.6,0.33
+Englobante du mercredi (objectif 2 R),2025,145,50.3,0.147,21.3,1.67
+Englobante du mercredi (objectif 2 R),2026,102,48.0,0.079,8.1,0.73
+Englobante + MLQ (objectif 2 R),2020,126,46.0,0.173,21.9,1.65
+Englobante + MLQ (objectif 2 R),2021,146,40.4,-0.102,-14.9,-1.17
+Englobante + MLQ (objectif 2 R),2022,116,55.2,0.182,21.1,1.79
+Englobante + MLQ (objectif 2 R),2023,125,39.2,-0.171,-21.3,-1.97
+Englobante + MLQ (objectif 2 R),2024,126,42.9,0.055,6.9,0.53
+Englobante + MLQ (objectif 2 R),2025,143,51.0,0.264,37.8,2.66
+Englobante + MLQ (objectif 2 R),2026,94,54.3,0.197,18.5,1.84
+Trois barres + MLQ (sortie au 3e jour),2020,16,50.0,-0.06,-1.0,-0.21
+Trois barres + MLQ (sortie au 3e jour),2021,18,27.8,0.007,0.1,0.02
+Trois barres + MLQ (sortie au 3e jour),2022,18,50.0,0.203,3.7,0.61
+Trois barres + MLQ (sortie au 3e jour),2023,7,42.9,0.394,2.8,0.39
+Trois barres + MLQ (sortie au 3e jour),2024,21,38.1,0.156,3.3,0.42
+Trois barres + MLQ (sortie au 3e jour),2025,11,45.5,-0.152,-1.7,-0.55
+Trois barres + MLQ (sortie au 3e jour),2026,10,70.0,0.981,9.8,1.78
+Englobante « Naruto » (rupture des flashcards),2020,0,,,,
+Englobante « Naruto » (rupture des flashcards),2021,0,,,,
+Englobante « Naruto » (rupture des flashcards),2022,0,,,,
+Englobante « Naruto » (rupture des flashcards),2023,0,,,,
+Englobante « Naruto » (rupture des flashcards),2024,612,74.5,-0.039,-24.0,-1.63
+Englobante « Naruto » (rupture des flashcards),2025,671,73.6,-0.027,-18.2,-1.09
+Englobante « Naruto » (rupture des flashcards),2026,480,78.1,0.019,9.0,0.72

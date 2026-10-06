@@ -94,7 +94,7 @@ Les faits de marché sont **globalement exacts** : DXY à 114,7 et EUR/USD à 0,
 | Affirmation | Vérification | Verdict |
 |---|---|---|
 | « À la page 12 du rapport du 10 février, Amirou utilise l'expression "Chandler Signature" » | L'expression est bien dans *10fevrier.pdf*, **pages 6 et 12** | ✅ |
-| Cette expression désigne **Marc Chandler** (*Marc to Market*, Bannockburn), cité explicitement par Amirou | **Aucun des 21 PDF ni aucun message du canal ne mentionne Marc Chandler, Bannockburn ou Marc to Market.** L'attribution est une interprétation d'Antigravity | ❌ |
+| Cette expression désigne **Marc Chandler** (*Marc to Market*, Bannockburn), cité explicitement par Amirou | **Aucun des 21 PDF ni aucun message du canal ne mentionne Marc Chandler, Bannockburn ou Marc to Market.** L'attribution est une interprétation d'Antigravity. *Ajout du 06/10/2026 : selon l'utilisateur, Amirou utilise bien les analyses de Marc to Market ; le lien est donc plausible, mais il n'est documenté dans aucune source du projet* | ⚠️ |
 | Toute la colonne « Ce qu'analyse Marc Chandler » du tableau mensuel | Aucune source fournie : texte rédigé par Antigravity | ❌ |
 
 ### Le tableau mois par mois
