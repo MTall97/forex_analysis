@@ -1,0 +1,17 @@
+sous_ensemble,variante,signaux,trades,gagnants,r_par_signal,erreur_type,ecart_vs_cloture,erreur_type_ecart
+"avec le filtre de la masterclass (60 pips, RR >= 1,2)",clôture du mardi,88,88,0.432,0.386,0.192,0.0,0.0
+"avec le filtre de la masterclass (60 pips, RR >= 1,2)",Londres 07h,88,88,0.443,0.159,0.17,-0.227,0.11
+"avec le filtre de la masterclass (60 pips, RR >= 1,2)",repli 30 % (24 h),88,72,0.347,0.357,0.228,-0.029,0.141
+"avec le filtre de la masterclass (60 pips, RR >= 1,2)",FVG 4h du mardi (24 h),88,7,0.857,0.151,0.069,-0.235,0.185
+"avec le filtre de la masterclass (60 pips, RR >= 1,2)","repli 30 % la nuit, sinon Londres",88,88,0.443,0.365,0.21,-0.02,0.098
+"avec le filtre de la masterclass (60 pips, RR >= 1,2)","FVG 4h la nuit, sinon Londres",88,88,0.443,0.14,0.165,-0.246,0.103
+"avec le filtre de la masterclass (60 pips, RR >= 1,2)",ordre stop au-delà du mardi,88,49,0.735,0.253,0.078,-0.133,0.14
+"avec le filtre de la masterclass (60 pips, RR >= 1,2)",confirmation 1h,88,44,0.818,0.198,0.059,-0.188,0.153
+toutes les configurations,clôture du mardi,348,348,0.56,0.089,0.065,0.0,0.0
+toutes les configurations,Londres 07h,348,317,0.498,-0.016,0.068,-0.105,0.047
+toutes les configurations,repli 30 % (24 h),348,261,0.387,0.043,0.077,-0.046,0.048
+toutes les configurations,FVG 4h du mardi (24 h),348,61,0.607,0.029,0.026,-0.06,0.062
+toutes les configurations,"repli 30 % la nuit, sinon Londres",348,319,0.511,0.056,0.07,-0.033,0.035
+toutes les configurations,"FVG 4h la nuit, sinon Londres",348,319,0.505,-0.016,0.067,-0.106,0.045
+toutes les configurations,ordre stop au-delà du mardi,348,181,0.729,0.078,0.027,-0.011,0.051
+toutes les configurations,confirmation 1h,348,137,0.839,0.078,0.019,-0.012,0.055

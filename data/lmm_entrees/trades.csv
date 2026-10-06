@@ -1,0 +1,2785 @@
+paire,date,sens,filtre,rr,variante,r
+AUDJPY,2024-02-28,achat,False,1.02,clôture du mardi,-1.0606
+AUDJPY,2024-02-28,achat,False,1.02,Londres 07h,-1.0606
+AUDJPY,2024-02-28,achat,False,1.02,repli 30 % (24 h),-1.0866
+AUDJPY,2024-02-28,achat,False,1.02,FVG 4h du mardi (24 h),0.0
+AUDJPY,2024-02-28,achat,False,1.02,"repli 30 % la nuit, sinon Londres",-1.0866
+AUDJPY,2024-02-28,achat,False,1.02,"FVG 4h la nuit, sinon Londres",-1.0606
+AUDJPY,2024-02-28,achat,False,1.02,ordre stop au-delà du mardi,0.0
+AUDJPY,2024-02-28,achat,False,1.02,confirmation 1h,0.0
+AUDJPY,2024-04-03,achat,False,0.52,clôture du mardi,0.484
+AUDJPY,2024-04-03,achat,False,0.52,Londres 07h,0.2104
+AUDJPY,2024-04-03,achat,False,0.52,repli 30 % (24 h),0.0
+AUDJPY,2024-04-03,achat,False,0.52,FVG 4h du mardi (24 h),0.0
+AUDJPY,2024-04-03,achat,False,0.52,"repli 30 % la nuit, sinon Londres",0.2104
+AUDJPY,2024-04-03,achat,False,0.52,"FVG 4h la nuit, sinon Londres",0.2104
+AUDJPY,2024-04-03,achat,False,0.52,ordre stop au-delà du mardi,0.1581
+AUDJPY,2024-04-03,achat,False,0.52,confirmation 1h,0.0175
+AUDJPY,2024-05-08,vente,False,1.09,clôture du mardi,-1.0348
+AUDJPY,2024-05-08,vente,False,1.09,Londres 07h,-1.0443
+AUDJPY,2024-05-08,vente,False,1.09,repli 30 % (24 h),-1.0497
+AUDJPY,2024-05-08,vente,False,1.09,FVG 4h du mardi (24 h),0.0
+AUDJPY,2024-05-08,vente,False,1.09,"repli 30 % la nuit, sinon Londres",-1.0497
+AUDJPY,2024-05-08,vente,False,1.09,"FVG 4h la nuit, sinon Londres",-1.0443
+AUDJPY,2024-05-08,vente,False,1.09,ordre stop au-delà du mardi,0.0
+AUDJPY,2024-05-08,vente,False,1.09,confirmation 1h,0.0
+AUDJPY,2024-12-11,vente,True,1.73,clôture du mardi,-1.0262
+AUDJPY,2024-12-11,vente,True,1.73,Londres 07h,-1.0234
+AUDJPY,2024-12-11,vente,True,1.73,repli 30 % (24 h),-1.0374
+AUDJPY,2024-12-11,vente,True,1.73,FVG 4h du mardi (24 h),0.0
+AUDJPY,2024-12-11,vente,True,1.73,"repli 30 % la nuit, sinon Londres",-1.0234
+AUDJPY,2024-12-11,vente,True,1.73,"FVG 4h la nuit, sinon Londres",-1.0234
+AUDJPY,2024-12-11,vente,True,1.73,ordre stop au-delà du mardi,-1.0172
+AUDJPY,2024-12-11,vente,True,1.73,confirmation 1h,-1.0151
+AUDJPY,2025-01-29,achat,True,2.15,clôture du mardi,-1.0394
+AUDJPY,2025-01-29,achat,True,2.15,Londres 07h,-1.1607
+AUDJPY,2025-01-29,achat,True,2.15,repli 30 % (24 h),-1.0563
+AUDJPY,2025-01-29,achat,True,2.15,FVG 4h du mardi (24 h),0.0
+AUDJPY,2025-01-29,achat,True,2.15,"repli 30 % la nuit, sinon Londres",-1.0563
+AUDJPY,2025-01-29,achat,True,2.15,"FVG 4h la nuit, sinon Londres",-1.1607
+AUDJPY,2025-01-29,achat,True,2.15,ordre stop au-delà du mardi,0.0
+AUDJPY,2025-01-29,achat,True,2.15,confirmation 1h,0.0
+AUDJPY,2025-03-19,vente,True,1.68,clôture du mardi,1.6528
+AUDJPY,2025-03-19,vente,True,1.68,Londres 07h,1.4752
+AUDJPY,2025-03-19,vente,True,1.68,repli 30 % (24 h),2.7897
+AUDJPY,2025-03-19,vente,True,1.68,FVG 4h du mardi (24 h),2.0311
+AUDJPY,2025-03-19,vente,True,1.68,"repli 30 % la nuit, sinon Londres",2.7897
+AUDJPY,2025-03-19,vente,True,1.68,"FVG 4h la nuit, sinon Londres",2.0311
+AUDJPY,2025-03-19,vente,True,1.68,ordre stop au-delà du mardi,0.8307
+AUDJPY,2025-03-19,vente,True,1.68,confirmation 1h,0.4628
+AUDJPY,2025-03-26,vente,True,1.63,clôture du mardi,-1.0471
+AUDJPY,2025-03-26,vente,True,1.63,Londres 07h,-1.0471
+AUDJPY,2025-03-26,vente,True,1.63,repli 30 % (24 h),-1.0673
+AUDJPY,2025-03-26,vente,True,1.63,FVG 4h du mardi (24 h),0.0
+AUDJPY,2025-03-26,vente,True,1.63,"repli 30 % la nuit, sinon Londres",-1.0673
+AUDJPY,2025-03-26,vente,True,1.63,"FVG 4h la nuit, sinon Londres",-1.0471
+AUDJPY,2025-03-26,vente,True,1.63,ordre stop au-delà du mardi,-1.0294
+AUDJPY,2025-03-26,vente,True,1.63,confirmation 1h,0.0
+AUDJPY,2025-11-12,vente,True,3.09,clôture du mardi,-1.0625
+AUDJPY,2025-11-12,vente,True,3.09,Londres 07h,-1.0625
+AUDJPY,2025-11-12,vente,True,3.09,repli 30 % (24 h),-1.0893
+AUDJPY,2025-11-12,vente,True,3.09,FVG 4h du mardi (24 h),0.0
+AUDJPY,2025-11-12,vente,True,3.09,"repli 30 % la nuit, sinon Londres",-1.0893
+AUDJPY,2025-11-12,vente,True,3.09,"FVG 4h la nuit, sinon Londres",-1.0625
+AUDJPY,2025-11-12,vente,True,3.09,ordre stop au-delà du mardi,0.0
+AUDJPY,2025-11-12,vente,True,3.09,confirmation 1h,0.0
+AUDJPY,2025-12-31,achat,False,1.26,clôture du mardi,1.2137
+AUDJPY,2025-12-31,achat,False,1.26,Londres 07h,1.1679
+AUDJPY,2025-12-31,achat,False,1.26,repli 30 % (24 h),2.1624
+AUDJPY,2025-12-31,achat,False,1.26,FVG 4h du mardi (24 h),0.0
+AUDJPY,2025-12-31,achat,False,1.26,"repli 30 % la nuit, sinon Londres",1.1679
+AUDJPY,2025-12-31,achat,False,1.26,"FVG 4h la nuit, sinon Londres",1.1679
+AUDJPY,2025-12-31,achat,False,1.26,ordre stop au-delà du mardi,0.0
+AUDJPY,2025-12-31,achat,False,1.26,confirmation 1h,0.0
+AUDJPY,2026-03-04,vente,False,0.64,clôture du mardi,0.618
+AUDJPY,2026-03-04,vente,False,0.64,Londres 07h,0.0357
+AUDJPY,2026-03-04,vente,False,0.64,repli 30 % (24 h),0.0
+AUDJPY,2026-03-04,vente,False,0.64,FVG 4h du mardi (24 h),0.0
+AUDJPY,2026-03-04,vente,False,0.64,"repli 30 % la nuit, sinon Londres",0.0357
+AUDJPY,2026-03-04,vente,False,0.64,"FVG 4h la nuit, sinon Londres",0.0357
+AUDJPY,2026-03-04,vente,False,0.64,ordre stop au-delà du mardi,0.0
+AUDJPY,2026-03-04,vente,False,0.64,confirmation 1h,0.0
+AUDJPY,2026-07-08,vente,False,1.07,clôture du mardi,-0.1235
+AUDJPY,2026-07-08,vente,False,1.07,Londres 07h,0.3101
+AUDJPY,2026-07-08,vente,False,1.07,repli 30 % (24 h),0.2521
+AUDJPY,2026-07-08,vente,False,1.07,FVG 4h du mardi (24 h),0.0
+AUDJPY,2026-07-08,vente,False,1.07,"repli 30 % la nuit, sinon Londres",0.2521
+AUDJPY,2026-07-08,vente,False,1.07,"FVG 4h la nuit, sinon Londres",0.3101
+AUDJPY,2026-07-08,vente,False,1.07,ordre stop au-delà du mardi,0.0
+AUDJPY,2026-07-08,vente,False,1.07,confirmation 1h,0.0
+AUDUSD,2024-01-31,vente,False,0.64,clôture du mardi,0.6085
+AUDUSD,2024-01-31,vente,False,0.64,Londres 07h,0.0
+AUDUSD,2024-01-31,vente,False,0.64,repli 30 % (24 h),1.2979
+AUDUSD,2024-01-31,vente,False,0.64,FVG 4h du mardi (24 h),0.0
+AUDUSD,2024-01-31,vente,False,0.64,"repli 30 % la nuit, sinon Londres",0.0
+AUDUSD,2024-01-31,vente,False,0.64,"FVG 4h la nuit, sinon Londres",0.0
+AUDUSD,2024-01-31,vente,False,0.64,ordre stop au-delà du mardi,-0.0043
+AUDUSD,2024-01-31,vente,False,0.64,confirmation 1h,-0.0114
+AUDUSD,2024-02-28,achat,False,0.92,clôture du mardi,-1.0456
+AUDUSD,2024-02-28,achat,False,0.92,Londres 07h,-1.0456
+AUDUSD,2024-02-28,achat,False,0.92,repli 30 % (24 h),-1.0652
+AUDUSD,2024-02-28,achat,False,0.92,FVG 4h du mardi (24 h),0.0
+AUDUSD,2024-02-28,achat,False,0.92,"repli 30 % la nuit, sinon Londres",-1.0652
+AUDUSD,2024-02-28,achat,False,0.92,"FVG 4h la nuit, sinon Londres",-1.0456
+AUDUSD,2024-02-28,achat,False,0.92,ordre stop au-delà du mardi,0.0
+AUDUSD,2024-02-28,achat,False,0.92,confirmation 1h,0.0
+AUDUSD,2024-04-03,achat,False,0.9,clôture du mardi,0.8629
+AUDUSD,2024-04-03,achat,False,0.9,Londres 07h,0.7471
+AUDUSD,2024-04-03,achat,False,0.9,repli 30 % (24 h),1.6613
+AUDUSD,2024-04-03,achat,False,0.9,FVG 4h du mardi (24 h),0.0
+AUDUSD,2024-04-03,achat,False,0.9,"repli 30 % la nuit, sinon Londres",0.7471
+AUDUSD,2024-04-03,achat,False,0.9,"FVG 4h la nuit, sinon Londres",0.7471
+AUDUSD,2024-04-03,achat,False,0.9,ordre stop au-delà du mardi,0.3397
+AUDUSD,2024-04-03,achat,False,0.9,confirmation 1h,0.0
+AUDUSD,2024-05-29,vente,False,0.69,clôture du mardi,0.665
+AUDUSD,2024-05-29,vente,False,0.69,Londres 07h,1.2598
+AUDUSD,2024-05-29,vente,False,0.69,repli 30 % (24 h),1.3786
+AUDUSD,2024-05-29,vente,False,0.69,FVG 4h du mardi (24 h),0.0
+AUDUSD,2024-05-29,vente,False,0.69,"repli 30 % la nuit, sinon Londres",1.3786
+AUDUSD,2024-05-29,vente,False,0.69,"FVG 4h la nuit, sinon Londres",1.2598
+AUDUSD,2024-05-29,vente,False,0.69,ordre stop au-delà du mardi,0.4296
+AUDUSD,2024-05-29,vente,False,0.69,confirmation 1h,0.423
+AUDUSD,2024-10-23,achat,False,1.29,clôture du mardi,-1.0307
+AUDUSD,2024-10-23,achat,False,1.29,Londres 07h,-1.0671
+AUDUSD,2024-10-23,achat,False,1.29,repli 30 % (24 h),-1.0438
+AUDUSD,2024-10-23,achat,False,1.29,FVG 4h du mardi (24 h),0.0
+AUDUSD,2024-10-23,achat,False,1.29,"repli 30 % la nuit, sinon Londres",-1.0438
+AUDUSD,2024-10-23,achat,False,1.29,"FVG 4h la nuit, sinon Londres",-1.0671
+AUDUSD,2024-10-23,achat,False,1.29,ordre stop au-delà du mardi,0.0
+AUDUSD,2024-10-23,achat,False,1.29,confirmation 1h,0.0
+AUDUSD,2024-11-27,achat,True,1.83,clôture du mardi,0.9203
+AUDUSD,2024-11-27,achat,True,1.83,Londres 07h,0.756
+AUDUSD,2024-11-27,achat,True,1.83,repli 30 % (24 h),0.0
+AUDUSD,2024-11-27,achat,True,1.83,FVG 4h du mardi (24 h),0.0
+AUDUSD,2024-11-27,achat,True,1.83,"repli 30 % la nuit, sinon Londres",0.756
+AUDUSD,2024-11-27,achat,True,1.83,"FVG 4h la nuit, sinon Londres",0.756
+AUDUSD,2024-11-27,achat,True,1.83,ordre stop au-delà du mardi,0.0
+AUDUSD,2024-11-27,achat,True,1.83,confirmation 1h,0.0
+AUDUSD,2025-01-22,vente,True,2.35,clôture du mardi,-1.0357
+AUDUSD,2025-01-22,vente,True,2.35,Londres 07h,-1.0286
+AUDUSD,2025-01-22,vente,True,2.35,repli 30 % (24 h),-1.051
+AUDUSD,2025-01-22,vente,True,2.35,FVG 4h du mardi (24 h),0.0
+AUDUSD,2025-01-22,vente,True,2.35,"repli 30 % la nuit, sinon Londres",-1.051
+AUDUSD,2025-01-22,vente,True,2.35,"FVG 4h la nuit, sinon Londres",-1.0286
+AUDUSD,2025-01-22,vente,True,2.35,ordre stop au-delà du mardi,0.0
+AUDUSD,2025-01-22,vente,True,2.35,confirmation 1h,0.0
+AUDUSD,2025-03-19,vente,False,1.22,clôture du mardi,1.1922
+AUDUSD,2025-03-19,vente,False,1.22,Londres 07h,0.5891
+AUDUSD,2025-03-19,vente,False,1.22,repli 30 % (24 h),0.0
+AUDUSD,2025-03-19,vente,False,1.22,FVG 4h du mardi (24 h),0.0
+AUDUSD,2025-03-19,vente,False,1.22,"repli 30 % la nuit, sinon Londres",0.5891
+AUDUSD,2025-03-19,vente,False,1.22,"FVG 4h la nuit, sinon Londres",0.5891
+AUDUSD,2025-03-19,vente,False,1.22,ordre stop au-delà du mardi,0.4217
+AUDUSD,2025-03-19,vente,False,1.22,confirmation 1h,0.1325
+AUDUSD,2025-04-30,vente,False,0.31,clôture du mardi,0.2933
+AUDUSD,2025-04-30,vente,False,0.31,Londres 07h,1.0616
+AUDUSD,2025-04-30,vente,False,0.31,repli 30 % (24 h),0.8476
+AUDUSD,2025-04-30,vente,False,0.31,FVG 4h du mardi (24 h),0.4289
+AUDUSD,2025-04-30,vente,False,0.31,"repli 30 % la nuit, sinon Londres",0.8476
+AUDUSD,2025-04-30,vente,False,0.31,"FVG 4h la nuit, sinon Londres",0.4289
+AUDUSD,2025-04-30,vente,False,0.31,ordre stop au-delà du mardi,0.075
+AUDUSD,2025-04-30,vente,False,0.31,confirmation 1h,0.0397
+AUDUSD,2025-05-21,vente,False,0.94,clôture du mardi,-1.0329
+AUDUSD,2025-05-21,vente,False,0.94,Londres 07h,-1.2123
+AUDUSD,2025-05-21,vente,False,0.94,repli 30 % (24 h),-1.047
+AUDUSD,2025-05-21,vente,False,0.94,FVG 4h du mardi (24 h),0.0
+AUDUSD,2025-05-21,vente,False,0.94,"repli 30 % la nuit, sinon Londres",-1.047
+AUDUSD,2025-05-21,vente,False,0.94,"FVG 4h la nuit, sinon Londres",-1.2123
+AUDUSD,2025-05-21,vente,False,0.94,ordre stop au-delà du mardi,0.0
+AUDUSD,2025-05-21,vente,False,0.94,confirmation 1h,0.0
+AUDUSD,2025-06-04,vente,False,0.56,clôture du mardi,-1.027
+AUDUSD,2025-06-04,vente,False,0.56,Londres 07h,-1.0253
+AUDUSD,2025-06-04,vente,False,0.56,repli 30 % (24 h),-1.0386
+AUDUSD,2025-06-04,vente,False,0.56,FVG 4h du mardi (24 h),0.0
+AUDUSD,2025-06-04,vente,False,0.56,"repli 30 % la nuit, sinon Londres",-1.0386
+AUDUSD,2025-06-04,vente,False,0.56,"FVG 4h la nuit, sinon Londres",-1.0253
+AUDUSD,2025-06-04,vente,False,0.56,ordre stop au-delà du mardi,0.0
+AUDUSD,2025-06-04,vente,False,0.56,confirmation 1h,0.0
+AUDUSD,2025-09-10,vente,False,1.01,clôture du mardi,-1.0278
+AUDUSD,2025-09-10,vente,False,1.01,Londres 07h,-1.0419
+AUDUSD,2025-09-10,vente,False,1.01,repli 30 % (24 h),-1.0397
+AUDUSD,2025-09-10,vente,False,1.01,FVG 4h du mardi (24 h),-1.0384
+AUDUSD,2025-09-10,vente,False,1.01,"repli 30 % la nuit, sinon Londres",-1.0397
+AUDUSD,2025-09-10,vente,False,1.01,"FVG 4h la nuit, sinon Londres",-1.0384
+AUDUSD,2025-09-10,vente,False,1.01,ordre stop au-delà du mardi,0.0
+AUDUSD,2025-09-10,vente,False,1.01,confirmation 1h,0.0
+AUDUSD,2025-11-12,vente,False,3.46,clôture du mardi,-1.1032
+AUDUSD,2025-11-12,vente,False,3.46,Londres 07h,-1.2695
+AUDUSD,2025-11-12,vente,False,3.46,repli 30 % (24 h),-1.1474
+AUDUSD,2025-11-12,vente,False,3.46,FVG 4h du mardi (24 h),0.0
+AUDUSD,2025-11-12,vente,False,3.46,"repli 30 % la nuit, sinon Londres",-1.1474
+AUDUSD,2025-11-12,vente,False,3.46,"FVG 4h la nuit, sinon Londres",-1.2695
+AUDUSD,2025-11-12,vente,False,3.46,ordre stop au-delà du mardi,0.0
+AUDUSD,2025-11-12,vente,False,3.46,confirmation 1h,0.0
+AUDUSD,2025-11-19,achat,False,0.63,clôture du mardi,-1.022
+AUDUSD,2025-11-19,achat,False,0.63,Londres 07h,-1.0392
+AUDUSD,2025-11-19,achat,False,0.63,repli 30 % (24 h),-1.0315
+AUDUSD,2025-11-19,achat,False,0.63,FVG 4h du mardi (24 h),0.0
+AUDUSD,2025-11-19,achat,False,0.63,"repli 30 % la nuit, sinon Londres",-1.0315
+AUDUSD,2025-11-19,achat,False,0.63,"FVG 4h la nuit, sinon Londres",-1.0392
+AUDUSD,2025-11-19,achat,False,0.63,ordre stop au-delà du mardi,0.0
+AUDUSD,2025-11-19,achat,False,0.63,confirmation 1h,0.0
+AUDUSD,2026-02-11,vente,False,3.16,clôture du mardi,-1.0539
+AUDUSD,2026-02-11,vente,False,3.16,Londres 07h,-1.0539
+AUDUSD,2026-02-11,vente,False,3.16,repli 30 % (24 h),-1.077
+AUDUSD,2026-02-11,vente,False,3.16,FVG 4h du mardi (24 h),0.0
+AUDUSD,2026-02-11,vente,False,3.16,"repli 30 % la nuit, sinon Londres",-1.077
+AUDUSD,2026-02-11,vente,False,3.16,"FVG 4h la nuit, sinon Londres",-1.0539
+AUDUSD,2026-02-11,vente,False,3.16,ordre stop au-delà du mardi,0.0
+AUDUSD,2026-02-11,vente,False,3.16,confirmation 1h,0.0
+AUDUSD,2026-04-22,vente,False,0.86,clôture du mardi,0.8205
+AUDUSD,2026-04-22,vente,False,0.86,Londres 07h,2.4218
+AUDUSD,2026-04-22,vente,False,0.86,repli 30 % (24 h),1.6007
+AUDUSD,2026-04-22,vente,False,0.86,FVG 4h du mardi (24 h),0.0
+AUDUSD,2026-04-22,vente,False,0.86,"repli 30 % la nuit, sinon Londres",1.6007
+AUDUSD,2026-04-22,vente,False,0.86,"FVG 4h la nuit, sinon Londres",2.4218
+AUDUSD,2026-04-22,vente,False,0.86,ordre stop au-delà du mardi,0.0
+AUDUSD,2026-04-22,vente,False,0.86,confirmation 1h,0.0
+AUDUSD,2026-04-29,vente,False,4.1,clôture du mardi,4.0014
+AUDUSD,2026-04-29,vente,False,4.1,Londres 07h,0.2977
+AUDUSD,2026-04-29,vente,False,4.1,repli 30 % (24 h),0.0
+AUDUSD,2026-04-29,vente,False,4.1,FVG 4h du mardi (24 h),0.0
+AUDUSD,2026-04-29,vente,False,4.1,"repli 30 % la nuit, sinon Londres",0.2977
+AUDUSD,2026-04-29,vente,False,4.1,"FVG 4h la nuit, sinon Londres",0.2977
+AUDUSD,2026-04-29,vente,False,4.1,ordre stop au-delà du mardi,0.1115
+AUDUSD,2026-04-29,vente,False,4.1,confirmation 1h,0.111
+AUDUSD,2026-05-06,achat,False,0.1,clôture du mardi,0.0848
+AUDUSD,2026-05-06,achat,False,0.1,Londres 07h,0.0
+AUDUSD,2026-05-06,achat,False,0.1,repli 30 % (24 h),0.0
+AUDUSD,2026-05-06,achat,False,0.1,FVG 4h du mardi (24 h),0.0
+AUDUSD,2026-05-06,achat,False,0.1,"repli 30 % la nuit, sinon Londres",0.0
+AUDUSD,2026-05-06,achat,False,0.1,"FVG 4h la nuit, sinon Londres",0.0
+AUDUSD,2026-05-06,achat,False,0.1,ordre stop au-delà du mardi,-0.006
+AUDUSD,2026-05-06,achat,False,0.1,confirmation 1h,0.0
+AUDUSD,2026-08-05,achat,False,0.03,clôture du mardi,0.0096
+AUDUSD,2026-08-05,achat,False,0.03,Londres 07h,0.0
+AUDUSD,2026-08-05,achat,False,0.03,repli 30 % (24 h),0.0
+AUDUSD,2026-08-05,achat,False,0.03,FVG 4h du mardi (24 h),0.1297
+AUDUSD,2026-08-05,achat,False,0.03,"repli 30 % la nuit, sinon Londres",0.0
+AUDUSD,2026-08-05,achat,False,0.03,"FVG 4h la nuit, sinon Londres",0.1297
+AUDUSD,2026-08-05,achat,False,0.03,ordre stop au-delà du mardi,0.0
+AUDUSD,2026-08-05,achat,False,0.03,confirmation 1h,0.0
+EURJPY,2024-04-03,achat,False,0.41,clôture du mardi,0.3822
+EURJPY,2024-04-03,achat,False,0.41,Londres 07h,0.102
+EURJPY,2024-04-03,achat,False,0.41,repli 30 % (24 h),0.0
+EURJPY,2024-04-03,achat,False,0.41,FVG 4h du mardi (24 h),0.0
+EURJPY,2024-04-03,achat,False,0.41,"repli 30 % la nuit, sinon Londres",0.102
+EURJPY,2024-04-03,achat,False,0.41,"FVG 4h la nuit, sinon Londres",0.102
+EURJPY,2024-04-03,achat,False,0.41,ordre stop au-delà du mardi,0.086
+EURJPY,2024-04-03,achat,False,0.41,confirmation 1h,0.0889
+EURJPY,2024-04-10,vente,True,1.62,clôture du mardi,1.5797
+EURJPY,2024-04-10,vente,True,1.62,Londres 07h,1.1157
+EURJPY,2024-04-10,vente,True,1.62,repli 30 % (24 h),2.6853
+EURJPY,2024-04-10,vente,True,1.62,FVG 4h du mardi (24 h),0.0
+EURJPY,2024-04-10,vente,True,1.62,"repli 30 % la nuit, sinon Londres",1.1157
+EURJPY,2024-04-10,vente,True,1.62,"FVG 4h la nuit, sinon Londres",1.1157
+EURJPY,2024-04-10,vente,True,1.62,ordre stop au-delà du mardi,0.4947
+EURJPY,2024-04-10,vente,True,1.62,confirmation 1h,0.0821
+EURJPY,2024-05-22,vente,False,1.6,clôture du mardi,-1.0435
+EURJPY,2024-05-22,vente,False,1.6,Londres 07h,-1.1271
+EURJPY,2024-05-22,vente,False,1.6,repli 30 % (24 h),-1.0621
+EURJPY,2024-05-22,vente,False,1.6,FVG 4h du mardi (24 h),0.0
+EURJPY,2024-05-22,vente,False,1.6,"repli 30 % la nuit, sinon Londres",-1.0621
+EURJPY,2024-05-22,vente,False,1.6,"FVG 4h la nuit, sinon Londres",-1.1271
+EURJPY,2024-05-22,vente,False,1.6,ordre stop au-delà du mardi,0.0
+EURJPY,2024-05-22,vente,False,1.6,confirmation 1h,0.0
+EURJPY,2024-12-18,vente,False,0.0,clôture du mardi,-0.0068
+EURJPY,2024-12-18,vente,False,0.0,Londres 07h,0.1201
+EURJPY,2024-12-18,vente,False,0.0,repli 30 % (24 h),0.0
+EURJPY,2024-12-18,vente,False,0.0,FVG 4h du mardi (24 h),0.0
+EURJPY,2024-12-18,vente,False,0.0,"repli 30 % la nuit, sinon Londres",0.1201
+EURJPY,2024-12-18,vente,False,0.0,"FVG 4h la nuit, sinon Londres",0.1201
+EURJPY,2024-12-18,vente,False,0.0,ordre stop au-delà du mardi,0.0
+EURJPY,2024-12-18,vente,False,0.0,confirmation 1h,0.0
+EURJPY,2025-01-08,vente,True,1.5,clôture du mardi,1.4846
+EURJPY,2025-01-08,vente,True,1.5,Londres 07h,1.3382
+EURJPY,2025-01-08,vente,True,1.5,repli 30 % (24 h),0.0
+EURJPY,2025-01-08,vente,True,1.5,FVG 4h du mardi (24 h),0.0
+EURJPY,2025-01-08,vente,True,1.5,"repli 30 % la nuit, sinon Londres",1.3382
+EURJPY,2025-01-08,vente,True,1.5,"FVG 4h la nuit, sinon Londres",1.3382
+EURJPY,2025-01-08,vente,True,1.5,ordre stop au-delà du mardi,0.6528
+EURJPY,2025-01-08,vente,True,1.5,confirmation 1h,0.5287
+EURJPY,2025-01-29,achat,True,1.98,clôture du mardi,-1.0242
+EURJPY,2025-01-29,achat,True,1.98,Londres 07h,-1.0373
+EURJPY,2025-01-29,achat,True,1.98,repli 30 % (24 h),-1.0345
+EURJPY,2025-01-29,achat,True,1.98,FVG 4h du mardi (24 h),0.0
+EURJPY,2025-01-29,achat,True,1.98,"repli 30 % la nuit, sinon Londres",-1.0345
+EURJPY,2025-01-29,achat,True,1.98,"FVG 4h la nuit, sinon Londres",-1.0373
+EURJPY,2025-01-29,achat,True,1.98,ordre stop au-delà du mardi,0.0
+EURJPY,2025-01-29,achat,True,1.98,confirmation 1h,0.0
+EURJPY,2026-04-22,vente,False,2.02,clôture du mardi,1.9489
+EURJPY,2026-04-22,vente,False,2.02,Londres 07h,0.5277
+EURJPY,2026-04-22,vente,False,2.02,repli 30 % (24 h),3.2128
+EURJPY,2026-04-22,vente,False,2.02,FVG 4h du mardi (24 h),0.0
+EURJPY,2026-04-22,vente,False,2.02,"repli 30 % la nuit, sinon Londres",0.5277
+EURJPY,2026-04-22,vente,False,2.02,"FVG 4h la nuit, sinon Londres",0.5277
+EURJPY,2026-04-22,vente,False,2.02,ordre stop au-delà du mardi,0.5577
+EURJPY,2026-04-22,vente,False,2.02,confirmation 1h,0.5314
+EURJPY,2026-05-13,vente,False,0.97,clôture du mardi,0.9363
+EURJPY,2026-05-13,vente,False,0.97,Londres 07h,0.5402
+EURJPY,2026-05-13,vente,False,0.97,repli 30 % (24 h),0.0
+EURJPY,2026-05-13,vente,False,0.97,FVG 4h du mardi (24 h),0.0
+EURJPY,2026-05-13,vente,False,0.97,"repli 30 % la nuit, sinon Londres",0.5402
+EURJPY,2026-05-13,vente,False,0.97,"FVG 4h la nuit, sinon Londres",0.5402
+EURJPY,2026-05-13,vente,False,0.97,ordre stop au-delà du mardi,0.0
+EURJPY,2026-05-13,vente,False,0.97,confirmation 1h,0.0
+EURJPY,2026-05-20,vente,False,0.24,clôture du mardi,0.212
+EURJPY,2026-05-20,vente,False,0.24,Londres 07h,0.0
+EURJPY,2026-05-20,vente,False,0.24,repli 30 % (24 h),0.0
+EURJPY,2026-05-20,vente,False,0.24,FVG 4h du mardi (24 h),0.0
+EURJPY,2026-05-20,vente,False,0.24,"repli 30 % la nuit, sinon Londres",0.0
+EURJPY,2026-05-20,vente,False,0.24,"FVG 4h la nuit, sinon Londres",0.0
+EURJPY,2026-05-20,vente,False,0.24,ordre stop au-delà du mardi,0.0
+EURJPY,2026-05-20,vente,False,0.24,confirmation 1h,0.0
+EURJPY,2026-07-08,vente,False,1.04,clôture du mardi,-1.034
+EURJPY,2026-07-08,vente,False,1.04,Londres 07h,-1.0549
+EURJPY,2026-07-08,vente,False,1.04,repli 30 % (24 h),-1.0486
+EURJPY,2026-07-08,vente,False,1.04,FVG 4h du mardi (24 h),0.0
+EURJPY,2026-07-08,vente,False,1.04,"repli 30 % la nuit, sinon Londres",-1.0486
+EURJPY,2026-07-08,vente,False,1.04,"FVG 4h la nuit, sinon Londres",-1.0549
+EURJPY,2026-07-08,vente,False,1.04,ordre stop au-delà du mardi,0.0
+EURJPY,2026-07-08,vente,False,1.04,confirmation 1h,0.0
+EURNZD,2024-01-31,achat,True,1.42,clôture du mardi,1.0844
+EURNZD,2024-01-31,achat,True,1.42,Londres 07h,0.7955
+EURNZD,2024-01-31,achat,True,1.42,repli 30 % (24 h),1.9776
+EURNZD,2024-01-31,achat,True,1.42,FVG 4h du mardi (24 h),0.0
+EURNZD,2024-01-31,achat,True,1.42,"repli 30 % la nuit, sinon Londres",0.7955
+EURNZD,2024-01-31,achat,True,1.42,"FVG 4h la nuit, sinon Londres",0.7955
+EURNZD,2024-01-31,achat,True,1.42,ordre stop au-delà du mardi,0.0
+EURNZD,2024-01-31,achat,True,1.42,confirmation 1h,0.2103
+EURNZD,2024-02-28,vente,True,1.45,clôture du mardi,-1.0462
+EURNZD,2024-02-28,vente,True,1.45,Londres 07h,-1.0462
+EURNZD,2024-02-28,vente,True,1.45,repli 30 % (24 h),-1.0659
+EURNZD,2024-02-28,vente,True,1.45,FVG 4h du mardi (24 h),0.0
+EURNZD,2024-02-28,vente,True,1.45,"repli 30 % la nuit, sinon Londres",-1.0659
+EURNZD,2024-02-28,vente,True,1.45,"FVG 4h la nuit, sinon Londres",-1.0462
+EURNZD,2024-02-28,vente,True,1.45,ordre stop au-delà du mardi,0.0
+EURNZD,2024-02-28,vente,True,1.45,confirmation 1h,0.0
+EURNZD,2024-04-24,achat,False,0.63,clôture du mardi,-1.0527
+EURNZD,2024-04-24,achat,False,0.63,Londres 07h,-1.0779
+EURNZD,2024-04-24,achat,False,0.63,repli 30 % (24 h),-1.0753
+EURNZD,2024-04-24,achat,False,0.63,FVG 4h du mardi (24 h),0.0
+EURNZD,2024-04-24,achat,False,0.63,"repli 30 % la nuit, sinon Londres",-1.0753
+EURNZD,2024-04-24,achat,False,0.63,"FVG 4h la nuit, sinon Londres",-1.0779
+EURNZD,2024-04-24,achat,False,0.63,ordre stop au-delà du mardi,0.0
+EURNZD,2024-04-24,achat,False,0.63,confirmation 1h,0.0
+EURNZD,2024-05-29,achat,False,0.97,clôture du mardi,0.917
+EURNZD,2024-05-29,achat,False,0.97,Londres 07h,0.521
+EURNZD,2024-05-29,achat,False,0.97,repli 30 % (24 h),1.7385
+EURNZD,2024-05-29,achat,False,0.97,FVG 4h du mardi (24 h),0.0
+EURNZD,2024-05-29,achat,False,0.97,"repli 30 % la nuit, sinon Londres",1.7385
+EURNZD,2024-05-29,achat,False,0.97,"FVG 4h la nuit, sinon Londres",0.521
+EURNZD,2024-05-29,achat,False,0.97,ordre stop au-delà du mardi,0.3042
+EURNZD,2024-05-29,achat,False,0.97,confirmation 1h,0.1897
+EURNZD,2024-06-26,vente,False,0.7,clôture du mardi,-1.0718
+EURNZD,2024-06-26,vente,False,0.7,Londres 07h,-1.0574
+EURNZD,2024-06-26,vente,False,0.7,repli 30 % (24 h),-1.1025
+EURNZD,2024-06-26,vente,False,0.7,FVG 4h du mardi (24 h),0.0
+EURNZD,2024-06-26,vente,False,0.7,"repli 30 % la nuit, sinon Londres",-1.1025
+EURNZD,2024-06-26,vente,False,0.7,"FVG 4h la nuit, sinon Londres",-1.0574
+EURNZD,2024-06-26,vente,False,0.7,ordre stop au-delà du mardi,-1.0442
+EURNZD,2024-06-26,vente,False,0.7,confirmation 1h,0.0
+EURNZD,2024-07-03,vente,False,0.98,clôture du mardi,0.5007
+EURNZD,2024-07-03,vente,False,0.98,Londres 07h,0.5839
+EURNZD,2024-07-03,vente,False,0.98,repli 30 % (24 h),1.1438
+EURNZD,2024-07-03,vente,False,0.98,FVG 4h du mardi (24 h),0.0
+EURNZD,2024-07-03,vente,False,0.98,"repli 30 % la nuit, sinon Londres",0.5839
+EURNZD,2024-07-03,vente,False,0.98,"FVG 4h la nuit, sinon Londres",0.5839
+EURNZD,2024-07-03,vente,False,0.98,ordre stop au-delà du mardi,0.2591
+EURNZD,2024-07-03,vente,False,0.98,confirmation 1h,0.2647
+EURNZD,2024-10-09,vente,True,1.68,clôture du mardi,-1.0421
+EURNZD,2024-10-09,vente,True,1.68,Londres 07h,-1.0421
+EURNZD,2024-10-09,vente,True,1.68,repli 30 % (24 h),-1.0602
+EURNZD,2024-10-09,vente,True,1.68,FVG 4h du mardi (24 h),0.0
+EURNZD,2024-10-09,vente,True,1.68,"repli 30 % la nuit, sinon Londres",-1.0602
+EURNZD,2024-10-09,vente,True,1.68,"FVG 4h la nuit, sinon Londres",-1.0421
+EURNZD,2024-10-09,vente,True,1.68,ordre stop au-delà du mardi,0.0
+EURNZD,2024-10-09,vente,True,1.68,confirmation 1h,0.0
+EURNZD,2024-10-23,vente,False,0.05,clôture du mardi,0.0219
+EURNZD,2024-10-23,vente,False,0.05,Londres 07h,-1.0413
+EURNZD,2024-10-23,vente,False,0.05,repli 30 % (24 h),0.4599
+EURNZD,2024-10-23,vente,False,0.05,FVG 4h du mardi (24 h),0.0
+EURNZD,2024-10-23,vente,False,0.05,"repli 30 % la nuit, sinon Londres",0.4599
+EURNZD,2024-10-23,vente,False,0.05,"FVG 4h la nuit, sinon Londres",-1.0413
+EURNZD,2024-10-23,vente,False,0.05,ordre stop au-delà du mardi,0.0
+EURNZD,2024-10-23,vente,False,0.05,confirmation 1h,0.0
+EURNZD,2024-11-13,achat,False,0.53,clôture du mardi,0.494
+EURNZD,2024-11-13,achat,False,0.53,Londres 07h,0.7792
+EURNZD,2024-11-13,achat,False,0.53,repli 30 % (24 h),1.1343
+EURNZD,2024-11-13,achat,False,0.53,FVG 4h du mardi (24 h),0.9826
+EURNZD,2024-11-13,achat,False,0.53,"repli 30 % la nuit, sinon Londres",1.1343
+EURNZD,2024-11-13,achat,False,0.53,"FVG 4h la nuit, sinon Londres",0.9826
+EURNZD,2024-11-13,achat,False,0.53,ordre stop au-delà du mardi,0.2709
+EURNZD,2024-11-13,achat,False,0.53,confirmation 1h,0.2603
+EURNZD,2024-12-18,achat,False,0.13,clôture du mardi,0.087
+EURNZD,2024-12-18,achat,False,0.13,Londres 07h,0.0
+EURNZD,2024-12-18,achat,False,0.13,repli 30 % (24 h),0.0
+EURNZD,2024-12-18,achat,False,0.13,FVG 4h du mardi (24 h),0.0
+EURNZD,2024-12-18,achat,False,0.13,"repli 30 % la nuit, sinon Londres",0.0
+EURNZD,2024-12-18,achat,False,0.13,"FVG 4h la nuit, sinon Londres",0.0
+EURNZD,2024-12-18,achat,False,0.13,ordre stop au-delà du mardi,0.0
+EURNZD,2024-12-18,achat,False,0.13,confirmation 1h,0.0
+EURNZD,2025-01-15,achat,False,0.13,clôture du mardi,0.1131
+EURNZD,2025-01-15,achat,False,0.13,Londres 07h,0.2176
+EURNZD,2025-01-15,achat,False,0.13,repli 30 % (24 h),0.5901
+EURNZD,2025-01-15,achat,False,0.13,FVG 4h du mardi (24 h),0.2842
+EURNZD,2025-01-15,achat,False,0.13,"repli 30 % la nuit, sinon Londres",0.2176
+EURNZD,2025-01-15,achat,False,0.13,"FVG 4h la nuit, sinon Londres",0.2842
+EURNZD,2025-01-15,achat,False,0.13,ordre stop au-delà du mardi,0.0
+EURNZD,2025-01-15,achat,False,0.13,confirmation 1h,0.0
+EURNZD,2025-03-19,achat,True,1.59,clôture du mardi,-1.0365
+EURNZD,2025-03-19,achat,True,1.59,Londres 07h,-1.0349
+EURNZD,2025-03-19,achat,True,1.59,repli 30 % (24 h),-1.0522
+EURNZD,2025-03-19,achat,True,1.59,FVG 4h du mardi (24 h),0.0
+EURNZD,2025-03-19,achat,True,1.59,"repli 30 % la nuit, sinon Londres",-1.0349
+EURNZD,2025-03-19,achat,True,1.59,"FVG 4h la nuit, sinon Londres",-1.0349
+EURNZD,2025-03-19,achat,True,1.59,ordre stop au-delà du mardi,-1.0273
+EURNZD,2025-03-19,achat,True,1.59,confirmation 1h,-1.0226
+EURNZD,2025-06-04,achat,False,0.81,clôture du mardi,-1.0467
+EURNZD,2025-06-04,achat,False,0.81,Londres 07h,-1.0477
+EURNZD,2025-06-04,achat,False,0.81,repli 30 % (24 h),-1.0667
+EURNZD,2025-06-04,achat,False,0.81,FVG 4h du mardi (24 h),0.0
+EURNZD,2025-06-04,achat,False,0.81,"repli 30 % la nuit, sinon Londres",-1.0667
+EURNZD,2025-06-04,achat,False,0.81,"FVG 4h la nuit, sinon Londres",-1.0477
+EURNZD,2025-06-04,achat,False,0.81,ordre stop au-delà du mardi,0.0
+EURNZD,2025-06-04,achat,False,0.81,confirmation 1h,0.0
+EURNZD,2025-07-16,vente,True,1.24,clôture du mardi,-1.0578
+EURNZD,2025-07-16,vente,True,1.24,Londres 07h,-1.4762
+EURNZD,2025-07-16,vente,True,1.24,repli 30 % (24 h),-1.0826
+EURNZD,2025-07-16,vente,True,1.24,FVG 4h du mardi (24 h),0.0
+EURNZD,2025-07-16,vente,True,1.24,"repli 30 % la nuit, sinon Londres",-1.0826
+EURNZD,2025-07-16,vente,True,1.24,"FVG 4h la nuit, sinon Londres",-1.4762
+EURNZD,2025-07-16,vente,True,1.24,ordre stop au-delà du mardi,0.0
+EURNZD,2025-07-16,vente,True,1.24,confirmation 1h,0.0
+EURNZD,2025-12-03,vente,False,0.73,clôture du mardi,-1.0465
+EURNZD,2025-12-03,vente,False,0.73,Londres 07h,-1.0395
+EURNZD,2025-12-03,vente,False,0.73,repli 30 % (24 h),-1.0664
+EURNZD,2025-12-03,vente,False,0.73,FVG 4h du mardi (24 h),0.0
+EURNZD,2025-12-03,vente,False,0.73,"repli 30 % la nuit, sinon Londres",-1.0664
+EURNZD,2025-12-03,vente,False,0.73,"FVG 4h la nuit, sinon Londres",-1.0395
+EURNZD,2025-12-03,vente,False,0.73,ordre stop au-delà du mardi,0.0
+EURNZD,2025-12-03,vente,False,0.73,confirmation 1h,0.0
+EURNZD,2026-01-14,achat,False,0.27,clôture du mardi,-1.0253
+EURNZD,2026-01-14,achat,False,0.27,Londres 07h,-1.0342
+EURNZD,2026-01-14,achat,False,0.27,repli 30 % (24 h),-1.0361
+EURNZD,2026-01-14,achat,False,0.27,FVG 4h du mardi (24 h),-1.0314
+EURNZD,2026-01-14,achat,False,0.27,"repli 30 % la nuit, sinon Londres",-1.0342
+EURNZD,2026-01-14,achat,False,0.27,"FVG 4h la nuit, sinon Londres",-1.0314
+EURNZD,2026-01-14,achat,False,0.27,ordre stop au-delà du mardi,-1.0216
+EURNZD,2026-01-14,achat,False,0.27,confirmation 1h,0.0
+EURNZD,2026-02-25,vente,False,0.54,clôture du mardi,0.4969
+EURNZD,2026-02-25,vente,False,0.54,Londres 07h,0.0841
+EURNZD,2026-02-25,vente,False,0.54,repli 30 % (24 h),0.0
+EURNZD,2026-02-25,vente,False,0.54,FVG 4h du mardi (24 h),0.0
+EURNZD,2026-02-25,vente,False,0.54,"repli 30 % la nuit, sinon Londres",0.0841
+EURNZD,2026-02-25,vente,False,0.54,"FVG 4h la nuit, sinon Londres",0.0841
+EURNZD,2026-02-25,vente,False,0.54,ordre stop au-delà du mardi,0.1128
+EURNZD,2026-02-25,vente,False,0.54,confirmation 1h,0.0976
+EURNZD,2026-03-04,achat,False,0.69,clôture du mardi,-1.0427
+EURNZD,2026-03-04,achat,False,0.69,Londres 07h,-1.1027
+EURNZD,2026-03-04,achat,False,0.69,repli 30 % (24 h),-1.0611
+EURNZD,2026-03-04,achat,False,0.69,FVG 4h du mardi (24 h),0.0
+EURNZD,2026-03-04,achat,False,0.69,"repli 30 % la nuit, sinon Londres",-1.0611
+EURNZD,2026-03-04,achat,False,0.69,"FVG 4h la nuit, sinon Londres",-1.1027
+EURNZD,2026-03-04,achat,False,0.69,ordre stop au-delà du mardi,0.0
+EURNZD,2026-03-04,achat,False,0.69,confirmation 1h,0.0
+EURNZD,2026-03-18,achat,False,0.62,clôture du mardi,0.5763
+EURNZD,2026-03-18,achat,False,0.62,Londres 07h,1.4233
+EURNZD,2026-03-18,achat,False,0.62,repli 30 % (24 h),1.2519
+EURNZD,2026-03-18,achat,False,0.62,FVG 4h du mardi (24 h),0.0
+EURNZD,2026-03-18,achat,False,0.62,"repli 30 % la nuit, sinon Londres",1.2519
+EURNZD,2026-03-18,achat,False,0.62,"FVG 4h la nuit, sinon Londres",1.4233
+EURNZD,2026-03-18,achat,False,0.62,ordre stop au-delà du mardi,0.0
+EURNZD,2026-03-18,achat,False,0.62,confirmation 1h,0.0
+EURNZD,2026-04-29,achat,False,0.47,clôture du mardi,0.4358
+EURNZD,2026-04-29,achat,False,0.47,Londres 07h,0.0
+EURNZD,2026-04-29,achat,False,0.47,repli 30 % (24 h),0.0
+EURNZD,2026-04-29,achat,False,0.47,FVG 4h du mardi (24 h),0.0
+EURNZD,2026-04-29,achat,False,0.47,"repli 30 % la nuit, sinon Londres",0.0
+EURNZD,2026-04-29,achat,False,0.47,"FVG 4h la nuit, sinon Londres",0.0
+EURNZD,2026-04-29,achat,False,0.47,ordre stop au-delà du mardi,0.1404
+EURNZD,2026-04-29,achat,False,0.47,confirmation 1h,0.0909
+EURNZD,2026-05-06,vente,False,0.45,clôture du mardi,0.4131
+EURNZD,2026-05-06,vente,False,0.45,Londres 07h,0.0
+EURNZD,2026-05-06,vente,False,0.45,repli 30 % (24 h),0.0
+EURNZD,2026-05-06,vente,False,0.45,FVG 4h du mardi (24 h),0.0
+EURNZD,2026-05-06,vente,False,0.45,"repli 30 % la nuit, sinon Londres",0.0
+EURNZD,2026-05-06,vente,False,0.45,"FVG 4h la nuit, sinon Londres",0.0
+EURNZD,2026-05-06,vente,False,0.45,ordre stop au-delà du mardi,0.1019
+EURNZD,2026-05-06,vente,False,0.45,confirmation 1h,0.0
+EURNZD,2026-07-22,achat,False,0.05,clôture du mardi,0.0283
+EURNZD,2026-07-22,achat,False,0.05,Londres 07h,0.0
+EURNZD,2026-07-22,achat,False,0.05,repli 30 % (24 h),0.0
+EURNZD,2026-07-22,achat,False,0.05,FVG 4h du mardi (24 h),0.0
+EURNZD,2026-07-22,achat,False,0.05,"repli 30 % la nuit, sinon Londres",0.0
+EURNZD,2026-07-22,achat,False,0.05,"FVG 4h la nuit, sinon Londres",0.0
+EURNZD,2026-07-22,achat,False,0.05,ordre stop au-delà du mardi,0.0
+EURNZD,2026-07-22,achat,False,0.05,confirmation 1h,0.0
+EURNZD,2026-07-29,vente,True,2.2,clôture du mardi,-1.1027
+EURNZD,2026-07-29,vente,True,2.2,Londres 07h,-1.0679
+EURNZD,2026-07-29,vente,True,2.2,repli 30 % (24 h),-1.1468
+EURNZD,2026-07-29,vente,True,2.2,FVG 4h du mardi (24 h),0.0
+EURNZD,2026-07-29,vente,True,2.2,"repli 30 % la nuit, sinon Londres",-1.1468
+EURNZD,2026-07-29,vente,True,2.2,"FVG 4h la nuit, sinon Londres",-1.0679
+EURNZD,2026-07-29,vente,True,2.2,ordre stop au-delà du mardi,0.0
+EURNZD,2026-07-29,vente,True,2.2,confirmation 1h,0.0
+EURUSD,2024-02-28,vente,False,1.1,clôture du mardi,1.0697
+EURUSD,2024-02-28,vente,False,1.1,Londres 07h,0.1932
+EURUSD,2024-02-28,vente,False,1.1,repli 30 % (24 h),0.0
+EURUSD,2024-02-28,vente,False,1.1,FVG 4h du mardi (24 h),0.0
+EURUSD,2024-02-28,vente,False,1.1,"repli 30 % la nuit, sinon Londres",0.1932
+EURUSD,2024-02-28,vente,False,1.1,"FVG 4h la nuit, sinon Londres",0.1932
+EURUSD,2024-02-28,vente,False,1.1,ordre stop au-delà du mardi,0.5209
+EURUSD,2024-02-28,vente,False,1.1,confirmation 1h,0.5133
+EURUSD,2024-03-27,vente,False,0.9,clôture du mardi,0.8771
+EURUSD,2024-03-27,vente,False,0.9,Londres 07h,0.7552
+EURUSD,2024-03-27,vente,False,0.9,repli 30 % (24 h),0.0
+EURUSD,2024-03-27,vente,False,0.9,FVG 4h du mardi (24 h),1.0956
+EURUSD,2024-03-27,vente,False,0.9,"repli 30 % la nuit, sinon Londres",0.7552
+EURUSD,2024-03-27,vente,False,0.9,"FVG 4h la nuit, sinon Londres",0.7552
+EURUSD,2024-03-27,vente,False,0.9,ordre stop au-delà du mardi,0.475
+EURUSD,2024-03-27,vente,False,0.9,confirmation 1h,0.4691
+EURUSD,2024-04-03,achat,False,0.7,clôture du mardi,0.6841
+EURUSD,2024-04-03,achat,False,0.7,Londres 07h,0.6011
+EURUSD,2024-04-03,achat,False,0.7,repli 30 % (24 h),0.0
+EURUSD,2024-04-03,achat,False,0.7,FVG 4h du mardi (24 h),0.0
+EURUSD,2024-04-03,achat,False,0.7,"repli 30 % la nuit, sinon Londres",0.6011
+EURUSD,2024-04-03,achat,False,0.7,"FVG 4h la nuit, sinon Londres",0.6011
+EURUSD,2024-04-03,achat,False,0.7,ordre stop au-delà du mardi,0.341
+EURUSD,2024-04-03,achat,False,0.7,confirmation 1h,0.2351
+EURUSD,2024-04-10,vente,False,1.34,clôture du mardi,1.3143
+EURUSD,2024-04-10,vente,False,1.34,Londres 07h,0.9807
+EURUSD,2024-04-10,vente,False,1.34,repli 30 % (24 h),0.0
+EURUSD,2024-04-10,vente,False,1.34,FVG 4h du mardi (24 h),0.0
+EURUSD,2024-04-10,vente,False,1.34,"repli 30 % la nuit, sinon Londres",0.9807
+EURUSD,2024-04-10,vente,False,1.34,"FVG 4h la nuit, sinon Londres",0.9807
+EURUSD,2024-04-10,vente,False,1.34,ordre stop au-delà du mardi,0.6363
+EURUSD,2024-04-10,vente,False,1.34,confirmation 1h,0.0
+EURUSD,2024-05-29,vente,False,0.24,clôture du mardi,0.2163
+EURUSD,2024-05-29,vente,False,0.24,Londres 07h,0.2928
+EURUSD,2024-05-29,vente,False,0.24,repli 30 % (24 h),0.0
+EURUSD,2024-05-29,vente,False,0.24,FVG 4h du mardi (24 h),0.0
+EURUSD,2024-05-29,vente,False,0.24,"repli 30 % la nuit, sinon Londres",0.2928
+EURUSD,2024-05-29,vente,False,0.24,"FVG 4h la nuit, sinon Londres",0.2928
+EURUSD,2024-05-29,vente,False,0.24,ordre stop au-delà du mardi,0.1865
+EURUSD,2024-05-29,vente,False,0.24,confirmation 1h,0.0877
+EURUSD,2024-06-05,vente,False,1.54,clôture du mardi,1.5146
+EURUSD,2024-06-05,vente,False,1.54,Londres 07h,1.1532
+EURUSD,2024-06-05,vente,False,1.54,repli 30 % (24 h),0.0
+EURUSD,2024-06-05,vente,False,1.54,FVG 4h du mardi (24 h),0.0
+EURUSD,2024-06-05,vente,False,1.54,"repli 30 % la nuit, sinon Londres",1.1532
+EURUSD,2024-06-05,vente,False,1.54,"FVG 4h la nuit, sinon Londres",1.1532
+EURUSD,2024-06-05,vente,False,1.54,ordre stop au-delà du mardi,0.5411
+EURUSD,2024-06-05,vente,False,1.54,confirmation 1h,0.0
+EURUSD,2024-06-26,vente,False,0.67,clôture du mardi,0.647
+EURUSD,2024-06-26,vente,False,0.67,Londres 07h,0.2067
+EURUSD,2024-06-26,vente,False,0.67,repli 30 % (24 h),0.0
+EURUSD,2024-06-26,vente,False,0.67,FVG 4h du mardi (24 h),0.0
+EURUSD,2024-06-26,vente,False,0.67,"repli 30 % la nuit, sinon Londres",0.2067
+EURUSD,2024-06-26,vente,False,0.67,"FVG 4h la nuit, sinon Londres",0.2067
+EURUSD,2024-06-26,vente,False,0.67,ordre stop au-delà du mardi,0.0673
+EURUSD,2024-06-26,vente,False,0.67,confirmation 1h,0.0647
+EURUSD,2024-09-18,vente,False,1.4,clôture du mardi,-1.0313
+EURUSD,2024-09-18,vente,False,1.4,Londres 07h,-1.0273
+EURUSD,2024-09-18,vente,False,1.4,repli 30 % (24 h),-1.0473
+EURUSD,2024-09-18,vente,False,1.4,FVG 4h du mardi (24 h),0.0
+EURUSD,2024-09-18,vente,False,1.4,"repli 30 % la nuit, sinon Londres",-1.0273
+EURUSD,2024-09-18,vente,False,1.4,"FVG 4h la nuit, sinon Londres",-1.0273
+EURUSD,2024-09-18,vente,False,1.4,ordre stop au-delà du mardi,-1.0212
+EURUSD,2024-09-18,vente,False,1.4,confirmation 1h,0.0
+EURUSD,2025-01-22,vente,True,4.21,clôture du mardi,-1.0264
+EURUSD,2025-01-22,vente,True,4.21,Londres 07h,-1.0247
+EURUSD,2025-01-22,vente,True,4.21,repli 30 % (24 h),-1.0378
+EURUSD,2025-01-22,vente,True,4.21,FVG 4h du mardi (24 h),0.0
+EURUSD,2025-01-22,vente,True,4.21,"repli 30 % la nuit, sinon Londres",-1.0378
+EURUSD,2025-01-22,vente,True,4.21,"FVG 4h la nuit, sinon Londres",-1.0247
+EURUSD,2025-01-22,vente,True,4.21,ordre stop au-delà du mardi,0.0
+EURUSD,2025-01-22,vente,True,4.21,confirmation 1h,0.0
+EURUSD,2025-04-30,vente,False,1.9,clôture du mardi,1.8713
+EURUSD,2025-04-30,vente,False,1.9,Londres 07h,1.7546
+EURUSD,2025-04-30,vente,False,1.9,repli 30 % (24 h),0.0
+EURUSD,2025-04-30,vente,False,1.9,FVG 4h du mardi (24 h),0.0
+EURUSD,2025-04-30,vente,False,1.9,"repli 30 % la nuit, sinon Londres",1.7546
+EURUSD,2025-04-30,vente,False,1.9,"FVG 4h la nuit, sinon Londres",1.7546
+EURUSD,2025-04-30,vente,False,1.9,ordre stop au-delà du mardi,0.7669
+EURUSD,2025-04-30,vente,False,1.9,confirmation 1h,0.4559
+EURUSD,2025-05-14,achat,False,0.58,clôture du mardi,0.5752
+EURUSD,2025-05-14,achat,False,0.58,Londres 07h,0.5752
+EURUSD,2025-05-14,achat,False,0.58,repli 30 % (24 h),0.0
+EURUSD,2025-05-14,achat,False,0.58,FVG 4h du mardi (24 h),0.619
+EURUSD,2025-05-14,achat,False,0.58,"repli 30 % la nuit, sinon Londres",0.5752
+EURUSD,2025-05-14,achat,False,0.58,"FVG 4h la nuit, sinon Londres",0.619
+EURUSD,2025-05-14,achat,False,0.58,ordre stop au-delà du mardi,0.3875
+EURUSD,2025-05-14,achat,False,0.58,confirmation 1h,0.2136
+EURUSD,2025-06-04,vente,False,0.41,clôture du mardi,-1.011
+EURUSD,2025-06-04,vente,False,0.41,Londres 07h,-1.0105
+EURUSD,2025-06-04,vente,False,0.41,repli 30 % (24 h),-1.0158
+EURUSD,2025-06-04,vente,False,0.41,FVG 4h du mardi (24 h),-1.0129
+EURUSD,2025-06-04,vente,False,0.41,"repli 30 % la nuit, sinon Londres",-1.0105
+EURUSD,2025-06-04,vente,False,0.41,"FVG 4h la nuit, sinon Londres",-1.0105
+EURUSD,2025-06-04,vente,False,0.41,ordre stop au-delà du mardi,-1.0087
+EURUSD,2025-06-04,vente,False,0.41,confirmation 1h,0.0
+EURUSD,2025-08-27,achat,True,2.29,clôture du mardi,-1.0224
+EURUSD,2025-08-27,achat,True,2.29,Londres 07h,-1.0409
+EURUSD,2025-08-27,achat,True,2.29,repli 30 % (24 h),-1.0319
+EURUSD,2025-08-27,achat,True,2.29,FVG 4h du mardi (24 h),0.0
+EURUSD,2025-08-27,achat,True,2.29,"repli 30 % la nuit, sinon Londres",-1.0319
+EURUSD,2025-08-27,achat,True,2.29,"FVG 4h la nuit, sinon Londres",-1.0409
+EURUSD,2025-08-27,achat,True,2.29,ordre stop au-delà du mardi,0.0
+EURUSD,2025-08-27,achat,True,2.29,confirmation 1h,0.0
+EURUSD,2026-02-11,vente,True,1.78,clôture du mardi,0.5055
+EURUSD,2026-02-11,vente,True,1.78,Londres 07h,3.1009
+EURUSD,2026-02-11,vente,True,1.78,repli 30 % (24 h),1.1507
+EURUSD,2026-02-11,vente,True,1.78,FVG 4h du mardi (24 h),0.0
+EURUSD,2026-02-11,vente,True,1.78,"repli 30 % la nuit, sinon Londres",1.1507
+EURUSD,2026-02-11,vente,True,1.78,"FVG 4h la nuit, sinon Londres",3.1009
+EURUSD,2026-02-11,vente,True,1.78,ordre stop au-delà du mardi,0.2544
+EURUSD,2026-02-11,vente,True,1.78,confirmation 1h,0.0101
+EURUSD,2026-02-18,achat,False,0.38,clôture du mardi,-1.0166
+EURUSD,2026-02-18,achat,False,0.38,Londres 07h,-1.0188
+EURUSD,2026-02-18,achat,False,0.38,repli 30 % (24 h),-1.0237
+EURUSD,2026-02-18,achat,False,0.38,FVG 4h du mardi (24 h),-1.0182
+EURUSD,2026-02-18,achat,False,0.38,"repli 30 % la nuit, sinon Londres",-1.0188
+EURUSD,2026-02-18,achat,False,0.38,"FVG 4h la nuit, sinon Londres",-1.0182
+EURUSD,2026-02-18,achat,False,0.38,ordre stop au-delà du mardi,0.0
+EURUSD,2026-02-18,achat,False,0.38,confirmation 1h,0.0
+EURUSD,2026-03-11,vente,True,1.79,clôture du mardi,1.7743
+EURUSD,2026-03-11,vente,True,1.79,Londres 07h,3.617
+EURUSD,2026-03-11,vente,True,1.79,repli 30 % (24 h),2.9632
+EURUSD,2026-03-11,vente,True,1.79,FVG 4h du mardi (24 h),2.0614
+EURUSD,2026-03-11,vente,True,1.79,"repli 30 % la nuit, sinon Londres",2.9632
+EURUSD,2026-03-11,vente,True,1.79,"FVG 4h la nuit, sinon Londres",2.0614
+EURUSD,2026-03-11,vente,True,1.79,ordre stop au-delà du mardi,1.3961
+EURUSD,2026-03-11,vente,True,1.79,confirmation 1h,1.0899
+EURUSD,2026-04-22,vente,False,0.12,clôture du mardi,0.105
+EURUSD,2026-04-22,vente,False,0.12,Londres 07h,0.3548
+EURUSD,2026-04-22,vente,False,0.12,repli 30 % (24 h),0.5785
+EURUSD,2026-04-22,vente,False,0.12,FVG 4h du mardi (24 h),0.0
+EURUSD,2026-04-22,vente,False,0.12,"repli 30 % la nuit, sinon Londres",0.5785
+EURUSD,2026-04-22,vente,False,0.12,"FVG 4h la nuit, sinon Londres",0.3548
+EURUSD,2026-04-22,vente,False,0.12,ordre stop au-delà du mardi,0.0
+EURUSD,2026-04-22,vente,False,0.12,confirmation 1h,0.0
+EURUSD,2026-05-06,achat,False,0.55,clôture du mardi,0.5261
+EURUSD,2026-05-06,achat,False,0.55,Londres 07h,0.0328
+EURUSD,2026-05-06,achat,False,0.55,repli 30 % (24 h),0.0
+EURUSD,2026-05-06,achat,False,0.55,FVG 4h du mardi (24 h),0.0
+EURUSD,2026-05-06,achat,False,0.55,"repli 30 % la nuit, sinon Londres",0.0328
+EURUSD,2026-05-06,achat,False,0.55,"FVG 4h la nuit, sinon Londres",0.0328
+EURUSD,2026-05-06,achat,False,0.55,ordre stop au-delà du mardi,0.2079
+EURUSD,2026-05-06,achat,False,0.55,confirmation 1h,0.0
+EURUSD,2026-08-05,achat,False,0.73,clôture du mardi,0.7008
+EURUSD,2026-08-05,achat,False,0.73,Londres 07h,0.1919
+EURUSD,2026-08-05,achat,False,0.73,repli 30 % (24 h),0.0
+EURUSD,2026-08-05,achat,False,0.73,FVG 4h du mardi (24 h),0.0
+EURUSD,2026-08-05,achat,False,0.73,"repli 30 % la nuit, sinon Londres",0.1919
+EURUSD,2026-08-05,achat,False,0.73,"FVG 4h la nuit, sinon Londres",0.1919
+EURUSD,2026-08-05,achat,False,0.73,ordre stop au-delà du mardi,0.5826
+EURUSD,2026-08-05,achat,False,0.73,confirmation 1h,0.5671
+EURUSD,2026-09-02,vente,False,0.19,clôture du mardi,0.1657
+EURUSD,2026-09-02,vente,False,0.19,Londres 07h,0.0
+EURUSD,2026-09-02,vente,False,0.19,repli 30 % (24 h),0.6653
+EURUSD,2026-09-02,vente,False,0.19,FVG 4h du mardi (24 h),0.0
+EURUSD,2026-09-02,vente,False,0.19,"repli 30 % la nuit, sinon Londres",0.0
+EURUSD,2026-09-02,vente,False,0.19,"FVG 4h la nuit, sinon Londres",0.0
+EURUSD,2026-09-02,vente,False,0.19,ordre stop au-delà du mardi,-0.0109
+EURUSD,2026-09-02,vente,False,0.19,confirmation 1h,0.0
+GBPJPY,2024-03-06,vente,True,1.81,clôture du mardi,1.7571
+GBPJPY,2024-03-06,vente,True,1.81,Londres 07h,0.8394
+GBPJPY,2024-03-06,vente,True,1.81,repli 30 % (24 h),0.0
+GBPJPY,2024-03-06,vente,True,1.81,FVG 4h du mardi (24 h),0.0
+GBPJPY,2024-03-06,vente,True,1.81,"repli 30 % la nuit, sinon Londres",0.8394
+GBPJPY,2024-03-06,vente,True,1.81,"FVG 4h la nuit, sinon Londres",0.8394
+GBPJPY,2024-03-06,vente,True,1.81,ordre stop au-delà du mardi,0.6601
+GBPJPY,2024-03-06,vente,True,1.81,confirmation 1h,0.2689
+GBPJPY,2024-03-13,achat,False,0.09,clôture du mardi,0.0595
+GBPJPY,2024-03-13,achat,False,0.09,Londres 07h,-0.0222
+GBPJPY,2024-03-13,achat,False,0.09,repli 30 % (24 h),0.5136
+GBPJPY,2024-03-13,achat,False,0.09,FVG 4h du mardi (24 h),0.0
+GBPJPY,2024-03-13,achat,False,0.09,"repli 30 % la nuit, sinon Londres",0.5136
+GBPJPY,2024-03-13,achat,False,0.09,"FVG 4h la nuit, sinon Londres",-0.0222
+GBPJPY,2024-03-13,achat,False,0.09,ordre stop au-delà du mardi,0.0
+GBPJPY,2024-03-13,achat,False,0.09,confirmation 1h,0.0
+GBPJPY,2024-04-03,achat,True,1.35,clôture du mardi,1.3067
+GBPJPY,2024-04-03,achat,True,1.35,Londres 07h,0.8747
+GBPJPY,2024-04-03,achat,True,1.35,repli 30 % (24 h),0.0
+GBPJPY,2024-04-03,achat,True,1.35,FVG 4h du mardi (24 h),0.0
+GBPJPY,2024-04-03,achat,True,1.35,"repli 30 % la nuit, sinon Londres",0.8747
+GBPJPY,2024-04-03,achat,True,1.35,"FVG 4h la nuit, sinon Londres",0.8747
+GBPJPY,2024-04-03,achat,True,1.35,ordre stop au-delà du mardi,0.8272
+GBPJPY,2024-04-03,achat,True,1.35,confirmation 1h,0.5944
+GBPJPY,2024-05-08,vente,True,1.58,clôture du mardi,-1.0375
+GBPJPY,2024-05-08,vente,True,1.58,Londres 07h,-1.1004
+GBPJPY,2024-05-08,vente,True,1.58,repli 30 % (24 h),-1.0536
+GBPJPY,2024-05-08,vente,True,1.58,FVG 4h du mardi (24 h),-1.0431
+GBPJPY,2024-05-08,vente,True,1.58,"repli 30 % la nuit, sinon Londres",-1.0536
+GBPJPY,2024-05-08,vente,True,1.58,"FVG 4h la nuit, sinon Londres",-1.0431
+GBPJPY,2024-05-08,vente,True,1.58,ordre stop au-delà du mardi,0.0
+GBPJPY,2024-05-08,vente,True,1.58,confirmation 1h,0.0
+GBPJPY,2024-05-22,vente,True,3.91,clôture du mardi,-1.0796
+GBPJPY,2024-05-22,vente,True,3.91,Londres 07h,-1.0796
+GBPJPY,2024-05-22,vente,True,3.91,repli 30 % (24 h),-1.1137
+GBPJPY,2024-05-22,vente,True,3.91,FVG 4h du mardi (24 h),0.0
+GBPJPY,2024-05-22,vente,True,3.91,"repli 30 % la nuit, sinon Londres",-1.1137
+GBPJPY,2024-05-22,vente,True,3.91,"FVG 4h la nuit, sinon Londres",-1.0796
+GBPJPY,2024-05-22,vente,True,3.91,ordre stop au-delà du mardi,0.0
+GBPJPY,2024-05-22,vente,True,3.91,confirmation 1h,0.0
+GBPJPY,2024-10-16,vente,False,0.16,clôture du mardi,0.1363
+GBPJPY,2024-10-16,vente,False,0.16,Londres 07h,0.0
+GBPJPY,2024-10-16,vente,False,0.16,repli 30 % (24 h),0.6232
+GBPJPY,2024-10-16,vente,False,0.16,FVG 4h du mardi (24 h),0.0
+GBPJPY,2024-10-16,vente,False,0.16,"repli 30 % la nuit, sinon Londres",0.6232
+GBPJPY,2024-10-16,vente,False,0.16,"FVG 4h la nuit, sinon Londres",0.0
+GBPJPY,2024-10-16,vente,False,0.16,ordre stop au-delà du mardi,-0.018
+GBPJPY,2024-10-16,vente,False,0.16,confirmation 1h,0.0
+GBPJPY,2024-12-18,vente,True,2.18,clôture du mardi,-1.035
+GBPJPY,2024-12-18,vente,True,2.18,Londres 07h,-1.0306
+GBPJPY,2024-12-18,vente,True,2.18,repli 30 % (24 h),-1.05
+GBPJPY,2024-12-18,vente,True,2.18,FVG 4h du mardi (24 h),0.0
+GBPJPY,2024-12-18,vente,True,2.18,"repli 30 % la nuit, sinon Londres",-1.05
+GBPJPY,2024-12-18,vente,True,2.18,"FVG 4h la nuit, sinon Londres",-1.0306
+GBPJPY,2024-12-18,vente,True,2.18,ordre stop au-delà du mardi,-1.0196
+GBPJPY,2024-12-18,vente,True,2.18,confirmation 1h,-1.0181
+GBPJPY,2025-02-05,vente,True,2.62,clôture du mardi,2.5913
+GBPJPY,2025-02-05,vente,True,2.62,Londres 07h,0.522
+GBPJPY,2025-02-05,vente,True,2.62,repli 30 % (24 h),0.0
+GBPJPY,2025-02-05,vente,True,2.62,FVG 4h du mardi (24 h),0.0
+GBPJPY,2025-02-05,vente,True,2.62,"repli 30 % la nuit, sinon Londres",0.522
+GBPJPY,2025-02-05,vente,True,2.62,"FVG 4h la nuit, sinon Londres",0.522
+GBPJPY,2025-02-05,vente,True,2.62,ordre stop au-delà du mardi,1.1862
+GBPJPY,2025-02-05,vente,True,2.62,confirmation 1h,0.9218
+GBPJPY,2025-03-26,vente,False,0.91,clôture du mardi,-1.027
+GBPJPY,2025-03-26,vente,False,0.91,Londres 07h,-1.0762
+GBPJPY,2025-03-26,vente,False,0.91,repli 30 % (24 h),-1.0386
+GBPJPY,2025-03-26,vente,False,0.91,FVG 4h du mardi (24 h),-1.0316
+GBPJPY,2025-03-26,vente,False,0.91,"repli 30 % la nuit, sinon Londres",-1.0386
+GBPJPY,2025-03-26,vente,False,0.91,"FVG 4h la nuit, sinon Londres",-1.0316
+GBPJPY,2025-03-26,vente,False,0.91,ordre stop au-delà du mardi,-1.0177
+GBPJPY,2025-03-26,vente,False,0.91,confirmation 1h,-1.0166
+GBPJPY,2025-05-07,achat,True,1.31,clôture du mardi,1.2736
+GBPJPY,2025-05-07,achat,True,1.31,Londres 07h,1.7141
+GBPJPY,2025-05-07,achat,True,1.31,repli 30 % (24 h),2.248
+GBPJPY,2025-05-07,achat,True,1.31,FVG 4h du mardi (24 h),0.0
+GBPJPY,2025-05-07,achat,True,1.31,"repli 30 % la nuit, sinon Londres",2.248
+GBPJPY,2025-05-07,achat,True,1.31,"FVG 4h la nuit, sinon Londres",1.7141
+GBPJPY,2025-05-07,achat,True,1.31,ordre stop au-delà du mardi,0.6158
+GBPJPY,2025-05-07,achat,True,1.31,confirmation 1h,0.5635
+GBPJPY,2025-11-12,vente,True,1.36,clôture du mardi,-1.0381
+GBPJPY,2025-11-12,vente,True,1.36,Londres 07h,-1.1748
+GBPJPY,2025-11-12,vente,True,1.36,repli 30 % (24 h),-1.0544
+GBPJPY,2025-11-12,vente,True,1.36,FVG 4h du mardi (24 h),0.0
+GBPJPY,2025-11-12,vente,True,1.36,"repli 30 % la nuit, sinon Londres",-1.0544
+GBPJPY,2025-11-12,vente,True,1.36,"FVG 4h la nuit, sinon Londres",-1.1748
+GBPJPY,2025-11-12,vente,True,1.36,ordre stop au-delà du mardi,0.0
+GBPJPY,2025-11-12,vente,True,1.36,confirmation 1h,0.0
+GBPJPY,2025-12-03,achat,False,0.82,clôture du mardi,0.7814
+GBPJPY,2025-12-03,achat,False,0.82,Londres 07h,0.4765
+GBPJPY,2025-12-03,achat,False,0.82,repli 30 % (24 h),0.0
+GBPJPY,2025-12-03,achat,False,0.82,FVG 4h du mardi (24 h),0.0
+GBPJPY,2025-12-03,achat,False,0.82,"repli 30 % la nuit, sinon Londres",0.4765
+GBPJPY,2025-12-03,achat,False,0.82,"FVG 4h la nuit, sinon Londres",0.4765
+GBPJPY,2025-12-03,achat,False,0.82,ordre stop au-delà du mardi,0.1436
+GBPJPY,2025-12-03,achat,False,0.82,confirmation 1h,-0.0096
+GBPJPY,2025-12-17,achat,False,0.62,clôture du mardi,0.5913
+GBPJPY,2025-12-17,achat,False,0.62,Londres 07h,0.6034
+GBPJPY,2025-12-17,achat,False,0.62,repli 30 % (24 h),1.2732
+GBPJPY,2025-12-17,achat,False,0.62,FVG 4h du mardi (24 h),0.0
+GBPJPY,2025-12-17,achat,False,0.62,"repli 30 % la nuit, sinon Londres",1.2732
+GBPJPY,2025-12-17,achat,False,0.62,"FVG 4h la nuit, sinon Londres",0.6034
+GBPJPY,2025-12-17,achat,False,0.62,ordre stop au-delà du mardi,0.3244
+GBPJPY,2025-12-17,achat,False,0.62,confirmation 1h,0.1326
+GBPJPY,2026-01-07,vente,True,1.51,clôture du mardi,1.4715
+GBPJPY,2026-01-07,vente,True,1.51,Londres 07h,0.8128
+GBPJPY,2026-01-07,vente,True,1.51,repli 30 % (24 h),2.5307
+GBPJPY,2026-01-07,vente,True,1.51,FVG 4h du mardi (24 h),0.0
+GBPJPY,2026-01-07,vente,True,1.51,"repli 30 % la nuit, sinon Londres",2.5307
+GBPJPY,2026-01-07,vente,True,1.51,"FVG 4h la nuit, sinon Londres",0.8128
+GBPJPY,2026-01-07,vente,True,1.51,ordre stop au-delà du mardi,0.8188
+GBPJPY,2026-01-07,vente,True,1.51,confirmation 1h,0.7795
+GBPJPY,2026-05-20,vente,True,3.38,clôture du mardi,-1.0506
+GBPJPY,2026-05-20,vente,True,3.38,Londres 07h,-1.0349
+GBPJPY,2026-05-20,vente,True,3.38,repli 30 % (24 h),-1.0723
+GBPJPY,2026-05-20,vente,True,3.38,FVG 4h du mardi (24 h),0.0
+GBPJPY,2026-05-20,vente,True,3.38,"repli 30 % la nuit, sinon Londres",-1.0349
+GBPJPY,2026-05-20,vente,True,3.38,"FVG 4h la nuit, sinon Londres",-1.0349
+GBPJPY,2026-05-20,vente,True,3.38,ordre stop au-delà du mardi,-1.0275
+GBPJPY,2026-05-20,vente,True,3.38,confirmation 1h,0.0
+GBPJPY,2026-07-08,vente,True,2.03,clôture du mardi,-1.0456
+GBPJPY,2026-07-08,vente,True,2.03,Londres 07h,-1.0568
+GBPJPY,2026-07-08,vente,True,2.03,repli 30 % (24 h),-1.0652
+GBPJPY,2026-07-08,vente,True,2.03,FVG 4h du mardi (24 h),0.0
+GBPJPY,2026-07-08,vente,True,2.03,"repli 30 % la nuit, sinon Londres",-1.0652
+GBPJPY,2026-07-08,vente,True,2.03,"FVG 4h la nuit, sinon Londres",-1.0568
+GBPJPY,2026-07-08,vente,True,2.03,ordre stop au-delà du mardi,0.0
+GBPJPY,2026-07-08,vente,True,2.03,confirmation 1h,0.0
+GBPJPY,2026-07-29,achat,True,3.73,clôture du mardi,-1.1152
+GBPJPY,2026-07-29,achat,True,3.73,Londres 07h,-1.1152
+GBPJPY,2026-07-29,achat,True,3.73,repli 30 % (24 h),-1.1646
+GBPJPY,2026-07-29,achat,True,3.73,FVG 4h du mardi (24 h),0.0
+GBPJPY,2026-07-29,achat,True,3.73,"repli 30 % la nuit, sinon Londres",-1.1646
+GBPJPY,2026-07-29,achat,True,3.73,"FVG 4h la nuit, sinon Londres",-1.1152
+GBPJPY,2026-07-29,achat,True,3.73,ordre stop au-delà du mardi,0.9705
+GBPJPY,2026-07-29,achat,True,3.73,confirmation 1h,0.0
+GBPUSD,2024-02-07,achat,False,0.34,clôture du mardi,0.3223
+GBPUSD,2024-02-07,achat,False,0.34,Londres 07h,0.2963
+GBPUSD,2024-02-07,achat,False,0.34,repli 30 % (24 h),0.0
+GBPUSD,2024-02-07,achat,False,0.34,FVG 4h du mardi (24 h),0.0
+GBPUSD,2024-02-07,achat,False,0.34,"repli 30 % la nuit, sinon Londres",0.2963
+GBPUSD,2024-02-07,achat,False,0.34,"FVG 4h la nuit, sinon Londres",0.2963
+GBPUSD,2024-02-07,achat,False,0.34,ordre stop au-delà du mardi,0.2898
+GBPUSD,2024-02-07,achat,False,0.34,confirmation 1h,0.2067
+GBPUSD,2024-04-03,achat,True,1.72,clôture du mardi,1.6885
+GBPUSD,2024-04-03,achat,True,1.72,Londres 07h,1.7686
+GBPUSD,2024-04-03,achat,True,1.72,repli 30 % (24 h),2.8406
+GBPUSD,2024-04-03,achat,True,1.72,FVG 4h du mardi (24 h),0.0
+GBPUSD,2024-04-03,achat,True,1.72,"repli 30 % la nuit, sinon Londres",1.7686
+GBPUSD,2024-04-03,achat,True,1.72,"FVG 4h la nuit, sinon Londres",1.7686
+GBPUSD,2024-04-03,achat,True,1.72,ordre stop au-delà du mardi,1.3291
+GBPUSD,2024-04-03,achat,True,1.72,confirmation 1h,0.2536
+GBPUSD,2024-05-29,vente,False,0.54,clôture du mardi,0.5158
+GBPUSD,2024-05-29,vente,False,0.54,Londres 07h,0.6177
+GBPUSD,2024-05-29,vente,False,0.54,repli 30 % (24 h),1.1655
+GBPUSD,2024-05-29,vente,False,0.54,FVG 4h du mardi (24 h),0.8191
+GBPUSD,2024-05-29,vente,False,0.54,"repli 30 % la nuit, sinon Londres",0.6177
+GBPUSD,2024-05-29,vente,False,0.54,"FVG 4h la nuit, sinon Londres",0.6177
+GBPUSD,2024-05-29,vente,False,0.54,ordre stop au-delà du mardi,0.3729
+GBPUSD,2024-05-29,vente,False,0.54,confirmation 1h,0.3922
+GBPUSD,2024-09-11,achat,True,2.07,clôture du mardi,-1.0393
+GBPUSD,2024-09-11,achat,True,2.07,Londres 07h,-1.032
+GBPUSD,2024-09-11,achat,True,2.07,repli 30 % (24 h),-1.0562
+GBPUSD,2024-09-11,achat,True,2.07,FVG 4h du mardi (24 h),0.0
+GBPUSD,2024-09-11,achat,True,2.07,"repli 30 % la nuit, sinon Londres",-1.0562
+GBPUSD,2024-09-11,achat,True,2.07,"FVG 4h la nuit, sinon Londres",-1.032
+GBPUSD,2024-09-11,achat,True,2.07,ordre stop au-delà du mardi,-1.0205
+GBPUSD,2024-09-11,achat,True,2.07,confirmation 1h,0.0
+GBPUSD,2024-09-18,vente,False,0.49,clôture du mardi,-1.0188
+GBPUSD,2024-09-18,vente,False,0.49,Londres 07h,-1.025
+GBPUSD,2024-09-18,vente,False,0.49,repli 30 % (24 h),-1.0269
+GBPUSD,2024-09-18,vente,False,0.49,FVG 4h du mardi (24 h),0.0
+GBPUSD,2024-09-18,vente,False,0.49,"repli 30 % la nuit, sinon Londres",-1.025
+GBPUSD,2024-09-18,vente,False,0.49,"FVG 4h la nuit, sinon Londres",-1.025
+GBPUSD,2024-09-18,vente,False,0.49,ordre stop au-delà du mardi,0.0
+GBPUSD,2024-09-18,vente,False,0.49,confirmation 1h,0.0
+GBPUSD,2025-03-12,achat,False,0.02,clôture du mardi,0.0019
+GBPUSD,2025-03-12,achat,False,0.02,Londres 07h,0.6433
+GBPUSD,2025-03-12,achat,False,0.02,repli 30 % (24 h),0.4313
+GBPUSD,2025-03-12,achat,False,0.02,FVG 4h du mardi (24 h),0.4868
+GBPUSD,2025-03-12,achat,False,0.02,"repli 30 % la nuit, sinon Londres",0.4313
+GBPUSD,2025-03-12,achat,False,0.02,"FVG 4h la nuit, sinon Londres",0.4868
+GBPUSD,2025-03-12,achat,False,0.02,ordre stop au-delà du mardi,0.0
+GBPUSD,2025-03-12,achat,False,0.02,confirmation 1h,0.0
+GBPUSD,2025-04-09,achat,True,2.37,clôture du mardi,2.3524
+GBPUSD,2025-04-09,achat,True,2.37,Londres 07h,0.7193
+GBPUSD,2025-04-09,achat,True,2.37,repli 30 % (24 h),4.0144
+GBPUSD,2025-04-09,achat,True,2.37,FVG 4h du mardi (24 h),0.0
+GBPUSD,2025-04-09,achat,True,2.37,"repli 30 % la nuit, sinon Londres",0.7193
+GBPUSD,2025-04-09,achat,True,2.37,"FVG 4h la nuit, sinon Londres",0.7193
+GBPUSD,2025-04-09,achat,True,2.37,ordre stop au-delà du mardi,1.3377
+GBPUSD,2025-04-09,achat,True,2.37,confirmation 1h,1.2829
+GBPUSD,2025-04-30,vente,True,3.79,clôture du mardi,3.753
+GBPUSD,2025-04-30,vente,True,3.79,Londres 07h,2.64
+GBPUSD,2025-04-30,vente,True,3.79,repli 30 % (24 h),0.0
+GBPUSD,2025-04-30,vente,True,3.79,FVG 4h du mardi (24 h),0.0
+GBPUSD,2025-04-30,vente,True,3.79,"repli 30 % la nuit, sinon Londres",2.64
+GBPUSD,2025-04-30,vente,True,3.79,"FVG 4h la nuit, sinon Londres",2.64
+GBPUSD,2025-04-30,vente,True,3.79,ordre stop au-delà du mardi,1.5323
+GBPUSD,2025-04-30,vente,True,3.79,confirmation 1h,1.1109
+GBPUSD,2025-06-04,vente,True,2.12,clôture du mardi,-1.0417
+GBPUSD,2025-06-04,vente,True,2.12,Londres 07h,-1.0366
+GBPUSD,2025-06-04,vente,True,2.12,repli 30 % (24 h),-1.0596
+GBPUSD,2025-06-04,vente,True,2.12,FVG 4h du mardi (24 h),0.0
+GBPUSD,2025-06-04,vente,True,2.12,"repli 30 % la nuit, sinon Londres",-1.0596
+GBPUSD,2025-06-04,vente,True,2.12,"FVG 4h la nuit, sinon Londres",-1.0366
+GBPUSD,2025-06-04,vente,True,2.12,ordre stop au-delà du mardi,0.0
+GBPUSD,2025-06-04,vente,True,2.12,confirmation 1h,0.0
+GBPUSD,2025-08-27,achat,False,1.15,clôture du mardi,-1.0275
+GBPUSD,2025-08-27,achat,False,1.15,Londres 07h,-1.0373
+GBPUSD,2025-08-27,achat,False,1.15,repli 30 % (24 h),-1.0393
+GBPUSD,2025-08-27,achat,False,1.15,FVG 4h du mardi (24 h),0.0
+GBPUSD,2025-08-27,achat,False,1.15,"repli 30 % la nuit, sinon Londres",-1.0393
+GBPUSD,2025-08-27,achat,False,1.15,"FVG 4h la nuit, sinon Londres",-1.0373
+GBPUSD,2025-08-27,achat,False,1.15,ordre stop au-delà du mardi,0.5341
+GBPUSD,2025-08-27,achat,False,1.15,confirmation 1h,0.0
+GBPUSD,2025-09-10,vente,False,0.52,clôture du mardi,-0.6455
+GBPUSD,2025-09-10,vente,False,0.52,Londres 07h,-0.6262
+GBPUSD,2025-09-10,vente,False,0.52,repli 30 % (24 h),-0.4936
+GBPUSD,2025-09-10,vente,False,0.52,FVG 4h du mardi (24 h),-0.4557
+GBPUSD,2025-09-10,vente,False,0.52,"repli 30 % la nuit, sinon Londres",-0.4936
+GBPUSD,2025-09-10,vente,False,0.52,"FVG 4h la nuit, sinon Londres",-0.6262
+GBPUSD,2025-09-10,vente,False,0.52,ordre stop au-delà du mardi,-0.6616
+GBPUSD,2025-09-10,vente,False,0.52,confirmation 1h,-0.667
+GBPUSD,2025-10-08,vente,False,0.05,clôture du mardi,0.0338
+GBPUSD,2025-10-08,vente,False,0.05,Londres 07h,0.0
+GBPUSD,2025-10-08,vente,False,0.05,repli 30 % (24 h),0.0
+GBPUSD,2025-10-08,vente,False,0.05,FVG 4h du mardi (24 h),0.0
+GBPUSD,2025-10-08,vente,False,0.05,"repli 30 % la nuit, sinon Londres",0.0
+GBPUSD,2025-10-08,vente,False,0.05,"FVG 4h la nuit, sinon Londres",0.0
+GBPUSD,2025-10-08,vente,False,0.05,ordre stop au-delà du mardi,0.0
+GBPUSD,2025-10-08,vente,False,0.05,confirmation 1h,0.0
+GBPUSD,2026-01-07,vente,True,1.23,clôture du mardi,1.2149
+GBPUSD,2026-01-07,vente,True,1.23,Londres 07h,1.7698
+GBPUSD,2026-01-07,vente,True,1.23,repli 30 % (24 h),0.0
+GBPUSD,2026-01-07,vente,True,1.23,FVG 4h du mardi (24 h),1.6558
+GBPUSD,2026-01-07,vente,True,1.23,"repli 30 % la nuit, sinon Londres",1.7698
+GBPUSD,2026-01-07,vente,True,1.23,"FVG 4h la nuit, sinon Londres",1.6558
+GBPUSD,2026-01-07,vente,True,1.23,ordre stop au-delà du mardi,0.9394
+GBPUSD,2026-01-07,vente,True,1.23,confirmation 1h,0.9804
+GBPUSD,2026-01-14,vente,False,0.48,clôture du mardi,0.4663
+GBPUSD,2026-01-14,vente,False,0.48,Londres 07h,1.1038
+GBPUSD,2026-01-14,vente,False,0.48,repli 30 % (24 h),1.0947
+GBPUSD,2026-01-14,vente,False,0.48,FVG 4h du mardi (24 h),0.9526
+GBPUSD,2026-01-14,vente,False,0.48,"repli 30 % la nuit, sinon Londres",1.0947
+GBPUSD,2026-01-14,vente,False,0.48,"FVG 4h la nuit, sinon Londres",0.9526
+GBPUSD,2026-01-14,vente,False,0.48,ordre stop au-delà du mardi,0.0
+GBPUSD,2026-01-14,vente,False,0.48,confirmation 1h,0.1109
+GBPUSD,2026-02-11,vente,False,0.73,clôture du mardi,-1.0187
+GBPUSD,2026-02-11,vente,False,0.73,Londres 07h,-1.0414
+GBPUSD,2026-02-11,vente,False,0.73,repli 30 % (24 h),-1.0267
+GBPUSD,2026-02-11,vente,False,0.73,FVG 4h du mardi (24 h),0.0
+GBPUSD,2026-02-11,vente,False,0.73,"repli 30 % la nuit, sinon Londres",-1.0267
+GBPUSD,2026-02-11,vente,False,0.73,"FVG 4h la nuit, sinon Londres",-1.0414
+GBPUSD,2026-02-11,vente,False,0.73,ordre stop au-delà du mardi,-0.3961
+GBPUSD,2026-02-11,vente,False,0.73,confirmation 1h,0.0
+GBPUSD,2026-03-11,vente,True,2.1,clôture du mardi,2.0826
+GBPUSD,2026-03-11,vente,True,2.1,Londres 07h,4.7608
+GBPUSD,2026-03-11,vente,True,2.1,repli 30 % (24 h),3.4037
+GBPUSD,2026-03-11,vente,True,2.1,FVG 4h du mardi (24 h),2.2859
+GBPUSD,2026-03-11,vente,True,2.1,"repli 30 % la nuit, sinon Londres",3.4037
+GBPUSD,2026-03-11,vente,True,2.1,"FVG 4h la nuit, sinon Londres",2.2859
+GBPUSD,2026-03-11,vente,True,2.1,ordre stop au-delà du mardi,1.6729
+GBPUSD,2026-03-11,vente,True,2.1,confirmation 1h,1.3705
+GBPUSD,2026-04-01,achat,False,0.44,clôture du mardi,0.4242
+GBPUSD,2026-04-01,achat,False,0.44,Londres 07h,0.0
+GBPUSD,2026-04-01,achat,False,0.44,repli 30 % (24 h),0.0
+GBPUSD,2026-04-01,achat,False,0.44,FVG 4h du mardi (24 h),0.0
+GBPUSD,2026-04-01,achat,False,0.44,"repli 30 % la nuit, sinon Londres",0.0
+GBPUSD,2026-04-01,achat,False,0.44,"FVG 4h la nuit, sinon Londres",0.0
+GBPUSD,2026-04-01,achat,False,0.44,ordre stop au-delà du mardi,0.1559
+GBPUSD,2026-04-01,achat,False,0.44,confirmation 1h,0.0
+GBPUSD,2026-04-22,vente,False,0.95,clôture du mardi,0.9172
+GBPUSD,2026-04-22,vente,False,0.95,Londres 07h,1.8075
+GBPUSD,2026-04-22,vente,False,0.95,repli 30 % (24 h),1.7389
+GBPUSD,2026-04-22,vente,False,0.95,FVG 4h du mardi (24 h),0.0
+GBPUSD,2026-04-22,vente,False,0.95,"repli 30 % la nuit, sinon Londres",1.7389
+GBPUSD,2026-04-22,vente,False,0.95,"FVG 4h la nuit, sinon Londres",1.8075
+GBPUSD,2026-04-22,vente,False,0.95,ordre stop au-delà du mardi,0.0
+GBPUSD,2026-04-22,vente,False,0.95,confirmation 1h,0.0
+GBPUSD,2026-05-06,achat,False,0.55,clôture du mardi,0.5265
+GBPUSD,2026-05-06,achat,False,0.55,Londres 07h,0.0865
+GBPUSD,2026-05-06,achat,False,0.55,repli 30 % (24 h),0.0
+GBPUSD,2026-05-06,achat,False,0.55,FVG 4h du mardi (24 h),0.0
+GBPUSD,2026-05-06,achat,False,0.55,"repli 30 % la nuit, sinon Londres",0.0865
+GBPUSD,2026-05-06,achat,False,0.55,"FVG 4h la nuit, sinon Londres",0.0865
+GBPUSD,2026-05-06,achat,False,0.55,ordre stop au-delà du mardi,0.2509
+GBPUSD,2026-05-06,achat,False,0.55,confirmation 1h,0.0589
+GBPUSD,2026-05-20,vente,True,2.36,clôture du mardi,-1.0306
+GBPUSD,2026-05-20,vente,True,2.36,Londres 07h,-1.0244
+GBPUSD,2026-05-20,vente,True,2.36,repli 30 % (24 h),-1.0437
+GBPUSD,2026-05-20,vente,True,2.36,FVG 4h du mardi (24 h),0.0
+GBPUSD,2026-05-20,vente,True,2.36,"repli 30 % la nuit, sinon Londres",-1.0244
+GBPUSD,2026-05-20,vente,True,2.36,"FVG 4h la nuit, sinon Londres",-1.0244
+GBPUSD,2026-05-20,vente,True,2.36,ordre stop au-delà du mardi,-1.0209
+GBPUSD,2026-05-20,vente,True,2.36,confirmation 1h,0.0
+GBPUSD,2026-06-17,achat,False,0.97,clôture du mardi,-1.0329
+GBPUSD,2026-06-17,achat,False,0.97,Londres 07h,-1.0454
+GBPUSD,2026-06-17,achat,False,0.97,repli 30 % (24 h),-1.0469
+GBPUSD,2026-06-17,achat,False,0.97,FVG 4h du mardi (24 h),0.0
+GBPUSD,2026-06-17,achat,False,0.97,"repli 30 % la nuit, sinon Londres",-1.0469
+GBPUSD,2026-06-17,achat,False,0.97,"FVG 4h la nuit, sinon Londres",-1.0454
+GBPUSD,2026-06-17,achat,False,0.97,ordre stop au-delà du mardi,0.0
+GBPUSD,2026-06-17,achat,False,0.97,confirmation 1h,0.0
+GBPUSD,2026-07-01,vente,False,2.05,clôture du mardi,-1.0439
+GBPUSD,2026-07-01,vente,False,2.05,Londres 07h,-1.0355
+GBPUSD,2026-07-01,vente,False,2.05,repli 30 % (24 h),-1.0627
+GBPUSD,2026-07-01,vente,False,2.05,FVG 4h du mardi (24 h),0.0
+GBPUSD,2026-07-01,vente,False,2.05,"repli 30 % la nuit, sinon Londres",-1.0355
+GBPUSD,2026-07-01,vente,False,2.05,"FVG 4h la nuit, sinon Londres",-1.0355
+GBPUSD,2026-07-01,vente,False,2.05,ordre stop au-delà du mardi,0.0
+GBPUSD,2026-07-01,vente,False,2.05,confirmation 1h,0.0
+GBPUSD,2026-08-05,achat,False,1.54,clôture du mardi,1.5081
+GBPUSD,2026-08-05,achat,False,1.54,Londres 07h,0.6794
+GBPUSD,2026-08-05,achat,False,1.54,repli 30 % (24 h),0.0
+GBPUSD,2026-08-05,achat,False,1.54,FVG 4h du mardi (24 h),0.0
+GBPUSD,2026-08-05,achat,False,1.54,"repli 30 % la nuit, sinon Londres",0.6794
+GBPUSD,2026-08-05,achat,False,1.54,"FVG 4h la nuit, sinon Londres",0.6794
+GBPUSD,2026-08-05,achat,False,1.54,ordre stop au-delà du mardi,1.1323
+GBPUSD,2026-08-05,achat,False,1.54,confirmation 1h,1.1777
+GBPUSD,2026-09-09,vente,False,1.87,clôture du mardi,-1.0606
+GBPUSD,2026-09-09,vente,False,1.87,Londres 07h,-1.4113
+GBPUSD,2026-09-09,vente,False,1.87,repli 30 % (24 h),-1.0865
+GBPUSD,2026-09-09,vente,False,1.87,FVG 4h du mardi (24 h),0.0
+GBPUSD,2026-09-09,vente,False,1.87,"repli 30 % la nuit, sinon Londres",-1.0865
+GBPUSD,2026-09-09,vente,False,1.87,"FVG 4h la nuit, sinon Londres",-1.4113
+GBPUSD,2026-09-09,vente,False,1.87,ordre stop au-delà du mardi,0.0
+GBPUSD,2026-09-09,vente,False,1.87,confirmation 1h,0.0
+NZDUSD,2024-01-24,achat,False,0.92,clôture du mardi,0.8778
+NZDUSD,2024-01-24,achat,False,0.92,Londres 07h,0.733
+NZDUSD,2024-01-24,achat,False,0.92,repli 30 % (24 h),1.6826
+NZDUSD,2024-01-24,achat,False,0.92,FVG 4h du mardi (24 h),0.0
+NZDUSD,2024-01-24,achat,False,0.92,"repli 30 % la nuit, sinon Londres",1.6826
+NZDUSD,2024-01-24,achat,False,0.92,"FVG 4h la nuit, sinon Londres",0.733
+NZDUSD,2024-01-24,achat,False,0.92,ordre stop au-delà du mardi,0.3531
+NZDUSD,2024-01-24,achat,False,0.92,confirmation 1h,0.1493
+NZDUSD,2024-01-31,vente,False,2.43,clôture du mardi,-1.0841
+NZDUSD,2024-01-31,vente,False,2.43,Londres 07h,-1.0394
+NZDUSD,2024-01-31,vente,False,2.43,repli 30 % (24 h),-1.1201
+NZDUSD,2024-01-31,vente,False,2.43,FVG 4h du mardi (24 h),0.0
+NZDUSD,2024-01-31,vente,False,2.43,"repli 30 % la nuit, sinon Londres",-1.0394
+NZDUSD,2024-01-31,vente,False,2.43,"FVG 4h la nuit, sinon Londres",-1.0394
+NZDUSD,2024-01-31,vente,False,2.43,ordre stop au-delà du mardi,0.3934
+NZDUSD,2024-01-31,vente,False,2.43,confirmation 1h,0.0
+NZDUSD,2024-02-28,achat,False,0.94,clôture du mardi,-1.0802
+NZDUSD,2024-02-28,achat,False,0.94,Londres 07h,-1.0802
+NZDUSD,2024-02-28,achat,False,0.94,repli 30 % (24 h),-2.5
+NZDUSD,2024-02-28,achat,False,0.94,FVG 4h du mardi (24 h),0.0
+NZDUSD,2024-02-28,achat,False,0.94,"repli 30 % la nuit, sinon Londres",-2.5
+NZDUSD,2024-02-28,achat,False,0.94,"FVG 4h la nuit, sinon Londres",-1.0802
+NZDUSD,2024-02-28,achat,False,0.94,ordre stop au-delà du mardi,0.0
+NZDUSD,2024-02-28,achat,False,0.94,confirmation 1h,0.0
+NZDUSD,2024-04-03,achat,False,0.89,clôture du mardi,0.8373
+NZDUSD,2024-04-03,achat,False,0.89,Londres 07h,0.5666
+NZDUSD,2024-04-03,achat,False,0.89,repli 30 % (24 h),2.1183
+NZDUSD,2024-04-03,achat,False,0.89,FVG 4h du mardi (24 h),2.1183
+NZDUSD,2024-04-03,achat,False,0.89,"repli 30 % la nuit, sinon Londres",2.1183
+NZDUSD,2024-04-03,achat,False,0.89,"FVG 4h la nuit, sinon Londres",2.1183
+NZDUSD,2024-04-03,achat,False,0.89,ordre stop au-delà du mardi,0.5019
+NZDUSD,2024-04-03,achat,False,0.89,confirmation 1h,0.4986
+NZDUSD,2024-05-29,vente,False,0.6,clôture du mardi,0.5534
+NZDUSD,2024-05-29,vente,False,0.6,Londres 07h,0.4042
+NZDUSD,2024-05-29,vente,False,0.6,repli 30 % (24 h),0.0
+NZDUSD,2024-05-29,vente,False,0.6,FVG 4h du mardi (24 h),0.8881
+NZDUSD,2024-05-29,vente,False,0.6,"repli 30 % la nuit, sinon Londres",0.4042
+NZDUSD,2024-05-29,vente,False,0.6,"FVG 4h la nuit, sinon Londres",0.8881
+NZDUSD,2024-05-29,vente,False,0.6,ordre stop au-delà du mardi,0.4094
+NZDUSD,2024-05-29,vente,False,0.6,confirmation 1h,0.3468
+NZDUSD,2024-06-05,vente,False,1.65,clôture du mardi,-1.061
+NZDUSD,2024-06-05,vente,False,1.65,Londres 07h,-1.1143
+NZDUSD,2024-06-05,vente,False,1.65,repli 30 % (24 h),-1.0871
+NZDUSD,2024-06-05,vente,False,1.65,FVG 4h du mardi (24 h),0.0
+NZDUSD,2024-06-05,vente,False,1.65,"repli 30 % la nuit, sinon Londres",-1.0871
+NZDUSD,2024-06-05,vente,False,1.65,"FVG 4h la nuit, sinon Londres",-1.1143
+NZDUSD,2024-06-05,vente,False,1.65,ordre stop au-delà du mardi,0.0
+NZDUSD,2024-06-05,vente,False,1.65,confirmation 1h,0.0
+NZDUSD,2024-07-03,achat,False,0.73,clôture du mardi,0.6908
+NZDUSD,2024-07-03,achat,False,0.73,Londres 07h,0.7453
+NZDUSD,2024-07-03,achat,False,0.73,repli 30 % (24 h),1.4154
+NZDUSD,2024-07-03,achat,False,0.73,FVG 4h du mardi (24 h),0.0
+NZDUSD,2024-07-03,achat,False,0.73,"repli 30 % la nuit, sinon Londres",0.7453
+NZDUSD,2024-07-03,achat,False,0.73,"FVG 4h la nuit, sinon Londres",0.7453
+NZDUSD,2024-07-03,achat,False,0.73,ordre stop au-delà du mardi,0.5354
+NZDUSD,2024-07-03,achat,False,0.73,confirmation 1h,0.238
+NZDUSD,2024-09-18,vente,False,2.03,clôture du mardi,-1.0792
+NZDUSD,2024-09-18,vente,False,2.03,Londres 07h,-1.2139
+NZDUSD,2024-09-18,vente,False,2.03,repli 30 % (24 h),-1.1132
+NZDUSD,2024-09-18,vente,False,2.03,FVG 4h du mardi (24 h),0.0
+NZDUSD,2024-09-18,vente,False,2.03,"repli 30 % la nuit, sinon Londres",-1.1132
+NZDUSD,2024-09-18,vente,False,2.03,"FVG 4h la nuit, sinon Londres",-1.2139
+NZDUSD,2024-09-18,vente,False,2.03,ordre stop au-delà du mardi,0.0
+NZDUSD,2024-09-18,vente,False,2.03,confirmation 1h,0.0
+NZDUSD,2024-10-23,achat,False,1.6,clôture du mardi,-1.061
+NZDUSD,2024-10-23,achat,False,1.6,Londres 07h,-1.1232
+NZDUSD,2024-10-23,achat,False,1.6,repli 30 % (24 h),-1.0872
+NZDUSD,2024-10-23,achat,False,1.6,FVG 4h du mardi (24 h),0.0
+NZDUSD,2024-10-23,achat,False,1.6,"repli 30 % la nuit, sinon Londres",-1.0872
+NZDUSD,2024-10-23,achat,False,1.6,"FVG 4h la nuit, sinon Londres",-1.1232
+NZDUSD,2024-10-23,achat,False,1.6,ordre stop au-delà du mardi,0.0
+NZDUSD,2024-10-23,achat,False,1.6,confirmation 1h,0.0
+NZDUSD,2024-11-27,achat,False,0.77,clôture du mardi,0.7287
+NZDUSD,2024-11-27,achat,False,0.77,Londres 07h,0.0
+NZDUSD,2024-11-27,achat,False,0.77,repli 30 % (24 h),0.0
+NZDUSD,2024-11-27,achat,False,0.77,FVG 4h du mardi (24 h),0.0
+NZDUSD,2024-11-27,achat,False,0.77,"repli 30 % la nuit, sinon Londres",0.0
+NZDUSD,2024-11-27,achat,False,0.77,"FVG 4h la nuit, sinon Londres",0.0
+NZDUSD,2024-11-27,achat,False,0.77,ordre stop au-delà du mardi,-0.0062
+NZDUSD,2024-11-27,achat,False,0.77,confirmation 1h,0.0
+NZDUSD,2025-01-22,vente,True,2.45,clôture du mardi,-1.0516
+NZDUSD,2025-01-22,vente,True,2.45,Londres 07h,-1.0401
+NZDUSD,2025-01-22,vente,True,2.45,repli 30 % (24 h),-1.0737
+NZDUSD,2025-01-22,vente,True,2.45,FVG 4h du mardi (24 h),0.0
+NZDUSD,2025-01-22,vente,True,2.45,"repli 30 % la nuit, sinon Londres",-1.0401
+NZDUSD,2025-01-22,vente,True,2.45,"FVG 4h la nuit, sinon Londres",-1.0401
+NZDUSD,2025-01-22,vente,True,2.45,ordre stop au-delà du mardi,0.0
+NZDUSD,2025-01-22,vente,True,2.45,confirmation 1h,0.0
+NZDUSD,2025-03-19,vente,True,4.81,clôture du mardi,4.7044
+NZDUSD,2025-03-19,vente,True,4.81,Londres 07h,2.2619
+NZDUSD,2025-03-19,vente,True,4.81,repli 30 % (24 h),7.1491
+NZDUSD,2025-03-19,vente,True,4.81,FVG 4h du mardi (24 h),0.0
+NZDUSD,2025-03-19,vente,True,4.81,"repli 30 % la nuit, sinon Londres",2.2619
+NZDUSD,2025-03-19,vente,True,4.81,"FVG 4h la nuit, sinon Londres",2.2619
+NZDUSD,2025-03-19,vente,True,4.81,ordre stop au-delà du mardi,1.3731
+NZDUSD,2025-03-19,vente,True,4.81,confirmation 1h,0.9517
+NZDUSD,2025-05-21,vente,False,9.11,clôture du mardi,-1.2904
+NZDUSD,2025-05-21,vente,False,9.11,Londres 07h,-1.2904
+NZDUSD,2025-05-21,vente,False,9.11,repli 30 % (24 h),-1.4148
+NZDUSD,2025-05-21,vente,False,9.11,FVG 4h du mardi (24 h),0.0
+NZDUSD,2025-05-21,vente,False,9.11,"repli 30 % la nuit, sinon Londres",-1.4148
+NZDUSD,2025-05-21,vente,False,9.11,"FVG 4h la nuit, sinon Londres",-1.2904
+NZDUSD,2025-05-21,vente,False,9.11,ordre stop au-delà du mardi,0.0
+NZDUSD,2025-05-21,vente,False,9.11,confirmation 1h,0.0
+NZDUSD,2025-06-04,vente,False,0.54,clôture du mardi,-1.0289
+NZDUSD,2025-06-04,vente,False,0.54,Londres 07h,-1.0289
+NZDUSD,2025-06-04,vente,False,0.54,repli 30 % (24 h),-1.0413
+NZDUSD,2025-06-04,vente,False,0.54,FVG 4h du mardi (24 h),0.0
+NZDUSD,2025-06-04,vente,False,0.54,"repli 30 % la nuit, sinon Londres",-1.0289
+NZDUSD,2025-06-04,vente,False,0.54,"FVG 4h la nuit, sinon Londres",-1.0289
+NZDUSD,2025-06-04,vente,False,0.54,ordre stop au-delà du mardi,0.0
+NZDUSD,2025-06-04,vente,False,0.54,confirmation 1h,0.0
+NZDUSD,2025-09-10,vente,False,1.26,clôture du mardi,-1.0435
+NZDUSD,2025-09-10,vente,False,1.26,Londres 07h,-1.0608
+NZDUSD,2025-09-10,vente,False,1.26,repli 30 % (24 h),-1.0621
+NZDUSD,2025-09-10,vente,False,1.26,FVG 4h du mardi (24 h),-1.056
+NZDUSD,2025-09-10,vente,False,1.26,"repli 30 % la nuit, sinon Londres",-1.0621
+NZDUSD,2025-09-10,vente,False,1.26,"FVG 4h la nuit, sinon Londres",-1.056
+NZDUSD,2025-09-10,vente,False,1.26,ordre stop au-delà du mardi,0.0
+NZDUSD,2025-09-10,vente,False,1.26,confirmation 1h,0.0
+NZDUSD,2025-09-24,vente,False,0.86,clôture du mardi,0.7586
+NZDUSD,2025-09-24,vente,False,0.86,Londres 07h,0.2193
+NZDUSD,2025-09-24,vente,False,0.86,repli 30 % (24 h),1.5122
+NZDUSD,2025-09-24,vente,False,0.86,FVG 4h du mardi (24 h),0.0
+NZDUSD,2025-09-24,vente,False,0.86,"repli 30 % la nuit, sinon Londres",1.5122
+NZDUSD,2025-09-24,vente,False,0.86,"FVG 4h la nuit, sinon Londres",0.2193
+NZDUSD,2025-09-24,vente,False,0.86,ordre stop au-delà du mardi,-0.0296
+NZDUSD,2025-09-24,vente,False,0.86,confirmation 1h,0.0
+NZDUSD,2026-01-07,vente,False,1.27,clôture du mardi,1.2224
+NZDUSD,2026-01-07,vente,False,1.27,Londres 07h,1.3242
+NZDUSD,2026-01-07,vente,False,1.27,repli 30 % (24 h),2.1749
+NZDUSD,2026-01-07,vente,False,1.27,FVG 4h du mardi (24 h),0.0
+NZDUSD,2026-01-07,vente,False,1.27,"repli 30 % la nuit, sinon Londres",2.1749
+NZDUSD,2026-01-07,vente,False,1.27,"FVG 4h la nuit, sinon Londres",1.3242
+NZDUSD,2026-01-07,vente,False,1.27,ordre stop au-delà du mardi,0.0
+NZDUSD,2026-01-07,vente,False,1.27,confirmation 1h,0.5588
+NZDUSD,2026-01-14,vente,False,0.25,clôture du mardi,0.2192
+NZDUSD,2026-01-14,vente,False,0.25,Londres 07h,0.6857
+NZDUSD,2026-01-14,vente,False,0.25,repli 30 % (24 h),0.7418
+NZDUSD,2026-01-14,vente,False,0.25,FVG 4h du mardi (24 h),0.6027
+NZDUSD,2026-01-14,vente,False,0.25,"repli 30 % la nuit, sinon Londres",0.6857
+NZDUSD,2026-01-14,vente,False,0.25,"FVG 4h la nuit, sinon Londres",0.6027
+NZDUSD,2026-01-14,vente,False,0.25,ordre stop au-delà du mardi,0.1265
+NZDUSD,2026-01-14,vente,False,0.25,confirmation 1h,0.1191
+NZDUSD,2026-02-25,achat,False,1.52,clôture du mardi,1.4517
+NZDUSD,2026-02-25,achat,False,1.52,Londres 07h,0.2656
+NZDUSD,2026-02-25,achat,False,1.52,repli 30 % (24 h),0.0
+NZDUSD,2026-02-25,achat,False,1.52,FVG 4h du mardi (24 h),0.0
+NZDUSD,2026-02-25,achat,False,1.52,"repli 30 % la nuit, sinon Londres",0.2656
+NZDUSD,2026-02-25,achat,False,1.52,"FVG 4h la nuit, sinon Londres",0.2656
+NZDUSD,2026-02-25,achat,False,1.52,ordre stop au-delà du mardi,0.7648
+NZDUSD,2026-02-25,achat,False,1.52,confirmation 1h,0.5885
+NZDUSD,2026-03-11,vente,True,1.74,clôture du mardi,1.7006
+NZDUSD,2026-03-11,vente,True,1.74,Londres 07h,4.4453
+NZDUSD,2026-03-11,vente,True,1.74,repli 30 % (24 h),2.8579
+NZDUSD,2026-03-11,vente,True,1.74,FVG 4h du mardi (24 h),0.0
+NZDUSD,2026-03-11,vente,True,1.74,"repli 30 % la nuit, sinon Londres",2.8579
+NZDUSD,2026-03-11,vente,True,1.74,"FVG 4h la nuit, sinon Londres",4.4453
+NZDUSD,2026-03-11,vente,True,1.74,ordre stop au-delà du mardi,0.9396
+NZDUSD,2026-03-11,vente,True,1.74,confirmation 1h,0.6965
+NZDUSD,2026-04-22,vente,False,1.32,clôture du mardi,1.2619
+NZDUSD,2026-04-22,vente,False,1.32,Londres 07h,9.439
+NZDUSD,2026-04-22,vente,False,1.32,repli 30 % (24 h),2.2314
+NZDUSD,2026-04-22,vente,False,1.32,FVG 4h du mardi (24 h),0.0
+NZDUSD,2026-04-22,vente,False,1.32,"repli 30 % la nuit, sinon Londres",2.2314
+NZDUSD,2026-04-22,vente,False,1.32,"FVG 4h la nuit, sinon Londres",9.439
+NZDUSD,2026-04-22,vente,False,1.32,ordre stop au-delà du mardi,0.0
+NZDUSD,2026-04-22,vente,False,1.32,confirmation 1h,0.1492
+NZDUSD,2026-04-29,vente,False,0.47,clôture du mardi,0.4244
+NZDUSD,2026-04-29,vente,False,0.47,Londres 07h,0.0
+NZDUSD,2026-04-29,vente,False,0.47,repli 30 % (24 h),0.0
+NZDUSD,2026-04-29,vente,False,0.47,FVG 4h du mardi (24 h),0.0
+NZDUSD,2026-04-29,vente,False,0.47,"repli 30 % la nuit, sinon Londres",0.0
+NZDUSD,2026-04-29,vente,False,0.47,"FVG 4h la nuit, sinon Londres",0.0
+NZDUSD,2026-04-29,vente,False,0.47,ordre stop au-delà du mardi,0.0
+NZDUSD,2026-04-29,vente,False,0.47,confirmation 1h,0.0
+NZDUSD,2026-05-06,achat,False,0.4,clôture du mardi,0.3631
+NZDUSD,2026-05-06,achat,False,0.4,Londres 07h,0.0
+NZDUSD,2026-05-06,achat,False,0.4,repli 30 % (24 h),0.0
+NZDUSD,2026-05-06,achat,False,0.4,FVG 4h du mardi (24 h),0.0
+NZDUSD,2026-05-06,achat,False,0.4,"repli 30 % la nuit, sinon Londres",0.0
+NZDUSD,2026-05-06,achat,False,0.4,"FVG 4h la nuit, sinon Londres",0.0
+NZDUSD,2026-05-06,achat,False,0.4,ordre stop au-delà du mardi,0.0775
+NZDUSD,2026-05-06,achat,False,0.4,confirmation 1h,-0.0071
+NZDUSD,2026-05-20,vente,False,0.2,clôture du mardi,0.1595
+NZDUSD,2026-05-20,vente,False,0.2,Londres 07h,-1.0378
+NZDUSD,2026-05-20,vente,False,0.2,repli 30 % (24 h),-1.0513
+NZDUSD,2026-05-20,vente,False,0.2,FVG 4h du mardi (24 h),-1.0591
+NZDUSD,2026-05-20,vente,False,0.2,"repli 30 % la nuit, sinon Londres",-1.0378
+NZDUSD,2026-05-20,vente,False,0.2,"FVG 4h la nuit, sinon Londres",-1.0378
+NZDUSD,2026-05-20,vente,False,0.2,ordre stop au-delà du mardi,0.0
+NZDUSD,2026-05-20,vente,False,0.2,confirmation 1h,0.0
+NZDUSD,2026-06-17,achat,False,0.91,clôture du mardi,-1.0427
+NZDUSD,2026-06-17,achat,False,0.91,Londres 07h,-1.0664
+NZDUSD,2026-06-17,achat,False,0.91,repli 30 % (24 h),-1.061
+NZDUSD,2026-06-17,achat,False,0.91,FVG 4h du mardi (24 h),-1.0529
+NZDUSD,2026-06-17,achat,False,0.91,"repli 30 % la nuit, sinon Londres",-1.061
+NZDUSD,2026-06-17,achat,False,0.91,"FVG 4h la nuit, sinon Londres",-1.0529
+NZDUSD,2026-06-17,achat,False,0.91,ordre stop au-delà du mardi,0.0
+NZDUSD,2026-06-17,achat,False,0.91,confirmation 1h,0.0
+NZDUSD,2026-07-29,achat,False,1.35,clôture du mardi,1.277
+NZDUSD,2026-07-29,achat,False,1.35,Londres 07h,0.6394
+NZDUSD,2026-07-29,achat,False,1.35,repli 30 % (24 h),2.2528
+NZDUSD,2026-07-29,achat,False,1.35,FVG 4h du mardi (24 h),0.0
+NZDUSD,2026-07-29,achat,False,1.35,"repli 30 % la nuit, sinon Londres",0.6394
+NZDUSD,2026-07-29,achat,False,1.35,"FVG 4h la nuit, sinon Londres",0.6394
+NZDUSD,2026-07-29,achat,False,1.35,ordre stop au-delà du mardi,0.2032
+NZDUSD,2026-07-29,achat,False,1.35,confirmation 1h,0.0
+NZDUSD,2026-08-05,achat,False,2.09,clôture du mardi,-1.1017
+NZDUSD,2026-08-05,achat,False,2.09,Londres 07h,-1.1067
+NZDUSD,2026-08-05,achat,False,2.09,repli 30 % (24 h),-1.1453
+NZDUSD,2026-08-05,achat,False,2.09,FVG 4h du mardi (24 h),0.0
+NZDUSD,2026-08-05,achat,False,2.09,"repli 30 % la nuit, sinon Londres",-1.1453
+NZDUSD,2026-08-05,achat,False,2.09,"FVG 4h la nuit, sinon Londres",-1.1067
+NZDUSD,2026-08-05,achat,False,2.09,ordre stop au-delà du mardi,0.0
+NZDUSD,2026-08-05,achat,False,2.09,confirmation 1h,0.0
+USDCAD,2024-01-24,vente,False,0.99,clôture du mardi,-1.0375
+USDCAD,2024-01-24,vente,False,0.99,Londres 07h,-1.0459
+USDCAD,2024-01-24,vente,False,0.99,repli 30 % (24 h),-1.0536
+USDCAD,2024-01-24,vente,False,0.99,FVG 4h du mardi (24 h),0.0
+USDCAD,2024-01-24,vente,False,0.99,"repli 30 % la nuit, sinon Londres",-1.0536
+USDCAD,2024-01-24,vente,False,0.99,"FVG 4h la nuit, sinon Londres",-1.0459
+USDCAD,2024-01-24,vente,False,0.99,ordre stop au-delà du mardi,-1.0319
+USDCAD,2024-01-24,vente,False,0.99,confirmation 1h,-1.0273
+USDCAD,2024-02-07,vente,False,0.49,clôture du mardi,0.466
+USDCAD,2024-02-07,vente,False,0.49,Londres 07h,0.3794
+USDCAD,2024-02-07,vente,False,0.49,repli 30 % (24 h),0.0
+USDCAD,2024-02-07,vente,False,0.49,FVG 4h du mardi (24 h),0.0
+USDCAD,2024-02-07,vente,False,0.49,"repli 30 % la nuit, sinon Londres",0.3794
+USDCAD,2024-02-07,vente,False,0.49,"FVG 4h la nuit, sinon Londres",0.3794
+USDCAD,2024-02-07,vente,False,0.49,ordre stop au-delà du mardi,0.1009
+USDCAD,2024-02-07,vente,False,0.49,confirmation 1h,0.1054
+USDCAD,2024-04-03,vente,False,2.47,clôture du mardi,-1.0682
+USDCAD,2024-04-03,vente,False,2.47,Londres 07h,-1.1111
+USDCAD,2024-04-03,vente,False,2.47,repli 30 % (24 h),-1.0974
+USDCAD,2024-04-03,vente,False,2.47,FVG 4h du mardi (24 h),0.0
+USDCAD,2024-04-03,vente,False,2.47,"repli 30 % la nuit, sinon Londres",-1.0974
+USDCAD,2024-04-03,vente,False,2.47,"FVG 4h la nuit, sinon Londres",-1.1111
+USDCAD,2024-04-03,vente,False,2.47,ordre stop au-delà du mardi,1.0606
+USDCAD,2024-04-03,vente,False,2.47,confirmation 1h,0.0
+USDCAD,2024-04-10,achat,False,1.36,clôture du mardi,1.3166
+USDCAD,2024-04-10,achat,False,1.36,Londres 07h,2.849
+USDCAD,2024-04-10,achat,False,1.36,repli 30 % (24 h),2.3094
+USDCAD,2024-04-10,achat,False,1.36,FVG 4h du mardi (24 h),0.0
+USDCAD,2024-04-10,achat,False,1.36,"repli 30 % la nuit, sinon Londres",2.3094
+USDCAD,2024-04-10,achat,False,1.36,"FVG 4h la nuit, sinon Londres",2.849
+USDCAD,2024-04-10,achat,False,1.36,ordre stop au-delà du mardi,0.2611
+USDCAD,2024-04-10,achat,False,1.36,confirmation 1h,0.0
+USDCAD,2024-05-29,achat,False,0.6,clôture du mardi,0.5616
+USDCAD,2024-05-29,achat,False,0.6,Londres 07h,0.2714
+USDCAD,2024-05-29,achat,False,0.6,repli 30 % (24 h),0.0
+USDCAD,2024-05-29,achat,False,0.6,FVG 4h du mardi (24 h),0.0
+USDCAD,2024-05-29,achat,False,0.6,"repli 30 % la nuit, sinon Londres",0.2714
+USDCAD,2024-05-29,achat,False,0.6,"FVG 4h la nuit, sinon Londres",0.2714
+USDCAD,2024-05-29,achat,False,0.6,ordre stop au-delà du mardi,0.2958
+USDCAD,2024-05-29,achat,False,0.6,confirmation 1h,0.132
+USDCAD,2024-06-26,achat,False,1.04,clôture du mardi,1.0067
+USDCAD,2024-06-26,achat,False,1.04,Londres 07h,1.0385
+USDCAD,2024-06-26,achat,False,1.04,repli 30 % (24 h),1.8667
+USDCAD,2024-06-26,achat,False,1.04,FVG 4h du mardi (24 h),0.0
+USDCAD,2024-06-26,achat,False,1.04,"repli 30 % la nuit, sinon Londres",1.8667
+USDCAD,2024-06-26,achat,False,1.04,"FVG 4h la nuit, sinon Londres",1.0385
+USDCAD,2024-06-26,achat,False,1.04,ordre stop au-delà du mardi,0.384
+USDCAD,2024-06-26,achat,False,1.04,confirmation 1h,0.2983
+USDCAD,2024-07-03,vente,False,0.24,clôture du mardi,0.2164
+USDCAD,2024-07-03,vente,False,0.24,Londres 07h,0.2134
+USDCAD,2024-07-03,vente,False,0.24,repli 30 % (24 h),0.0
+USDCAD,2024-07-03,vente,False,0.24,FVG 4h du mardi (24 h),0.249
+USDCAD,2024-07-03,vente,False,0.24,"repli 30 % la nuit, sinon Londres",0.2134
+USDCAD,2024-07-03,vente,False,0.24,"FVG 4h la nuit, sinon Londres",0.249
+USDCAD,2024-07-03,vente,False,0.24,ordre stop au-delà du mardi,0.0262
+USDCAD,2024-07-03,vente,False,0.24,confirmation 1h,0.0
+USDCAD,2024-11-27,vente,False,1.02,clôture du mardi,0.3869
+USDCAD,2024-11-27,vente,False,1.02,Londres 07h,0.6029
+USDCAD,2024-11-27,vente,False,1.02,repli 30 % (24 h),0.0
+USDCAD,2024-11-27,vente,False,1.02,FVG 4h du mardi (24 h),0.0
+USDCAD,2024-11-27,vente,False,1.02,"repli 30 % la nuit, sinon Londres",0.6029
+USDCAD,2024-11-27,vente,False,1.02,"FVG 4h la nuit, sinon Londres",0.6029
+USDCAD,2024-11-27,vente,False,1.02,ordre stop au-delà du mardi,0.3086
+USDCAD,2024-11-27,vente,False,1.02,confirmation 1h,0.2837
+USDCAD,2025-01-22,achat,True,2.42,clôture du mardi,-0.0053
+USDCAD,2025-01-22,achat,True,2.42,Londres 07h,-0.1281
+USDCAD,2025-01-22,achat,True,2.42,repli 30 % (24 h),0.421
+USDCAD,2025-01-22,achat,True,2.42,FVG 4h du mardi (24 h),0.0
+USDCAD,2025-01-22,achat,True,2.42,"repli 30 % la nuit, sinon Londres",0.421
+USDCAD,2025-01-22,achat,True,2.42,"FVG 4h la nuit, sinon Londres",-0.1281
+USDCAD,2025-01-22,achat,True,2.42,ordre stop au-delà du mardi,0.0
+USDCAD,2025-01-22,achat,True,2.42,confirmation 1h,0.0
+USDCAD,2025-03-19,achat,True,2.03,clôture du mardi,1.995
+USDCAD,2025-03-19,achat,True,2.03,Londres 07h,1.1462
+USDCAD,2025-03-19,achat,True,2.03,repli 30 % (24 h),0.0
+USDCAD,2025-03-19,achat,True,2.03,FVG 4h du mardi (24 h),0.0
+USDCAD,2025-03-19,achat,True,2.03,"repli 30 % la nuit, sinon Londres",1.1462
+USDCAD,2025-03-19,achat,True,2.03,"FVG 4h la nuit, sinon Londres",1.1462
+USDCAD,2025-03-19,achat,True,2.03,ordre stop au-delà du mardi,0.9653
+USDCAD,2025-03-19,achat,True,2.03,confirmation 1h,0.7961
+USDCAD,2025-07-02,achat,False,1.02,clôture du mardi,-1.0263
+USDCAD,2025-07-02,achat,False,1.02,Londres 07h,-1.0217
+USDCAD,2025-07-02,achat,False,1.02,repli 30 % (24 h),-1.0376
+USDCAD,2025-07-02,achat,False,1.02,FVG 4h du mardi (24 h),0.0
+USDCAD,2025-07-02,achat,False,1.02,"repli 30 % la nuit, sinon Londres",-1.0217
+USDCAD,2025-07-02,achat,False,1.02,"FVG 4h la nuit, sinon Londres",-1.0217
+USDCAD,2025-07-02,achat,False,1.02,ordre stop au-delà du mardi,0.0
+USDCAD,2025-07-02,achat,False,1.02,confirmation 1h,0.0
+USDCAD,2026-04-22,achat,False,1.84,clôture du mardi,1.7931
+USDCAD,2026-04-22,achat,False,1.84,Londres 07h,1.7364
+USDCAD,2026-04-22,achat,False,1.84,repli 30 % (24 h),2.9902
+USDCAD,2026-04-22,achat,False,1.84,FVG 4h du mardi (24 h),0.0
+USDCAD,2026-04-22,achat,False,1.84,"repli 30 % la nuit, sinon Londres",2.9902
+USDCAD,2026-04-22,achat,False,1.84,"FVG 4h la nuit, sinon Londres",1.7364
+USDCAD,2026-04-22,achat,False,1.84,ordre stop au-delà du mardi,0.0
+USDCAD,2026-04-22,achat,False,1.84,confirmation 1h,0.4862
+USDCAD,2026-05-06,vente,False,0.76,clôture du mardi,0.7076
+USDCAD,2026-05-06,vente,False,0.76,Londres 07h,0.0396
+USDCAD,2026-05-06,vente,False,0.76,repli 30 % (24 h),-1.0774
+USDCAD,2026-05-06,vente,False,0.76,FVG 4h du mardi (24 h),0.0
+USDCAD,2026-05-06,vente,False,0.76,"repli 30 % la nuit, sinon Londres",0.0396
+USDCAD,2026-05-06,vente,False,0.76,"FVG 4h la nuit, sinon Londres",0.0396
+USDCAD,2026-05-06,vente,False,0.76,ordre stop au-delà du mardi,0.1316
+USDCAD,2026-05-06,vente,False,0.76,confirmation 1h,0.0488
+USDCAD,2026-07-29,vente,False,1.6,clôture du mardi,1.5366
+USDCAD,2026-07-29,vente,False,1.6,Londres 07h,0.8246
+USDCAD,2026-07-29,vente,False,1.6,repli 30 % (24 h),0.0
+USDCAD,2026-07-29,vente,False,1.6,FVG 4h du mardi (24 h),0.0
+USDCAD,2026-07-29,vente,False,1.6,"repli 30 % la nuit, sinon Londres",0.8246
+USDCAD,2026-07-29,vente,False,1.6,"FVG 4h la nuit, sinon Londres",0.8246
+USDCAD,2026-07-29,vente,False,1.6,ordre stop au-delà du mardi,0.2761
+USDCAD,2026-07-29,vente,False,1.6,confirmation 1h,0.2357
+USDCAD,2026-09-02,achat,False,0.27,clôture du mardi,0.24
+USDCAD,2026-09-02,achat,False,0.27,Londres 07h,0.0
+USDCAD,2026-09-02,achat,False,0.27,repli 30 % (24 h),-1.039
+USDCAD,2026-09-02,achat,False,0.27,FVG 4h du mardi (24 h),0.0
+USDCAD,2026-09-02,achat,False,0.27,"repli 30 % la nuit, sinon Londres",0.0
+USDCAD,2026-09-02,achat,False,0.27,"FVG 4h la nuit, sinon Londres",0.0
+USDCAD,2026-09-02,achat,False,0.27,ordre stop au-delà du mardi,-0.0215
+USDCAD,2026-09-02,achat,False,0.27,confirmation 1h,0.0
+USDJPY,2024-04-24,vente,False,1.09,clôture du mardi,-1.0667
+USDJPY,2024-04-24,vente,False,1.09,Londres 07h,-1.0667
+USDJPY,2024-04-24,vente,False,1.09,repli 30 % (24 h),-1.0952
+USDJPY,2024-04-24,vente,False,1.09,FVG 4h du mardi (24 h),0.0
+USDJPY,2024-04-24,vente,False,1.09,"repli 30 % la nuit, sinon Londres",-1.0952
+USDJPY,2024-04-24,vente,False,1.09,"FVG 4h la nuit, sinon Londres",-1.0667
+USDJPY,2024-04-24,vente,False,1.09,ordre stop au-delà du mardi,0.0
+USDJPY,2024-04-24,vente,False,1.09,confirmation 1h,0.0
+USDJPY,2024-05-22,vente,True,2.59,clôture du mardi,-1.0334
+USDJPY,2024-05-22,vente,True,2.59,Londres 07h,-1.0518
+USDJPY,2024-05-22,vente,True,2.59,repli 30 % (24 h),-1.0478
+USDJPY,2024-05-22,vente,True,2.59,FVG 4h du mardi (24 h),0.0
+USDJPY,2024-05-22,vente,True,2.59,"repli 30 % la nuit, sinon Londres",-1.0478
+USDJPY,2024-05-22,vente,True,2.59,"FVG 4h la nuit, sinon Londres",-1.0518
+USDJPY,2024-05-22,vente,True,2.59,ordre stop au-delà du mardi,0.0
+USDJPY,2024-05-22,vente,True,2.59,confirmation 1h,0.0
+USDJPY,2024-12-25,vente,True,2.37,clôture du mardi,-1.0311
+USDJPY,2024-12-25,vente,True,2.37,Londres 07h,-1.0885
+USDJPY,2024-12-25,vente,True,2.37,repli 30 % (24 h),-1.0444
+USDJPY,2024-12-25,vente,True,2.37,FVG 4h du mardi (24 h),0.0
+USDJPY,2024-12-25,vente,True,2.37,"repli 30 % la nuit, sinon Londres",-1.0444
+USDJPY,2024-12-25,vente,True,2.37,"FVG 4h la nuit, sinon Londres",-1.0885
+USDJPY,2024-12-25,vente,True,2.37,ordre stop au-delà du mardi,0.0
+USDJPY,2024-12-25,vente,True,2.37,confirmation 1h,0.0
+USDJPY,2025-01-01,achat,False,0.71,clôture du mardi,0.0131
+USDJPY,2025-01-01,achat,False,0.71,Londres 07h,-0.0322
+USDJPY,2025-01-01,achat,False,0.71,repli 30 % (24 h),0.0
+USDJPY,2025-01-01,achat,False,0.71,FVG 4h du mardi (24 h),0.1159
+USDJPY,2025-01-01,achat,False,0.71,"repli 30 % la nuit, sinon Londres",-0.0322
+USDJPY,2025-01-01,achat,False,0.71,"FVG 4h la nuit, sinon Londres",-0.0322
+USDJPY,2025-01-01,achat,False,0.71,ordre stop au-delà du mardi,-0.2128
+USDJPY,2025-01-01,achat,False,0.71,confirmation 1h,-0.2988
+USDJPY,2025-01-22,achat,False,0.69,clôture du mardi,0.6788
+USDJPY,2025-01-22,achat,False,0.69,Londres 07h,0.5084
+USDJPY,2025-01-22,achat,False,0.69,repli 30 % (24 h),1.3982
+USDJPY,2025-01-22,achat,False,0.69,FVG 4h du mardi (24 h),0.0
+USDJPY,2025-01-22,achat,False,0.69,"repli 30 % la nuit, sinon Londres",1.3982
+USDJPY,2025-01-22,achat,False,0.69,"FVG 4h la nuit, sinon Londres",0.5084
+USDJPY,2025-01-22,achat,False,0.69,ordre stop au-delà du mardi,0.1431
+USDJPY,2025-01-22,achat,False,0.69,confirmation 1h,0.032
+USDJPY,2025-02-19,achat,False,0.33,clôture du mardi,0.3118
+USDJPY,2025-02-19,achat,False,0.33,Londres 07h,-1.0417
+USDJPY,2025-02-19,achat,False,0.33,repli 30 % (24 h),0.874
+USDJPY,2025-02-19,achat,False,0.33,FVG 4h du mardi (24 h),0.3517
+USDJPY,2025-02-19,achat,False,0.33,"repli 30 % la nuit, sinon Londres",0.874
+USDJPY,2025-02-19,achat,False,0.33,"FVG 4h la nuit, sinon Londres",0.3517
+USDJPY,2025-02-19,achat,False,0.33,ordre stop au-delà du mardi,0.0
+USDJPY,2025-02-19,achat,False,0.33,confirmation 1h,0.0
+USDJPY,2025-03-05,achat,False,0.95,clôture du mardi,-1.006
+USDJPY,2025-03-05,achat,False,0.95,Londres 07h,-1.0062
+USDJPY,2025-03-05,achat,False,0.95,repli 30 % (24 h),-1.0086
+USDJPY,2025-03-05,achat,False,0.95,FVG 4h du mardi (24 h),-1.0107
+USDJPY,2025-03-05,achat,False,0.95,"repli 30 % la nuit, sinon Londres",-1.0062
+USDJPY,2025-03-05,achat,False,0.95,"FVG 4h la nuit, sinon Londres",-1.0062
+USDJPY,2025-03-05,achat,False,0.95,ordre stop au-delà du mardi,-1.0052
+USDJPY,2025-03-05,achat,False,0.95,confirmation 1h,-1.0053
+USDJPY,2025-03-26,vente,False,0.48,clôture du mardi,-1.0098
+USDJPY,2025-03-26,vente,False,0.48,Londres 07h,-1.0192
+USDJPY,2025-03-26,vente,False,0.48,repli 30 % (24 h),-1.014
+USDJPY,2025-03-26,vente,False,0.48,FVG 4h du mardi (24 h),-1.0127
+USDJPY,2025-03-26,vente,False,0.48,"repli 30 % la nuit, sinon Londres",-1.014
+USDJPY,2025-03-26,vente,False,0.48,"FVG 4h la nuit, sinon Londres",-1.0127
+USDJPY,2025-03-26,vente,False,0.48,ordre stop au-delà du mardi,0.0
+USDJPY,2025-03-26,vente,False,0.48,confirmation 1h,0.0
+USDJPY,2025-04-09,vente,False,0.37,clôture du mardi,0.3627
+USDJPY,2025-04-09,vente,False,0.37,Londres 07h,0.0
+USDJPY,2025-04-09,vente,False,0.37,repli 30 % (24 h),-1.0067
+USDJPY,2025-04-09,vente,False,0.37,FVG 4h du mardi (24 h),-1.0066
+USDJPY,2025-04-09,vente,False,0.37,"repli 30 % la nuit, sinon Londres",0.0
+USDJPY,2025-04-09,vente,False,0.37,"FVG 4h la nuit, sinon Londres",0.0
+USDJPY,2025-04-09,vente,False,0.37,ordre stop au-delà du mardi,0.2108
+USDJPY,2025-04-09,vente,False,0.37,confirmation 1h,0.1278
+USDJPY,2025-04-30,achat,True,5.34,clôture du mardi,5.3061
+USDJPY,2025-04-30,achat,True,5.34,Londres 07h,2.044
+USDJPY,2025-04-30,achat,True,5.34,repli 30 % (24 h),0.0
+USDJPY,2025-04-30,achat,True,5.34,FVG 4h du mardi (24 h),0.0
+USDJPY,2025-04-30,achat,True,5.34,"repli 30 % la nuit, sinon Londres",2.044
+USDJPY,2025-04-30,achat,True,5.34,"FVG 4h la nuit, sinon Londres",2.044
+USDJPY,2025-04-30,achat,True,5.34,ordre stop au-delà du mardi,1.3638
+USDJPY,2025-04-30,achat,True,5.34,confirmation 1h,1.2776
+USDJPY,2025-05-14,vente,True,2.33,clôture du mardi,2.32
+USDJPY,2025-05-14,vente,True,2.33,Londres 07h,1.2551
+USDJPY,2025-05-14,vente,True,2.33,repli 30 % (24 h),0.0
+USDJPY,2025-05-14,vente,True,2.33,FVG 4h du mardi (24 h),2.4353
+USDJPY,2025-05-14,vente,True,2.33,"repli 30 % la nuit, sinon Londres",1.2551
+USDJPY,2025-05-14,vente,True,2.33,"FVG 4h la nuit, sinon Londres",2.4353
+USDJPY,2025-05-14,vente,True,2.33,ordre stop au-delà du mardi,1.5576
+USDJPY,2025-05-14,vente,True,2.33,confirmation 1h,1.3562
+USDJPY,2025-08-20,vente,True,1.59,clôture du mardi,1.5634
+USDJPY,2025-08-20,vente,True,1.59,Londres 07h,0.3377
+USDJPY,2025-08-20,vente,True,1.59,repli 30 % (24 h),0.0
+USDJPY,2025-08-20,vente,True,1.59,FVG 4h du mardi (24 h),0.0
+USDJPY,2025-08-20,vente,True,1.59,"repli 30 % la nuit, sinon Londres",0.3377
+USDJPY,2025-08-20,vente,True,1.59,"FVG 4h la nuit, sinon Londres",0.3377
+USDJPY,2025-08-20,vente,True,1.59,ordre stop au-delà du mardi,0.4346
+USDJPY,2025-08-20,vente,True,1.59,confirmation 1h,0.3272
+USDJPY,2025-08-27,vente,False,0.83,clôture du mardi,-1.0218
+USDJPY,2025-08-27,vente,False,0.83,Londres 07h,-1.0448
+USDJPY,2025-08-27,vente,False,0.83,repli 30 % (24 h),-1.0312
+USDJPY,2025-08-27,vente,False,0.83,FVG 4h du mardi (24 h),0.0
+USDJPY,2025-08-27,vente,False,0.83,"repli 30 % la nuit, sinon Londres",-1.0312
+USDJPY,2025-08-27,vente,False,0.83,"FVG 4h la nuit, sinon Londres",-1.0448
+USDJPY,2025-08-27,vente,False,0.83,ordre stop au-delà du mardi,0.0
+USDJPY,2025-08-27,vente,False,0.83,confirmation 1h,0.0
+USDJPY,2025-09-10,achat,False,1.08,clôture du mardi,0.2226
+USDJPY,2025-09-10,achat,False,1.08,Londres 07h,0.0522
+USDJPY,2025-09-10,achat,False,1.08,repli 30 % (24 h),0.0
+USDJPY,2025-09-10,achat,False,1.08,FVG 4h du mardi (24 h),0.0
+USDJPY,2025-09-10,achat,False,1.08,"repli 30 % la nuit, sinon Londres",0.0522
+USDJPY,2025-09-10,achat,False,1.08,"FVG 4h la nuit, sinon Londres",0.0522
+USDJPY,2025-09-10,achat,False,1.08,ordre stop au-delà du mardi,0.1296
+USDJPY,2025-09-10,achat,False,1.08,confirmation 1h,0.0546
+USDJPY,2025-12-31,achat,False,0.15,clôture du mardi,0.1393
+USDJPY,2025-12-31,achat,False,0.15,Londres 07h,0.0
+USDJPY,2025-12-31,achat,False,0.15,repli 30 % (24 h),0.0
+USDJPY,2025-12-31,achat,False,0.15,FVG 4h du mardi (24 h),0.0
+USDJPY,2025-12-31,achat,False,0.15,"repli 30 % la nuit, sinon Londres",0.0
+USDJPY,2025-12-31,achat,False,0.15,"FVG 4h la nuit, sinon Londres",0.0
+USDJPY,2025-12-31,achat,False,0.15,ordre stop au-delà du mardi,0.0
+USDJPY,2025-12-31,achat,False,0.15,confirmation 1h,0.0
+USDJPY,2026-02-18,vente,False,0.46,clôture du mardi,-1.0123
+USDJPY,2026-02-18,vente,False,0.46,Londres 07h,-1.0187
+USDJPY,2026-02-18,vente,False,0.46,repli 30 % (24 h),-1.0175
+USDJPY,2026-02-18,vente,False,0.46,FVG 4h du mardi (24 h),0.0
+USDJPY,2026-02-18,vente,False,0.46,"repli 30 % la nuit, sinon Londres",-1.0175
+USDJPY,2026-02-18,vente,False,0.46,"FVG 4h la nuit, sinon Londres",-1.0187
+USDJPY,2026-02-18,vente,False,0.46,ordre stop au-delà du mardi,0.0
+USDJPY,2026-02-18,vente,False,0.46,confirmation 1h,0.0
+USDJPY,2026-07-15,vente,False,1.2,clôture du mardi,-1.033
+USDJPY,2026-07-15,vente,False,1.2,Londres 07h,-1.0355
+USDJPY,2026-07-15,vente,False,1.2,repli 30 % (24 h),-1.0471
+USDJPY,2026-07-15,vente,False,1.2,FVG 4h du mardi (24 h),0.0
+USDJPY,2026-07-15,vente,False,1.2,"repli 30 % la nuit, sinon Londres",-1.0355
+USDJPY,2026-07-15,vente,False,1.2,"FVG 4h la nuit, sinon Londres",-1.0355
+USDJPY,2026-07-15,vente,False,1.2,ordre stop au-delà du mardi,0.0
+USDJPY,2026-07-15,vente,False,1.2,confirmation 1h,0.0
+AUDCAD,2024-02-28,achat,False,0.29,clôture du mardi,-1.0411
+AUDCAD,2024-02-28,achat,False,0.29,Londres 07h,-1.1235
+AUDCAD,2024-02-28,achat,False,0.29,repli 30 % (24 h),-1.0587
+AUDCAD,2024-02-28,achat,False,0.29,FVG 4h du mardi (24 h),0.0
+AUDCAD,2024-02-28,achat,False,0.29,"repli 30 % la nuit, sinon Londres",-1.0587
+AUDCAD,2024-02-28,achat,False,0.29,"FVG 4h la nuit, sinon Londres",-1.1235
+AUDCAD,2024-02-28,achat,False,0.29,ordre stop au-delà du mardi,-1.0372
+AUDCAD,2024-02-28,achat,False,0.29,confirmation 1h,0.0
+AUDCAD,2024-06-05,vente,False,1.07,clôture du mardi,-1.0517
+AUDCAD,2024-06-05,vente,False,1.07,Londres 07h,-1.0639
+AUDCAD,2024-06-05,vente,False,1.07,repli 30 % (24 h),-1.0738
+AUDCAD,2024-06-05,vente,False,1.07,FVG 4h du mardi (24 h),0.0
+AUDCAD,2024-06-05,vente,False,1.07,"repli 30 % la nuit, sinon Londres",-1.0738
+AUDCAD,2024-06-05,vente,False,1.07,"FVG 4h la nuit, sinon Londres",-1.0639
+AUDCAD,2024-06-05,vente,False,1.07,ordre stop au-delà du mardi,0.0
+AUDCAD,2024-06-05,vente,False,1.07,confirmation 1h,0.0
+AUDCAD,2024-06-12,vente,False,2.91,clôture du mardi,-1.1307
+AUDCAD,2024-06-12,vente,False,2.91,Londres 07h,-1.1493
+AUDCAD,2024-06-12,vente,False,2.91,repli 30 % (24 h),-1.1867
+AUDCAD,2024-06-12,vente,False,2.91,FVG 4h du mardi (24 h),0.0
+AUDCAD,2024-06-12,vente,False,2.91,"repli 30 % la nuit, sinon Londres",-1.1867
+AUDCAD,2024-06-12,vente,False,2.91,"FVG 4h la nuit, sinon Londres",-1.1493
+AUDCAD,2024-06-12,vente,False,2.91,ordre stop au-delà du mardi,0.0
+AUDCAD,2024-06-12,vente,False,2.91,confirmation 1h,0.0
+AUDCAD,2024-10-23,achat,False,1.2,clôture du mardi,-1.0501
+AUDCAD,2024-10-23,achat,False,1.2,Londres 07h,-1.0995
+AUDCAD,2024-10-23,achat,False,1.2,repli 30 % (24 h),-1.0716
+AUDCAD,2024-10-23,achat,False,1.2,FVG 4h du mardi (24 h),0.0
+AUDCAD,2024-10-23,achat,False,1.2,"repli 30 % la nuit, sinon Londres",-1.0716
+AUDCAD,2024-10-23,achat,False,1.2,"FVG 4h la nuit, sinon Londres",-1.0995
+AUDCAD,2024-10-23,achat,False,1.2,ordre stop au-delà du mardi,0.0
+AUDCAD,2024-10-23,achat,False,1.2,confirmation 1h,0.0
+AUDCAD,2024-12-11,vente,False,0.07,clôture du mardi,0.0441
+AUDCAD,2024-12-11,vente,False,0.07,Londres 07h,0.0
+AUDCAD,2024-12-11,vente,False,0.07,repli 30 % (24 h),0.0
+AUDCAD,2024-12-11,vente,False,0.07,FVG 4h du mardi (24 h),0.0
+AUDCAD,2024-12-11,vente,False,0.07,"repli 30 % la nuit, sinon Londres",0.0
+AUDCAD,2024-12-11,vente,False,0.07,"FVG 4h la nuit, sinon Londres",0.0
+AUDCAD,2024-12-11,vente,False,0.07,ordre stop au-delà du mardi,0.0
+AUDCAD,2024-12-11,vente,False,0.07,confirmation 1h,0.0
+AUDCAD,2025-03-19,vente,False,0.47,clôture du mardi,0.4153
+AUDCAD,2025-03-19,vente,False,0.47,Londres 07h,0.1773
+AUDCAD,2025-03-19,vente,False,0.47,repli 30 % (24 h),1.0218
+AUDCAD,2025-03-19,vente,False,0.47,FVG 4h du mardi (24 h),0.0
+AUDCAD,2025-03-19,vente,False,0.47,"repli 30 % la nuit, sinon Londres",0.1773
+AUDCAD,2025-03-19,vente,False,0.47,"FVG 4h la nuit, sinon Londres",0.1773
+AUDCAD,2025-03-19,vente,False,0.47,ordre stop au-delà du mardi,0.0
+AUDCAD,2025-03-19,vente,False,0.47,confirmation 1h,0.0
+AUDCAD,2025-04-23,vente,False,0.2,clôture du mardi,-1.0312
+AUDCAD,2025-04-23,vente,False,0.2,Londres 07h,-1.083
+AUDCAD,2025-04-23,vente,False,0.2,repli 30 % (24 h),-1.0445
+AUDCAD,2025-04-23,vente,False,0.2,FVG 4h du mardi (24 h),0.0
+AUDCAD,2025-04-23,vente,False,0.2,"repli 30 % la nuit, sinon Londres",-1.0445
+AUDCAD,2025-04-23,vente,False,0.2,"FVG 4h la nuit, sinon Londres",-1.083
+AUDCAD,2025-04-23,vente,False,0.2,ordre stop au-delà du mardi,0.0
+AUDCAD,2025-04-23,vente,False,0.2,confirmation 1h,0.0
+AUDCAD,2025-05-21,vente,False,0.08,clôture du mardi,0.0557
+AUDCAD,2025-05-21,vente,False,0.08,Londres 07h,0.4714
+AUDCAD,2025-05-21,vente,False,0.08,repli 30 % (24 h),0.5081
+AUDCAD,2025-05-21,vente,False,0.08,FVG 4h du mardi (24 h),0.3289
+AUDCAD,2025-05-21,vente,False,0.08,"repli 30 % la nuit, sinon Londres",0.5081
+AUDCAD,2025-05-21,vente,False,0.08,"FVG 4h la nuit, sinon Londres",0.3289
+AUDCAD,2025-05-21,vente,False,0.08,ordre stop au-delà du mardi,0.0
+AUDCAD,2025-05-21,vente,False,0.08,confirmation 1h,0.0
+AUDCAD,2025-06-04,vente,False,0.58,clôture du mardi,-1.0418
+AUDCAD,2025-06-04,vente,False,0.58,Londres 07h,-1.0429
+AUDCAD,2025-06-04,vente,False,0.58,repli 30 % (24 h),-1.0598
+AUDCAD,2025-06-04,vente,False,0.58,FVG 4h du mardi (24 h),0.0
+AUDCAD,2025-06-04,vente,False,0.58,"repli 30 % la nuit, sinon Londres",-1.0598
+AUDCAD,2025-06-04,vente,False,0.58,"FVG 4h la nuit, sinon Londres",-1.0429
+AUDCAD,2025-06-04,vente,False,0.58,ordre stop au-delà du mardi,0.0
+AUDCAD,2025-06-04,vente,False,0.58,confirmation 1h,0.0
+AUDCAD,2025-06-11,vente,False,1.56,clôture du mardi,1.4786
+AUDCAD,2025-06-11,vente,False,1.56,Londres 07h,0.6005
+AUDCAD,2025-06-11,vente,False,1.56,repli 30 % (24 h),2.5409
+AUDCAD,2025-06-11,vente,False,1.56,FVG 4h du mardi (24 h),0.0
+AUDCAD,2025-06-11,vente,False,1.56,"repli 30 % la nuit, sinon Londres",0.6005
+AUDCAD,2025-06-11,vente,False,1.56,"FVG 4h la nuit, sinon Londres",0.6005
+AUDCAD,2025-06-11,vente,False,1.56,ordre stop au-delà du mardi,0.2817
+AUDCAD,2025-06-11,vente,False,1.56,confirmation 1h,0.1436
+AUDCAD,2025-10-15,vente,False,0.79,clôture du mardi,-1.0535
+AUDCAD,2025-10-15,vente,False,0.79,Londres 07h,-1.2778
+AUDCAD,2025-10-15,vente,False,0.79,repli 30 % (24 h),-1.0764
+AUDCAD,2025-10-15,vente,False,0.79,FVG 4h du mardi (24 h),0.0
+AUDCAD,2025-10-15,vente,False,0.79,"repli 30 % la nuit, sinon Londres",-1.0764
+AUDCAD,2025-10-15,vente,False,0.79,"FVG 4h la nuit, sinon Londres",-1.2778
+AUDCAD,2025-10-15,vente,False,0.79,ordre stop au-delà du mardi,0.0
+AUDCAD,2025-10-15,vente,False,0.79,confirmation 1h,0.0
+AUDCAD,2025-11-12,vente,False,2.08,clôture du mardi,-1.117
+AUDCAD,2025-11-12,vente,False,2.08,Londres 07h,-1.1266
+AUDCAD,2025-11-12,vente,False,2.08,repli 30 % (24 h),-1.1671
+AUDCAD,2025-11-12,vente,False,2.08,FVG 4h du mardi (24 h),0.0
+AUDCAD,2025-11-12,vente,False,2.08,"repli 30 % la nuit, sinon Londres",-1.1266
+AUDCAD,2025-11-12,vente,False,2.08,"FVG 4h la nuit, sinon Londres",-1.1266
+AUDCAD,2025-11-12,vente,False,2.08,ordre stop au-delà du mardi,-1.0491
+AUDCAD,2025-11-12,vente,False,2.08,confirmation 1h,0.0
+AUDCAD,2026-03-04,vente,False,0.03,clôture du mardi,0.0085
+AUDCAD,2026-03-04,vente,False,0.03,Londres 07h,0.0
+AUDCAD,2026-03-04,vente,False,0.03,repli 30 % (24 h),0.4407
+AUDCAD,2026-03-04,vente,False,0.03,FVG 4h du mardi (24 h),0.0
+AUDCAD,2026-03-04,vente,False,0.03,"repli 30 % la nuit, sinon Londres",0.0
+AUDCAD,2026-03-04,vente,False,0.03,"FVG 4h la nuit, sinon Londres",0.0
+AUDCAD,2026-03-04,vente,False,0.03,ordre stop au-delà du mardi,0.0
+AUDCAD,2026-03-04,vente,False,0.03,confirmation 1h,0.0
+AUDCAD,2026-07-15,achat,False,1.12,clôture du mardi,1.0588
+AUDCAD,2026-07-15,achat,False,1.12,Londres 07h,0.3347
+AUDCAD,2026-07-15,achat,False,1.12,repli 30 % (24 h),0.0
+AUDCAD,2026-07-15,achat,False,1.12,FVG 4h du mardi (24 h),0.0
+AUDCAD,2026-07-15,achat,False,1.12,"repli 30 % la nuit, sinon Londres",0.3347
+AUDCAD,2026-07-15,achat,False,1.12,"FVG 4h la nuit, sinon Londres",0.3347
+AUDCAD,2026-07-15,achat,False,1.12,ordre stop au-delà du mardi,0.1072
+AUDCAD,2026-07-15,achat,False,1.12,confirmation 1h,0.0642
+AUDNZD,2024-02-14,vente,False,1.04,clôture du mardi,-1.0465
+AUDNZD,2024-02-14,vente,False,1.04,Londres 07h,-1.0363
+AUDNZD,2024-02-14,vente,False,1.04,repli 30 % (24 h),-1.0664
+AUDNZD,2024-02-14,vente,False,1.04,FVG 4h du mardi (24 h),0.0
+AUDNZD,2024-02-14,vente,False,1.04,"repli 30 % la nuit, sinon Londres",-1.0363
+AUDNZD,2024-02-14,vente,False,1.04,"FVG 4h la nuit, sinon Londres",-1.0363
+AUDNZD,2024-02-14,vente,False,1.04,ordre stop au-delà du mardi,0.0
+AUDNZD,2024-02-14,vente,False,1.04,confirmation 1h,0.0
+AUDNZD,2024-09-04,vente,False,0.38,clôture du mardi,0.3447
+AUDNZD,2024-09-04,vente,False,0.38,Londres 07h,0.238
+AUDNZD,2024-09-04,vente,False,0.38,repli 30 % (24 h),0.0
+AUDNZD,2024-09-04,vente,False,0.38,FVG 4h du mardi (24 h),0.5507
+AUDNZD,2024-09-04,vente,False,0.38,"repli 30 % la nuit, sinon Londres",0.238
+AUDNZD,2024-09-04,vente,False,0.38,"FVG 4h la nuit, sinon Londres",0.238
+AUDNZD,2024-09-04,vente,False,0.38,ordre stop au-delà du mardi,0.0
+AUDNZD,2024-09-04,vente,False,0.38,confirmation 1h,0.0
+AUDNZD,2025-04-30,vente,False,1.33,clôture du mardi,-1.0645
+AUDNZD,2025-04-30,vente,False,1.33,Londres 07h,-1.0645
+AUDNZD,2025-04-30,vente,False,1.33,repli 30 % (24 h),-1.0922
+AUDNZD,2025-04-30,vente,False,1.33,FVG 4h du mardi (24 h),0.0
+AUDNZD,2025-04-30,vente,False,1.33,"repli 30 % la nuit, sinon Londres",-1.0922
+AUDNZD,2025-04-30,vente,False,1.33,"FVG 4h la nuit, sinon Londres",-1.0645
+AUDNZD,2025-04-30,vente,False,1.33,ordre stop au-delà du mardi,0.0
+AUDNZD,2025-04-30,vente,False,1.33,confirmation 1h,0.0
+AUDNZD,2025-06-04,achat,False,0.53,clôture du mardi,0.4861
+AUDNZD,2025-06-04,achat,False,0.53,Londres 07h,0.4267
+AUDNZD,2025-06-04,achat,False,0.53,repli 30 % (24 h),1.123
+AUDNZD,2025-06-04,achat,False,0.53,FVG 4h du mardi (24 h),0.0
+AUDNZD,2025-06-04,achat,False,0.53,"repli 30 % la nuit, sinon Londres",1.123
+AUDNZD,2025-06-04,achat,False,0.53,"FVG 4h la nuit, sinon Londres",0.4267
+AUDNZD,2025-06-04,achat,False,0.53,ordre stop au-delà du mardi,0.0372
+AUDNZD,2025-06-04,achat,False,0.53,confirmation 1h,0.0
+AUDNZD,2025-10-15,vente,False,0.53,clôture du mardi,0.4738
+AUDNZD,2025-10-15,vente,False,0.53,Londres 07h,2.5208
+AUDNZD,2025-10-15,vente,False,0.53,repli 30 % (24 h),1.1055
+AUDNZD,2025-10-15,vente,False,0.53,FVG 4h du mardi (24 h),0.0
+AUDNZD,2025-10-15,vente,False,0.53,"repli 30 % la nuit, sinon Londres",1.1055
+AUDNZD,2025-10-15,vente,False,0.53,"FVG 4h la nuit, sinon Londres",2.5208
+AUDNZD,2025-10-15,vente,False,0.53,ordre stop au-delà du mardi,0.0
+AUDNZD,2025-10-15,vente,False,0.53,confirmation 1h,0.0
+AUDNZD,2026-01-14,achat,False,0.61,clôture du mardi,-1.0462
+AUDNZD,2026-01-14,achat,False,0.61,Londres 07h,-1.0401
+AUDNZD,2026-01-14,achat,False,0.61,repli 30 % (24 h),-1.066
+AUDNZD,2026-01-14,achat,False,0.61,FVG 4h du mardi (24 h),0.0
+AUDNZD,2026-01-14,achat,False,0.61,"repli 30 % la nuit, sinon Londres",-1.0401
+AUDNZD,2026-01-14,achat,False,0.61,"FVG 4h la nuit, sinon Londres",-1.0401
+AUDNZD,2026-01-14,achat,False,0.61,ordre stop au-delà du mardi,-1.0416
+AUDNZD,2026-01-14,achat,False,0.61,confirmation 1h,-1.0391
+AUDNZD,2026-05-06,vente,False,1.96,clôture du mardi,1.8471
+AUDNZD,2026-05-06,vente,False,1.96,Londres 07h,0.078
+AUDNZD,2026-05-06,vente,False,1.96,repli 30 % (24 h),0.0
+AUDNZD,2026-05-06,vente,False,1.96,FVG 4h du mardi (24 h),0.0
+AUDNZD,2026-05-06,vente,False,1.96,"repli 30 % la nuit, sinon Londres",0.078
+AUDNZD,2026-05-06,vente,False,1.96,"FVG 4h la nuit, sinon Londres",0.078
+AUDNZD,2026-05-06,vente,False,1.96,ordre stop au-delà du mardi,0.0
+AUDNZD,2026-05-06,vente,False,1.96,confirmation 1h,0.0
+AUDNZD,2026-06-17,vente,False,0.76,clôture du mardi,-1.0405
+AUDNZD,2026-06-17,vente,False,0.76,Londres 07h,-1.0519
+AUDNZD,2026-06-17,vente,False,0.76,repli 30 % (24 h),-1.0578
+AUDNZD,2026-06-17,vente,False,0.76,FVG 4h du mardi (24 h),0.0
+AUDNZD,2026-06-17,vente,False,0.76,"repli 30 % la nuit, sinon Londres",-1.0519
+AUDNZD,2026-06-17,vente,False,0.76,"FVG 4h la nuit, sinon Londres",-1.0519
+AUDNZD,2026-06-17,vente,False,0.76,ordre stop au-delà du mardi,0.0
+AUDNZD,2026-06-17,vente,False,0.76,confirmation 1h,0.0
+AUDNZD,2026-06-24,vente,False,0.05,clôture du mardi,0.0139
+AUDNZD,2026-06-24,vente,False,0.05,Londres 07h,0.2712
+AUDNZD,2026-06-24,vente,False,0.05,repli 30 % (24 h),0.4484
+AUDNZD,2026-06-24,vente,False,0.05,FVG 4h du mardi (24 h),0.0
+AUDNZD,2026-06-24,vente,False,0.05,"repli 30 % la nuit, sinon Londres",0.4484
+AUDNZD,2026-06-24,vente,False,0.05,"FVG 4h la nuit, sinon Londres",0.2712
+AUDNZD,2026-06-24,vente,False,0.05,ordre stop au-delà du mardi,0.0
+AUDNZD,2026-06-24,vente,False,0.05,confirmation 1h,0.0
+AUDNZD,2026-07-08,vente,False,1.83,clôture du mardi,1.7245
+AUDNZD,2026-07-08,vente,False,1.83,Londres 07h,0.0
+AUDNZD,2026-07-08,vente,False,1.83,repli 30 % (24 h),2.8921
+AUDNZD,2026-07-08,vente,False,1.83,FVG 4h du mardi (24 h),0.0
+AUDNZD,2026-07-08,vente,False,1.83,"repli 30 % la nuit, sinon Londres",2.8921
+AUDNZD,2026-07-08,vente,False,1.83,"FVG 4h la nuit, sinon Londres",0.0
+AUDNZD,2026-07-08,vente,False,1.83,ordre stop au-delà du mardi,0.0289
+AUDNZD,2026-07-08,vente,False,1.83,confirmation 1h,0.0
+AUDNZD,2026-07-29,vente,False,0.27,clôture du mardi,0.2355
+AUDNZD,2026-07-29,vente,False,0.27,Londres 07h,0.0
+AUDNZD,2026-07-29,vente,False,0.27,repli 30 % (24 h),0.0
+AUDNZD,2026-07-29,vente,False,0.27,FVG 4h du mardi (24 h),0.0
+AUDNZD,2026-07-29,vente,False,0.27,"repli 30 % la nuit, sinon Londres",0.0
+AUDNZD,2026-07-29,vente,False,0.27,"FVG 4h la nuit, sinon Londres",0.0
+AUDNZD,2026-07-29,vente,False,0.27,ordre stop au-delà du mardi,0.0
+AUDNZD,2026-07-29,vente,False,0.27,confirmation 1h,0.0
+EURAUD,2024-01-31,achat,False,0.54,clôture du mardi,0.5188
+EURAUD,2024-01-31,achat,False,0.54,Londres 07h,0.0973
+EURAUD,2024-01-31,achat,False,0.54,repli 30 % (24 h),1.1697
+EURAUD,2024-01-31,achat,False,0.54,FVG 4h du mardi (24 h),0.0
+EURAUD,2024-01-31,achat,False,0.54,"repli 30 % la nuit, sinon Londres",0.0973
+EURAUD,2024-01-31,achat,False,0.54,"FVG 4h la nuit, sinon Londres",0.0973
+EURAUD,2024-01-31,achat,False,0.54,ordre stop au-delà du mardi,0.1023
+EURAUD,2024-01-31,achat,False,0.54,confirmation 1h,0.1006
+EURAUD,2024-02-28,vente,True,1.43,clôture du mardi,-1.0323
+EURAUD,2024-02-28,vente,True,1.43,Londres 07h,-2.1768
+EURAUD,2024-02-28,vente,True,1.43,repli 30 % (24 h),-1.0461
+EURAUD,2024-02-28,vente,True,1.43,FVG 4h du mardi (24 h),0.0
+EURAUD,2024-02-28,vente,True,1.43,"repli 30 % la nuit, sinon Londres",-1.0461
+EURAUD,2024-02-28,vente,True,1.43,"FVG 4h la nuit, sinon Londres",-2.1768
+EURAUD,2024-02-28,vente,True,1.43,ordre stop au-delà du mardi,0.0
+EURAUD,2024-02-28,vente,True,1.43,confirmation 1h,0.0
+EURAUD,2024-07-03,vente,False,0.57,clôture du mardi,0.5408
+EURAUD,2024-07-03,vente,False,0.57,Londres 07h,0.1701
+EURAUD,2024-07-03,vente,False,0.57,repli 30 % (24 h),0.0
+EURAUD,2024-07-03,vente,False,0.57,FVG 4h du mardi (24 h),0.0
+EURAUD,2024-07-03,vente,False,0.57,"repli 30 % la nuit, sinon Londres",0.1701
+EURAUD,2024-07-03,vente,False,0.57,"FVG 4h la nuit, sinon Londres",0.1701
+EURAUD,2024-07-03,vente,False,0.57,ordre stop au-delà du mardi,0.1031
+EURAUD,2024-07-03,vente,False,0.57,confirmation 1h,0.0653
+EURAUD,2024-08-21,achat,False,1.0,clôture du mardi,0.9627
+EURAUD,2024-08-21,achat,False,1.0,Londres 07h,1.2051
+EURAUD,2024-08-21,achat,False,1.0,repli 30 % (24 h),1.8038
+EURAUD,2024-08-21,achat,False,1.0,FVG 4h du mardi (24 h),0.0
+EURAUD,2024-08-21,achat,False,1.0,"repli 30 % la nuit, sinon Londres",1.8038
+EURAUD,2024-08-21,achat,False,1.0,"FVG 4h la nuit, sinon Londres",1.2051
+EURAUD,2024-08-21,achat,False,1.0,ordre stop au-delà du mardi,0.5714
+EURAUD,2024-08-21,achat,False,1.0,confirmation 1h,0.5585
+EURAUD,2025-03-19,achat,False,0.12,clôture du mardi,0.102
+EURAUD,2025-03-19,achat,False,0.12,Londres 07h,0.0516
+EURAUD,2025-03-19,achat,False,0.12,repli 30 % (24 h),0.5743
+EURAUD,2025-03-19,achat,False,0.12,FVG 4h du mardi (24 h),0.2176
+EURAUD,2025-03-19,achat,False,0.12,"repli 30 % la nuit, sinon Londres",0.0516
+EURAUD,2025-03-19,achat,False,0.12,"FVG 4h la nuit, sinon Londres",0.2176
+EURAUD,2025-03-19,achat,False,0.12,ordre stop au-delà du mardi,0.0
+EURAUD,2025-03-19,achat,False,0.12,confirmation 1h,0.0
+EURAUD,2025-07-16,vente,True,1.57,clôture du mardi,-1.0449
+EURAUD,2025-07-16,vente,True,1.57,Londres 07h,-1.0554
+EURAUD,2025-07-16,vente,True,1.57,repli 30 % (24 h),-1.0642
+EURAUD,2025-07-16,vente,True,1.57,FVG 4h du mardi (24 h),0.0
+EURAUD,2025-07-16,vente,True,1.57,"repli 30 % la nuit, sinon Londres",-1.0642
+EURAUD,2025-07-16,vente,True,1.57,"FVG 4h la nuit, sinon Londres",-1.0554
+EURAUD,2025-07-16,vente,True,1.57,ordre stop au-delà du mardi,0.0
+EURAUD,2025-07-16,vente,True,1.57,confirmation 1h,0.0
+EURAUD,2025-07-23,vente,False,1.03,clôture du mardi,1.0
+EURAUD,2025-07-23,vente,False,1.03,Londres 07h,0.2437
+EURAUD,2025-07-23,vente,False,1.03,repli 30 % (24 h),0.0
+EURAUD,2025-07-23,vente,False,1.03,FVG 4h du mardi (24 h),0.0
+EURAUD,2025-07-23,vente,False,1.03,"repli 30 % la nuit, sinon Londres",0.2437
+EURAUD,2025-07-23,vente,False,1.03,"FVG 4h la nuit, sinon Londres",0.2437
+EURAUD,2025-07-23,vente,False,1.03,ordre stop au-delà du mardi,0.2809
+EURAUD,2025-07-23,vente,False,1.03,confirmation 1h,0.1874
+EURAUD,2025-11-12,achat,False,0.53,clôture du mardi,-1.0281
+EURAUD,2025-11-12,achat,False,0.53,Londres 07h,-1.0411
+EURAUD,2025-11-12,achat,False,0.53,repli 30 % (24 h),-1.0401
+EURAUD,2025-11-12,achat,False,0.53,FVG 4h du mardi (24 h),-1.0484
+EURAUD,2025-11-12,achat,False,0.53,"repli 30 % la nuit, sinon Londres",-1.0401
+EURAUD,2025-11-12,achat,False,0.53,"FVG 4h la nuit, sinon Londres",-1.0484
+EURAUD,2025-11-12,achat,False,0.53,ordre stop au-delà du mardi,0.0
+EURAUD,2025-11-12,achat,False,0.53,confirmation 1h,0.0
+EURAUD,2025-11-19,vente,False,0.23,clôture du mardi,0.2169
+EURAUD,2025-11-19,vente,False,0.23,Londres 07h,1.0333
+EURAUD,2025-11-19,vente,False,0.23,repli 30 % (24 h),0.7384
+EURAUD,2025-11-19,vente,False,0.23,FVG 4h du mardi (24 h),0.3271
+EURAUD,2025-11-19,vente,False,0.23,"repli 30 % la nuit, sinon Londres",0.7384
+EURAUD,2025-11-19,vente,False,0.23,"FVG 4h la nuit, sinon Londres",0.3271
+EURAUD,2025-11-19,vente,False,0.23,ordre stop au-delà du mardi,0.0
+EURAUD,2025-11-19,vente,False,0.23,confirmation 1h,0.0166
+EURAUD,2026-03-04,achat,True,2.61,clôture du mardi,0.4066
+EURAUD,2026-03-04,achat,True,2.61,Londres 07h,-0.156
+EURAUD,2026-03-04,achat,True,2.61,repli 30 % (24 h),1.0094
+EURAUD,2026-03-04,achat,True,2.61,FVG 4h du mardi (24 h),0.0
+EURAUD,2026-03-04,achat,True,2.61,"repli 30 % la nuit, sinon Londres",-0.156
+EURAUD,2026-03-04,achat,True,2.61,"FVG 4h la nuit, sinon Londres",-0.156
+EURAUD,2026-03-04,achat,True,2.61,ordre stop au-delà du mardi,0.0
+EURAUD,2026-03-04,achat,True,2.61,confirmation 1h,0.0
+EURAUD,2026-04-29,achat,True,4.36,clôture du mardi,4.2575
+EURAUD,2026-04-29,achat,True,4.36,Londres 07h,0.8791
+EURAUD,2026-04-29,achat,True,4.36,repli 30 % (24 h),6.5107
+EURAUD,2026-04-29,achat,True,4.36,FVG 4h du mardi (24 h),0.0
+EURAUD,2026-04-29,achat,True,4.36,"repli 30 % la nuit, sinon Londres",6.5107
+EURAUD,2026-04-29,achat,True,4.36,"FVG 4h la nuit, sinon Londres",0.8791
+EURAUD,2026-04-29,achat,True,4.36,ordre stop au-delà du mardi,0.8263
+EURAUD,2026-04-29,achat,True,4.36,confirmation 1h,0.5869
+EURAUD,2026-07-01,vente,False,0.02,clôture du mardi,0.0027
+EURAUD,2026-07-01,vente,False,0.02,Londres 07h,0.4727
+EURAUD,2026-07-01,vente,False,0.02,repli 30 % (24 h),0.4325
+EURAUD,2026-07-01,vente,False,0.02,FVG 4h du mardi (24 h),0.095
+EURAUD,2026-07-01,vente,False,0.02,"repli 30 % la nuit, sinon Londres",0.4325
+EURAUD,2026-07-01,vente,False,0.02,"FVG 4h la nuit, sinon Londres",0.095
+EURAUD,2026-07-01,vente,False,0.02,ordre stop au-delà du mardi,0.0
+EURAUD,2026-07-01,vente,False,0.02,confirmation 1h,0.0
+EURCAD,2024-01-31,achat,True,1.69,clôture du mardi,-0.3727
+EURCAD,2024-01-31,achat,True,1.69,Londres 07h,0.1659
+EURCAD,2024-01-31,achat,True,1.69,repli 30 % (24 h),-0.1039
+EURCAD,2024-01-31,achat,True,1.69,FVG 4h du mardi (24 h),0.0
+EURCAD,2024-01-31,achat,True,1.69,"repli 30 % la nuit, sinon Londres",-0.1039
+EURCAD,2024-01-31,achat,True,1.69,"FVG 4h la nuit, sinon Londres",0.1659
+EURCAD,2024-01-31,achat,True,1.69,ordre stop au-delà du mardi,-0.6944
+EURCAD,2024-01-31,achat,True,1.69,confirmation 1h,0.0
+EURCAD,2024-04-24,achat,False,0.54,clôture du mardi,0.5
+EURCAD,2024-04-24,achat,False,0.54,Londres 07h,0.4622
+EURCAD,2024-04-24,achat,False,0.54,repli 30 % (24 h),1.1429
+EURCAD,2024-04-24,achat,False,0.54,FVG 4h du mardi (24 h),0.0
+EURCAD,2024-04-24,achat,False,0.54,"repli 30 % la nuit, sinon Londres",0.4622
+EURCAD,2024-04-24,achat,False,0.54,"FVG 4h la nuit, sinon Londres",0.4622
+EURCAD,2024-04-24,achat,False,0.54,ordre stop au-delà du mardi,-0.0142
+EURCAD,2024-04-24,achat,False,0.54,confirmation 1h,0.0
+EURCAD,2024-07-03,vente,False,0.39,clôture du mardi,-1.031
+EURCAD,2024-07-03,vente,False,0.39,Londres 07h,-1.0301
+EURCAD,2024-07-03,vente,False,0.39,repli 30 % (24 h),-1.0442
+EURCAD,2024-07-03,vente,False,0.39,FVG 4h du mardi (24 h),0.0
+EURCAD,2024-07-03,vente,False,0.39,"repli 30 % la nuit, sinon Londres",-1.0301
+EURCAD,2024-07-03,vente,False,0.39,"FVG 4h la nuit, sinon Londres",-1.0301
+EURCAD,2024-07-03,vente,False,0.39,ordre stop au-delà du mardi,0.0
+EURCAD,2024-07-03,vente,False,0.39,confirmation 1h,0.0
+EURCAD,2024-07-17,vente,False,2.23,clôture du mardi,-1.0905
+EURCAD,2024-07-17,vente,False,2.23,Londres 07h,-1.1183
+EURCAD,2024-07-17,vente,False,2.23,repli 30 % (24 h),-1.1293
+EURCAD,2024-07-17,vente,False,2.23,FVG 4h du mardi (24 h),0.0
+EURCAD,2024-07-17,vente,False,2.23,"repli 30 % la nuit, sinon Londres",-1.1293
+EURCAD,2024-07-17,vente,False,2.23,"FVG 4h la nuit, sinon Londres",-1.1183
+EURCAD,2024-07-17,vente,False,2.23,ordre stop au-delà du mardi,0.0
+EURCAD,2024-07-17,vente,False,2.23,confirmation 1h,0.0
+EURCAD,2024-07-24,vente,False,0.62,clôture du mardi,0.5668
+EURCAD,2024-07-24,vente,False,0.62,Londres 07h,0.6066
+EURCAD,2024-07-24,vente,False,0.62,repli 30 % (24 h),-1.0707
+EURCAD,2024-07-24,vente,False,0.62,FVG 4h du mardi (24 h),-1.1036
+EURCAD,2024-07-24,vente,False,0.62,"repli 30 % la nuit, sinon Londres",0.6066
+EURCAD,2024-07-24,vente,False,0.62,"FVG 4h la nuit, sinon Londres",0.6066
+EURCAD,2024-07-24,vente,False,0.62,ordre stop au-delà du mardi,0.0
+EURCAD,2024-07-24,vente,False,0.62,confirmation 1h,0.0
+EURCAD,2024-09-11,achat,False,1.01,clôture du mardi,-1.0496
+EURCAD,2024-09-11,achat,False,1.01,Londres 07h,-1.0357
+EURCAD,2024-09-11,achat,False,1.01,repli 30 % (24 h),-1.0709
+EURCAD,2024-09-11,achat,False,1.01,FVG 4h du mardi (24 h),0.0
+EURCAD,2024-09-11,achat,False,1.01,"repli 30 % la nuit, sinon Londres",-1.0357
+EURCAD,2024-09-11,achat,False,1.01,"FVG 4h la nuit, sinon Londres",-1.0357
+EURCAD,2024-09-11,achat,False,1.01,ordre stop au-delà du mardi,-1.0377
+EURCAD,2024-09-11,achat,False,1.01,confirmation 1h,-1.0358
+EURCAD,2024-09-18,vente,True,1.65,clôture du mardi,-1.0478
+EURCAD,2024-09-18,vente,True,1.65,Londres 07h,-1.0391
+EURCAD,2024-09-18,vente,True,1.65,repli 30 % (24 h),-1.0684
+EURCAD,2024-09-18,vente,True,1.65,FVG 4h du mardi (24 h),0.0
+EURCAD,2024-09-18,vente,True,1.65,"repli 30 % la nuit, sinon Londres",-1.0391
+EURCAD,2024-09-18,vente,True,1.65,"FVG 4h la nuit, sinon Londres",-1.0391
+EURCAD,2024-09-18,vente,True,1.65,ordre stop au-delà du mardi,0.0
+EURCAD,2024-09-18,vente,True,1.65,confirmation 1h,-1.0309
+EURCAD,2025-05-14,achat,False,0.94,clôture du mardi,0.9184
+EURCAD,2025-05-14,achat,False,0.94,Londres 07h,0.874
+EURCAD,2025-05-14,achat,False,0.94,repli 30 % (24 h),0.0
+EURCAD,2025-05-14,achat,False,0.94,FVG 4h du mardi (24 h),0.0
+EURCAD,2025-05-14,achat,False,0.94,"repli 30 % la nuit, sinon Londres",0.874
+EURCAD,2025-05-14,achat,False,0.94,"FVG 4h la nuit, sinon Londres",0.874
+EURCAD,2025-05-14,achat,False,0.94,ordre stop au-delà du mardi,0.3867
+EURCAD,2025-05-14,achat,False,0.94,confirmation 1h,0.2007
+EURCAD,2025-06-04,vente,False,0.33,clôture du mardi,0.3083
+EURCAD,2025-06-04,vente,False,0.33,Londres 07h,0.2781
+EURCAD,2025-06-04,vente,False,0.33,repli 30 % (24 h),0.0
+EURCAD,2025-06-04,vente,False,0.33,FVG 4h du mardi (24 h),0.4466
+EURCAD,2025-06-04,vente,False,0.33,"repli 30 % la nuit, sinon Londres",0.2781
+EURCAD,2025-06-04,vente,False,0.33,"FVG 4h la nuit, sinon Londres",0.2781
+EURCAD,2025-06-04,vente,False,0.33,ordre stop au-delà du mardi,0.0426
+EURCAD,2025-06-04,vente,False,0.33,confirmation 1h,0.0
+EURCAD,2025-08-20,achat,False,0.49,clôture du mardi,0.455
+EURCAD,2025-08-20,achat,False,0.49,Londres 07h,0.6072
+EURCAD,2025-08-20,achat,False,0.49,repli 30 % (24 h),1.0785
+EURCAD,2025-08-20,achat,False,0.49,FVG 4h du mardi (24 h),0.0
+EURCAD,2025-08-20,achat,False,0.49,"repli 30 % la nuit, sinon Londres",1.0785
+EURCAD,2025-08-20,achat,False,0.49,"FVG 4h la nuit, sinon Londres",0.6072
+EURCAD,2025-08-20,achat,False,0.49,ordre stop au-delà du mardi,0.0
+EURCAD,2025-08-20,achat,False,0.49,confirmation 1h,0.0
+EURCAD,2025-08-27,achat,True,6.09,clôture du mardi,-1.1156
+EURCAD,2025-08-27,achat,True,6.09,Londres 07h,-1.1156
+EURCAD,2025-08-27,achat,True,6.09,repli 30 % (24 h),-1.1651
+EURCAD,2025-08-27,achat,True,6.09,FVG 4h du mardi (24 h),0.0
+EURCAD,2025-08-27,achat,True,6.09,"repli 30 % la nuit, sinon Londres",-1.1651
+EURCAD,2025-08-27,achat,True,6.09,"FVG 4h la nuit, sinon Londres",-1.1156
+EURCAD,2025-08-27,achat,True,6.09,ordre stop au-delà du mardi,0.0
+EURCAD,2025-08-27,achat,True,6.09,confirmation 1h,0.0
+EURCAD,2025-12-03,vente,False,1.28,clôture du mardi,-1.0635
+EURCAD,2025-12-03,vente,False,1.28,Londres 07h,-1.1613
+EURCAD,2025-12-03,vente,False,1.28,repli 30 % (24 h),-1.0907
+EURCAD,2025-12-03,vente,False,1.28,FVG 4h du mardi (24 h),0.0
+EURCAD,2025-12-03,vente,False,1.28,"repli 30 % la nuit, sinon Londres",-1.0907
+EURCAD,2025-12-03,vente,False,1.28,"FVG 4h la nuit, sinon Londres",-1.1613
+EURCAD,2025-12-03,vente,False,1.28,ordre stop au-delà du mardi,0.0
+EURCAD,2025-12-03,vente,False,1.28,confirmation 1h,0.0
+EURCAD,2026-07-01,vente,True,3.07,clôture du mardi,-1.0922
+EURCAD,2026-07-01,vente,True,3.07,Londres 07h,-1.0735
+EURCAD,2026-07-01,vente,True,3.07,repli 30 % (24 h),0.0
+EURCAD,2026-07-01,vente,True,3.07,FVG 4h du mardi (24 h),0.0
+EURCAD,2026-07-01,vente,True,3.07,"repli 30 % la nuit, sinon Londres",-1.0735
+EURCAD,2026-07-01,vente,True,3.07,"FVG 4h la nuit, sinon Londres",-1.0735
+EURCAD,2026-07-01,vente,True,3.07,ordre stop au-delà du mardi,-1.049
+EURCAD,2026-07-01,vente,True,3.07,confirmation 1h,-1.0442
+EURGBP,2023-12-20,vente,False,2.49,clôture du mardi,-1.0896
+EURGBP,2023-12-20,vente,False,2.49,Londres 07h,-1.0659
+EURGBP,2023-12-20,vente,False,2.49,repli 30 % (24 h),-1.1279
+EURGBP,2023-12-20,vente,False,2.49,FVG 4h du mardi (24 h),0.0
+EURGBP,2023-12-20,vente,False,2.49,"repli 30 % la nuit, sinon Londres",-1.0659
+EURGBP,2023-12-20,vente,False,2.49,"FVG 4h la nuit, sinon Londres",-1.0659
+EURGBP,2023-12-20,vente,False,2.49,ordre stop au-delà du mardi,0.0
+EURGBP,2023-12-20,vente,False,2.49,confirmation 1h,0.0
+EURGBP,2024-02-07,vente,False,0.14,clôture du mardi,0.105
+EURGBP,2024-02-07,vente,False,0.14,Londres 07h,0.2168
+EURGBP,2024-02-07,vente,False,0.14,repli 30 % (24 h),0.0
+EURGBP,2024-02-07,vente,False,0.14,FVG 4h du mardi (24 h),0.0
+EURGBP,2024-02-07,vente,False,0.14,"repli 30 % la nuit, sinon Londres",0.2168
+EURGBP,2024-02-07,vente,False,0.14,"FVG 4h la nuit, sinon Londres",0.2168
+EURGBP,2024-02-07,vente,False,0.14,ordre stop au-delà du mardi,-0.0209
+EURGBP,2024-02-07,vente,False,0.14,confirmation 1h,0.0
+EURGBP,2024-05-01,achat,False,1.84,clôture du mardi,1.739
+EURGBP,2024-05-01,achat,False,1.84,Londres 07h,1.1875
+EURGBP,2024-05-01,achat,False,1.84,repli 30 % (24 h),2.9129
+EURGBP,2024-05-01,achat,False,1.84,FVG 4h du mardi (24 h),0.0
+EURGBP,2024-05-01,achat,False,1.84,"repli 30 % la nuit, sinon Londres",1.1875
+EURGBP,2024-05-01,achat,False,1.84,"FVG 4h la nuit, sinon Londres",1.1875
+EURGBP,2024-05-01,achat,False,1.84,ordre stop au-delà du mardi,0.1496
+EURGBP,2024-05-01,achat,False,1.84,confirmation 1h,0.1581
+EURGBP,2024-09-25,achat,False,2.72,clôture du mardi,0.601
+EURGBP,2024-09-25,achat,False,2.72,Londres 07h,-0.1716
+EURGBP,2024-09-25,achat,False,2.72,repli 30 % (24 h),0.0
+EURGBP,2024-09-25,achat,False,2.72,FVG 4h du mardi (24 h),0.0
+EURGBP,2024-09-25,achat,False,2.72,"repli 30 % la nuit, sinon Londres",-0.1716
+EURGBP,2024-09-25,achat,False,2.72,"FVG 4h la nuit, sinon Londres",-0.1716
+EURGBP,2024-09-25,achat,False,2.72,ordre stop au-delà du mardi,0.2118
+EURGBP,2024-09-25,achat,False,2.72,confirmation 1h,0.2311
+EURGBP,2025-04-30,achat,False,5.86,clôture du mardi,-1.1364
+EURGBP,2025-04-30,achat,False,5.86,Londres 07h,-1.08
+EURGBP,2025-04-30,achat,False,5.86,repli 30 % (24 h),-1.1948
+EURGBP,2025-04-30,achat,False,5.86,FVG 4h du mardi (24 h),0.0
+EURGBP,2025-04-30,achat,False,5.86,"repli 30 % la nuit, sinon Londres",-1.1948
+EURGBP,2025-04-30,achat,False,5.86,"FVG 4h la nuit, sinon Londres",-1.08
+EURGBP,2025-04-30,achat,False,5.86,ordre stop au-delà du mardi,-1.0421
+EURGBP,2025-04-30,achat,False,5.86,confirmation 1h,0.0
+EURGBP,2025-07-16,vente,False,0.4,clôture du mardi,0.3585
+EURGBP,2025-07-16,vente,False,0.4,Londres 07h,0.6241
+EURGBP,2025-07-16,vente,False,0.4,repli 30 % (24 h),0.9407
+EURGBP,2025-07-16,vente,False,0.4,FVG 4h du mardi (24 h),0.7561
+EURGBP,2025-07-16,vente,False,0.4,"repli 30 % la nuit, sinon Londres",0.6241
+EURGBP,2025-07-16,vente,False,0.4,"FVG 4h la nuit, sinon Londres",0.7561
+EURGBP,2025-07-16,vente,False,0.4,ordre stop au-delà du mardi,0.0937
+EURGBP,2025-07-16,vente,False,0.4,confirmation 1h,0.0746
+EURGBP,2026-01-07,achat,False,3.55,clôture du mardi,1.543
+EURGBP,2026-01-07,achat,False,3.55,Londres 07h,1.7626
+EURGBP,2026-01-07,achat,False,3.55,repli 30 % (24 h),0.0
+EURGBP,2026-01-07,achat,False,3.55,FVG 4h du mardi (24 h),0.0
+EURGBP,2026-01-07,achat,False,3.55,"repli 30 % la nuit, sinon Londres",1.7626
+EURGBP,2026-01-07,achat,False,3.55,"FVG 4h la nuit, sinon Londres",1.7626
+EURGBP,2026-01-07,achat,False,3.55,ordre stop au-delà du mardi,0.7143
+EURGBP,2026-01-07,achat,False,3.55,confirmation 1h,0.7696
+EURGBP,2026-07-08,achat,False,2.05,clôture du mardi,-1.0923
+EURGBP,2026-07-08,achat,False,2.05,Londres 07h,-1.0714
+EURGBP,2026-07-08,achat,False,2.05,repli 30 % (24 h),-1.1319
+EURGBP,2026-07-08,achat,False,2.05,FVG 4h du mardi (24 h),0.0
+EURGBP,2026-07-08,achat,False,2.05,"repli 30 % la nuit, sinon Londres",-1.0714
+EURGBP,2026-07-08,achat,False,2.05,"FVG 4h la nuit, sinon Londres",-1.0714
+EURGBP,2026-07-08,achat,False,2.05,ordre stop au-delà du mardi,0.0
+EURGBP,2026-07-08,achat,False,2.05,confirmation 1h,0.0
+EURGBP,2026-09-16,achat,False,0.7,clôture du mardi,0.6148
+EURGBP,2026-09-16,achat,False,0.7,Londres 07h,0.4156
+EURGBP,2026-09-16,achat,False,0.7,repli 30 % (24 h),1.3069
+EURGBP,2026-09-16,achat,False,0.7,FVG 4h du mardi (24 h),0.0
+EURGBP,2026-09-16,achat,False,0.7,"repli 30 % la nuit, sinon Londres",1.3069
+EURGBP,2026-09-16,achat,False,0.7,"FVG 4h la nuit, sinon Londres",0.4156
+EURGBP,2026-09-16,achat,False,0.7,ordre stop au-delà du mardi,0.1913
+EURGBP,2026-09-16,achat,False,0.7,confirmation 1h,0.0235
+GBPAUD,2024-01-31,achat,False,0.87,clôture du mardi,0.8379
+GBPAUD,2024-01-31,achat,False,0.87,Londres 07h,0.0248
+GBPAUD,2024-01-31,achat,False,0.87,repli 30 % (24 h),0.0
+GBPAUD,2024-01-31,achat,False,0.87,FVG 4h du mardi (24 h),0.0
+GBPAUD,2024-01-31,achat,False,0.87,"repli 30 % la nuit, sinon Londres",0.0248
+GBPAUD,2024-01-31,achat,False,0.87,"FVG 4h la nuit, sinon Londres",0.0248
+GBPAUD,2024-01-31,achat,False,0.87,ordre stop au-delà du mardi,0.7035
+GBPAUD,2024-01-31,achat,False,0.87,confirmation 1h,0.3456
+GBPAUD,2024-02-28,vente,True,1.45,clôture du mardi,-1.0468
+GBPAUD,2024-02-28,vente,True,1.45,Londres 07h,-1.0468
+GBPAUD,2024-02-28,vente,True,1.45,repli 30 % (24 h),-1.0669
+GBPAUD,2024-02-28,vente,True,1.45,FVG 4h du mardi (24 h),0.0
+GBPAUD,2024-02-28,vente,True,1.45,"repli 30 % la nuit, sinon Londres",-1.0669
+GBPAUD,2024-02-28,vente,True,1.45,"FVG 4h la nuit, sinon Londres",-1.0468
+GBPAUD,2024-02-28,vente,True,1.45,ordre stop au-delà du mardi,0.0
+GBPAUD,2024-02-28,vente,True,1.45,confirmation 1h,0.0
+GBPAUD,2024-04-24,achat,False,0.78,clôture du mardi,-1.0283
+GBPAUD,2024-04-24,achat,False,0.78,Londres 07h,-1.1812
+GBPAUD,2024-04-24,achat,False,0.78,repli 30 % (24 h),-1.0405
+GBPAUD,2024-04-24,achat,False,0.78,FVG 4h du mardi (24 h),0.0
+GBPAUD,2024-04-24,achat,False,0.78,"repli 30 % la nuit, sinon Londres",-1.0405
+GBPAUD,2024-04-24,achat,False,0.78,"FVG 4h la nuit, sinon Londres",-1.1812
+GBPAUD,2024-04-24,achat,False,0.78,ordre stop au-delà du mardi,0.0
+GBPAUD,2024-04-24,achat,False,0.78,confirmation 1h,0.0
+GBPAUD,2024-08-21,achat,True,2.51,clôture du mardi,2.4445
+GBPAUD,2024-08-21,achat,True,2.51,Londres 07h,3.9455
+GBPAUD,2024-08-21,achat,True,2.51,repli 30 % (24 h),3.9207
+GBPAUD,2024-08-21,achat,True,2.51,FVG 4h du mardi (24 h),0.0
+GBPAUD,2024-08-21,achat,True,2.51,"repli 30 % la nuit, sinon Londres",3.9207
+GBPAUD,2024-08-21,achat,True,2.51,"FVG 4h la nuit, sinon Londres",3.9455
+GBPAUD,2024-08-21,achat,True,2.51,ordre stop au-delà du mardi,0.9984
+GBPAUD,2024-08-21,achat,True,2.51,confirmation 1h,1.0174
+GBPAUD,2024-10-23,vente,False,0.18,clôture du mardi,0.1579
+GBPAUD,2024-10-23,vente,False,0.18,Londres 07h,-1.0407
+GBPAUD,2024-10-23,vente,False,0.18,repli 30 % (24 h),-1.0374
+GBPAUD,2024-10-23,vente,False,0.18,FVG 4h du mardi (24 h),0.0
+GBPAUD,2024-10-23,vente,False,0.18,"repli 30 % la nuit, sinon Londres",-1.0374
+GBPAUD,2024-10-23,vente,False,0.18,"FVG 4h la nuit, sinon Londres",-1.0407
+GBPAUD,2024-10-23,vente,False,0.18,ordre stop au-delà du mardi,0.0
+GBPAUD,2024-10-23,vente,False,0.18,confirmation 1h,0.0
+GBPAUD,2025-03-05,vente,True,1.62,clôture du mardi,-1.0236
+GBPAUD,2025-03-05,vente,True,1.62,Londres 07h,-1.0293
+GBPAUD,2025-03-05,vente,True,1.62,repli 30 % (24 h),-1.0337
+GBPAUD,2025-03-05,vente,True,1.62,FVG 4h du mardi (24 h),0.0
+GBPAUD,2025-03-05,vente,True,1.62,"repli 30 % la nuit, sinon Londres",-1.0337
+GBPAUD,2025-03-05,vente,True,1.62,"FVG 4h la nuit, sinon Londres",-1.0293
+GBPAUD,2025-03-05,vente,True,1.62,ordre stop au-delà du mardi,-1.0176
+GBPAUD,2025-03-05,vente,True,1.62,confirmation 1h,-1.017
+GBPAUD,2025-03-19,achat,False,0.2,clôture du mardi,0.1731
+GBPAUD,2025-03-19,achat,False,0.2,Londres 07h,0.1293
+GBPAUD,2025-03-19,achat,False,0.2,repli 30 % (24 h),0.0
+GBPAUD,2025-03-19,achat,False,0.2,FVG 4h du mardi (24 h),0.0
+GBPAUD,2025-03-19,achat,False,0.2,"repli 30 % la nuit, sinon Londres",0.1293
+GBPAUD,2025-03-19,achat,False,0.2,"FVG 4h la nuit, sinon Londres",0.1293
+GBPAUD,2025-03-19,achat,False,0.2,ordre stop au-delà du mardi,0.0
+GBPAUD,2025-03-19,achat,False,0.2,confirmation 1h,0.0
+GBPAUD,2025-11-19,vente,False,0.44,clôture du mardi,0.4181
+GBPAUD,2025-11-19,vente,False,0.44,Londres 07h,1.3479
+GBPAUD,2025-11-19,vente,False,0.44,repli 30 % (24 h),1.0259
+GBPAUD,2025-11-19,vente,False,0.44,FVG 4h du mardi (24 h),0.0
+GBPAUD,2025-11-19,vente,False,0.44,"repli 30 % la nuit, sinon Londres",1.0259
+GBPAUD,2025-11-19,vente,False,0.44,"FVG 4h la nuit, sinon Londres",1.3479
+GBPAUD,2025-11-19,vente,False,0.44,ordre stop au-delà du mardi,0.2056
+GBPAUD,2025-11-19,vente,False,0.44,confirmation 1h,0.0545
+GBPAUD,2025-12-31,vente,False,0.64,clôture du mardi,-1.0339
+GBPAUD,2025-12-31,vente,False,0.64,Londres 07h,-1.0385
+GBPAUD,2025-12-31,vente,False,0.64,repli 30 % (24 h),-1.0485
+GBPAUD,2025-12-31,vente,False,0.64,FVG 4h du mardi (24 h),-1.0406
+GBPAUD,2025-12-31,vente,False,0.64,"repli 30 % la nuit, sinon Londres",-1.0385
+GBPAUD,2025-12-31,vente,False,0.64,"FVG 4h la nuit, sinon Londres",-1.0406
+GBPAUD,2025-12-31,vente,False,0.64,ordre stop au-delà du mardi,-1.0258
+GBPAUD,2025-12-31,vente,False,0.64,confirmation 1h,0.0
+GBPAUD,2026-03-04,achat,False,0.24,clôture du mardi,0.229
+GBPAUD,2026-03-04,achat,False,0.24,Londres 07h,0.0554
+GBPAUD,2026-03-04,achat,False,0.24,repli 30 % (24 h),0.7557
+GBPAUD,2026-03-04,achat,False,0.24,FVG 4h du mardi (24 h),0.8283
+GBPAUD,2026-03-04,achat,False,0.24,"repli 30 % la nuit, sinon Londres",0.0554
+GBPAUD,2026-03-04,achat,False,0.24,"FVG 4h la nuit, sinon Londres",0.0554
+GBPAUD,2026-03-04,achat,False,0.24,ordre stop au-delà du mardi,0.0
+GBPAUD,2026-03-04,achat,False,0.24,confirmation 1h,0.0
+GBPAUD,2026-07-01,vente,False,0.33,clôture du mardi,-1.0219
+GBPAUD,2026-07-01,vente,False,0.33,Londres 07h,-1.0382
+GBPAUD,2026-07-01,vente,False,0.33,repli 30 % (24 h),-1.0314
+GBPAUD,2026-07-01,vente,False,0.33,FVG 4h du mardi (24 h),-1.0316
+GBPAUD,2026-07-01,vente,False,0.33,"repli 30 % la nuit, sinon Londres",-1.0314
+GBPAUD,2026-07-01,vente,False,0.33,"FVG 4h la nuit, sinon Londres",-1.0316
+GBPAUD,2026-07-01,vente,False,0.33,ordre stop au-delà du mardi,0.0
+GBPAUD,2026-07-01,vente,False,0.33,confirmation 1h,0.0
+GBPAUD,2026-07-29,achat,False,0.9,clôture du mardi,0.8463
+GBPAUD,2026-07-29,achat,False,0.9,Londres 07h,0.0
+GBPAUD,2026-07-29,achat,False,0.9,repli 30 % (24 h),0.0
+GBPAUD,2026-07-29,achat,False,0.9,FVG 4h du mardi (24 h),0.0
+GBPAUD,2026-07-29,achat,False,0.9,"repli 30 % la nuit, sinon Londres",0.0
+GBPAUD,2026-07-29,achat,False,0.9,"FVG 4h la nuit, sinon Londres",0.0
+GBPAUD,2026-07-29,achat,False,0.9,ordre stop au-delà du mardi,-0.0011
+GBPAUD,2026-07-29,achat,False,0.9,confirmation 1h,0.0
+GBPAUD,2026-08-12,vente,False,0.58,clôture du mardi,0.5412
+GBPAUD,2026-08-12,vente,False,0.58,Londres 07h,0.8174
+GBPAUD,2026-08-12,vente,False,0.58,repli 30 % (24 h),1.2018
+GBPAUD,2026-08-12,vente,False,0.58,FVG 4h du mardi (24 h),0.0
+GBPAUD,2026-08-12,vente,False,0.58,"repli 30 % la nuit, sinon Londres",0.8174
+GBPAUD,2026-08-12,vente,False,0.58,"FVG 4h la nuit, sinon Londres",0.8174
+GBPAUD,2026-08-12,vente,False,0.58,ordre stop au-delà du mardi,0.127
+GBPAUD,2026-08-12,vente,False,0.58,confirmation 1h,0.0534
+GBPCAD,2024-01-24,vente,False,0.4,clôture du mardi,-1.034
+GBPCAD,2024-01-24,vente,False,0.4,Londres 07h,-1.0459
+GBPCAD,2024-01-24,vente,False,0.4,repli 30 % (24 h),-1.0486
+GBPCAD,2024-01-24,vente,False,0.4,FVG 4h du mardi (24 h),0.0
+GBPCAD,2024-01-24,vente,False,0.4,"repli 30 % la nuit, sinon Londres",-1.0486
+GBPCAD,2024-01-24,vente,False,0.4,"FVG 4h la nuit, sinon Londres",-1.0459
+GBPCAD,2024-01-24,vente,False,0.4,ordre stop au-delà du mardi,0.0
+GBPCAD,2024-01-24,vente,False,0.4,confirmation 1h,0.0
+GBPCAD,2024-04-03,achat,False,1.37,clôture du mardi,1.2857
+GBPCAD,2024-04-03,achat,False,1.37,Londres 07h,0.8597
+GBPCAD,2024-04-03,achat,False,1.37,repli 30 % (24 h),2.2653
+GBPCAD,2024-04-03,achat,False,1.37,FVG 4h du mardi (24 h),0.0
+GBPCAD,2024-04-03,achat,False,1.37,"repli 30 % la nuit, sinon Londres",0.8597
+GBPCAD,2024-04-03,achat,False,1.37,"FVG 4h la nuit, sinon Londres",0.8597
+GBPCAD,2024-04-03,achat,False,1.37,ordre stop au-delà du mardi,0.5143
+GBPCAD,2024-04-03,achat,False,1.37,confirmation 1h,0.4496
+GBPCAD,2024-07-03,vente,False,1.53,clôture du mardi,-1.0777
+GBPCAD,2024-07-03,vente,False,1.53,Londres 07h,-1.0761
+GBPCAD,2024-07-03,vente,False,1.53,repli 30 % (24 h),-1.111
+GBPCAD,2024-07-03,vente,False,1.53,FVG 4h du mardi (24 h),0.0
+GBPCAD,2024-07-03,vente,False,1.53,"repli 30 % la nuit, sinon Londres",-1.0761
+GBPCAD,2024-07-03,vente,False,1.53,"FVG 4h la nuit, sinon Londres",-1.0761
+GBPCAD,2024-07-03,vente,False,1.53,ordre stop au-delà du mardi,0.0
+GBPCAD,2024-07-03,vente,False,1.53,confirmation 1h,0.0
+GBPCAD,2024-07-24,vente,True,3.75,clôture du mardi,-1.1841
+GBPCAD,2024-07-24,vente,True,3.75,Londres 07h,-1.1288
+GBPCAD,2024-07-24,vente,True,3.75,repli 30 % (24 h),-1.2629
+GBPCAD,2024-07-24,vente,True,3.75,FVG 4h du mardi (24 h),0.0
+GBPCAD,2024-07-24,vente,True,3.75,"repli 30 % la nuit, sinon Londres",-1.1288
+GBPCAD,2024-07-24,vente,True,3.75,"FVG 4h la nuit, sinon Londres",-1.1288
+GBPCAD,2024-07-24,vente,True,3.75,ordre stop au-delà du mardi,0.0
+GBPCAD,2024-07-24,vente,True,3.75,confirmation 1h,0.0
+GBPCAD,2024-09-11,achat,False,0.22,clôture du mardi,0.1871
+GBPCAD,2024-09-11,achat,False,0.22,Londres 07h,-1.0427
+GBPCAD,2024-09-11,achat,False,0.22,repli 30 % (24 h),-1.0511
+GBPCAD,2024-09-11,achat,False,0.22,FVG 4h du mardi (24 h),-1.0471
+GBPCAD,2024-09-11,achat,False,0.22,"repli 30 % la nuit, sinon Londres",-1.0427
+GBPCAD,2024-09-11,achat,False,0.22,"FVG 4h la nuit, sinon Londres",-1.0427
+GBPCAD,2024-09-11,achat,False,0.22,ordre stop au-delà du mardi,0.0897
+GBPCAD,2024-09-11,achat,False,0.22,confirmation 1h,0.0247
+GBPCAD,2024-09-18,vente,False,0.71,clôture du mardi,-1.0333
+GBPCAD,2024-09-18,vente,False,0.71,Londres 07h,-1.0404
+GBPCAD,2024-09-18,vente,False,0.71,repli 30 % (24 h),-1.0476
+GBPCAD,2024-09-18,vente,False,0.71,FVG 4h du mardi (24 h),-1.0345
+GBPCAD,2024-09-18,vente,False,0.71,"repli 30 % la nuit, sinon Londres",-1.0404
+GBPCAD,2024-09-18,vente,False,0.71,"FVG 4h la nuit, sinon Londres",-1.0345
+GBPCAD,2024-09-18,vente,False,0.71,ordre stop au-delà du mardi,0.0
+GBPCAD,2024-09-18,vente,False,0.71,confirmation 1h,0.0
+GBPCAD,2024-10-16,vente,False,0.29,clôture du mardi,0.2563
+GBPCAD,2024-10-16,vente,False,0.29,Londres 07h,0.0
+GBPCAD,2024-10-16,vente,False,0.29,repli 30 % (24 h),0.0
+GBPCAD,2024-10-16,vente,False,0.29,FVG 4h du mardi (24 h),0.3923
+GBPCAD,2024-10-16,vente,False,0.29,"repli 30 % la nuit, sinon Londres",0.0
+GBPCAD,2024-10-16,vente,False,0.29,"FVG 4h la nuit, sinon Londres",0.3923
+GBPCAD,2024-10-16,vente,False,0.29,ordre stop au-delà du mardi,0.0879
+GBPCAD,2024-10-16,vente,False,0.29,confirmation 1h,0.0
+GBPCAD,2025-04-09,achat,False,1.11,clôture du mardi,-1.018
+GBPCAD,2025-04-09,achat,False,1.11,Londres 07h,-1.0172
+GBPCAD,2025-04-09,achat,False,1.11,repli 30 % (24 h),-1.0258
+GBPCAD,2025-04-09,achat,False,1.11,FVG 4h du mardi (24 h),-1.0243
+GBPCAD,2025-04-09,achat,False,1.11,"repli 30 % la nuit, sinon Londres",-1.0172
+GBPCAD,2025-04-09,achat,False,1.11,"FVG 4h la nuit, sinon Londres",-1.0172
+GBPCAD,2025-04-09,achat,False,1.11,ordre stop au-delà du mardi,-1.0173
+GBPCAD,2025-04-09,achat,False,1.11,confirmation 1h,-1.0158
+GBPCAD,2025-04-30,vente,True,1.79,clôture du mardi,1.737
+GBPCAD,2025-04-30,vente,True,1.79,Londres 07h,1.0216
+GBPCAD,2025-04-30,vente,True,1.79,repli 30 % (24 h),0.0
+GBPCAD,2025-04-30,vente,True,1.79,FVG 4h du mardi (24 h),0.0
+GBPCAD,2025-04-30,vente,True,1.79,"repli 30 % la nuit, sinon Londres",1.0216
+GBPCAD,2025-04-30,vente,True,1.79,"FVG 4h la nuit, sinon Londres",1.0216
+GBPCAD,2025-04-30,vente,True,1.79,ordre stop au-delà du mardi,1.0192
+GBPCAD,2025-04-30,vente,True,1.79,confirmation 1h,1.0216
+GBPCAD,2025-06-04,vente,True,1.85,clôture du mardi,0.9796
+GBPCAD,2025-06-04,vente,True,1.85,Londres 07h,1.1436
+GBPCAD,2025-06-04,vente,True,1.85,repli 30 % (24 h),1.828
+GBPCAD,2025-06-04,vente,True,1.85,FVG 4h du mardi (24 h),0.0
+GBPCAD,2025-06-04,vente,True,1.85,"repli 30 % la nuit, sinon Londres",1.1436
+GBPCAD,2025-06-04,vente,True,1.85,"FVG 4h la nuit, sinon Londres",1.1436
+GBPCAD,2025-06-04,vente,True,1.85,ordre stop au-delà du mardi,0.1395
+GBPCAD,2025-06-04,vente,True,1.85,confirmation 1h,0.0616
+GBPCAD,2025-07-02,achat,False,0.54,clôture du mardi,-1.0412
+GBPCAD,2025-07-02,achat,False,0.54,Londres 07h,-1.0498
+GBPCAD,2025-07-02,achat,False,0.54,repli 30 % (24 h),-1.0589
+GBPCAD,2025-07-02,achat,False,0.54,FVG 4h du mardi (24 h),0.0
+GBPCAD,2025-07-02,achat,False,0.54,"repli 30 % la nuit, sinon Londres",-1.0498
+GBPCAD,2025-07-02,achat,False,0.54,"FVG 4h la nuit, sinon Londres",-1.0498
+GBPCAD,2025-07-02,achat,False,0.54,ordre stop au-delà du mardi,-1.0366
+GBPCAD,2025-07-02,achat,False,0.54,confirmation 1h,0.0
+GBPCAD,2025-07-09,vente,False,0.18,clôture du mardi,-1.0459
+GBPCAD,2025-07-09,vente,False,0.18,Londres 07h,-1.0708
+GBPCAD,2025-07-09,vente,False,0.18,repli 30 % (24 h),-1.0655
+GBPCAD,2025-07-09,vente,False,0.18,FVG 4h du mardi (24 h),0.0
+GBPCAD,2025-07-09,vente,False,0.18,"repli 30 % la nuit, sinon Londres",-1.0655
+GBPCAD,2025-07-09,vente,False,0.18,"FVG 4h la nuit, sinon Londres",-1.0708
+GBPCAD,2025-07-09,vente,False,0.18,ordre stop au-delà du mardi,0.0
+GBPCAD,2025-07-09,vente,False,0.18,confirmation 1h,0.0
+GBPCAD,2025-07-30,achat,False,0.51,clôture du mardi,0.4698
+GBPCAD,2025-07-30,achat,False,0.51,Londres 07h,0.3925
+GBPCAD,2025-07-30,achat,False,0.51,repli 30 % (24 h),-1.0528
+GBPCAD,2025-07-30,achat,False,0.51,FVG 4h du mardi (24 h),0.0
+GBPCAD,2025-07-30,achat,False,0.51,"repli 30 % la nuit, sinon Londres",0.3925
+GBPCAD,2025-07-30,achat,False,0.51,"FVG 4h la nuit, sinon Londres",0.3925
+GBPCAD,2025-07-30,achat,False,0.51,ordre stop au-delà du mardi,0.2482
+GBPCAD,2025-07-30,achat,False,0.51,confirmation 1h,0.2114
+GBPCAD,2025-08-20,achat,False,0.42,clôture du mardi,0.3821
+GBPCAD,2025-08-20,achat,False,0.42,Londres 07h,0.2163
+GBPCAD,2025-08-20,achat,False,0.42,repli 30 % (24 h),-1.0609
+GBPCAD,2025-08-20,achat,False,0.42,FVG 4h du mardi (24 h),0.0
+GBPCAD,2025-08-20,achat,False,0.42,"repli 30 % la nuit, sinon Londres",0.2163
+GBPCAD,2025-08-20,achat,False,0.42,"FVG 4h la nuit, sinon Londres",0.2163
+GBPCAD,2025-08-20,achat,False,0.42,ordre stop au-delà du mardi,0.1327
+GBPCAD,2025-08-20,achat,False,0.42,confirmation 1h,0.0
+GBPCAD,2025-10-15,vente,True,1.47,clôture du mardi,-1.0716
+GBPCAD,2025-10-15,vente,True,1.47,Londres 07h,-1.4918
+GBPCAD,2025-10-15,vente,True,1.47,repli 30 % (24 h),-1.1023
+GBPCAD,2025-10-15,vente,True,1.47,FVG 4h du mardi (24 h),0.0
+GBPCAD,2025-10-15,vente,True,1.47,"repli 30 % la nuit, sinon Londres",-1.1023
+GBPCAD,2025-10-15,vente,True,1.47,"FVG 4h la nuit, sinon Londres",-1.4918
+GBPCAD,2025-10-15,vente,True,1.47,ordre stop au-delà du mardi,0.0
+GBPCAD,2025-10-15,vente,True,1.47,confirmation 1h,0.0
+GBPCAD,2025-12-24,vente,False,0.81,clôture du mardi,0.7621
+GBPCAD,2025-12-24,vente,False,0.81,Londres 07h,0.8586
+GBPCAD,2025-12-24,vente,False,0.81,repli 30 % (24 h),1.5173
+GBPCAD,2025-12-24,vente,False,0.81,FVG 4h du mardi (24 h),0.0
+GBPCAD,2025-12-24,vente,False,0.81,"repli 30 % la nuit, sinon Londres",1.5173
+GBPCAD,2025-12-24,vente,False,0.81,"FVG 4h la nuit, sinon Londres",0.8586
+GBPCAD,2025-12-24,vente,False,0.81,ordre stop au-delà du mardi,0.2009
+GBPCAD,2025-12-24,vente,False,0.81,confirmation 1h,0.0857
+GBPCAD,2025-12-31,vente,False,0.09,clôture du mardi,0.0485
+GBPCAD,2025-12-31,vente,False,0.09,Londres 07h,-0.0214
+GBPCAD,2025-12-31,vente,False,0.09,repli 30 % (24 h),0.4979
+GBPCAD,2025-12-31,vente,False,0.09,FVG 4h du mardi (24 h),0.0
+GBPCAD,2025-12-31,vente,False,0.09,"repli 30 % la nuit, sinon Londres",-0.0214
+GBPCAD,2025-12-31,vente,False,0.09,"FVG 4h la nuit, sinon Londres",-0.0214
+GBPCAD,2025-12-31,vente,False,0.09,ordre stop au-delà du mardi,0.0
+GBPCAD,2025-12-31,vente,False,0.09,confirmation 1h,0.0
+GBPCAD,2026-05-20,vente,True,1.83,clôture du mardi,-1.0475
+GBPCAD,2026-05-20,vente,True,1.83,Londres 07h,-1.0551
+GBPCAD,2026-05-20,vente,True,1.83,repli 30 % (24 h),-1.0679
+GBPCAD,2026-05-20,vente,True,1.83,FVG 4h du mardi (24 h),0.0
+GBPCAD,2026-05-20,vente,True,1.83,"repli 30 % la nuit, sinon Londres",-1.0679
+GBPCAD,2026-05-20,vente,True,1.83,"FVG 4h la nuit, sinon Londres",-1.0551
+GBPCAD,2026-05-20,vente,True,1.83,ordre stop au-delà du mardi,0.0
+GBPCAD,2026-05-20,vente,True,1.83,confirmation 1h,0.0
+GBPCAD,2026-06-03,vente,True,1.96,clôture du mardi,-1.0765
+GBPCAD,2026-06-03,vente,True,1.96,Londres 07h,-1.0893
+GBPCAD,2026-06-03,vente,True,1.96,repli 30 % (24 h),-1.1093
+GBPCAD,2026-06-03,vente,True,1.96,FVG 4h du mardi (24 h),0.0
+GBPCAD,2026-06-03,vente,True,1.96,"repli 30 % la nuit, sinon Londres",-1.1093
+GBPCAD,2026-06-03,vente,True,1.96,"FVG 4h la nuit, sinon Londres",-1.0893
+GBPCAD,2026-06-03,vente,True,1.96,ordre stop au-delà du mardi,-1.0573
+GBPCAD,2026-06-03,vente,True,1.96,confirmation 1h,0.0
+GBPCAD,2026-07-01,vente,True,3.62,clôture du mardi,-1.1068
+GBPCAD,2026-07-01,vente,True,3.62,Londres 07h,-1.1136
+GBPCAD,2026-07-01,vente,True,3.62,repli 30 % (24 h),-1.1525
+GBPCAD,2026-07-01,vente,True,3.62,FVG 4h du mardi (24 h),0.0
+GBPCAD,2026-07-01,vente,True,3.62,"repli 30 % la nuit, sinon Londres",-1.1525
+GBPCAD,2026-07-01,vente,True,3.62,"FVG 4h la nuit, sinon Londres",-1.1136
+GBPCAD,2026-07-01,vente,True,3.62,ordre stop au-delà du mardi,0.0
+GBPCAD,2026-07-01,vente,True,3.62,confirmation 1h,0.0
+GBPCAD,2026-07-08,vente,False,0.14,clôture du mardi,0.1079
+GBPCAD,2026-07-08,vente,False,0.14,Londres 07h,0.0279
+GBPCAD,2026-07-08,vente,False,0.14,repli 30 % (24 h),0.5827
+GBPCAD,2026-07-08,vente,False,0.14,FVG 4h du mardi (24 h),0.3298
+GBPCAD,2026-07-08,vente,False,0.14,"repli 30 % la nuit, sinon Londres",0.0279
+GBPCAD,2026-07-08,vente,False,0.14,"FVG 4h la nuit, sinon Londres",0.0279
+GBPCAD,2026-07-08,vente,False,0.14,ordre stop au-delà du mardi,0.0
+GBPCAD,2026-07-08,vente,False,0.14,confirmation 1h,0.0
+GBPCAD,2026-08-05,achat,False,0.02,clôture du mardi,-0.0199
+GBPCAD,2026-08-05,achat,False,0.02,Londres 07h,0.0
+GBPCAD,2026-08-05,achat,False,0.02,repli 30 % (24 h),-1.0608
+GBPCAD,2026-08-05,achat,False,0.02,FVG 4h du mardi (24 h),-1.0626
+GBPCAD,2026-08-05,achat,False,0.02,"repli 30 % la nuit, sinon Londres",0.0
+GBPCAD,2026-08-05,achat,False,0.02,"FVG 4h la nuit, sinon Londres",0.0
+GBPCAD,2026-08-05,achat,False,0.02,ordre stop au-delà du mardi,0.0
+GBPCAD,2026-08-05,achat,False,0.02,confirmation 1h,0.0
+GBPCAD,2026-09-02,achat,False,2.89,clôture du mardi,-1.1596
+GBPCAD,2026-09-02,achat,False,2.89,Londres 07h,-1.1107
+GBPCAD,2026-09-02,achat,False,2.89,repli 30 % (24 h),-1.228
+GBPCAD,2026-09-02,achat,False,2.89,FVG 4h du mardi (24 h),0.0
+GBPCAD,2026-09-02,achat,False,2.89,"repli 30 % la nuit, sinon Londres",-1.228
+GBPCAD,2026-09-02,achat,False,2.89,"FVG 4h la nuit, sinon Londres",-1.1107
+GBPCAD,2026-09-02,achat,False,2.89,ordre stop au-delà du mardi,-1.0443
+GBPCAD,2026-09-02,achat,False,2.89,confirmation 1h,0.0
+GBPCAD,2026-09-30,vente,False,2.55,clôture du mardi,-1.1422
+GBPCAD,2026-09-30,vente,False,2.55,Londres 07h,-1.1422
+GBPCAD,2026-09-30,vente,False,2.55,repli 30 % (24 h),-1.2031
+GBPCAD,2026-09-30,vente,False,2.55,FVG 4h du mardi (24 h),0.0
+GBPCAD,2026-09-30,vente,False,2.55,"repli 30 % la nuit, sinon Londres",-1.2031
+GBPCAD,2026-09-30,vente,False,2.55,"FVG 4h la nuit, sinon Londres",-1.1422
+GBPCAD,2026-09-30,vente,False,2.55,ordre stop au-delà du mardi,0.0
+GBPCAD,2026-09-30,vente,False,2.55,confirmation 1h,0.0
+NZDJPY,2024-01-24,achat,False,0.45,clôture du mardi,-0.3143
+NZDJPY,2024-01-24,achat,False,0.45,Londres 07h,-0.1028
+NZDJPY,2024-01-24,achat,False,0.45,repli 30 % (24 h),-0.0204
+NZDJPY,2024-01-24,achat,False,0.45,FVG 4h du mardi (24 h),0.3411
+NZDJPY,2024-01-24,achat,False,0.45,"repli 30 % la nuit, sinon Londres",-0.0204
+NZDJPY,2024-01-24,achat,False,0.45,"FVG 4h la nuit, sinon Londres",0.3411
+NZDJPY,2024-01-24,achat,False,0.45,ordre stop au-delà du mardi,0.0
+NZDJPY,2024-01-24,achat,False,0.45,confirmation 1h,0.0
+NZDJPY,2024-04-03,achat,False,0.75,clôture du mardi,0.6953
+NZDJPY,2024-04-03,achat,False,0.75,Londres 07h,0.2089
+NZDJPY,2024-04-03,achat,False,0.75,repli 30 % (24 h),1.4218
+NZDJPY,2024-04-03,achat,False,0.75,FVG 4h du mardi (24 h),2.2012
+NZDJPY,2024-04-03,achat,False,0.75,"repli 30 % la nuit, sinon Londres",1.4218
+NZDJPY,2024-04-03,achat,False,0.75,"FVG 4h la nuit, sinon Londres",2.2012
+NZDJPY,2024-04-03,achat,False,0.75,ordre stop au-delà du mardi,0.3172
+NZDJPY,2024-04-03,achat,False,0.75,confirmation 1h,0.2593
+NZDJPY,2024-10-09,achat,False,1.19,clôture du mardi,-1.0278
+NZDJPY,2024-10-09,achat,False,1.19,Londres 07h,2.656
+NZDJPY,2024-10-09,achat,False,1.19,repli 30 % (24 h),-1.0397
+NZDJPY,2024-10-09,achat,False,1.19,FVG 4h du mardi (24 h),-1.0286
+NZDJPY,2024-10-09,achat,False,1.19,"repli 30 % la nuit, sinon Londres",-1.0397
+NZDJPY,2024-10-09,achat,False,1.19,"FVG 4h la nuit, sinon Londres",-1.0286
+NZDJPY,2024-10-09,achat,False,1.19,ordre stop au-delà du mardi,0.0
+NZDJPY,2024-10-09,achat,False,1.19,confirmation 1h,0.0
+NZDJPY,2024-12-11,vente,True,1.72,clôture du mardi,-1.0321
+NZDJPY,2024-12-11,vente,True,1.72,Londres 07h,-1.0252
+NZDJPY,2024-12-11,vente,True,1.72,repli 30 % (24 h),-1.0458
+NZDJPY,2024-12-11,vente,True,1.72,FVG 4h du mardi (24 h),0.0
+NZDJPY,2024-12-11,vente,True,1.72,"repli 30 % la nuit, sinon Londres",-1.0252
+NZDJPY,2024-12-11,vente,True,1.72,"FVG 4h la nuit, sinon Londres",-1.0252
+NZDJPY,2024-12-11,vente,True,1.72,ordre stop au-delà du mardi,-1.0285
+NZDJPY,2024-12-11,vente,True,1.72,confirmation 1h,-1.0274
+NZDJPY,2025-01-22,vente,True,5.32,clôture du mardi,-1.1105
+NZDJPY,2025-01-22,vente,True,5.32,Londres 07h,-1.0772
+NZDJPY,2025-01-22,vente,True,5.32,repli 30 % (24 h),-1.1579
+NZDJPY,2025-01-22,vente,True,5.32,FVG 4h du mardi (24 h),0.0
+NZDJPY,2025-01-22,vente,True,5.32,"repli 30 % la nuit, sinon Londres",-1.1579
+NZDJPY,2025-01-22,vente,True,5.32,"FVG 4h la nuit, sinon Londres",-1.0772
+NZDJPY,2025-01-22,vente,True,5.32,ordre stop au-delà du mardi,0.0
+NZDJPY,2025-01-22,vente,True,5.32,confirmation 1h,0.0
+NZDJPY,2025-01-29,achat,True,1.67,clôture du mardi,-1.046
+NZDJPY,2025-01-29,achat,True,1.67,Londres 07h,-1.0766
+NZDJPY,2025-01-29,achat,True,1.67,repli 30 % (24 h),-1.0657
+NZDJPY,2025-01-29,achat,True,1.67,FVG 4h du mardi (24 h),0.0
+NZDJPY,2025-01-29,achat,True,1.67,"repli 30 % la nuit, sinon Londres",-1.0657
+NZDJPY,2025-01-29,achat,True,1.67,"FVG 4h la nuit, sinon Londres",-1.0766
+NZDJPY,2025-01-29,achat,True,1.67,ordre stop au-delà du mardi,0.0
+NZDJPY,2025-01-29,achat,True,1.67,confirmation 1h,0.0
+NZDJPY,2025-03-19,vente,True,3.62,clôture du mardi,3.574
+NZDJPY,2025-03-19,vente,True,3.62,Londres 07h,3.2274
+NZDJPY,2025-03-19,vente,True,3.62,repli 30 % (24 h),5.5342
+NZDJPY,2025-03-19,vente,True,3.62,FVG 4h du mardi (24 h),3.8975
+NZDJPY,2025-03-19,vente,True,3.62,"repli 30 % la nuit, sinon Londres",5.5342
+NZDJPY,2025-03-19,vente,True,3.62,"FVG 4h la nuit, sinon Londres",3.8975
+NZDJPY,2025-03-19,vente,True,3.62,ordre stop au-delà du mardi,1.7469
+NZDJPY,2025-03-19,vente,True,3.62,confirmation 1h,1.0595
+NZDJPY,2025-05-21,vente,False,0.32,clôture du mardi,0.2944
+NZDJPY,2025-05-21,vente,False,0.32,Londres 07h,0.1419
+NZDJPY,2025-05-21,vente,False,0.32,repli 30 % (24 h),0.8491
+NZDJPY,2025-05-21,vente,False,0.32,FVG 4h du mardi (24 h),0.0
+NZDJPY,2025-05-21,vente,False,0.32,"repli 30 % la nuit, sinon Londres",0.1419
+NZDJPY,2025-05-21,vente,False,0.32,"FVG 4h la nuit, sinon Londres",0.1419
+NZDJPY,2025-05-21,vente,False,0.32,ordre stop au-delà du mardi,0.0
+NZDJPY,2025-05-21,vente,False,0.32,confirmation 1h,0.0
+NZDJPY,2026-03-18,vente,True,2.72,clôture du mardi,2.6378
+NZDJPY,2026-03-18,vente,True,2.72,Londres 07h,3.7144
+NZDJPY,2026-03-18,vente,True,2.72,repli 30 % (24 h),4.1968
+NZDJPY,2026-03-18,vente,True,2.72,FVG 4h du mardi (24 h),0.0
+NZDJPY,2026-03-18,vente,True,2.72,"repli 30 % la nuit, sinon Londres",4.1968
+NZDJPY,2026-03-18,vente,True,2.72,"FVG 4h la nuit, sinon Londres",3.7144
+NZDJPY,2026-03-18,vente,True,2.72,ordre stop au-delà du mardi,0.2554
+NZDJPY,2026-03-18,vente,True,2.72,confirmation 1h,0.2436
+NZDJPY,2026-04-29,vente,False,0.77,clôture du mardi,0.7128
+NZDJPY,2026-04-29,vente,False,0.77,Londres 07h,0.0
+NZDJPY,2026-04-29,vente,False,0.77,repli 30 % (24 h),0.0
+NZDJPY,2026-04-29,vente,False,0.77,FVG 4h du mardi (24 h),0.0
+NZDJPY,2026-04-29,vente,False,0.77,"repli 30 % la nuit, sinon Londres",0.0
+NZDJPY,2026-04-29,vente,False,0.77,"FVG 4h la nuit, sinon Londres",0.0
+NZDJPY,2026-04-29,vente,False,0.77,ordre stop au-delà du mardi,-0.0242
+NZDJPY,2026-04-29,vente,False,0.77,confirmation 1h,0.0
+NZDJPY,2026-05-20,vente,False,0.35,clôture du mardi,0.314
+NZDJPY,2026-05-20,vente,False,0.35,Londres 07h,-1.0322
+NZDJPY,2026-05-20,vente,False,0.35,repli 30 % (24 h),-1.0472
+NZDJPY,2026-05-20,vente,False,0.35,FVG 4h du mardi (24 h),0.0
+NZDJPY,2026-05-20,vente,False,0.35,"repli 30 % la nuit, sinon Londres",-1.0322
+NZDJPY,2026-05-20,vente,False,0.35,"FVG 4h la nuit, sinon Londres",-1.0322
+NZDJPY,2026-05-20,vente,False,0.35,ordre stop au-delà du mardi,0.0
+NZDJPY,2026-05-20,vente,False,0.35,confirmation 1h,0.0
+NZDJPY,2026-07-08,vente,False,0.46,clôture du mardi,-1.0546
+NZDJPY,2026-07-08,vente,False,0.46,Londres 07h,-1.0546
+NZDJPY,2026-07-08,vente,False,0.46,repli 30 % (24 h),-1.0781
+NZDJPY,2026-07-08,vente,False,0.46,FVG 4h du mardi (24 h),0.0
+NZDJPY,2026-07-08,vente,False,0.46,"repli 30 % la nuit, sinon Londres",-1.0781
+NZDJPY,2026-07-08,vente,False,0.46,"FVG 4h la nuit, sinon Londres",-1.0546
+NZDJPY,2026-07-08,vente,False,0.46,ordre stop au-delà du mardi,0.0
+NZDJPY,2026-07-08,vente,False,0.46,confirmation 1h,0.0
+NZDJPY,2026-07-29,achat,False,0.71,clôture du mardi,0.6598
+NZDJPY,2026-07-29,achat,False,0.71,Londres 07h,1.1003
+NZDJPY,2026-07-29,achat,False,0.71,repli 30 % (24 h),1.3712
+NZDJPY,2026-07-29,achat,False,0.71,FVG 4h du mardi (24 h),0.0
+NZDJPY,2026-07-29,achat,False,0.71,"repli 30 % la nuit, sinon Londres",1.3712
+NZDJPY,2026-07-29,achat,False,0.71,"FVG 4h la nuit, sinon Londres",1.1003
+NZDJPY,2026-07-29,achat,False,0.71,ordre stop au-delà du mardi,0.1267
+NZDJPY,2026-07-29,achat,False,0.71,confirmation 1h,0.0
+NZDJPY,2026-08-12,vente,True,3.41,clôture du mardi,3.3148
+NZDJPY,2026-08-12,vente,True,3.41,Londres 07h,1.6106
+NZDJPY,2026-08-12,vente,True,3.41,repli 30 % (24 h),0.0
+NZDJPY,2026-08-12,vente,True,3.41,FVG 4h du mardi (24 h),0.0
+NZDJPY,2026-08-12,vente,True,3.41,"repli 30 % la nuit, sinon Londres",1.6106
+NZDJPY,2026-08-12,vente,True,3.41,"FVG 4h la nuit, sinon Londres",1.6106
+NZDJPY,2026-08-12,vente,True,3.41,ordre stop au-delà du mardi,1.5054
+NZDJPY,2026-08-12,vente,True,3.41,confirmation 1h,1.1425
+CADJPY,2024-04-10,vente,False,2.16,clôture du mardi,2.0519
+CADJPY,2024-04-10,vente,False,2.16,Londres 07h,5.6931
+CADJPY,2024-04-10,vente,False,2.16,repli 30 % (24 h),3.3598
+CADJPY,2024-04-10,vente,False,2.16,FVG 4h du mardi (24 h),0.0
+CADJPY,2024-04-10,vente,False,2.16,"repli 30 % la nuit, sinon Londres",3.3598
+CADJPY,2024-04-10,vente,False,2.16,"FVG 4h la nuit, sinon Londres",5.6931
+CADJPY,2024-04-10,vente,False,2.16,ordre stop au-delà du mardi,-1.036
+CADJPY,2024-04-10,vente,False,2.16,confirmation 1h,0.0
+CADJPY,2024-05-08,vente,True,1.7,clôture du mardi,-1.051
+CADJPY,2024-05-08,vente,True,1.7,Londres 07h,-1.0885
+CADJPY,2024-05-08,vente,True,1.7,repli 30 % (24 h),-1.0729
+CADJPY,2024-05-08,vente,True,1.7,FVG 4h du mardi (24 h),0.0
+CADJPY,2024-05-08,vente,True,1.7,"repli 30 % la nuit, sinon Londres",-1.0729
+CADJPY,2024-05-08,vente,True,1.7,"FVG 4h la nuit, sinon Londres",-1.0885
+CADJPY,2024-05-08,vente,True,1.7,ordre stop au-delà du mardi,0.0
+CADJPY,2024-05-08,vente,True,1.7,confirmation 1h,0.0
+CADJPY,2025-02-05,vente,True,4.97,clôture du mardi,3.0057
+CADJPY,2025-02-05,vente,True,4.97,Londres 07h,0.8418
+CADJPY,2025-02-05,vente,True,4.97,repli 30 % (24 h),4.7225
+CADJPY,2025-02-05,vente,True,4.97,FVG 4h du mardi (24 h),0.0
+CADJPY,2025-02-05,vente,True,4.97,"repli 30 % la nuit, sinon Londres",4.7225
+CADJPY,2025-02-05,vente,True,4.97,"FVG 4h la nuit, sinon Londres",0.8418
+CADJPY,2025-02-05,vente,True,4.97,ordre stop au-delà du mardi,0.4796
+CADJPY,2025-02-05,vente,True,4.97,confirmation 1h,0.3655
+CADJPY,2025-02-19,achat,False,0.54,clôture du mardi,0.4884
+CADJPY,2025-02-19,achat,False,0.54,Londres 07h,-1.0794
+CADJPY,2025-02-19,achat,False,0.54,repli 30 % (24 h),1.1263
+CADJPY,2025-02-19,achat,False,0.54,FVG 4h du mardi (24 h),0.0
+CADJPY,2025-02-19,achat,False,0.54,"repli 30 % la nuit, sinon Londres",1.1263
+CADJPY,2025-02-19,achat,False,0.54,"FVG 4h la nuit, sinon Londres",-1.0794
+CADJPY,2025-02-19,achat,False,0.54,ordre stop au-delà du mardi,0.0284
+CADJPY,2025-02-19,achat,False,0.54,confirmation 1h,0.014
+CADJPY,2025-03-26,vente,True,2.06,clôture du mardi,-1.0524
+CADJPY,2025-03-26,vente,True,2.06,Londres 07h,-1.0524
+CADJPY,2025-03-26,vente,True,2.06,repli 30 % (24 h),-1.0748
+CADJPY,2025-03-26,vente,True,2.06,FVG 4h du mardi (24 h),0.0
+CADJPY,2025-03-26,vente,True,2.06,"repli 30 % la nuit, sinon Londres",-1.0748
+CADJPY,2025-03-26,vente,True,2.06,"FVG 4h la nuit, sinon Londres",-1.0524
+CADJPY,2025-03-26,vente,True,2.06,ordre stop au-delà du mardi,0.0
+CADJPY,2025-03-26,vente,True,2.06,confirmation 1h,0.0
+CADJPY,2025-04-09,vente,False,0.23,clôture du mardi,0.2237
+CADJPY,2025-04-09,vente,False,0.23,Londres 07h,0.0469
+CADJPY,2025-04-09,vente,False,0.23,repli 30 % (24 h),-1.0139
+CADJPY,2025-04-09,vente,False,0.23,FVG 4h du mardi (24 h),-1.0125
+CADJPY,2025-04-09,vente,False,0.23,"repli 30 % la nuit, sinon Londres",0.0469
+CADJPY,2025-04-09,vente,False,0.23,"FVG 4h la nuit, sinon Londres",0.0469
+CADJPY,2025-04-09,vente,False,0.23,ordre stop au-delà du mardi,0.0999
+CADJPY,2025-04-09,vente,False,0.23,confirmation 1h,0.0833
+CADJPY,2025-04-30,achat,True,1.92,clôture du mardi,1.8747
+CADJPY,2025-04-30,achat,True,1.92,Londres 07h,0.7751
+CADJPY,2025-04-30,achat,True,1.92,repli 30 % (24 h),0.0
+CADJPY,2025-04-30,achat,True,1.92,FVG 4h du mardi (24 h),0.0
+CADJPY,2025-04-30,achat,True,1.92,"repli 30 % la nuit, sinon Londres",0.7751
+CADJPY,2025-04-30,achat,True,1.92,"FVG 4h la nuit, sinon Londres",0.7751
+CADJPY,2025-04-30,achat,True,1.92,ordre stop au-delà du mardi,0.8088
+CADJPY,2025-04-30,achat,True,1.92,confirmation 1h,0.7675
+CADJPY,2025-05-14,vente,True,5.43,clôture du mardi,5.3525
+CADJPY,2025-05-14,vente,True,5.43,Londres 07h,2.0876
+CADJPY,2025-05-14,vente,True,5.43,repli 30 % (24 h),8.075
+CADJPY,2025-05-14,vente,True,5.43,FVG 4h du mardi (24 h),0.0
+CADJPY,2025-05-14,vente,True,5.43,"repli 30 % la nuit, sinon Londres",8.075
+CADJPY,2025-05-14,vente,True,5.43,"FVG 4h la nuit, sinon Londres",2.0876
+CADJPY,2025-05-14,vente,True,5.43,ordre stop au-delà du mardi,1.3343
+CADJPY,2025-05-14,vente,True,5.43,confirmation 1h,0.5485
+CADJPY,2025-12-31,achat,False,0.72,clôture du mardi,0.6758
+CADJPY,2025-12-31,achat,False,0.72,Londres 07h,0.378
+CADJPY,2025-12-31,achat,False,0.72,repli 30 % (24 h),0.0
+CADJPY,2025-12-31,achat,False,0.72,FVG 4h du mardi (24 h),0.0
+CADJPY,2025-12-31,achat,False,0.72,"repli 30 % la nuit, sinon Londres",0.378
+CADJPY,2025-12-31,achat,False,0.72,"FVG 4h la nuit, sinon Londres",0.378
+CADJPY,2025-12-31,achat,False,0.72,ordre stop au-delà du mardi,0.2862
+CADJPY,2025-12-31,achat,False,0.72,confirmation 1h,0.2636
+CADJPY,2026-07-22,achat,False,0.88,clôture du mardi,0.8225
+CADJPY,2026-07-22,achat,False,0.88,Londres 07h,0.8896
+CADJPY,2026-07-22,achat,False,0.88,repli 30 % (24 h),1.6035
+CADJPY,2026-07-22,achat,False,0.88,FVG 4h du mardi (24 h),0.0
+CADJPY,2026-07-22,achat,False,0.88,"repli 30 % la nuit, sinon Londres",0.8896
+CADJPY,2026-07-22,achat,False,0.88,"FVG 4h la nuit, sinon Londres",0.8896
+CADJPY,2026-07-22,achat,False,0.88,ordre stop au-delà du mardi,0.5061
+CADJPY,2026-07-22,achat,False,0.88,confirmation 1h,0.3362
+EURCHF,2024-04-10,vente,False,1.04,clôture du mardi,0.99
+EURCHF,2024-04-10,vente,False,1.04,Londres 07h,0.9638
+EURCHF,2024-04-10,vente,False,1.04,repli 30 % (24 h),1.8429
+EURCHF,2024-04-10,vente,False,1.04,FVG 4h du mardi (24 h),0.0
+EURCHF,2024-04-10,vente,False,1.04,"repli 30 % la nuit, sinon Londres",0.9638
+EURCHF,2024-04-10,vente,False,1.04,"FVG 4h la nuit, sinon Londres",0.9638
+EURCHF,2024-04-10,vente,False,1.04,ordre stop au-delà du mardi,0.5836
+EURCHF,2024-04-10,vente,False,1.04,confirmation 1h,0.6135
+EURCHF,2024-04-17,achat,False,2.87,clôture du mardi,-1.0909
+EURCHF,2024-04-17,achat,False,2.87,Londres 07h,-1.5357
+EURCHF,2024-04-17,achat,False,2.87,repli 30 % (24 h),-1.1299
+EURCHF,2024-04-17,achat,False,2.87,FVG 4h du mardi (24 h),0.0
+EURCHF,2024-04-17,achat,False,2.87,"repli 30 % la nuit, sinon Londres",-1.1299
+EURCHF,2024-04-17,achat,False,2.87,"FVG 4h la nuit, sinon Londres",-1.5357
+EURCHF,2024-04-17,achat,False,2.87,ordre stop au-delà du mardi,0.0
+EURCHF,2024-04-17,achat,False,2.87,confirmation 1h,0.0
+EURCHF,2024-07-10,vente,False,1.22,clôture du mardi,-1.0566
+EURCHF,2024-07-10,vente,False,1.22,Londres 07h,-1.063
+EURCHF,2024-07-10,vente,False,1.22,repli 30 % (24 h),-1.0809
+EURCHF,2024-07-10,vente,False,1.22,FVG 4h du mardi (24 h),0.0
+EURCHF,2024-07-10,vente,False,1.22,"repli 30 % la nuit, sinon Londres",-1.063
+EURCHF,2024-07-10,vente,False,1.22,"FVG 4h la nuit, sinon Londres",-1.063
+EURCHF,2024-07-10,vente,False,1.22,ordre stop au-delà du mardi,-1.0398
+EURCHF,2024-07-10,vente,False,1.22,confirmation 1h,0.0
+EURCHF,2024-09-25,achat,True,3.74,clôture du mardi,3.6712
+EURCHF,2024-09-25,achat,True,3.74,Londres 07h,1.8027
+EURCHF,2024-09-25,achat,True,3.74,repli 30 % (24 h),0.0
+EURCHF,2024-09-25,achat,True,3.74,FVG 4h du mardi (24 h),0.0
+EURCHF,2024-09-25,achat,True,3.74,"repli 30 % la nuit, sinon Londres",1.8027
+EURCHF,2024-09-25,achat,True,3.74,"FVG 4h la nuit, sinon Londres",1.8027
+EURCHF,2024-09-25,achat,True,3.74,ordre stop au-delà du mardi,0.6862
+EURCHF,2024-09-25,achat,True,3.74,confirmation 1h,0.4323
+EURCHF,2024-11-06,achat,False,0.09,clôture du mardi,-1.0302
+EURCHF,2024-11-06,achat,False,0.09,Londres 07h,-1.0302
+EURCHF,2024-11-06,achat,False,0.09,repli 30 % (24 h),-1.0432
+EURCHF,2024-11-06,achat,False,0.09,FVG 4h du mardi (24 h),-1.0389
+EURCHF,2024-11-06,achat,False,0.09,"repli 30 % la nuit, sinon Londres",-1.0432
+EURCHF,2024-11-06,achat,False,0.09,"FVG 4h la nuit, sinon Londres",-1.0389
+EURCHF,2024-11-06,achat,False,0.09,ordre stop au-delà du mardi,0.0
+EURCHF,2024-11-06,achat,False,0.09,confirmation 1h,0.0
+EURCHF,2024-11-27,achat,False,1.4,clôture du mardi,0.5176
+EURCHF,2024-11-27,achat,False,1.4,Londres 07h,3.0254
+EURCHF,2024-11-27,achat,False,1.4,repli 30 % (24 h),1.168
+EURCHF,2024-11-27,achat,False,1.4,FVG 4h du mardi (24 h),0.0
+EURCHF,2024-11-27,achat,False,1.4,"repli 30 % la nuit, sinon Londres",1.168
+EURCHF,2024-11-27,achat,False,1.4,"FVG 4h la nuit, sinon Londres",3.0254
+EURCHF,2024-11-27,achat,False,1.4,ordre stop au-delà du mardi,0.0
+EURCHF,2024-11-27,achat,False,1.4,confirmation 1h,-0.2339
+EURCHF,2025-07-23,vente,False,0.35,clôture du mardi,0.2882
+EURCHF,2025-07-23,vente,False,0.35,Londres 07h,0.0612
+EURCHF,2025-07-23,vente,False,0.35,repli 30 % (24 h),-1.0936
+EURCHF,2025-07-23,vente,False,0.35,FVG 4h du mardi (24 h),0.0
+EURCHF,2025-07-23,vente,False,0.35,"repli 30 % la nuit, sinon Londres",0.0612
+EURCHF,2025-07-23,vente,False,0.35,"FVG 4h la nuit, sinon Londres",0.0612
+EURCHF,2025-07-23,vente,False,0.35,ordre stop au-delà du mardi,0.0
+EURCHF,2025-07-23,vente,False,0.35,confirmation 1h,0.0
+EURCHF,2025-08-06,vente,False,1.76,clôture du mardi,-1.0811
+EURCHF,2025-08-06,vente,False,1.76,Londres 07h,-1.1
+EURCHF,2025-08-06,vente,False,1.76,repli 30 % (24 h),-1.1158
+EURCHF,2025-08-06,vente,False,1.76,FVG 4h du mardi (24 h),0.0
+EURCHF,2025-08-06,vente,False,1.76,"repli 30 % la nuit, sinon Londres",-1.1158
+EURCHF,2025-08-06,vente,False,1.76,"FVG 4h la nuit, sinon Londres",-1.1
+EURCHF,2025-08-06,vente,False,1.76,ordre stop au-delà du mardi,0.0
+EURCHF,2025-08-06,vente,False,1.76,confirmation 1h,0.0
+EURCHF,2025-08-13,vente,False,0.5,clôture du mardi,0.4441
+EURCHF,2025-08-13,vente,False,0.5,Londres 07h,0.9802
+EURCHF,2025-08-13,vente,False,0.5,repli 30 % (24 h),1.0629
+EURCHF,2025-08-13,vente,False,0.5,FVG 4h du mardi (24 h),0.0
+EURCHF,2025-08-13,vente,False,0.5,"repli 30 % la nuit, sinon Londres",1.0629
+EURCHF,2025-08-13,vente,False,0.5,"FVG 4h la nuit, sinon Londres",0.9802
+EURCHF,2025-08-13,vente,False,0.5,ordre stop au-delà du mardi,0.0
+EURCHF,2025-08-13,vente,False,0.5,confirmation 1h,0.0
+EURCHF,2025-11-05,vente,False,2.89,clôture du mardi,-1.1229
+EURCHF,2025-11-05,vente,False,2.89,Londres 07h,-1.0617
+EURCHF,2025-11-05,vente,False,2.89,repli 30 % (24 h),-1.1756
+EURCHF,2025-11-05,vente,False,2.89,FVG 4h du mardi (24 h),0.0
+EURCHF,2025-11-05,vente,False,2.89,"repli 30 % la nuit, sinon Londres",-1.0617
+EURCHF,2025-11-05,vente,False,2.89,"FVG 4h la nuit, sinon Londres",-1.0617
+EURCHF,2025-11-05,vente,False,2.89,ordre stop au-delà du mardi,-1.0436
+EURCHF,2025-11-05,vente,False,2.89,confirmation 1h,0.0
+EURCHF,2025-12-03,vente,False,1.29,clôture du mardi,-1.0926
+EURCHF,2025-12-03,vente,False,1.29,Londres 07h,-1.0833
+EURCHF,2025-12-03,vente,False,1.29,repli 30 % (24 h),-1.1323
+EURCHF,2025-12-03,vente,False,1.29,FVG 4h du mardi (24 h),0.0
+EURCHF,2025-12-03,vente,False,1.29,"repli 30 % la nuit, sinon Londres",-1.0833
+EURCHF,2025-12-03,vente,False,1.29,"FVG 4h la nuit, sinon Londres",-1.0833
+EURCHF,2025-12-03,vente,False,1.29,ordre stop au-delà du mardi,0.0
+EURCHF,2025-12-03,vente,False,1.29,confirmation 1h,0.0
+EURCHF,2026-02-11,achat,False,0.82,clôture du mardi,-0.709
+EURCHF,2026-02-11,achat,False,0.82,Londres 07h,-0.6033
+EURCHF,2026-02-11,achat,False,0.82,repli 30 % (24 h),-0.5843
+EURCHF,2026-02-11,achat,False,0.82,FVG 4h du mardi (24 h),0.0
+EURCHF,2026-02-11,achat,False,0.82,"repli 30 % la nuit, sinon Londres",-0.5843
+EURCHF,2026-02-11,achat,False,0.82,"FVG 4h la nuit, sinon Londres",-0.6033
+EURCHF,2026-02-11,achat,False,0.82,ordre stop au-delà du mardi,-0.7311
+EURCHF,2026-02-11,achat,False,0.82,confirmation 1h,-0.738
+EURCHF,2026-03-18,vente,False,1.71,clôture du mardi,-1.0898
+EURCHF,2026-03-18,vente,False,1.71,Londres 07h,-1.2381
+EURCHF,2026-03-18,vente,False,1.71,repli 30 % (24 h),-1.1283
+EURCHF,2026-03-18,vente,False,1.71,FVG 4h du mardi (24 h),0.0
+EURCHF,2026-03-18,vente,False,1.71,"repli 30 % la nuit, sinon Londres",-1.1283
+EURCHF,2026-03-18,vente,False,1.71,"FVG 4h la nuit, sinon Londres",-1.2381
+EURCHF,2026-03-18,vente,False,1.71,ordre stop au-delà du mardi,0.0
+EURCHF,2026-03-18,vente,False,1.71,confirmation 1h,0.0
+EURCHF,2026-05-13,vente,False,0.94,clôture du mardi,0.851
+EURCHF,2026-05-13,vente,False,0.94,Londres 07h,0.468
+EURCHF,2026-05-13,vente,False,0.94,repli 30 % (24 h),1.6442
+EURCHF,2026-05-13,vente,False,0.94,FVG 4h du mardi (24 h),0.0
+EURCHF,2026-05-13,vente,False,0.94,"repli 30 % la nuit, sinon Londres",0.468
+EURCHF,2026-05-13,vente,False,0.94,"FVG 4h la nuit, sinon Londres",0.468
+EURCHF,2026-05-13,vente,False,0.94,ordre stop au-delà du mardi,0.2681
+EURCHF,2026-05-13,vente,False,0.94,confirmation 1h,0.1331
+EURCHF,2026-07-15,vente,False,0.55,clôture du mardi,0.5105
+EURCHF,2026-07-15,vente,False,0.55,Londres 07h,0.7645
+EURCHF,2026-07-15,vente,False,0.55,repli 30 % (24 h),1.1578
+EURCHF,2026-07-15,vente,False,0.55,FVG 4h du mardi (24 h),0.7485
+EURCHF,2026-07-15,vente,False,0.55,"repli 30 % la nuit, sinon Londres",1.1578
+EURCHF,2026-07-15,vente,False,0.55,"FVG 4h la nuit, sinon Londres",0.7485
+EURCHF,2026-07-15,vente,False,0.55,ordre stop au-delà du mardi,0.023
+EURCHF,2026-07-15,vente,False,0.55,confirmation 1h,0.0176
+USDCHF,2024-01-31,achat,False,2.29,clôture du mardi,-1.1087
+USDCHF,2024-01-31,achat,False,2.29,Londres 07h,-1.0484
+USDCHF,2024-01-31,achat,False,2.29,repli 30 % (24 h),-1.1553
+USDCHF,2024-01-31,achat,False,2.29,FVG 4h du mardi (24 h),0.0
+USDCHF,2024-01-31,achat,False,2.29,"repli 30 % la nuit, sinon Londres",-1.0484
+USDCHF,2024-01-31,achat,False,2.29,"FVG 4h la nuit, sinon Londres",-1.0484
+USDCHF,2024-01-31,achat,False,2.29,ordre stop au-delà du mardi,0.0
+USDCHF,2024-01-31,achat,False,2.29,confirmation 1h,0.0
+USDCHF,2024-02-07,vente,False,0.6,clôture du mardi,-1.0316
+USDCHF,2024-02-07,vente,False,0.6,Londres 07h,-1.0323
+USDCHF,2024-02-07,vente,False,0.6,repli 30 % (24 h),-1.0452
+USDCHF,2024-02-07,vente,False,0.6,FVG 4h du mardi (24 h),0.0
+USDCHF,2024-02-07,vente,False,0.6,"repli 30 % la nuit, sinon Londres",-1.0323
+USDCHF,2024-02-07,vente,False,0.6,"FVG 4h la nuit, sinon Londres",-1.0323
+USDCHF,2024-02-07,vente,False,0.6,ordre stop au-delà du mardi,0.0
+USDCHF,2024-02-07,vente,False,0.6,confirmation 1h,0.0
+USDCHF,2024-07-10,vente,False,1.92,clôture du mardi,-1.0904
+USDCHF,2024-07-10,vente,False,1.92,Londres 07h,-1.0721
+USDCHF,2024-07-10,vente,False,1.92,repli 30 % (24 h),-1.1291
+USDCHF,2024-07-10,vente,False,1.92,FVG 4h du mardi (24 h),0.0
+USDCHF,2024-07-10,vente,False,1.92,"repli 30 % la nuit, sinon Londres",-1.1291
+USDCHF,2024-07-10,vente,False,1.92,"FVG 4h la nuit, sinon Londres",-1.0721
+USDCHF,2024-07-10,vente,False,1.92,ordre stop au-delà du mardi,-1.0591
+USDCHF,2024-07-10,vente,False,1.92,confirmation 1h,0.0
+USDCHF,2024-09-11,vente,False,0.89,clôture du mardi,0.8439
+USDCHF,2024-09-11,vente,False,0.89,Londres 07h,-1.0248
+USDCHF,2024-09-11,vente,False,0.89,repli 30 % (24 h),-1.0619
+USDCHF,2024-09-11,vente,False,0.89,FVG 4h du mardi (24 h),0.0
+USDCHF,2024-09-11,vente,False,0.89,"repli 30 % la nuit, sinon Londres",-1.0248
+USDCHF,2024-09-11,vente,False,0.89,"FVG 4h la nuit, sinon Londres",-1.0248
+USDCHF,2024-09-11,vente,False,0.89,ordre stop au-delà du mardi,0.393
+USDCHF,2024-09-11,vente,False,0.89,confirmation 1h,0.2317
+USDCHF,2024-10-09,achat,False,0.37,clôture du mardi,0.3407
+USDCHF,2024-10-09,achat,False,0.37,Londres 07h,0.3006
+USDCHF,2024-10-09,achat,False,0.37,repli 30 % (24 h),0.0
+USDCHF,2024-10-09,achat,False,0.37,FVG 4h du mardi (24 h),0.0
+USDCHF,2024-10-09,achat,False,0.37,"repli 30 % la nuit, sinon Londres",0.3006
+USDCHF,2024-10-09,achat,False,0.37,"FVG 4h la nuit, sinon Londres",0.3006
+USDCHF,2024-10-09,achat,False,0.37,ordre stop au-delà du mardi,0.0664
+USDCHF,2024-10-09,achat,False,0.37,confirmation 1h,0.0702
+USDCHF,2024-10-30,achat,False,0.88,clôture du mardi,-1.0479
+USDCHF,2024-10-30,achat,False,0.88,Londres 07h,-1.06
+USDCHF,2024-10-30,achat,False,0.88,repli 30 % (24 h),-1.0685
+USDCHF,2024-10-30,achat,False,0.88,FVG 4h du mardi (24 h),0.0
+USDCHF,2024-10-30,achat,False,0.88,"repli 30 % la nuit, sinon Londres",-1.06
+USDCHF,2024-10-30,achat,False,0.88,"FVG 4h la nuit, sinon Londres",-1.06
+USDCHF,2024-10-30,achat,False,0.88,ordre stop au-delà du mardi,0.0
+USDCHF,2024-10-30,achat,False,0.88,confirmation 1h,0.0
+USDCHF,2025-01-22,achat,True,3.9,clôture du mardi,-1.0721
+USDCHF,2025-01-22,achat,True,3.9,Londres 07h,-1.0628
+USDCHF,2025-01-22,achat,True,3.9,repli 30 % (24 h),-1.103
+USDCHF,2025-01-22,achat,True,3.9,FVG 4h du mardi (24 h),0.0
+USDCHF,2025-01-22,achat,True,3.9,"repli 30 % la nuit, sinon Londres",-1.103
+USDCHF,2025-01-22,achat,True,3.9,"FVG 4h la nuit, sinon Londres",-1.0628
+USDCHF,2025-01-22,achat,True,3.9,ordre stop au-delà du mardi,0.0
+USDCHF,2025-01-22,achat,True,3.9,confirmation 1h,0.0
+USDCHF,2025-05-14,vente,False,1.13,clôture du mardi,1.1074
+USDCHF,2025-05-14,vente,False,1.13,Londres 07h,1.0462
+USDCHF,2025-05-14,vente,False,1.13,repli 30 % (24 h),2.0106
+USDCHF,2025-05-14,vente,False,1.13,FVG 4h du mardi (24 h),1.3703
+USDCHF,2025-05-14,vente,False,1.13,"repli 30 % la nuit, sinon Londres",1.0462
+USDCHF,2025-05-14,vente,False,1.13,"FVG 4h la nuit, sinon Londres",1.3703
+USDCHF,2025-05-14,vente,False,1.13,ordre stop au-delà du mardi,0.6955
+USDCHF,2025-05-14,vente,False,1.13,confirmation 1h,0.2521
+USDCHF,2025-06-04,achat,False,0.01,clôture du mardi,-0.0068
+USDCHF,2025-06-04,achat,False,0.01,Londres 07h,0.0
+USDCHF,2025-06-04,achat,False,0.01,repli 30 % (24 h),0.4188
+USDCHF,2025-06-04,achat,False,0.01,FVG 4h du mardi (24 h),0.3814
+USDCHF,2025-06-04,achat,False,0.01,"repli 30 % la nuit, sinon Londres",0.0
+USDCHF,2025-06-04,achat,False,0.01,"FVG 4h la nuit, sinon Londres",0.0
+USDCHF,2025-06-04,achat,False,0.01,ordre stop au-delà du mardi,0.0
+USDCHF,2025-06-04,achat,False,0.01,confirmation 1h,0.0
+USDCHF,2025-08-13,vente,False,0.02,clôture du mardi,-0.0063
+USDCHF,2025-08-13,vente,False,0.02,Londres 07h,0.0
+USDCHF,2025-08-13,vente,False,0.02,repli 30 % (24 h),0.0
+USDCHF,2025-08-13,vente,False,0.02,FVG 4h du mardi (24 h),0.0
+USDCHF,2025-08-13,vente,False,0.02,"repli 30 % la nuit, sinon Londres",0.0
+USDCHF,2025-08-13,vente,False,0.02,"FVG 4h la nuit, sinon Londres",0.0
+USDCHF,2025-08-13,vente,False,0.02,ordre stop au-delà du mardi,0.0
+USDCHF,2025-08-13,vente,False,0.02,confirmation 1h,0.0
+USDCHF,2025-08-27,vente,False,0.61,clôture du mardi,-1.0413
+USDCHF,2025-08-27,vente,False,0.61,Londres 07h,-1.0718
+USDCHF,2025-08-27,vente,False,0.61,repli 30 % (24 h),-1.059
+USDCHF,2025-08-27,vente,False,0.61,FVG 4h du mardi (24 h),0.0
+USDCHF,2025-08-27,vente,False,0.61,"repli 30 % la nuit, sinon Londres",-1.059
+USDCHF,2025-08-27,vente,False,0.61,"FVG 4h la nuit, sinon Londres",-1.0718
+USDCHF,2025-08-27,vente,False,0.61,ordre stop au-delà du mardi,0.0675
+USDCHF,2025-08-27,vente,False,0.61,confirmation 1h,0.0
+USDCHF,2025-09-10,achat,False,0.32,clôture du mardi,0.299
+USDCHF,2025-09-10,achat,False,0.32,Londres 07h,0.2027
+USDCHF,2025-09-10,achat,False,0.32,repli 30 % (24 h),0.0
+USDCHF,2025-09-10,achat,False,0.32,FVG 4h du mardi (24 h),0.0
+USDCHF,2025-09-10,achat,False,0.32,"repli 30 % la nuit, sinon Londres",0.2027
+USDCHF,2025-09-10,achat,False,0.32,"FVG 4h la nuit, sinon Londres",0.2027
+USDCHF,2025-09-10,achat,False,0.32,ordre stop au-delà du mardi,0.1795
+USDCHF,2025-09-10,achat,False,0.32,confirmation 1h,0.1848
+USDCHF,2026-02-11,achat,True,1.31,clôture du mardi,-0.222
+USDCHF,2026-02-11,achat,True,1.31,Londres 07h,0.513
+USDCHF,2026-02-11,achat,True,1.31,repli 30 % (24 h),0.1114
+USDCHF,2026-02-11,achat,True,1.31,FVG 4h du mardi (24 h),0.0
+USDCHF,2026-02-11,achat,True,1.31,"repli 30 % la nuit, sinon Londres",0.1114
+USDCHF,2026-02-11,achat,True,1.31,"FVG 4h la nuit, sinon Londres",0.513
+USDCHF,2026-02-11,achat,True,1.31,ordre stop au-delà du mardi,-0.2568
+USDCHF,2026-02-11,achat,True,1.31,confirmation 1h,-0.4182
+USDCHF,2026-04-22,achat,False,1.32,clôture du mardi,1.263
+USDCHF,2026-04-22,achat,False,1.32,Londres 07h,1.8687
+USDCHF,2026-04-22,achat,False,1.32,repli 30 % (24 h),2.2328
+USDCHF,2026-04-22,achat,False,1.32,FVG 4h du mardi (24 h),0.0
+USDCHF,2026-04-22,achat,False,1.32,"repli 30 % la nuit, sinon Londres",2.2328
+USDCHF,2026-04-22,achat,False,1.32,"FVG 4h la nuit, sinon Londres",1.8687
+USDCHF,2026-04-22,achat,False,1.32,ordre stop au-delà du mardi,0.2215
+USDCHF,2026-04-22,achat,False,1.32,confirmation 1h,0.136
+USDCHF,2026-05-06,vente,False,0.27,clôture du mardi,0.2265
+USDCHF,2026-05-06,vente,False,0.27,Londres 07h,-0.022
+USDCHF,2026-05-06,vente,False,0.27,repli 30 % (24 h),0.0
+USDCHF,2026-05-06,vente,False,0.27,FVG 4h du mardi (24 h),0.0
+USDCHF,2026-05-06,vente,False,0.27,"repli 30 % la nuit, sinon Londres",-0.022
+USDCHF,2026-05-06,vente,False,0.27,"FVG 4h la nuit, sinon Londres",-0.022
+USDCHF,2026-05-06,vente,False,0.27,ordre stop au-delà du mardi,0.023
+USDCHF,2026-05-06,vente,False,0.27,confirmation 1h,0.0
+USDCHF,2026-07-15,vente,False,0.26,clôture du mardi,0.2369
+USDCHF,2026-07-15,vente,False,0.26,Londres 07h,0.2692
+USDCHF,2026-07-15,vente,False,0.26,repli 30 % (24 h),0.767
+USDCHF,2026-07-15,vente,False,0.26,FVG 4h du mardi (24 h),0.4381
+USDCHF,2026-07-15,vente,False,0.26,"repli 30 % la nuit, sinon Londres",0.2692
+USDCHF,2026-07-15,vente,False,0.26,"FVG 4h la nuit, sinon Londres",0.2692
+USDCHF,2026-07-15,vente,False,0.26,ordre stop au-delà du mardi,0.0
+USDCHF,2026-07-15,vente,False,0.26,confirmation 1h,0.0
+GBPNZD,2024-01-24,vente,False,0.68,clôture du mardi,-0.4516
+GBPNZD,2024-01-24,vente,False,0.68,Londres 07h,-0.4209
+GBPNZD,2024-01-24,vente,False,0.68,repli 30 % (24 h),-0.2166
+GBPNZD,2024-01-24,vente,False,0.68,FVG 4h du mardi (24 h),0.0
+GBPNZD,2024-01-24,vente,False,0.68,"repli 30 % la nuit, sinon Londres",-0.2166
+GBPNZD,2024-01-24,vente,False,0.68,"FVG 4h la nuit, sinon Londres",-0.4209
+GBPNZD,2024-01-24,vente,False,0.68,ordre stop au-delà du mardi,-0.5843
+GBPNZD,2024-01-24,vente,False,0.68,confirmation 1h,-0.6079
+GBPNZD,2024-02-28,vente,True,1.3,clôture du mardi,-1.0592
+GBPNZD,2024-02-28,vente,True,1.3,Londres 07h,-1.0592
+GBPNZD,2024-02-28,vente,True,1.3,repli 30 % (24 h),-1.0846
+GBPNZD,2024-02-28,vente,True,1.3,FVG 4h du mardi (24 h),0.0
+GBPNZD,2024-02-28,vente,True,1.3,"repli 30 % la nuit, sinon Londres",-1.0846
+GBPNZD,2024-02-28,vente,True,1.3,"FVG 4h la nuit, sinon Londres",-1.0592
+GBPNZD,2024-02-28,vente,True,1.3,ordre stop au-delà du mardi,0.0
+GBPNZD,2024-02-28,vente,True,1.3,confirmation 1h,0.0
+GBPNZD,2024-10-23,vente,False,0.35,clôture du mardi,-1.0403
+GBPNZD,2024-10-23,vente,False,0.35,Londres 07h,-1.0539
+GBPNZD,2024-10-23,vente,False,0.35,repli 30 % (24 h),-1.0575
+GBPNZD,2024-10-23,vente,False,0.35,FVG 4h du mardi (24 h),0.0
+GBPNZD,2024-10-23,vente,False,0.35,"repli 30 % la nuit, sinon Londres",-1.0575
+GBPNZD,2024-10-23,vente,False,0.35,"FVG 4h la nuit, sinon Londres",-1.0539
+GBPNZD,2024-10-23,vente,False,0.35,ordre stop au-delà du mardi,0.0
+GBPNZD,2024-10-23,vente,False,0.35,confirmation 1h,0.0
+GBPNZD,2025-01-29,vente,True,1.66,clôture du mardi,-1.063
+GBPNZD,2025-01-29,vente,True,1.66,Londres 07h,-1.1051
+GBPNZD,2025-01-29,vente,True,1.66,repli 30 % (24 h),-1.0899
+GBPNZD,2025-01-29,vente,True,1.66,FVG 4h du mardi (24 h),0.0
+GBPNZD,2025-01-29,vente,True,1.66,"repli 30 % la nuit, sinon Londres",-1.0899
+GBPNZD,2025-01-29,vente,True,1.66,"FVG 4h la nuit, sinon Londres",-1.1051
+GBPNZD,2025-01-29,vente,True,1.66,ordre stop au-delà du mardi,0.0
+GBPNZD,2025-01-29,vente,True,1.66,confirmation 1h,0.0
+GBPNZD,2025-03-05,vente,True,1.49,clôture du mardi,1.4546
+GBPNZD,2025-03-05,vente,True,1.49,Londres 07h,2.0343
+GBPNZD,2025-03-05,vente,True,1.49,repli 30 % (24 h),2.5066
+GBPNZD,2025-03-05,vente,True,1.49,FVG 4h du mardi (24 h),0.0
+GBPNZD,2025-03-05,vente,True,1.49,"repli 30 % la nuit, sinon Londres",2.5066
+GBPNZD,2025-03-05,vente,True,1.49,"FVG 4h la nuit, sinon Londres",2.0343
+GBPNZD,2025-03-05,vente,True,1.49,ordre stop au-delà du mardi,0.719
+GBPNZD,2025-03-05,vente,True,1.49,confirmation 1h,0.7254
+GBPNZD,2025-03-19,achat,True,2.03,clôture du mardi,1.9819
+GBPNZD,2025-03-19,achat,True,2.03,Londres 07h,1.9064
+GBPNZD,2025-03-19,achat,True,2.03,repli 30 % (24 h),3.2598
+GBPNZD,2025-03-19,achat,True,2.03,FVG 4h du mardi (24 h),0.0
+GBPNZD,2025-03-19,achat,True,2.03,"repli 30 % la nuit, sinon Londres",1.9064
+GBPNZD,2025-03-19,achat,True,2.03,"FVG 4h la nuit, sinon Londres",1.9064
+GBPNZD,2025-03-19,achat,True,2.03,ordre stop au-delà du mardi,1.3948
+GBPNZD,2025-03-19,achat,True,2.03,confirmation 1h,0.6516
+GBPNZD,2025-06-04,achat,False,0.1,clôture du mardi,0.08
+GBPNZD,2025-06-04,achat,False,0.1,Londres 07h,0.0652
+GBPNZD,2025-06-04,achat,False,0.1,repli 30 % (24 h),-0.0365
+GBPNZD,2025-06-04,achat,False,0.1,FVG 4h du mardi (24 h),0.0
+GBPNZD,2025-06-04,achat,False,0.1,"repli 30 % la nuit, sinon Londres",0.0652
+GBPNZD,2025-06-04,achat,False,0.1,"FVG 4h la nuit, sinon Londres",0.0652
+GBPNZD,2025-06-04,achat,False,0.1,ordre stop au-delà du mardi,0.0
+GBPNZD,2025-06-04,achat,False,0.1,confirmation 1h,0.0
+GBPNZD,2025-07-23,vente,False,0.15,clôture du mardi,0.1252
+GBPNZD,2025-07-23,vente,False,0.15,Londres 07h,0.0
+GBPNZD,2025-07-23,vente,False,0.15,repli 30 % (24 h),0.0
+GBPNZD,2025-07-23,vente,False,0.15,FVG 4h du mardi (24 h),0.0
+GBPNZD,2025-07-23,vente,False,0.15,"repli 30 % la nuit, sinon Londres",0.0
+GBPNZD,2025-07-23,vente,False,0.15,"FVG 4h la nuit, sinon Londres",0.0
+GBPNZD,2025-07-23,vente,False,0.15,ordre stop au-delà du mardi,0.0
+GBPNZD,2025-07-23,vente,False,0.15,confirmation 1h,0.0
+GBPNZD,2025-09-10,achat,True,2.61,clôture du mardi,-1.0831
+GBPNZD,2025-09-10,achat,True,2.61,Londres 07h,-1.0831
+GBPNZD,2025-09-10,achat,True,2.61,repli 30 % (24 h),-1.1188
+GBPNZD,2025-09-10,achat,True,2.61,FVG 4h du mardi (24 h),0.0
+GBPNZD,2025-09-10,achat,True,2.61,"repli 30 % la nuit, sinon Londres",-1.1188
+GBPNZD,2025-09-10,achat,True,2.61,"FVG 4h la nuit, sinon Londres",-1.0831
+GBPNZD,2025-09-10,achat,True,2.61,ordre stop au-delà du mardi,0.0
+GBPNZD,2025-09-10,achat,True,2.61,confirmation 1h,0.0
+GBPNZD,2025-11-19,vente,False,0.9,clôture du mardi,-1.0393
+GBPNZD,2025-11-19,vente,False,0.9,Londres 07h,-1.0393
+GBPNZD,2025-11-19,vente,False,0.9,repli 30 % (24 h),-1.0561
+GBPNZD,2025-11-19,vente,False,0.9,FVG 4h du mardi (24 h),0.0
+GBPNZD,2025-11-19,vente,False,0.9,"repli 30 % la nuit, sinon Londres",-1.0561
+GBPNZD,2025-11-19,vente,False,0.9,"FVG 4h la nuit, sinon Londres",-1.0393
+GBPNZD,2025-11-19,vente,False,0.9,ordre stop au-delà du mardi,0.0
+GBPNZD,2025-11-19,vente,False,0.9,confirmation 1h,0.0
+GBPNZD,2026-02-25,vente,True,1.51,clôture du mardi,1.4487
+GBPNZD,2026-02-25,vente,True,1.51,Londres 07h,0.4688
+GBPNZD,2026-02-25,vente,True,1.51,repli 30 % (24 h),2.4981
+GBPNZD,2026-02-25,vente,True,1.51,FVG 4h du mardi (24 h),0.0
+GBPNZD,2026-02-25,vente,True,1.51,"repli 30 % la nuit, sinon Londres",0.4688
+GBPNZD,2026-02-25,vente,True,1.51,"FVG 4h la nuit, sinon Londres",0.4688
+GBPNZD,2026-02-25,vente,True,1.51,ordre stop au-delà du mardi,0.4883
+GBPNZD,2026-02-25,vente,True,1.51,confirmation 1h,0.4426
+GBPNZD,2026-04-29,achat,False,0.58,clôture du mardi,0.5395
+GBPNZD,2026-04-29,achat,False,0.58,Londres 07h,0.0
+GBPNZD,2026-04-29,achat,False,0.58,repli 30 % (24 h),0.0
+GBPNZD,2026-04-29,achat,False,0.58,FVG 4h du mardi (24 h),0.0
+GBPNZD,2026-04-29,achat,False,0.58,"repli 30 % la nuit, sinon Londres",0.0
+GBPNZD,2026-04-29,achat,False,0.58,"FVG 4h la nuit, sinon Londres",0.0
+GBPNZD,2026-04-29,achat,False,0.58,ordre stop au-delà du mardi,0.252
+GBPNZD,2026-04-29,achat,False,0.58,confirmation 1h,0.1469
+GBPNZD,2026-05-06,vente,False,0.48,clôture du mardi,0.4347
+GBPNZD,2026-05-06,vente,False,0.48,Londres 07h,0.0
+GBPNZD,2026-05-06,vente,False,0.48,repli 30 % (24 h),0.0
+GBPNZD,2026-05-06,vente,False,0.48,FVG 4h du mardi (24 h),0.0
+GBPNZD,2026-05-06,vente,False,0.48,"repli 30 % la nuit, sinon Londres",0.0
+GBPNZD,2026-05-06,vente,False,0.48,"FVG 4h la nuit, sinon Londres",0.0
+GBPNZD,2026-05-06,vente,False,0.48,ordre stop au-delà du mardi,0.0
+GBPNZD,2026-05-06,vente,False,0.48,confirmation 1h,0.0
+GBPNZD,2026-07-22,achat,False,0.84,clôture du mardi,0.7961
+GBPNZD,2026-07-22,achat,False,0.84,Londres 07h,0.3846
+GBPNZD,2026-07-22,achat,False,0.84,repli 30 % (24 h),0.0
+GBPNZD,2026-07-22,achat,False,0.84,FVG 4h du mardi (24 h),0.0
+GBPNZD,2026-07-22,achat,False,0.84,"repli 30 % la nuit, sinon Londres",0.3846
+GBPNZD,2026-07-22,achat,False,0.84,"FVG 4h la nuit, sinon Londres",0.3846
+GBPNZD,2026-07-22,achat,False,0.84,ordre stop au-delà du mardi,0.5421
+GBPNZD,2026-07-22,achat,False,0.84,confirmation 1h,0.3592

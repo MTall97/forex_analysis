@@ -78,6 +78,7 @@ Tous les scripts se lancent **depuis la racine du dépôt** : `python scripts/<s
 | Vérification de tous les mois | `python scripts/verifier_tous_les_trades.py` | `data/trades.csv`, `data/trade_events.csv`, `data/trades_simules.csv`, `data/revue_*`, `data/prix/journalier_dukascopy_registre.csv` (Dukascopy journalier 2019-2021, 18 paires), cache Yahoo | `data/verification_trades.csv`, `data/verification_mensuelle.csv`, `analyses/TRADES_TOUS_LES_MOIS.md` | non |
 | Suivi en démo | `python scripts/prix_yahoo.py --mettre-a-jour …`, puis `python scripts/suivi_demo_englobante_mlq.py` | Yahoo horaire | `data/suivi_demo/journal_englobante_mlq.csv`, `analyses/SUIVI_DEMO.md` | oui (Yahoo) |
 | Englobante + FVG | `python scripts/tester_englobante_fvg.py`, `python scripts/tester_entrees_englobante.py` | Yahoo horaire (22 paires) | `data/englobante_fvg/`, `analyses/ENGLOBANTE_FVG.md` | non (cache) |
+| Entrées lundi-mardi-mercredi | `python scripts/tester_entrees_lmm.py` | Yahoo horaire (22 paires) | `data/lmm_entrees/`, `analyses/ENTREES_LUNDI_MARDI_MERCREDI.md` | non (cache) |
 | Figures | `python scripts/figures_rapports.py` | tout | `assets/figures/` | non |
 
 ## 4. Mettre à jour les données
