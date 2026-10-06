@@ -71,6 +71,7 @@ Tous les scripts se lancent **depuis la racine du dépôt** : `python scripts/<s
 | Flashcards | `python scripts/tester_flashcards_englobante.py` | Yahoo horaire | `flashcards_englobante*.csv` | non |
 | Masterclass | `python scripts/prix_dukascopy_journalier.py --debut 2012`, puis `python scripts/tester_masterclass.py`, `python scripts/strategie_combinee.py`, `python scripts/tester_bebe_abandonne.py`, `python scripts/tester_strategie_bombe.py` | Dukascopy, Yahoo | `masterclass_*`, `strategie_combinee*`, `bebe_*`, `bombe_trades.csv` | non (cache) |
 | Autres algorithmes | `python scripts/tester_carry_momentum.py`, `python scripts/tester_saisonnalite_intraday.py` | Fed, BIS, Yahoo | `carry_momentum_mensuel.csv`, `saisonnalite_intraday_*` | non (cache) |
+| Revue visuelle | lecture à l'œil (planches de 4 captures), puis `python scripts/rejouer_revue_visuelle.py` | `data/revue_visuelle_captures.csv`, cache Yahoo | `data/revue_trades_amirou.csv`, `data/revue_trades_simules.csv`, `analyses/REVUE_CAPTURES.md` | non |
 | Trades datés 2020-2026 | `python scripts/trades_masterclass_par_date.py` puis `python scripts/tester_englobante_mlq_recent.py` | `data/par_paire/occurrences_*.csv`, Dukascopy journalier | `data/masterclass_2020_2026/`, `analyses/MASTERCLASS_TRADES_DATES.md` | non |
 | Par paire | `python scripts/analyse_par_paire.py` | tous les fichiers de trades | `data/par_paire/`, `analyses/annexes/` (rapports : `MASTERCLASS_VERIFIEE.md`, `STRATEGIES_PAR_PAIRE.md`) | non |
 | Figures | `python scripts/figures_rapports.py` | tout | `assets/figures/` | non |

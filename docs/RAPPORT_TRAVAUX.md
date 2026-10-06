@@ -56,6 +56,9 @@ Résumé de ce qui a été fait sur le dépôt `forex_analysis`, dans l'ordre de
 - `analyses/MASTERCLASS_VERIFIEE.md` : les règles chiffrées de la masterclass (jour des extrêmes, trois barres, #14577, AUDJPY en avril, MLQ, bébé abandonné, consolidation, Bombe) et 12 combinaisons testées sur Dukascopy 2012-2026. « Trois barres + MLQ », prometteuse sur 4 paires, ne résiste pas aux 11 instruments ni au contrôle des niveaux décalés. Un bug du test MLQ (entrée à un prix jamais atteint) a été trouvé et corrigé.
 - `analyses/STRATEGIES_PAR_PAIRE.md` : chaque stratégie par paire et par année, avec les occurrences datées ; les préférences de paires (EURUSD/GBPUSD pour le lundi-mardi-mercredi, yen pour la Bombe) ne se confirment pas.
 - `analyses/TRADES_VS_SAISONNALITE.md`, section 8 : la saisonnalité mensuelle (biais sur 6 ou 10 ans) devine le sens du mois suivant dans 49 à 51 % des cas.
+- `analyses/MASTERCLASS_TRADES_DATES.md` (06/10/2026) : la date de chaque trade simulé pour tester les règles de la masterclass, avec le détail 2020-2026 année par année ; aucune règle ne devient rentable après 2020 ; seule piste, l'achat sur englobante haussière qui rejette un MLQ (+0,20 R depuis 2020, rien avant), à suivre en démo.
+- `analyses/REVUE_CAPTURES.md` (06/10/2026) : revue à l'œil des 2 240 captures que l'OCR n'avait pas exploitées ; 188 nouveaux trades d'Amirou rejoués ; pertes documentées par Amirou lui-même ; +0,21 R par trade copiable sur 2024-2026 (non significatif).
+- Selon l'utilisateur, Amirou s'appuie sur les analyses de Marc to Market (Marc Chandler) ; c'est indiqué dans les rapports corrigés, en précisant que le canal ne le dit pas.
 
 ## Ce qui reste à faire (de votre côté)
 1. `python scripts/supprimer_photos_non_trading.py --confirmer`, puis commit et push.

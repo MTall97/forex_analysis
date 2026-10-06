@@ -29,6 +29,8 @@ Données : par défaut Yahoo Finance (scripts/prix_yahoo.py) : bougies horaires 
 l'objectif et le stop compte comme un stop). Variable SOURCE_PRIX=dukascopy pour utiliser
 https://datafeed.dukascopy.com (horaire + minute, mais très limité en débit depuis le cloud).
 Sortie : data/trades_simules.csv
+(ENTREE_TRADES et SORTIE_TRADES permettent de rejouer un autre fichier, par exemple
+data/revue_trades_amirou.csv issu de la revue visuelle : scripts/rejouer_revue_visuelle.py.)
 """
 
 import csv
@@ -214,7 +216,7 @@ def resolution_prix(paire, date):
 
 
 def main():
-    lignes = list(csv.DictReader(open('data/captures_trades.csv', encoding='utf-8')))
+    lignes = list(csv.DictReader(open(os.environ.get('ENTREE_TRADES', 'data/captures_trades.csv'), encoding='utf-8')))
     vus, trades = [], []
     for l in lignes:
         if not (l['paire'] and l['entree'] and l['stop'] and l['objectif'] and l['sens']):
@@ -245,11 +247,12 @@ def main():
                         'entree_utc': res['entree_utc'], 'sortie_utc': res['sortie_utc'], 'capture': l['fichier']})
         if n % 50 == 0:
             print(f"  {n}/{len(trades)}", flush=True)
-    with open('data/trades_simules.csv', 'w', newline='', encoding='utf-8') as fh:
+    sortie = os.environ.get('SORTIE_TRADES', 'data/trades_simules.csv')
+    with open(sortie, 'w', newline='', encoding='utf-8') as fh:
         w = csv.DictWriter(fh, fieldnames=list(out[0]))
         w.writeheader()
         w.writerows(out)
-    print(f"{len(out)} trades simulés -> data/trades_simules.csv")
+    print(f"{len(out)} trades simulés -> {sortie}")
 
 
 if __name__ == '__main__':
