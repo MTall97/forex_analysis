@@ -1,0 +1,73 @@
+idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif,note
+0,ChatExport_2026-10-01/photos/photo_1191@04-01-2021_15-42-23.jpg,3237,2021-01-04T15:42:23,photo,trade,EURGBP,achat,H1,0.89405,0.89318,0.90699,position en gain flottant (prix 0.90436)
+1,ChatExport_2026-10-01/photos/photo_1192@04-01-2021_15-42-35.jpg,3238,2021-01-04T15:42:35,photo,trade,EURGBP,achat,H1,0.8940,,,
+2,assets/tradingview/2021-01/2021-01-06_05h40_msg3240_Wk4J316H.png,3240,2021-01-06T05:40:41,tv,trade,EURGBP,achat,M5,,,,"boîte de position, niveaux à lire en pleine résolution"
+3,assets/tradingview/2021-01/2021-01-06_15h51_msg3243_xkdRKrGu.png,3243,2021-01-06T15:51:18,tv,analyse,XAUUSD,,H4,,,,projection baissière dessinée
+4,assets/tradingview/2021-01/2021-01-06_15h51_msg3244_L6U61aem.png,3244,2021-01-06T15:51:40,tv,analyse,XAUUSD,,H1,,,,"zones, pas de position"
+5,ChatExport_2026-10-01/photos/photo_1194@11-01-2021_17-15-01.jpg,3259,2021-01-11T17:15:01,photo,resultat,XAUUSD,achat,,1827.40,,,"position ouverte 1827.40 -> 1849.31, +43.82 $"
+6,ChatExport_2026-10-01/photos/photo_1195@11-01-2021_17-15-01.jpg,3260,2021-01-11T17:15:01,photo,trade,XAUUSD,achat,M15,1827.4,1825,1874,niveaux approximatifs (lignes MT4 tp/sl)
+7,ChatExport_2026-10-01/photos/photo_1196@11-01-2021_17-19-33.jpg,3263,2021-01-11T17:19:33,photo,autre,,,,,,,historique indices synthétiques (Step Index)
+8,ChatExport_2026-10-01/photos/photo_1198@12-01-2021_13-56-53.jpg,3267,2021-01-12T13:56:53,photo,autre,,,,,,,solde de compte sans position
+9,ChatExport_2026-10-01/photos/photo_1200@13-01-2021_13-58-23.jpg,3271,2021-01-13T13:58:23,photo,autre,,,,,,,"historique d'un membre, indices synthétiques"
+10,ChatExport_2026-10-01/photos/photo_1201@13-01-2021_14-04-07.jpg,3273,2021-01-13T14:04:07,photo,trade,AUDUSD,vente,M5,0.77762,0.77594,0.77227,MT4 FTMO démo ; stop déjà remonté en gain ; aussi EURUSD achat 1.21660 sl 1.21600 tp 1.22715
+11,assets/tradingview/2021-01/2021-01-13_14h04_msg3276_JC0uvH0l.png,3276,2021-01-13T14:04:54,tv,trade,NZDUSD,vente,M1,,,,"boîte de position, niveaux à lire en pleine résolution"
+12,assets/tradingview/2021-01/2021-01-14_00h30_msg3278_rUYvf6xC.png,3278,2021-01-14T00:30:24,tv,analyse,EURJPY,,M5,,,,"schéma Wyckoff, pas de position"
+13,ChatExport_2026-10-01/photos/photo_1202@14-01-2021_11-30-10.jpg,3280,2021-01-14T11:30:10,photo,trade,EURGBP,achat,M1,0.88904,0.88863,0.89153,TP atteint (confirmé par [14])
+14,ChatExport_2026-10-01/photos/photo_1203@14-01-2021_11-30-10.jpg,3281,2021-01-14T11:30:10,photo,resultat,EURGBP,achat,,0.88899,0.88863,0.89153,historique : EURGBP TP +3 091 ; USDJPY vente 104.032 -> 103.982 +48
+15,ChatExport_2026-10-01/photos/photo_1204@14-01-2021_17-27-33.jpg,3285,2021-01-14T17:27:33,photo,trade,USDJPY,vente,M5,,,,"lignes à 104.15 et 103.75, niveaux incertains"
+16,ChatExport_2026-10-01/photos/photo_1206@18-01-2021_11-59-02.jpg,3297,2021-01-18T11:59:02,photo,trade,GBPCAD,achat,M5,1.7301,,,"MT4 buy 6.35, ligne sl juste au-dessus (stop remonté ?)"
+17,assets/tradingview/2021-01/2021-01-18_16h16_msg3299_QQvph9cO.png,3299,2021-01-18T16:16:33,tv,analyse,GBPJPY,,H4,,,,Wyckoff
+18,assets/tradingview/2021-01/2021-01-18_16h16_msg3300_3rBF0PW8.png,3300,2021-01-18T16:16:33,tv,analyse,GBPJPY,,M5,,,,Wyckoff
+19,assets/tradingview/2021-01/2021-01-18_16h16_msg3301_cTeqWiR7.png,3301,2021-01-18T16:16:34,tv,trade,GBPJPY,achat,M5,140.427,140.387,140.789,TP atteint ou presque (prix 140.756)
+20,ChatExport_2026-10-01/photos/photo_1207@20-01-2021_01-44-51.jpg,3316,2021-01-20T01:44:51,photo,analyse,GBPCAD,,M5,,,,zone
+21,ChatExport_2026-10-01/photos/photo_1208@20-01-2021_01-45-07.jpg,3317,2021-01-20T01:45:07,photo,analyse,GBPCAD,,M5,,,,zone
+22,assets/tradingview/2021-01/2021-01-20_10h58_msg3319_HToBZCmO.png,3319,2021-01-20T10:58:14,tv,trade,AUDJPY,achat,M5,79.563,79.522,80.203,"graphique d'un élève (D-a-l-t-o-n), TP atteint"
+23,ChatExport_2026-10-01/photos/photo_1210@21-01-2021_11-54-46.jpg,3326,2021-01-21T11:54:46,photo,trade,GBPAUD,achat,H1,1.76013,1.75936,1.77286,"niveaux approximatifs, gain flottant"
+24,ChatExport_2026-10-01/photos/photo_1211@21-01-2021_11-54-46.jpg,3327,2021-01-21T11:54:46,photo,resultat,GBPAUD,achat,,1.76291,,,"MT5 démo : GBPAUD achat 1.76291 et EURNZD achat 1.68413, +531 $ flottant"
+25,assets/tradingview/2021-01/2021-01-21_15h09_msg3329_0VGOfH38.png,3329,2021-01-21T15:09:08,tv,analyse,AUDCAD,,H1,,,,zones
+26,ChatExport_2026-10-01/photos/photo_1212@21-01-2021_15-09-29.jpg,3330,2021-01-21T15:09:29,photo,trade,AUDCAD,vente,M15,0.9822,0.9827,,ordre sell limit 4.00 (MT4)
+27,ChatExport_2026-10-01/photos/photo_1213@21-01-2021_15-09-42.jpg,3331,2021-01-21T15:09:42,photo,trade,AUDCAD,vente,M15,0.9822,0.9827,,"même ordre que [26], plus tard"
+28,assets/tradingview/2021-01/2021-01-21_15h16_msg3334_TUyxxRpe.png,3334,2021-01-21T15:16:19,tv,analyse,EURNZD,,H1,,,,Wyckoff
+29,assets/tradingview/2021-01/2021-01-21_15h17_msg3337_kMi1LBmF.png,3337,2021-01-21T15:17:42,tv,analyse,EURNZD,,M1,,,,exercice d'élève (twistabba)
+30,assets/tradingview/2021-01/2021-01-21_15h17_msg3338_HvGRVBDl.png,3338,2021-01-21T15:17:42,tv,analyse,EURNZD,,M1,,,,exercice d'élève
+31,assets/tradingview/2021-01/2021-01-21_15h17_msg3339_lwcTelWu.png,3339,2021-01-21T15:17:42,tv,analyse,EURNZD,,M1,,,,exercice d'élève (Dmh2WS)
+32,assets/tradingview/2021-01/2021-01-21_16h28_msg3343_XX1CugSe.png,3343,2021-01-21T16:28:28,tv,trade,GBPNZD,achat,M5,1.89933,1.89852,1.90773,"élève (D-a-l-t-o-n), TP atteint"
+33,assets/tradingview/2021-01/2021-01-22_20h11_msg3345_HOVbF0Un.png,3345,2021-01-22T20:11:38,tv,trade,XAUUSD,achat,M1,1838.40,1837.45,1856.77,"élève (Aboubacar223), TP atteint"
+34,ChatExport_2026-10-01/photos/photo_1215@22-01-2021_20-12-36.jpg,3347,2021-01-22T20:12:36,photo,analyse,NZDUSD,,H1,,,,Wyckoff
+35,assets/tradingview/2021-01/2021-01-25_07h38_msg3354_BjFh1nZX.png,3354,2021-01-25T07:38:06,tv,analyse,GBPCHF,,H1,,,,projection baissière
+36,assets/tradingview/2021-01/2021-01-25_07h38_msg3355_UKLQLUzJ.png,3355,2021-01-25T07:38:16,tv,analyse,GBPCHF,,H1,,,,zone
+37,ChatExport_2026-10-01/photos/photo_1216@27-01-2021_16-15-06.jpg,3366,2021-01-27T16:15:06,photo,trade,US30,vente,M1,30645,,,MT5 sell 0.50 ; même trade que [41]
+38,ChatExport_2026-10-01/photos/photo_1217@27-01-2021_16-25-12.jpg,3367,2021-01-27T16:25:12,photo,trade,US30,vente,M1,30645,30670,,même trade que [41]
+39,ChatExport_2026-10-01/photos/photo_1218@27-01-2021_17-12-34.jpg,3369,2021-01-27T17:12:34,photo,trade,US30,vente,M1,30645,30670,,"même trade que [41], plus tard"
+40,ChatExport_2026-10-01/photos/photo_1219@27-01-2021_19-34-20.jpg,3370,2021-01-27T19:34:20,photo,trade,US30,vente,M1,30645,30670,,"même trade, prix 30377"
+41,assets/tradingview/2021-01/2021-01-27_19h52_msg3374_SgZVQ2hJ.png,3374,2021-01-27T19:52:35,tv,trade,US30,vente,M1,30667.48,30688.53,30260.93,prix 30322 : TP presque atteint
+42,assets/tradingview/2021-01/2021-01-29_07h05_msg3377_NNNEYyJc.png,3377,2021-01-29T07:05:32,tv,trade,USDCAD,vente,M1,1.28723,1.28763,,boîte de vente (même trade que [48])
+43,assets/tradingview/2021-01/2021-01-29_07h40_msg3380_6hSsRrvU.png,3380,2021-01-29T07:40:45,tv,trade,USDCAD,vente,M2,1.28723,1.28763,,même trade que [48]
+44,assets/tradingview/2021-01/2021-01-29_08h22_msg3384_5dBc3EK6.png,3384,2021-01-29T08:22:45,tv,trade,EURUSD,achat,M15,1.20975,1.20915,1.2163,objectif approximatif (haut de la boîte)
+45,ChatExport_2026-10-01/photos/photo_1220@29-01-2021_08-23-20.jpg,3386,2021-01-29T08:23:20,photo,trade,EURUSD,achat,M1,1.20975,,,"ordre buy limit 5.00 (MT4), même trade que [44]"
+46,assets/tradingview/2021-01/2021-01-29_08h25_msg3388_2yySqMTM.png,3388,2021-01-29T08:25:00,tv,trade,EURUSD,achat,M1,1.20977,1.20917,,"même trade que [44], en gain"
+47,ChatExport_2026-10-01/photos/photo_1221@29-01-2021_12-42-18.jpg,3396,2021-01-29T12:42:18,photo,trade,EURUSD,achat,M5,1.20978,1.20934,1.21422,"téléphone (même idée que [44]), prix 1.21366 proche du TP"
+48,assets/tradingview/2021-01/2021-01-29_12h44_msg3397_w0FNv4Gz.png,3397,2021-01-29T12:44:27,tv,trade,USDCAD,vente,M5,1.28723,1.28763,1.27867,prix 1.27922 : TP presque atteint
+49,ChatExport_2026-10-01/photos/photo_1223@02-02-2021_20-11-01.jpg,3402,2021-02-02T20:11:01,photo,analyse,US30,,M5,,,,niveaux 30955 et 30885
+50,assets/tradingview/2021-02/2021-02-03_01h26_msg3407_5olJ2C2c.png,3407,2021-02-03T01:26:09,tv,analyse,EURNZD,,M15,,,,zone
+51,assets/tradingview/2021-02/2021-02-03_01h26_msg3408_sIuCNQGP.png,3408,2021-02-03T01:26:59,tv,trade,GBPJPY,vente,M5,,,,"élève, zone de vente ~143.6, niveaux illisibles"
+52,assets/tradingview/2021-02/2021-02-03_08h17_msg3409_MSqLKhWR.png,3409,2021-02-03T08:17:36,tv,trade,GBPJPY,vente,S15,143.686,143.745,,même trade que [56]
+53,assets/tradingview/2021-02/2021-02-03_08h28_msg3413_sE6tjs7f.png,3413,2021-02-03T08:28:19,tv,trade,NZDUSD,vente,H1,0.72313,0.72383,0.7110,objectif approximatif (bas de la boîte)
+54,assets/tradingview/2021-02/2021-02-03_09h07_msg3415_SWMGtMcb.png,3415,2021-02-03T09:07:10,tv,trade,GBPJPY,vente,M15,143.686,143.745,143.105,
+55,assets/tradingview/2021-02/2021-02-03_10h07_msg3421_ffHvcmev.png,3421,2021-02-03T10:07:06,tv,analyse,EURNZD,,M15,,,,zone
+56,assets/tradingview/2021-02/2021-02-03_11h20_msg3423_0YO1rUek.png,3423,2021-02-03T11:20:44,tv,trade,GBPJPY,vente,M15,143.686,143.741,143.217,prix 143.297
+57,assets/tradingview/2021-02/2021-02-03_15h43_msg3425_o3iOS1G6.png,3425,2021-02-03T15:43:28,tv,trade,GBPJPY,vente,M15,143.686,143.741,143.128,"prix 143.232, proche du TP"
+58,assets/tradingview/2021-02/2021-02-04_06h21_msg3428_Icwk6zG4.png,3428,2021-02-04T06:21:26,tv,trade,AUDCHF,vente,M1,0.68724,0.68764,0.6853,objectif approximatif
+59,assets/tradingview/2021-02/2021-02-04_08h58_msg3430_8o8eh0cC.png,3430,2021-02-04T08:58:54,tv,trade,AUDCHF,vente,M1,0.68726,0.68768,0.68593,stop dépassé (prix 0.68834)
+60,ChatExport_2026-10-01/photos/photo_1224@04-02-2021_08-59-32.jpg,3432,2021-02-04T08:59:32,photo,resultat,AUDCHF,vente,,0.68700,0.68764,,"historique : sell 11.25, stop touché, -833 $"
+61,assets/tradingview/2021-02/2021-02-04_09h01_msg3434_LgVG0ECx.png,3434,2021-02-04T09:01:01,tv,trade,GBPJPY,vente,M15,143.686,143.741,142.839,"prix 142.920, TP presque atteint"
+62,assets/tradingview/2021-02/2021-02-04_09h54_msg3441_cK5oRu49.png,3441,2021-02-04T09:54:35,tv,trade,USDCHF,achat,H1,0.88532,0.88472,0.90319,"prix 0.90152, proche du TP"
+63,assets/tradingview/2021-02/2021-02-04_09h59_msg3442_GbkV3LSJ.png,3442,2021-02-04T09:59:28,tv,trade,USDMXN,achat,M15,20.14437,20.10261,20.59945,
+64,assets/tradingview/2021-02/2021-02-04_14h48_msg3445_CExf8axt.png,3445,2021-02-04T14:48:14,tv,trade,EURAUD,vente,M15,1.59320,1.59461,1.57136,"élève (Dmh2WS), TP atteint ; deuxième boîte"
+65,ChatExport_2026-10-01/photos/photo_1225@04-02-2021_14-48-26.jpg,3446,2021-02-04T14:48:26,photo,trade,EURAUD,vente,H1,1.5928,1.5856,1.5694,MT4 sell ; stop remonté ; niveaux approximatifs
+66,assets/tradingview/2021-02/2021-02-06_01h08_msg3451_NLBZGhLv.png,3451,2021-02-06T01:08:59,tv,trade,AUDCHF,vente,H1,0.69052,0.69111,0.6778,élève (Aboubacar223)
+67,ChatExport_2026-10-01/photos/photo_1227@08-02-2021_11-34-53.jpg,3455,2021-02-08T11:34:53,photo,trade,AUDCHF,vente,M5,0.69057,0.69106,0.68560,"téléphone, prix 0.68989"
+68,assets/tradingview/2021-02/2021-02-16_18h50_msg3470_XEw0e4vg.png,3470,2021-02-16T18:50:49,tv,trade,AUDCHF,vente,M5,0.69352,0.69377,0.69181,élève (Dmh2WS)
+69,assets/tradingview/2021-02/2021-02-16_18h51_msg3471_fYe1CziQ.png,3471,2021-02-16T18:51:06,tv,trade,AUDCHF,vente,M5,0.69352,0.69383,0.69181,"élève (Dmh2WS), TP atteint"
+70,assets/tradingview/2021-02/2021-02-19_18h40_msg3474_gbNyU3ou.png,3474,2021-02-19T18:40:10,tv,analyse,AUDUSD,,M25,,,,"élève (Dmh2WS), zone d'achat"
+71,assets/tradingview/2021-02/2021-02-23_14h27_msg3481_anJsuiH2.png,3481,2021-02-23T14:27:00,tv,analyse,EURJPY,,H1,,,,zone
