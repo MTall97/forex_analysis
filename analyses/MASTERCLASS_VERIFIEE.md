@@ -17,6 +17,45 @@
 >
 > **Détail par paire et par année** : [`STRATEGIES_PAR_PAIRE.md`](STRATEGIES_PAR_PAIRE.md).
 
+## Dates : les sessions de masterclass et les sources de chaque règle testée
+
+**Les résumés de masterclass fournis par l'utilisateur ne sont pas datés.** Les dates ci-dessous viennent du canal.
+
+**Sessions de masterclass annoncées dans le canal** :
+
+| Session | Message |
+|---|---|
+| Webinaire gratuit, 4 octobre 2020 | #2763, #2769 |
+| 1re masterclass « pour les plus avancés », à partir du 15 octobre 2020 | #2720, #2736 |
+| Masterclass 3.0 en ligne, 1er juin 2021 | #3983 |
+| Programme de fin février 2023 | #7249 |
+| Masterclass de fin juin 2023 (43 participants), rediffusion d'une session du 2 septembre 2023 | #7925, #8034, #9200, #9679 |
+| Masterclass de février 2024 (groupe créé le 16 janvier, fin mi-mai 2024) | #10456, #11281 |
+| Masterclass du 15 juillet 2024 ; masterclass gratuite en deux parties, août et 7 septembre 2024 | #11312, #11615, #11650 |
+| Masterclass du 12 janvier 2025 | #12610, #12652 |
+| Masterclass de juillet 2025 (groupe créé le 6 juillet) | #13241, #13454 |
+| Masterclass gratuite du 29 mars 2026 (replay supprimé le 5 avril) | #14619, #14623, #14650 |
+| Masterclass du 12 avril 2026 | #14651, #14696 |
+| Prochaine annoncée : novembre 2026 | #15218, #15339 |
+
+**Date à laquelle chaque règle testée apparaît dans le canal** :
+
+| Règle testée | Première apparition dans le canal | Autres messages |
+|---|---|---|
+| T1 Plus haut de la semaine mardi-mercredi « 70 % » | #7820, 5 avril 2023 | — |
+| Saisonnalité (introduction) | #7762, 30 mars 2023 | 31 messages jusqu'en 2026 |
+| MLQ (zones institutionnelles) | #6913, 16 novembre 2022 | 23 messages jusqu'au 19 juin 2026 |
+| IBO / CBO | #11431, 20 juin 2024 | #11459 (vidéo promise), jusqu'au 8 avril 2026 |
+| Englobante (flashcards « Naruto ») | #13305, 23 mai 2025 | flashcards jusqu'en juin 2026 (#14986) |
+| T3 Lundi et mardi haussiers, mercredi prend le high (« 21 fois en 5 ans, 71 % ») | #14577-#14579, 18 mars 2026 | #14631 (1er avril 2026) |
+| T2 Lundi-mardi-mercredi (« trois barres ») | résumé de masterclass ; dans le canal : #14631 (1er avril 2026), #14835 (11 mai 2026) | — |
+| T4 AUDJPY en avril, plus bas en 1re semaine | #14662, 7 avril 2026 | EURJPY en juin : #14907 (31 mai 2026) |
+| Corrélation AUDUSD/NZDUSD | résumé de masterclass ; la corrélation est évoquée dès #305 (2 avril 2019) | — |
+| Bébé abandonné, Bombe, consolidation-expansion | **uniquement dans les résumés de masterclass** (aucun message du canal) | — |
+
+- La plupart des règles chiffrées sont **récentes** (2023-2026). Elles ont donc été formulées après coup, sur des années que l'on peut vérifier.
+- **Période testée** : toutes les règles journalières sont testées sur 2012-2026, donc avant et après leur publication. Les résultats après publication, de 2023 à 2026 selon la règle, figurent dans les tableaux par année de [`STRATEGIES_PAR_PAIRE.md`](STRATEGIES_PAR_PAIRE.md) et de son annexe.
+
 ## En bref
 
 ![Annoncé et mesuré](../assets/figures/masterclass_promesses.png)
