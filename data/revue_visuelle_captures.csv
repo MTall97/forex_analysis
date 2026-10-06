@@ -1255,3 +1255,147 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 1253,ChatExport_2026-10-01/photos/photo_2296@27-09-2023_15-20-33.jpg,9428,2023-09-27T15:20:33,photo,resultat,EURUSD,vente,,1.07132,,,"position EURUSD sell 5.00, +9 770 $ (1.05178)"
 1254,ChatExport_2026-10-01/photos/photo_2302@29-09-2023_11-33-58.jpg,9445,2023-09-29T11:33:58,photo,trade,EURUSD,vente,D1,1.07208,1.07691,1.05144,BLACKMAKER ; TP proche
 1255,ChatExport_2026-10-01/photos/photo_2303@29-09-2023_11-34-11.jpg,9446,2023-09-29T11:34:11,photo,resultat,EURUSD,vente,,1.06044,,,"position EURUSD sell 4.00, +304 $"
+1256,assets/tradingview/2023-09/2023-09-29_13h47_msg9451_ueUqthCl.png,9451,2023-09-29T13:47:28,tv,trade,EURUSD,vente,M15,1.06050,1.06196,1.05871,membre (OusmaneCherif) ; Fibonacci
+1257,ChatExport_2026-10-01/photos/photo_2305@29-09-2023_14-09-08.jpg,9454,2023-09-29T14:09:08,photo,resultat,EURUSD,vente,,1.06044,,,"position EURUSD sell 4.00, +1 112 $"
+1258,ChatExport_2026-10-01/photos/photo_2306@02-10-2023_10-25-41.jpg,9459,2023-10-02T10:25:41,photo,resultat,EURUSD,vente,,1.06044,,,positions EURUSD sell 4.00 +2 708 $ et sell 2.86 (1.05830) +1 324 $
+1259,ChatExport_2026-10-01/photos/photo_2307@02-10-2023_10-25-55.jpg,9460,2023-10-02T10:25:55,photo,resultat,EURUSD,vente,,1.05900,,,"membre : EURUSD sell 1.50, +801 $"
+1260,ChatExport_2026-10-01/photos/photo_2311@02-10-2023_14-42-21.jpg,9466,2023-10-02T14:42:21,photo,resultat,EURUSD,vente,,1.07142,,1.05212,"historique : EURUSD sell 2.50 +4 825 $, EURJPY buy 4.65 −1 259 $ (perte) ; total +3 629 $"
+1261,ChatExport_2026-10-01/photos/photo_2312@02-10-2023_14-42-21.jpg,9467,2023-10-02T14:42:21,photo,resultat,EURUSD,vente,,1.07132,,1.05227,"historique : EURUSD sell 5.00 +9 525 $, EURJPY buy 9.30 −2 524 $ (perte) ; total +7 126 $"
+1262,ChatExport_2026-10-01/photos/photo_2313@02-10-2023_14-42-21.jpg,9468,2023-10-02T14:42:21,photo,resultat,EURUSD,vente,,1.06044,,1.05372,"historique compte 100 000 $ : EURJPY −591 $, EURUSD +2 688 $ et +1 307 $ ; solde 103 385 $"
+1263,ChatExport_2026-10-01/photos/photo_2314@02-10-2023_14-42-21.jpg,9469,2023-10-02T14:42:21,photo,resultat,EURUSD,vente,,1.06017,,1.05244,"historique : GBPJPY buy 2.00 −772 $, EURJPY buy 3.72 −640 $ (pertes), EURUSD sell 4.00 +3 092 $ ; total +1 657 $"
+1264,ChatExport_2026-10-01/photos/photo_2315@02-10-2023_14-51-38.jpg,9475,2023-10-02T14:51:38,photo,resultat,,,,,,,AQREFX : phase 1 réussie (courriel)
+1265,ChatExport_2026-10-01/photos/photo_2316@02-10-2023_14-51-39.jpg,9476,2023-10-02T14:51:39,photo,resultat,,,,,,,AQREFX : objectif atteint par un membre (FOUTOU)
+1266,ChatExport_2026-10-01/photos/photo_2318@03-10-2023_15-47-08.jpg,9487,2023-10-03T15:47:08,photo,analyse,USDJPY,,H4,,,,TradingView mobile ; rejet Major larger quarter 150 (intervention)
+1267,ChatExport_2026-10-01/photos/photo_2319@03-10-2023_16-57-29.jpg,9496,2023-10-03T16:57:29,photo,analyse,GBPJPY,,H1,,,,TradingView mobile ; Major whole number 180
+1268,assets/tradingview/2023-10/2023-10-04_11h23_msg9501_kRkjqc4u.png,9501,2023-10-04T11:23:28,tv,analyse,GBPJPY,achat,H4,,,,BLACKMAKER ; rebond sur Major whole number 180
+1269,assets/tradingview/2023-10/2023-10-04_11h24_msg9503_9V8jivJm.png,9503,2023-10-04T11:24:33,tv,analyse,GBPJPY,achat,D1,,,,BLACKMAKER ; mèche sous 180
+1270,ChatExport_2026-10-01/photos/photo_2324@06-10-2023_12-23-32.jpg,9521,2023-10-06T12:23:32,photo,analyse,EURUSD,,M,,,,TradingView mobile ; bougies mensuelles
+1271,ChatExport_2026-10-01/photos/photo_2325@06-10-2023_12-24-37.jpg,9522,2023-10-06T12:24:37,photo,analyse,EURUSD,,M,,,,"TradingView mobile ; bougies mensuelles, mesure"
+1272,ChatExport_2026-10-01/photos/photo_2326@06-10-2023_12-35-10.jpg,9529,2023-10-06T12:35:10,photo,trade,EURUSD,vente,M5,,,,MT4 ; chute à 1.0508 (NFP)
+1273,ChatExport_2026-10-01/photos/photo_2327@06-10-2023_12-46-34.jpg,9530,2023-10-06T12:46:34,photo,analyse,EURCAD,vente,D1,,,,"TradingView mobile ; rejet MLQ 1.45, projection vers 1.41"
+1274,ChatExport_2026-10-01/photos/photo_2328@06-10-2023_12-47-13.jpg,9534,2023-10-06T12:47:13,photo,analyse,EURCAD,vente,H1,,,,TradingView mobile ; Major larger quarter 1.45
+1275,assets/tradingview/2023-10/2023-10-06_13h39_msg9536_LYoV6HSS.png,9536,2023-10-06T13:39:51,tv,analyse,GBPJPY,achat,D1,,,,BLACKMAKER ; Major whole number 180
+1276,ChatExport_2026-10-01/photos/photo_2333@06-10-2023_16-06-39.jpg,9547,2023-10-06T16:06:39,photo,resultat,,,,,,,Nova Funding : troisième demande de paiement
+1277,ChatExport_2026-10-01/photos/photo_2334@06-10-2023_17-12-12.jpg,9548,2023-10-06T17:12:12,photo,trade,GBPUSD,vente,H1,1.22300,,,MT4 sell 5.00 avec sl
+1278,ChatExport_2026-10-01/photos/photo_2335@09-10-2023_07-46-23.jpg,9551,2023-10-09T07:46:23,photo,trade,GBPUSD,vente,H1,1.22300,,,"MT4 sell 5.00 avec sl, prix 1.2171"
+1279,ChatExport_2026-10-01/photos/photo_2336@09-10-2023_07-48-40.jpg,9552,2023-10-09T07:48:40,photo,resultat,GBPUSD,vente,,1.22300,,,"position GBPUSD sell 5.00, +2 800 $"
+1280,ChatExport_2026-10-01/photos/photo_2337@10-10-2023_14-18-45.jpg,9553,2023-10-10T14:18:45,photo,resultat,,,,,,,"comptes financés d'un membre : Nova Funding (~103 743 $, 102 870 $) et Pro Trade Funded (103 206 $, 204 347 $)"
+1281,ChatExport_2026-10-01/photos/photo_2338@10-10-2023_18-58-32.jpg,9556,2023-10-10T18:58:32,photo,resultat,EURUSD,vente,,1.05865,,1.05221,"historique : EURUSD +3 220 $, GBPUSD +1 700 $ +2 050 $ +288 $, EURUSD −4 $ +480 $ ; total +7 671 $"
+1282,ChatExport_2026-10-01/photos/photo_2342@12-10-2023_12-56-32.jpg,9561,2023-10-12T12:56:32,photo,analyse,XAUUSD,,H4,,,,TradingView mobile ; remontée à 1878
+1283,ChatExport_2026-10-01/photos/photo_2343@13-10-2023_14-07-53.jpg,9568,2023-10-13T14:07:53,photo,resultat,GBPUSD,vente,,1.22310,,1.21614,"historique : 14 trades EURUSD/GBPUSD, dont GBPUSD buy 10 −2 650 $ (perte) ; total +12 709 $"
+1284,ChatExport_2026-10-01/photos/photo_2345@17-10-2023_15-44-24.jpg,9582,2023-10-17T15:44:24,photo,resultat,,,,,,,courriels : dépôts Bitcoin (Gemini) et paiement Nova Funding
+1285,ChatExport_2026-10-01/photos/photo_2346@17-10-2023_18-03-45.jpg,9585,2023-10-17T18:03:45,photo,resultat,,,,,,,"Nova Funding : paiement 1 075 $ (compte 25 000 $, +2 171 $, 50 %)"
+1286,ChatExport_2026-10-01/photos/photo_2348@17-10-2023_18-08-23.jpg,9588,2023-10-17T18:08:23,photo,resultat,,,,,,,Relay : paiement de 494 $ reçu d'AQRE Technologies (16/10/2023)
+1287,ChatExport_2026-10-01/photos/photo_2349@18-10-2023_14-48-21.jpg,9592,2023-10-18T14:48:21,photo,analyse,DXY,achat,H4,,,,TradingView mobile ; ouverture/clôture hebdomadaire 106.1
+1288,ChatExport_2026-10-01/photos/photo_2354@24-10-2023_08-00-22.jpg,9621,2023-10-24T08:00:22,photo,resultat,USDJPY,vente,,149.972,,149.704,historique : USDJPY sell 7.30 +1 307 $ ; ordre sell limit à 150
+1289,assets/tradingview/2023-10/2023-10-24_10h37_msg9627_3jqGzWWR.png,9627,2023-10-24T10:37:12,tv,analyse,DXY,achat,D1,,,,BLACKMAKER ; projection vers 108 puis baisse
+1290,ChatExport_2026-10-01/photos/photo_2357@24-10-2023_12-47-10.jpg,9631,2023-10-24T12:47:10,photo,trade,GBPUSD,vente,H1,1.22501,,,MT4 sell 5.00 avec sl
+1291,ChatExport_2026-10-01/photos/photo_2358@24-10-2023_12-47-32.jpg,9632,2023-10-24T12:47:32,photo,resultat,GBPUSD,vente,,1.22501,,,"position GBPUSD sell 5.00, +2 130 $"
+1292,ChatExport_2026-10-01/photos/photo_2359@24-10-2023_14-58-09.jpg,9634,2023-10-24T14:58:09,photo,resultat,GBPUSD,vente,,1.22501,,,"position GBPUSD sell 5.00, +3 590 $"
+1293,ChatExport_2026-10-01/photos/photo_2360@24-10-2023_17-41-49.jpg,9635,2023-10-24T17:41:49,photo,resultat,GBPUSD,vente,,1.22501,,,"position GBPUSD sell 5.00, +4 135 $"
+1294,ChatExport_2026-10-01/photos/photo_2361@25-10-2023_10-15-16.jpg,9637,2023-10-25T10:15:16,photo,resultat,GBPUSD,vente,,1.22501,,,"position GBPUSD sell 5.00, +6 625 $"
+1295,ChatExport_2026-10-01/photos/photo_2362@26-10-2023_08-22-07.jpg,9644,2023-10-26T08:22:07,photo,resultat,GBPUSD,vente,,1.22501,,1.20962,historique : GBPUSD sell 5.00 clôturé +7 695 $
+1296,ChatExport_2026-10-01/photos/photo_2369@27-10-2023_21-01-08.jpg,9664,2023-10-27T21:01:08,photo,resultat,XAUUSD,achat,H4,1821.668,1806.606,2003.063,"TradingView mobile ; prix 2006, objectif atteint"
+1297,ChatExport_2026-10-01/photos/photo_2370@31-10-2023_11-25-13.jpg,9681,2023-10-31T11:25:13,photo,resultat,,,,,,,"FTMO : compte actif depuis 2020, partage des profits le 23/11/2023"
+1298,assets/tradingview/2023-11/2023-11-01_14h49_msg9686_slqTiAgs.png,9686,2023-11-01T14:49:11,tv,trade,GBPUSD,vente,H4,1.22059,1.22565,1.20302,BLACKMAKER
+1299,ChatExport_2026-10-01/photos/photo_2371@01-11-2023_17-21-44.jpg,9693,2023-11-01T17:21:44,photo,analyse,AUDUSD,,D1,,,,"TradingView mobile, prix 0.6360"
+1300,ChatExport_2026-10-01/photos/photo_2372@01-11-2023_17-22-45.jpg,9694,2023-11-01T17:22:45,photo,analyse,NZDUSD,,H4,,,,"TradingView mobile, prix 0.5826"
+1301,ChatExport_2026-10-01/photos/photo_2373@01-11-2023_17-23-06.jpg,9695,2023-11-01T17:23:06,photo,analyse,XAUUSD,,H4,,,,"TradingView mobile, prix 1979"
+1302,ChatExport_2026-10-01/photos/photo_2374@01-11-2023_17-23-20.jpg,9696,2023-11-01T17:23:20,photo,analyse,EURNZD,,H4,,,,TradingView mobile ; Major larger quarter 1.775
+1303,ChatExport_2026-10-01/photos/photo_2375@01-11-2023_17-23-38.jpg,9697,2023-11-01T17:23:38,photo,analyse,GBPCAD,,H4,,,,TradingView mobile ; zone 1.68-1.685
+1304,ChatExport_2026-10-01/photos/photo_2376@02-11-2023_00-26-25.jpg,9702,2023-11-02T00:26:25,photo,trade,XAUUSD,achat,H1,1971.75,1972.79,,membre ; MT5 buy avec sl
+1305,assets/tradingview/2023-11/2023-11-02_11h43_msg9705_vUWyauQy.png,9705,2023-11-02T11:43:21,tv,trade,GBPUSD,vente,H1,1.22150,1.22654,1.20302,BLACKMAKER
+1306,ChatExport_2026-10-01/photos/photo_2377@02-11-2023_12-26-11.jpg,9714,2023-11-02T12:26:11,photo,resultat,EURJPY,achat,,159.503,,,"position EURJPY buy 12.50, +4 186 $"
+1307,assets/tradingview/2023-11/2023-11-02_15h02_msg9715_TNyZXSBP.png,9715,2023-11-02T15:02:20,tv,trade,GBPUSD,vente,H1,1.22150,1.22654,1.20302,"BLACKMAKER ; suite du 1305, prix 1.2181"
+1308,ChatExport_2026-10-01/photos/photo_2378@03-11-2023_12-31-56.jpg,9725,2023-11-03T12:31:56,photo,analyse,GBPUSD,vente,H1,,,,"TradingView mobile ; prix 1.2281, au-dessus de l'entrée (stop proche)"
+1309,ChatExport_2026-10-01/photos/photo_2379@03-11-2023_12-35-11.jpg,9728,2023-11-03T12:35:11,photo,resultat,EURJPY,achat,,159.503,159.500,,"position EURJPY buy 12.50, +4 366 $ ; stop à l'entrée"
+1310,ChatExport_2026-10-01/photos/photo_2380@03-11-2023_15-38-03.jpg,9730,2023-11-03T15:38:03,photo,resultat,EURJPY,achat,,159.503,159.500,,"position EURJPY buy 12.50, +6 067 $"
+1311,ChatExport_2026-10-01/photos/photo_2381@06-11-2023_07-55-57.jpg,9745,2023-11-06T07:55:57,photo,resultat,EURJPY,achat,,159.503,159.700,,"position EURJPY buy 12.50, +9 986 $"
+1312,assets/tradingview/2023-11/2023-11-07_13h37_msg9753_blxsBfKV.png,9753,2023-11-07T13:37:18,tv,analyse,DXY,vente,D1,,,,BLACKMAKER ; projection vers 104.4
+1313,assets/tradingview/2023-11/2023-11-07_13h39_msg9756_vIHgDjQu.png,9756,2023-11-07T13:39:32,tv,analyse,EURUSD,achat,M30,,,,BLACKMAKER ; projection vers 1.07501
+1314,assets/tradingview/2023-11/2023-11-07_19h04_msg9758_dX7oELZt.png,9758,2023-11-07T19:04:12,tv,analyse,EURUSD,achat,M30,,,,BLACKMAKER ; projection vers 1.07501
+1315,assets/tradingview/2023-11/2023-11-07_19h04_msg9759_99Y8aMez.png,9759,2023-11-07T19:04:53,tv,analyse,DXY,vente,H4,,,,BLACKMAKER ; projection vers 104.2
+1316,ChatExport_2026-10-01/photos/photo_2382@08-11-2023_12-42-50.jpg,9761,2023-11-08T12:42:50,photo,resultat,EURJPY,achat,,159.503,,,"position EURJPY buy 12.50, +12 520 $"
+1317,ChatExport_2026-10-01/photos/photo_2383@08-11-2023_12-45-17.jpg,9762,2023-11-08T12:45:17,photo,resultat,EURJPY,achat,,159.488,,,"position EURJPY buy 5.00, +5 071 $"
+1318,ChatExport_2026-10-01/photos/photo_2384@08-11-2023_12-45-54.jpg,9763,2023-11-08T12:45:54,photo,resultat,EURJPY,achat,,159.520,,,"position EURJPY buy 6.00, +5 962 $"
+1319,ChatExport_2026-10-01/photos/photo_2385@08-11-2023_12-46-43.jpg,9764,2023-11-08T12:46:43,photo,resultat,EURJPY,achat,,159.461,,,"position EURJPY buy 2.50, +2 579 $"
+1320,ChatExport_2026-10-01/photos/photo_2386@08-11-2023_15-11-46.jpg,9766,2023-11-08T15:11:46,photo,resultat,EURJPY,achat,,159.503,,161.231,historique : EURJPY buy 12.50 clôturé +14 318 $
+1321,ChatExport_2026-10-01/photos/photo_2388@12-11-2023_13-30-08.jpg,9800,2023-11-12T13:30:08,photo,resultat,,,,,,,Nova Funding : cinq paiements d'août à octobre 2023
+1322,ChatExport_2026-10-01/photos/photo_2390@13-11-2023_16-08-25.jpg,9819,2023-11-13T16:08:25,photo,resultat,AUDJPY,achat,,96.490,,,"position AUDJPY buy 25.00, +3 857 $"
+1323,ChatExport_2026-10-01/photos/photo_2391@13-11-2023_16-23-05.jpg,9821,2023-11-13T16:23:05,photo,resultat,AUDJPY,achat,,96.466,,,"compte 199 910 $ : AUDJPY buy 7.50, +1 341 $"
+1324,ChatExport_2026-10-01/photos/photo_2393@14-11-2023_10-31-02.jpg,9826,2023-11-14T10:31:02,photo,resultat,EURUSD,achat,,1.06802,,1.07240,"historique compte 200 000 $ : EURUSD sell +2 010 $, buy 15 +3 660 $, buy 10 +4 380 $ ; solde 209 357 $"
+1325,ChatExport_2026-10-01/photos/photo_2395@14-11-2023_10-31-38.jpg,9830,2023-11-14T10:31:38,photo,resultat,GBPUSD,achat,,1.22807,,,membre : GBPUSD buy 1.00 +214 $ et 3.00 +606 $
+1326,ChatExport_2026-10-01/photos/photo_2396@14-11-2023_13-34-45.jpg,9836,2023-11-14T13:34:45,photo,trade,EURUSD,achat,H1,1.0705,1.0688,,"MT4 buy limit 8.00 avec sl, prix 1.0786"
+1327,ChatExport_2026-10-01/photos/photo_2397@14-11-2023_13-39-58.jpg,9837,2023-11-14T13:39:58,photo,resultat,AUDJPY,achat,,96.490,,,"position AUDJPY buy 25.00, +11 915 $"
+1328,ChatExport_2026-10-01/photos/photo_2398@14-11-2023_14-54-54.jpg,9844,2023-11-14T14:54:54,photo,resultat,,,,,,,compte à 216 453 $ sans position
+1329,assets/tradingview/2023-11/2023-11-14_15h05_msg9848_8z7HilcM.png,9848,2023-11-14T15:05:53,tv,analyse,DXY,vente,D1,,,,BLACKMAKER ; projection vers 104.4
+1330,ChatExport_2026-10-01/photos/photo_2399@15-11-2023_02-39-34.jpg,9857,2023-11-15T02:39:34,photo,trade,GBPAUD,vente,H1,1.925,,,MT4 sell limit 3.00 avec sl
+1331,ChatExport_2026-10-01/photos/photo_2400@15-11-2023_02-41-47.jpg,9859,2023-11-15T02:41:47,photo,analyse,GBPAUD,vente,M15,,,,TradingView mobile ; Major larger quarter 1.925
+1332,ChatExport_2026-10-01/photos/photo_2401@15-11-2023_07-03-28.jpg,9863,2023-11-15T07:03:28,photo,trade,GBPAUD,vente,M15,1.92190,,,MT4 sell 6.00 avec sl
+1333,ChatExport_2026-10-01/photos/photo_2402@15-11-2023_07-03-48.jpg,9864,2023-11-15T07:03:48,photo,resultat,GBPAUD,vente,,1.92190,,1.92186,historique : GBPAUD sell 6.00 +16 $ (quasi BE)
+1334,assets/tradingview/2023-11/2023-11-15_12h06_msg9867_DraLM3Nn.png,9867,2023-11-15T12:06:54,tv,trade,GBPAUD,vente,H4,1.92515,1.93018,1.90956,"BLACKMAKER ; « manipulation », TP proche"
+1335,ChatExport_2026-10-01/photos/photo_2403@15-11-2023_12-08-19.jpg,9868,2023-11-15T12:08:19,photo,resultat,GBPAUD,vente,,1.92229,,,"membre : GBPAUD sell 0.25, +130 $"
+1336,assets/tradingview/2023-11/2023-11-15_17h16_msg9881_JDqZBKjR.png,9881,2023-11-15T17:16:30,tv,trade,AUDUSD,achat,H4,0.64401,0.63895,0.66190,BLACKMAKER
+1337,ChatExport_2026-10-01/photos/photo_2405@15-11-2023_17-36-26.jpg,9885,2023-11-15T17:36:26,photo,autre,,,,,,,"historique d'un membre sur indices synthétiques (Volatility 75), +12 269 $"
+1338,ChatExport_2026-10-01/photos/photo_2407@16-11-2023_15-23-53.jpg,9901,2023-11-16T15:23:53,photo,resultat,GBPJPY,vente,,187.810,187.711,,compte 200 351 $ : GBPJPY sell 4.00 +1 061 $ et USDCAD sell 4.00 +2 078 $
+1339,ChatExport_2026-10-01/photos/photo_2408@17-11-2023_09-18-48.jpg,9912,2023-11-17T09:18:48,photo,autre,,,,,,,"dépêches Financial Juice (USDJPY, 17/11/2023)"
+1340,ChatExport_2026-10-01/photos/photo_2409@17-11-2023_09-28-55.jpg,9917,2023-11-17T09:28:55,photo,analyse,XAUUSD,,H1,,,,TradingView mobile ; hausse à 1991
+1341,ChatExport_2026-10-01/photos/photo_2411@23-11-2023_15-54-42.jpg,9936,2023-11-23T15:54:42,photo,trade,EURJPY,achat,H1,161.942,,,MT4 buy 5.90 avec sl
+1342,ChatExport_2026-10-01/photos/photo_2412@23-11-2023_15-55-07.jpg,9937,2023-11-23T15:55:07,photo,resultat,EURJPY,achat,,161.942,,,"position EURJPY buy 5.90, +4 558 $"
+1343,ChatExport_2026-10-01/photos/photo_2413@23-11-2023_15-58-34.jpg,9941,2023-11-23T15:58:34,photo,analyse,AUDJPY,achat,D1,,,,TradingView mobile ; rebond sur 97.509
+1344,ChatExport_2026-10-01/photos/photo_2414@23-11-2023_18-53-11.jpg,9942,2023-11-23T18:53:11,photo,resultat,,,,,,,"classement Funding Pips (25 000 $) : Arawani S. (Mali) 7e, +12,30 %"
+1345,ChatExport_2026-10-01/photos/photo_2415@24-11-2023_12-54-16.jpg,9944,2023-11-24T12:54:16,photo,resultat,EURJPY,achat,,161.942,162.000,,"position EURJPY buy 5.90, +5 227 $ ; stop au-dessus de l'entrée"
+1346,ChatExport_2026-10-01/photos/photo_2416@24-11-2023_15-03-25.jpg,9945,2023-11-24T15:03:25,photo,resultat,EURJPY,achat,,161.942,162.000,,"position EURJPY buy 5.90, +6 425 $"
+1347,ChatExport_2026-10-01/photos/photo_2417@28-11-2023_10-21-47.jpg,9950,2023-11-28T10:21:47,photo,trade,GBPJPY,achat,H4,,,,"MT4 buy 5.90 avec sl, prix 187.74"
+1348,ChatExport_2026-10-01/photos/photo_2418@28-11-2023_10-22-24.jpg,9951,2023-11-28T10:22:24,photo,resultat,GBPJPY,achat,,187.504,,,"compte 200 000 $ : GBPJPY buy 5.90, +1 112 $"
+1349,ChatExport_2026-10-01/photos/photo_2419@28-11-2023_10-30-22.jpg,9953,2023-11-28T10:30:22,photo,resultat,GBPJPY,achat,,187.512,,,"position GBPJPY buy 10.00, +1 985 $"
+1350,ChatExport_2026-10-01/photos/photo_2422@29-11-2023_17-48-35.jpg,9959,2023-11-29T17:48:35,photo,resultat,GBPAUD,achat,,1.91047,,,"compte 200 000 $ : GBPAUD buy 7.50, +3 565 $"
+1351,assets/tradingview/2023-11/2023-11-30_15h00_msg9967_pfl0fkZB.png,9967,2023-11-30T15:00:43,tv,trade,GBPJPY,achat,H4,186.293,185.785,189.322,BLACKMAKER ; Major larger quarter 187.5
+1352,ChatExport_2026-10-01/photos/photo_2423@30-11-2023_15-03-06.jpg,9968,2023-11-30T15:03:06,photo,trade,GBPJPY,achat,H1,,,,"MT4 buy 5.88 avec sl, prix 187.27"
+1353,ChatExport_2026-10-01/photos/photo_2424@01-12-2023_11-32-46.jpg,9977,2023-12-01T11:32:46,photo,resultat,GBPJPY,achat,,186.313,,,"position GBPJPY buy 14.70, +10 065 $"
+1354,ChatExport_2026-10-01/photos/photo_2425@01-12-2023_11-33-20.jpg,9978,2023-12-01T11:33:20,photo,resultat,GBPJPY,achat,,186.938,,,"position GBPJPY buy 9.00, +2 431 $"
+1355,ChatExport_2026-10-01/photos/photo_2426@01-12-2023_11-33-52.jpg,9979,2023-12-01T11:33:52,photo,resultat,GBPJPY,achat,,186.952,,,"position GBPJPY buy 9.85, +2 661 $"
+1356,ChatExport_2026-10-01/photos/photo_2427@01-12-2023_11-34-32.jpg,9980,2023-12-01T11:34:32,photo,resultat,GBPJPY,achat,,186.978,,,"position GBPJPY buy 9.00, +2 340 $"
+1357,ChatExport_2026-10-01/photos/photo_2430@03-12-2023_04-46-18.jpg,9995,2023-12-03T04:46:18,photo,autre,,,,,,,Gemini : dépôt en Tether confirmé (montant masqué)
+1358,assets/tradingview/2023-12/2023-12-07_13h10_msg10018_q2ESTYea.png,10018,2023-12-07T13:10:38,tv,analyse,DXY,vente,H4,,,,BLACKMAKER ; projection vers 101.5
+1359,assets/tradingview/2023-12/2023-12-07_13h12_msg10020_zTxg0ldb.png,10020,2023-12-07T13:12:05,tv,analyse,EURUSD,achat,H4,,,,"BLACKMAKER ; Major larger quarter 1.075, projection vers 1.09122"
+1360,ChatExport_2026-10-01/photos/photo_2432@08-12-2023_02-28-21.jpg,10026,2023-12-08T02:28:21,photo,analyse,EURUSD,,M30,,,,"TradingView mobile, prix 1.0784"
+1361,assets/tradingview/2023-12/2023-12-08_13h54_msg10036_cXQv8zIP.png,10036,2023-12-08T13:54:28,tv,analyse,DXY,vente,D1,,,,BLACKMAKER ; projection vers 101.5
+1362,ChatExport_2026-10-01/photos/photo_2435@09-12-2023_01-31-59.jpg,10041,2023-12-09T01:31:59,photo,analyse,EURUSD,achat,H4,,,,TradingView mobile ; Major larger quarter 1.075
+1363,assets/tradingview/2023-12/2023-12-09_01h32_msg10042_px58xX7V.png,10042,2023-12-09T01:32:28,tv,analyse,EURUSD,achat,D1,,,,BLACKMAKER ; Major larger quarter 1.075
+1364,assets/tradingview/2023-12/2023-12-09_01h33_msg10044_XlhLbLgm.png,10044,2023-12-09T01:33:59,tv,analyse,EURUSD,achat,D1,,,,BLACKMAKER ; Major larger quarter 1.075
+1365,ChatExport_2026-10-01/photos/photo_2437@12-12-2023_15-01-08.jpg,10053,2023-12-12T15:01:08,photo,autre,,,,,,,CME FedWatch : probabilités de taux pour mai 2024
+1366,ChatExport_2026-10-01/photos/photo_2438@13-12-2023_20-19-17.jpg,10055,2023-12-13T20:19:17,photo,analyse,EURUSD,achat,D1,,,,TradingView mobile ; objectif 1.09122 presque atteint
+1367,ChatExport_2026-10-01/photos/photo_2440@13-12-2023_21-28-07.jpg,10064,2023-12-13T21:28:07,photo,autre,,,,,,,cotations : baisse du yen le 13/12/2023
+1368,assets/tradingview/2023-12/2023-12-16_17h53_msg10078_KgKtyTTj.png,10078,2023-12-16T17:53:54,tv,analyse,AUDUSD,achat,H4,,,,BLACKMAKER ; projection atteinte
+1369,assets/tradingview/2023-12/2023-12-16_18h08_msg10081_fGwgUTp9.png,10081,2023-12-16T18:08:50,tv,analyse,DXY,vente,D1,,,,BLACKMAKER ; projection vers 101
+1370,assets/tradingview/2023-12/2023-12-16_18h15_msg10085_386YtX1g.png,10085,2023-12-16T18:15:42,tv,trade,EURUSD,achat,D1,1.08319,1.07618,1.10439,BLACKMAKER
+1371,ChatExport_2026-10-01/photos/photo_2442@19-12-2023_08-05-06.jpg,10090,2023-12-19T08:05:06,photo,trade,NZDJPY,achat,M15,88.671,,,"MT4 buy 5.70 avec sl, prix 89.75"
+1372,ChatExport_2026-10-01/photos/photo_2443@19-12-2023_12-31-08.jpg,10092,2023-12-19T12:31:08,photo,resultat,NZDJPY,achat,,88.671,,90.195,historique : NZDJPY buy 5.70 clôturé +6 004 $
+1373,ChatExport_2026-10-01/photos/photo_2444@20-12-2023_14-48-58.jpg,10100,2023-12-20T14:48:58,photo,resultat,EURUSD,vente,,1.09929,,1.09239,"historique semaine : EURUSD sell 15 +10 350 $, EURJPY buy 5 −2 619 $ (perte), USDJPY +6 079 $, GBPJPY +6 474 $ ; total +21 957 $"
+1374,ChatExport_2026-10-01/photos/photo_2445@20-12-2023_14-48-58.jpg,10101,2023-12-20T14:48:58,photo,resultat,EURUSD,vente,,1.09940,,1.09235,"historique semaine (autre compte) : EURJPY −2 907 $ (perte), EURUSD +9 165 $ ; total +18 346 $"
+1375,assets/tradingview/2023-12/2023-12-21_10h38_msg10114_eFFZHAD3.png,10114,2023-12-21T10:38:24,tv,trade,EURNZD,vente,M15,1.75501,1.76012,1.73639,BLACKMAKER
+1376,ChatExport_2026-10-01/photos/photo_2447@24-12-2023_12-24-49.jpg,10127,2023-12-24T12:24:49,photo,resultat,EURUSD,vente,,1.09940,,1.09235,"historique semaine : 13 trades, dont EURJPY −2 907 $ ; total +20 077 $"
+1377,ChatExport_2026-10-01/photos/photo_2448@24-12-2023_12-24-49.jpg,10128,2023-12-24T12:24:49,photo,resultat,EURUSD,vente,,1.09929,,1.09239,"historique semaine (autre compte) : 13 trades, dont EURJPY −2 619 $ ; total +23 785 $"
+1378,ChatExport_2026-10-01/photos/photo_2449@24-12-2023_15-29-05.jpg,10133,2023-12-24T15:29:05,photo,resultat,EURNZD,vente,,1.76301,,1.74675,"historique d'un compte 50 000 $ (lots 2) : EURNZD et EURUSD en gain, GBPJPY −424 $ −221 $ −38 $ ; total +3 016 $"
+1379,assets/tradingview/2023-12/2023-12-26_01h12_msg10148_3f9smlIp.png,10148,2023-12-26T01:12:03,tv,analyse,DXY,vente,D1,,,,BLACKMAKER ; projection vers 101
+1380,ChatExport_2026-10-01/photos/photo_2452@27-12-2023_20-00-45.jpg,10165,2023-12-27T20:00:45,photo,analyse,DXY,vente,D1,,,,TradingView mobile ; zone 101 atteinte
+1381,ChatExport_2026-10-01/photos/photo_2453@28-12-2023_14-56-41.jpg,10168,2023-12-28T14:56:41,photo,analyse,DXY,,H1,,,,TradingView mobile ; rebond dans la zone 101
+1382,ChatExport_2026-10-01/photos/photo_2455@28-12-2023_15-12-30.jpg,10175,2023-12-28T15:12:30,photo,analyse,EURUSD,,H1,,,,"TradingView mobile ; Major larger quarter 1.075, prix 1.1106"
+1383,ChatExport_2026-10-01/photos/photo_2456@28-12-2023_19-37-16.jpg,10179,2023-12-28T19:37:16,photo,analyse,DXY,,H1,,,,TradingView mobile ; rebond dans la zone 101
+1384,ChatExport_2026-10-01/photos/photo_2458@29-12-2023_10-43-52.jpg,10185,2023-12-29T10:43:52,photo,analyse,EURUSD,achat,D1,,,,"TradingView mobile ; Major larger quarter 1.10, repli puis hausse"
+1385,ChatExport_2026-10-01/photos/photo_2459@29-12-2023_13-01-02.jpg,10190,2023-12-29T13:01:02,photo,resultat,EURUSD,vente,,1.10785,,1.10647,"EURUSD sell 1 +455 $, sell 10 +1 380 $ et +1 470 $"
+1386,ChatExport_2026-10-01/photos/photo_2460@29-12-2023_13-01-02.jpg,10191,2023-12-29T13:01:02,photo,trade,EURUSD,vente,M5,,,,"MT4 sell 10 ×2, prix 1.1054"
+1387,ChatExport_2026-10-01/photos/photo_2461@29-12-2023_13-01-03.jpg,10192,2023-12-29T13:01:03,photo,trade,EURUSD,vente,M15,,1.10903,,membre ; MT4 sell 1.37 avec sl
+1388,ChatExport_2026-10-01/photos/photo_2462@29-12-2023_13-01-03.jpg,10193,2023-12-29T13:01:03,photo,trade,GBPUSD,vente,M15,,,,membre ; MT4 sell 1.25
+1389,ChatExport_2026-10-01/photos/photo_2463@29-12-2023_13-01-03.jpg,10195,2023-12-29T13:01:03,photo,resultat,EURUSD,vente,,1.10791,,,"membre (compte EUR) : 3 ventes EURUSD, +9 650 €"
+1390,ChatExport_2026-10-01/photos/photo_2464@29-12-2023_15-22-56.jpg,10197,2023-12-29T15:22:56,photo,resultat,,,,,,,Nova Funding : demande de paiement acceptée
+1391,ChatExport_2026-10-01/photos/photo_2465@29-12-2023_15-31-13.jpg,10198,2023-12-29T15:31:13,photo,resultat,EURNZD,vente,,1.75188,,,"position EURNZD sell 9.00, +2 985 $"
+1392,ChatExport_2026-10-01/photos/photo_2466@29-12-2023_18-00-27.jpg,10207,2023-12-29T18:00:27,photo,resultat,EURNZD,vente,,1.75188,,1.74450,historique : EURNZD sell 9.00 clôturé +4 213 $
+1393,ChatExport_2026-10-01/photos/photo_2468@01-01-2024_19-11-36.jpg,10232,2024-01-01T19:11:36,photo,analyse,EURUSD,vente,D1,,,,"TradingView mobile ; Major larger quarter 1.10, projection baissière"
+1394,assets/tradingview/2024-01/2024-01-02_01h02_msg10238_mCbTPPPm.png,10238,2024-01-02T01:02:14,tv,analyse,EURUSD,vente,D1,,,,BLACKMAKER ; Major whole number 1.10
+1395,assets/tradingview/2024-01/2024-01-02_01h04_msg10240_9G8CZYR5.png,10240,2024-01-02T01:04:10,tv,analyse,EURUSD,vente,D1,,,,"BLACKMAKER ; schéma mardi-mercredi-vendredi, Major larger quarter 1.10"
+1396,ChatExport_2026-10-01/photos/photo_2469@02-01-2024_02-50-20.jpg,10245,2024-01-02T02:50:20,photo,analyse,EURUSD,vente,D1,,,,TradingView mobile ; schéma mardi-mercredi-vendredi
+1397,ChatExport_2026-10-01/photos/photo_2470@02-01-2024_10-14-25.jpg,10246,2024-01-02T10:14:25,photo,analyse,EURUSD,vente,D1,,,,TradingView mobile ; prix sur 1.10
+1398,ChatExport_2026-10-01/photos/photo_2471@02-01-2024_10-15-48.jpg,10247,2024-01-02T10:15:48,photo,resultat,EURNZD,vente,,1.74981,,,"position EURNZD sell 16.00, +5 095 $"
+1399,ChatExport_2026-10-01/photos/photo_2472@02-01-2024_10-17-07.jpg,10249,2024-01-02T10:17:07,photo,resultat,EURNZD,vente,,1.74981,1.75500,,"position EURNZD sell 16.00, +5 247 $"
