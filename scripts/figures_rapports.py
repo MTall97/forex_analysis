@@ -18,6 +18,8 @@ Résultats :
 - fond_test_a.png, fond_tests_b_c.png ; verification_taux.png, stockage_photos.png ;
 - algos_carry_momentum.png, algos_intraday_profil.png ;
 - masterclass_jours_extremes.png, masterclass_promesses.png, masterclass_combinaisons.png ;
+- masterclass_2020_2026_par_annee.png, masterclass_englobante_mlq_controle.png, revue_captures_contenu.png,
+  revue_trades_copiables.png, marc_similarite.png, marc_accord_par_annee.png, verification_tous_les_mois.png ;
 - guide_*.png : schémas des stratégies enseignées (analyses/GUIDE_STRATEGIES.md).
 
 Données : data/flashcards_englobante*.csv (scripts/tester_flashcards_englobante.py),
@@ -808,6 +810,158 @@ def schema_mlq_trade():
     sauver(fig, 'guide_mlq.png')
 
 
+# ------------------------------------------------------------------ analyses du 06/10/2026
+VIOLET = '#8e24aa'
+
+
+def _divergente():
+    from matplotlib.colors import LinearSegmentedColormap
+    return LinearSegmentedColormap.from_list('div', [ROUGE, '#f2f2f2', VERT])
+
+
+def recents():
+    """Masterclass 2020-2026, revue des captures, Marc to Market, vérification mois par mois."""
+    D = 'data/masterclass_2020_2026'
+    if os.path.exists(f'{D}/resume_par_annee.csv'):
+        s = pd.read_csv(f'{D}/resume_par_annee.csv')
+        noms = {'T2 Lundi-mardi-mercredi « trois barres »': 'T2 trois barres',
+                'T3 Lundi et mardi haussiers, mercredi prend le high': 'T3 lundi-mardi haussiers',
+                'T5 MLQ ±25 / stop 50 / objectif 250 pips': 'T5 MLQ 1:5',
+                'Bébé abandonné (journalier)': 'Bébé abandonné (J)', 'Bébé abandonné (horaire)': 'Bébé abandonné (H1)',
+                'Bombe (H1)': 'Bombe (H1)', 'Englobante du mercredi (objectif 2 R)': 'Englobante du mercredi',
+                'Englobante + MLQ (objectif 2 R)': 'Englobante + MLQ',
+                'Trois barres + MLQ (sortie au 3e jour)': 'Trois barres + MLQ',
+                'Englobante « Naruto » (rupture des flashcards)': 'Flashcards « Naruto »'}
+        s['regle'] = s['regle'].map(noms).fillna(s['regle'])
+        m = s.pivot(index='regle', columns='annee', values='r_moyen')
+        n = s.pivot(index='regle', columns='annee', values='n')
+        m = m.loc[[r for r in noms.values() if r in m.index]]
+        fig, ax = plt.subplots(figsize=(9, 5))
+        im = ax.imshow(m.values.astype(float), cmap=_divergente(), vmin=-0.5, vmax=0.5, aspect='auto')
+        for i in range(m.shape[0]):
+            for j in range(m.shape[1]):
+                v = m.values[i, j]
+                if pd.notna(v):
+                    ax.text(j, i, f"{v:+.2f}\n({int(n.loc[m.index[i], m.columns[j]])})", ha='center', va='center',
+                            fontsize=7, color='black')
+        ax.set_xticks(range(m.shape[1]), m.columns)
+        ax.set_yticks(range(m.shape[0]), m.index, fontsize=8)
+        fig.colorbar(im, ax=ax, label='R moyen par trade', shrink=0.8)
+        ax.set_title('Règles de la masterclass, 2020-2026 : R moyen par année (entre parenthèses : trades)', fontsize=10)
+        sauver(fig, 'masterclass_2020_2026_par_annee.png')
+    if os.path.exists(f'{D}/controle_englobante_mlq.csv'):
+        c = pd.read_csv(f'{D}/controle_englobante_mlq.csv')
+        c = c[(c['sens'] == 'achat') & (c['gestion'] == '2R')]
+        ordre = ['MLQ réels', 'décalés de 50 pips', 'décalés de 100 pips', 'décalés de 125 pips',
+                 'décalés de 175 pips', 'décalés de 200 pips', 'toute englobante (témoin)']
+        fig, ax = plt.subplots(figsize=(8.5, 3.8))
+        x = np.arange(len(ordre))
+        for k, (per, coul) in enumerate([('2012-2019', GRIS), ('2020-2026', BLEU)]):
+            v = [c[(c['niveaux'] == o) & (c['periode'] == per)]['r_moyen'].iloc[0] for o in ordre]
+            ax.bar(x + (k - 0.5) * 0.38, v, 0.36, color=coul, label=per, edgecolor='white', linewidth=2)
+            for xi, vi in zip(x, v):
+                ax.text(xi + (k - 0.5) * 0.38, vi + (0.008 if vi >= 0 else -0.022), f'{vi:+.2f}', ha='center', fontsize=7)
+        ax.axhline(0, color='black', lw=0.8)
+        ax.set_ylim(-0.15, 0.24)
+        ax.set_xticks(x, [o.replace('décalés de ', 'décalés\n') for o in ordre], fontsize=8)
+        ax.set_ylabel('R moyen par trade (achats, objectif 2 R)')
+        ax.legend(fontsize=8)
+        ax.set_title('Achat sur englobante qui rejette un MLQ : vrais niveaux contre niveaux décalés', fontsize=10)
+        sauver(fig, 'masterclass_englobante_mlq_controle.png')
+
+    if os.path.exists('data/revue_visuelle_captures.csv'):
+        d = pd.read_csv('data/revue_visuelle_captures.csv')
+        d['annee'] = d['date'].str[:4]
+        t = pd.crosstab(d['annee'], d['categorie'])[['trade', 'resultat', 'analyse', 'autre']]
+        fig, ax = plt.subplots(figsize=(8, 3.8))
+        bas = np.zeros(len(t))
+        for cat, coul, nom in [('trade', BLEU, 'plans de trade'), ('resultat', ORANGE, 'résultats (comptes, gains)'),
+                               ('analyse', VERT, 'analyses'), ('autre', VIOLET, 'autres')]:
+            ax.bar(t.index, t[cat], bottom=bas, color=coul, label=nom, edgecolor='white', linewidth=2, width=0.6)
+            bas += t[cat].values
+        for xi, tot in zip(t.index, bas):
+            ax.text(xi, tot + 6, int(tot), ha='center', fontsize=8)
+        ax.set_ylabel('captures')
+        ax.legend(fontsize=8, ncol=2)
+        ax.set_title('Les 2 240 captures revues à l\'œil, par année et par contenu', fontsize=10)
+        sauver(fig, 'revue_captures_contenu.png')
+    if os.path.exists('data/revue_trades_simules.csv'):
+        s = pd.concat([pd.read_csv('data/trades_simules.csv'), pd.read_csv('data/revue_trades_simules.csv')])
+        s['annee'] = s['date_publication'].str[:4]
+        s['r'] = pd.to_numeric(s['resultat_r'], errors='coerce')
+        fig, axes = plt.subplots(1, 2, figsize=(10, 3.6), sharey=True)
+        for ax, (st, titre) in zip(axes, [('annoncé', 'Publié avant l\'entrée (copiable)'),
+                                         ('après coup', 'Publié après l\'entrée')]):
+            g = s[(s['statut'] == st) & s['issue'].isin(['objectif', 'stop', 'ouvert après 20 jours'])]
+            g = g[g['annee'] >= '2024'].groupby('annee')['r'].agg(['mean', 'size'])
+            ax.bar(g.index, g['mean'], color=BLEU if st == 'annoncé' else GRIS, width=0.55)
+            for xi, (mu, k) in zip(g.index, g.values):
+                ax.text(xi, mu + 0.05 if mu >= 0 else 0.05, f'{mu:+.2f} R\n({int(k)})', ha='center', fontsize=8)
+            ax.axhline(0, color='black', lw=0.8)
+            ax.set_ylim(-0.4, 2.0)
+            ax.set_title(titre, fontsize=9)
+        axes[0].set_ylabel('R moyen par trade')
+        fig.suptitle('Trades d\'Amirou rejoués sur les cours horaires, 2024-2026 (entre parenthèses : trades)', fontsize=10)
+        sauver(fig, 'revue_trades_copiables.png')
+
+    M = 'data/marc_to_market'
+    if os.path.exists(f'{M}/similarite_paragraphes.csv'):
+        d = pd.read_csv(f'{M}/similarite_paragraphes.csv')
+        d['groupe'] = np.where(d['source'] == 'pdf', 'PDF 2026', 'canal ' + d['date_utc'].str[:4])
+        g = d.groupby('groupe')[['sim_avant', 'sim_apres', 'sim_un_an_avant']].mean()
+        g = g.loc[[i for i in g.index if i.startswith('canal')] + ['PDF 2026']]
+        fig, ax = plt.subplots(figsize=(9, 3.8))
+        x = np.arange(len(g))
+        for k, (col, coul, nom) in enumerate([('sim_avant', BLEU, '7 jours avant (Amirou a pu les lire)'),
+                                              ('sim_apres', ORANGE, '7 jours après (témoin)'),
+                                              ('sim_un_an_avant', GRIS, 'un an avant (témoin)')]):
+            ax.bar(x + (k - 1) * 0.27, g[col], 0.25, color=coul, label=nom, edgecolor='white', linewidth=1)
+        ax.set_xticks(x, g.index, fontsize=8)
+        ax.set_ylabel('similarité moyenne (0 à 1)')
+        ax.legend(fontsize=8, loc='upper left')
+        ax.set_title('Paragraphes d\'Amirou et billets de Marc Chandler : aussi proches avant qu\'après', fontsize=10)
+        sauver(fig, 'marc_similarite.png')
+    if os.path.exists(f'{M}/resultats.json'):
+        import json
+        r = json.load(open(f'{M}/resultats.json'))
+        a = r['trades_amirou_par_annee']
+        ans = sorted(a)
+        fig, ax = plt.subplots(figsize=(8, 3.4))
+        v = [a[k]['meme_sens_pct'] for k in ans]
+        ax.bar(ans, v, color=BLEU, width=0.55)
+        for xi, vi, k in zip(ans, v, ans):
+            ax.text(xi, vi + 1.5, f"{vi:.0f} %\n({a[k]['n']})", ha='center', fontsize=8)
+        ax.axhline(50, color='black', ls='--', lw=0.8)
+        ax.text(len(ans) - 0.5, 51, 'hasard : 50 %', fontsize=7, ha='right')
+        ax.set_ylim(0, 85)
+        ax.set_ylabel('% des trades dans le sens de Chandler')
+        ax.set_title('Trades d\'Amirou dans le sens de l\'avis de Chandler (3 jours avant), par année', fontsize=10)
+        sauver(fig, 'marc_accord_par_annee.png')
+
+    if os.path.exists('data/verification_mensuelle.csv'):
+        m = pd.read_csv('data/verification_mensuelle.csv')
+        m['annee'] = m['mois'].str[:4]
+        a = m.groupby('annee')[['canal_tp', 'canal_sl', 'canal_be', 'canal_non_decl', 'canal_flottant', 'canal_rien']].sum()
+        b = m.groupby('annee')[['cours_objectif', 'cours_stop', 'cours_non_decl', 'cours_apres_coup', 'cours_inconnu']].sum()
+        fig, axes = plt.subplots(1, 2, figsize=(11, 4), sharey=True)
+        for ax, tab, series, titre in [
+                (axes[0], a, [('canal_tp', VERT, 'TP / gain'), ('canal_sl', ROUGE, 'SL'), ('canal_be', GRIS, 'BE'),
+                              ('canal_non_decl', VIOLET, 'non déclenché'), ('canal_flottant', ORANGE, 'gain flottant seul'),
+                              ('canal_rien', '#d9d9d9', 'aucune issue publiée')], 'Ce que dit le canal'),
+                (axes[1], b, [('cours_objectif', VERT, 'objectif'), ('cours_stop', ROUGE, 'stop'),
+                              ('cours_non_decl', VIOLET, 'non déclenché'), ('cours_apres_coup', ORANGE, 'publié après l\'entrée'),
+                              ('cours_inconnu', '#d9d9d9', 'pas de niveaux')], 'Ce que montrent les cours')]:
+            bas = np.zeros(len(tab))
+            for col, coul, nom in series:
+                ax.bar(tab.index, tab[col], bottom=bas, color=coul, label=nom, edgecolor='white', linewidth=1.5, width=0.6)
+                bas += tab[col].values
+            ax.set_title(titre, fontsize=9)
+            ax.legend(fontsize=7)
+        axes[0].set_ylabel('trades')
+        fig.suptitle('Tous les trades d\'Amirou, 2019-2026 : issue publiée et issue réelle', fontsize=10)
+        sauver(fig, 'verification_tous_les_mois.png')
+
+
 def main():
     os.makedirs(SORTIE, exist_ok=True)
     schema_englobante()
@@ -828,6 +982,7 @@ def main():
     schema_structure()
     schema_mlq_trade()
     masterclass()
+    recents()
 
 
 if __name__ == '__main__':

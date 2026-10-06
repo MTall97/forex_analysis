@@ -23,6 +23,8 @@
 
 ## 1. Ce que contiennent les captures
 
+![Captures par année et par contenu](../assets/figures/revue_captures_contenu.png)
+
 | Année | Trades (plans) | Résultats (comptes, gains) | Analyses | Autres | Total | dont membres ou tiers |
 |---|---|---|---|---|---|---|
 | 2021 | 224 | 44 | 185 | 46 | 499 | 88 |
@@ -95,6 +97,8 @@ En 2026 apparaissent aussi EURNOK (« EURNOK ~ 1/USOIL », #14951), le Dow Jones
 | Publié avant l'entrée (copiable) | 34 | 13 | 19 | 15 | 16 | 22 | 119 |
 | Publié **après** l'entrée (« après coup ») | 3 | 2 | 1 | 14 | 13 | 29 | 62 |
 | Incohérent (prix déjà au-delà du stop) | 0 | 4 | 0 | 1 | 0 | 2 | 7 |
+
+![Trades rejoués, copiables ou publiés après l'entrée](../assets/figures/revue_trades_copiables.png)
 
 **Résultat des trades copiables qui se sont déclenchés** :
 
