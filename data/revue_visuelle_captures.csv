@@ -571,3 +571,63 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 569,ChatExport_2026-10-01/photos/photo_1563@07-02-2022_16-44-45.jpg,5597,2022-02-07T16:44:45,photo,autre,,,,,,,liste CoinMarketCap
 570,assets/tradingview/2022-02/2022-02-08_05h19_msg5603_oPO8uFvy.png,5603,2022-02-08T05:19:46,tv,trade,NZDUSD,vente,M5,0.66483,0.66552,0.65918,prix 0.66371
 571,ChatExport_2026-10-01/photos/photo_1564@08-02-2022_05-22-47.jpg,5605,2022-02-08T05:22:47,photo,trade,NZDUSD,vente,M15,0.6650,0.6646,,MT4 ; stop remonté ; prix 0.66367
+572,ChatExport_2026-10-01/photos/photo_1565@11-02-2022_18-57-08.jpg,5608,2022-02-11T18:57:08,photo,analyse,XAUUSD,,H1,,,,"cassure, oblique"
+573,assets/tradingview/2022-02/2022-02-11_19h12_msg5611_KYue0fSw.png,5611,2022-02-11T19:12:53,tv,trade,NZDJPY,vente,H1,77.913,78.033,76.113,prix 76.647
+574,assets/tradingview/2022-02/2022-02-16_22h14_msg5615_cdQFQ0ZN.png,5615,2022-02-16T22:14:16,tv,trade,EURUSD,achat,H1,1.1280,1.1270,1.1395,niveaux approximatifs ; +115.8 pips affichés ; prix 1.13744
+575,ChatExport_2026-10-01/photos/photo_1567@18-02-2022_18-41-28.jpg,5620,2022-02-18T18:41:28,photo,trade,NZDUSD,vente,H1,0.67283,0.67357,0.65924,prix 0.66960
+576,assets/tradingview/2022-02/2022-02-21_19h29_msg5626_lLD88ZY1.png,5626,2022-02-21T19:29:15,tv,trade,NZDJPY,vente,H1,77.882,78.033,75.079,prix 76.901
+577,ChatExport_2026-10-01/photos/photo_1569@25-02-2022_16-26-46.jpg,5638,2022-02-25T16:26:46,photo,analyse,XAUUSD,,H1,,,,zone d'achat (guerre en Ukraine)
+578,ChatExport_2026-10-01/photos/photo_1571@01-03-2022_16-05-16.jpg,5644,2022-03-01T16:05:16,photo,trade,AUDUSD,vente,H1,0.72729,0.72940,0.70893,prix 0.72572
+579,ChatExport_2026-10-01/photos/photo_1572@01-03-2022_16-05-33.jpg,5645,2022-03-01T16:05:33,photo,trade,USDJPY,achat,H1,114.682,114.565,115.866,prix 114.895
+580,ChatExport_2026-10-01/photos/photo_1573@01-03-2022_16-06-00.jpg,5646,2022-03-01T16:06:00,photo,analyse,NZDJPY,,H1,,,,niveaux 78.2-78.4
+581,ChatExport_2026-10-01/photos/photo_1574@01-03-2022_16-06-14.jpg,5647,2022-03-01T16:06:14,photo,analyse,NZDUSD,,H1,,,,niveaux 0.680 / 0.675 (MLQ)
+582,assets/tradingview/2022-03/2022-03-28_18h10_msg5674_jHyXJAwt.png,5674,2022-03-28T18:10:10,tv,trade,XAUUSD,achat,H1,1920.629,1905.531,2075.052,
+583,assets/tradingview/2022-03/2022-03-30_11h41_msg5680_UMQJtk1V.png,5680,2022-03-30T11:41:29,tv,analyse,USDJPY,,H1,,,,climax sur le MLQ 125.000 ; « major whole number » 120
+584,assets/tradingview/2022-03/2022-03-30_11h42_msg5682_RwtMbtFQ.png,5682,2022-03-30T11:42:36,tv,analyse,EURJPY,,H1,,,,MLQ 137.5 et 135.0
+585,ChatExport_2026-10-01/photos/photo_1579@20-04-2022_16-36-41.jpg,5723,2022-04-20T16:36:41,photo,trade,GBPJPY,vente,H1,167.624,167.780,166.062,prix 166.876
+586,ChatExport_2026-10-01/photos/photo_1580@20-04-2022_16-38-07.jpg,5724,2022-04-20T16:38:07,photo,trade,GBPJPY,vente,M5,167.62,167.56,,MT4 sell ; stop remonté ; prix 166.80
+587,assets/tradingview/2022-04/2022-04-20_17h23_msg5727_M1ixh8pz.png,5727,2022-04-20T17:23:11,tv,trade,GBPJPY,vente,M1,167.664,167.780,166.6,« quarter point » 167.5 ; prix 166.719
+588,assets/tradingview/2022-04/2022-04-20_17h23_msg5728_mASSL8hu.png,5728,2022-04-20T17:23:32,tv,trade,GBPJPY,vente,M1,167.664,167.780,166.4,objectif approximatif ; prix 166.730
+589,assets/tradingview/2022-04/2022-04-21_07h12_msg5735_3xPjUCh1.png,5735,2022-04-21T07:12:02,tv,analyse,USDCHF,,M3,,,,niveau 0.95000 (MLQ)
+590,assets/tradingview/2022-04/2022-04-21_07h12_msg5736_ddZAgzkf.png,5736,2022-04-21T07:12:12,tv,trade,USDCHF,vente,M1,0.95103,0.95158,0.94673,TP atteint
+591,ChatExport_2026-10-01/photos/photo_1581@21-04-2022_17-17-38.jpg,5744,2022-04-21T17:17:38,photo,trade,EURUSD,vente,M15,1.09248,1.09261,1.08505,membre ; RR 57 ; TP atteint
+592,ChatExport_2026-10-01/photos/photo_1582@21-04-2022_17-18-50.jpg,5745,2022-04-21T17:18:50,photo,trade,EURUSD,vente,M3,1.09210,1.09248,1.08662,membre (diarrabouna737) ; prix 1.08910
+593,ChatExport_2026-10-01/photos/photo_1583@21-04-2022_17-19-11.jpg,5746,2022-04-21T17:19:11,photo,trade,EURUSD,vente,M5,1.0919,1.0902,,MT5 d'un membre : sell 0.80 ; stop remonté ; prix 1.08911
+594,assets/tradingview/2022-04/2022-04-21_17h30_msg5748_8m25JLzd.png,5748,2022-04-21T17:30:06,tv,analyse,EURJPY,,M15,,,,MLQ 140.000
+595,assets/tradingview/2022-04/2022-04-21_17h31_msg5750_O8gKdMMr.png,5750,2022-04-21T17:31:51,tv,analyse,AUDJPY,,H1,,,,MLQ 95.000
+596,assets/tradingview/2022-04/2022-04-21_17h33_msg5751_dGKTusDQ.png,5751,2022-04-21T17:33:06,tv,analyse,GBPUSD,,H1,,,,« major whole number » 1.30
+597,assets/tradingview/2022-04/2022-04-22_18h03_msg5752_8OamrANK.png,5752,2022-04-22T18:03:25,tv,trade,AUDUSD,vente,M1,0.7447,0.7450,0.7417,"membre, niveaux approximatifs (petits chiffres)"
+598,ChatExport_2026-10-01/photos/photo_1584@25-04-2022_03-47-54.jpg,5753,2022-04-25T03:47:54,photo,trade,AUDUSD,vente,H4,0.74663,,,"membre : sell, en gain (prix 0.71865)"
+599,ChatExport_2026-10-01/photos/photo_1585@26-04-2022_07-15-32.jpg,5757,2022-04-26T07:15:32,photo,trade,EURJPY,vente,H1,137.416,137.445,136.8,membre (bouba-Arawani) ; partiels
+600,ChatExport_2026-10-01/photos/photo_1586@26-04-2022_07-15-32.jpg,5758,2022-04-26T07:15:32,photo,trade,EURJPY,vente,M2,137.416,137.445,136.799,membre ; partiels 30 % ; TP atteint
+601,ChatExport_2026-10-01/photos/photo_1587@26-04-2022_07-15-32.jpg,5759,2022-04-26T07:15:32,photo,trade,EURJPY,vente,M5,137.42,137.44,136.80,MT4 d'un membre ; TP atteint
+602,assets/tradingview/2022-04/2022-04-28_16h58_msg5774_9IW3LDec.png,5774,2022-04-28T16:58:22,tv,analyse,AUDUSD,,W,,,,membre
+603,assets/tradingview/2022-04/2022-04-28_16h58_msg5774_AFex32JT.png,5774,2022-04-28T16:58:22,tv,analyse,AUDUSD,,D1,,,,membre
+604,assets/tradingview/2022-04/2022-04-28_16h58_msg5774_EfyiW8Ml.png,5774,2022-04-28T16:58:22,tv,trade,AUDUSD,vente,M5,0.7440,0.7445,0.7340,"membre, niveaux approximatifs"
+605,assets/tradingview/2022-04/2022-04-28_16h58_msg5774_NRDz8GgW.png,5774,2022-04-28T16:58:22,tv,trade,AUDUSD,vente,M1,0.7445,0.7448,0.7431,"membre, niveaux approximatifs"
+606,assets/tradingview/2022-04/2022-04-28_16h58_msg5774_QiEDKMcr.png,5774,2022-04-28T16:58:22,tv,analyse,AUDUSD,,M30,,,,membre
+607,assets/tradingview/2022-04/2022-04-28_16h58_msg5774_YtsPl9fS.png,5774,2022-04-28T16:58:22,tv,analyse,AUDUSD,,H1,,,,membre
+608,assets/tradingview/2022-04/2022-04-28_16h58_msg5774_lQT8DL9X.png,5774,2022-04-28T16:58:22,tv,analyse,AUDUSD,,H4,,,,membre
+609,assets/tradingview/2022-04/2022-04-28_16h58_msg5774_oThtKgVq.png,5774,2022-04-28T16:58:22,tv,trade,AUDUSD,vente,M2,0.7448,0.7452,0.7410,"membre, niveaux approximatifs"
+610,ChatExport_2026-10-01/photos/photo_1596@12-05-2022_08-42-58.jpg,5785,2022-05-12T08:42:58,photo,resultat,,,,,,,compte d'évaluation d'un membre : +832.50 $
+611,ChatExport_2026-10-01/photos/photo_1597@12-05-2022_08-43-44.jpg,5787,2022-05-12T08:43:44,photo,trade,GBPUSD,achat,M3,1.22707,1.22649,1.23451,membre (diarrabouna737) ; TP atteint
+612,assets/tradingview/2022-05/2022-05-12_08h43_msg5788_OikM083t.png,5788,2022-05-12T08:43:44,tv,trade,AUDUSD,achat,M1,0.6939,0.6935,0.7025,"membre (lmarytrapeis), niveaux approximatifs ; TP atteint"
+613,ChatExport_2026-10-01/photos/photo_1598@12-05-2022_08-43-44.jpg,5789,2022-05-12T08:43:44,photo,trade,GBPUSD,vente,M1,1.23694,1.23751,1.2320,membre (papytocoulibaly30) ; deux entrées
+614,ChatExport_2026-10-01/photos/photo_1599@12-05-2022_08-43-44.jpg,5790,2022-05-12T08:43:44,photo,trade,GBPUSD,vente,M1,1.23707,1.23764,1.2290,membre ; RR 15 ; TP atteint
+615,ChatExport_2026-10-01/photos/photo_1600@13-05-2022_09-49-38.jpg,5798,2022-05-13T09:49:38,photo,resultat,,,,,,,compte d'un membre : +1 011.70 $ sur 20 000 $
+616,ChatExport_2026-10-01/photos/photo_1601@13-05-2022_10-37-00.jpg,5805,2022-05-13T10:37:00,photo,trade,GBPUSD,vente,M1,1.2224,,,MT5 d'un membre : sell 0.80 ; prix 1.22027
+617,ChatExport_2026-10-01/photos/photo_1602@13-05-2022_10-37-07.jpg,5806,2022-05-13T10:37:07,photo,trade,GBPUSD,vente,M1,1.22257,1.22285,1.21931,membre (diarrabouna737) ; TP atteint
+618,assets/tradingview/2022-05/2022-05-18_11h22_msg5819_gu5a12hx.png,5819,2022-05-18T11:22:09,tv,analyse,GBPUSD,,H1,,,,MLQ 1.25000
+619,assets/tradingview/2022-05/2022-05-18_11h27_msg5822_29XrbuH0.png,5822,2022-05-18T11:27:47,tv,analyse,GBPJPY,,H1,,,,zone
+620,ChatExport_2026-10-01/photos/photo_1603@18-05-2022_11-30-35.jpg,5823,2022-05-18T11:30:35,photo,trade,AUDUSD,vente,M5,0.70364,0.70389,0.6995,membre (mistercars223) ; partiels 80 %
+621,ChatExport_2026-10-01/photos/photo_1604@18-05-2022_11-30-35.jpg,5824,2022-05-18T11:30:35,photo,trade,AUDUSD,vente,M5,0.7034,0.7021,,MT4 d'un membre ; stop remonté ; prix 0.70131
+622,assets/tradingview/2022-05/2022-05-18_11h34_msg5827_0BG1dnZJ.png,5827,2022-05-18T11:34:46,tv,analyse,USDCAD,,D1,,,,
+623,assets/tradingview/2022-05/2022-05-18_11h36_msg5829_ZBznT1kX.png,5829,2022-05-18T11:36:42,tv,analyse,USDCAD,,H4,,,,
+624,assets/tradingview/2022-05/2022-05-18_11h38_msg5830_uwUyIx12.png,5830,2022-05-18T11:38:53,tv,analyse,USDCAD,,H1,,,,"catalyst, impulse phase, liquidité"
+625,assets/tradingview/2022-05/2022-05-18_11h40_msg5831_94LXeqa6.png,5831,2022-05-18T11:40:44,tv,analyse,USDCAD,,M15,,,,"accumulation, CHOC ?"
+626,assets/tradingview/2022-05/2022-05-18_11h42_msg5833_XcdQivcc.png,5833,2022-05-18T11:42:25,tv,analyse,USDCAD,,M15,,,,accumulation
+627,assets/tradingview/2022-05/2022-05-18_22h22_msg5835_ev7JQ6e3.png,5835,2022-05-18T22:22:26,tv,analyse,USDCAD,,M15,,,,"accumulation, sortie haussière"
+628,ChatExport_2026-10-01/photos/photo_1609@01-06-2022_19-11-38.jpg,5851,2022-06-01T19:11:38,photo,trade,EURUSD,vente,M5,,,,"photo d'écran, « back to reality »"
+629,ChatExport_2026-10-01/photos/photo_1610@01-06-2022_19-12-11.jpg,5852,2022-06-01T19:12:11,photo,trade,EURUSD,vente,M5,,,,"photo d'écran, vente en gain"
+630,assets/tradingview/2022-06/2022-06-30_19h55_msg5901_TslMA82P.png,5901,2022-06-30T19:55:18,tv,trade,EURUSD,achat,H1,1.03869,1.03819,1.0480,objectif approximatif ; LPS
+631,ChatExport_2026-10-01/photos/photo_1612@05-07-2022_09-49-53.jpg,5909,2022-07-05T09:49:53,photo,resultat,,,,,,,FTMO d'un membre (Sidi Boubacar) : +1 607 $ (objectif 1 250 $)
