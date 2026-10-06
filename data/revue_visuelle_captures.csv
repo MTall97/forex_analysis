@@ -311,3 +311,123 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 309,assets/tradingview/2021-09/2021-09-30_18h47_msg4550_fnBUronu.png,4550,2021-09-30T18:47:45,tv,analyse,EURUSD,,H4,,,,« niveau algo » 1.15000
 310,assets/tradingview/2021-10/2021-10-03_23h39_msg4555_WTX6uuDo.png,4555,2021-10-03T23:39:52,tv,trade,AUDUSD,vente,H1,0.73111,0.73150,0.72267,TP atteint
 311,assets/tradingview/2021-10/2021-10-03_23h41_msg4558_wCTmW92s.png,4558,2021-10-03T23:41:20,tv,analyse,XAUUSD,,M5,,,,zone d'achat
+312,assets/tradingview/2021-10/2021-10-04_00h27_msg4564_48cQ8ku8.png,4564,2021-10-04T00:27:16,tv,trade,AUDUSD,achat,M1,0.72515,0.72488,0.7290,objectif approximatif ; en gain (prix 0.72750)
+313,assets/tradingview/2021-10/2021-10-04_14h23_msg4568_qnXgE8kj.png,4568,2021-10-04T14:23:47,tv,trade,XAUUSD,achat,M5,1748.889,1748.223,1763.705,prix 1759.92
+314,assets/tradingview/2021-10/2021-10-04_14h41_msg4573_DwEUdakF.png,4573,2021-10-04T14:41:32,tv,analyse,EURJPY,,H1,,,,zone d'achat
+315,assets/tradingview/2021-10/2021-10-04_14h42_msg4575_ngiiphsA.png,4575,2021-10-04T14:42:04,tv,trade,EURJPY,vente,M1,129.337,129.366,128.939,TP atteint
+316,assets/tradingview/2021-10/2021-10-05_13h21_msg4579_ZcC0ddJI.png,4579,2021-10-05T13:21:09,tv,analyse,XAUUSD,,M5,,,,"niveaux 1750.707 / 1748.585, projection haussière"
+317,assets/tradingview/2021-10/2021-10-05_13h32_msg4581_tMCzrzIt.png,4581,2021-10-05T13:32:50,tv,analyse,EURGBP,,H1,,,,"projection baissière 145 pips, zone invalidée (croix)"
+318,assets/tradingview/2021-10/2021-10-05_13h50_msg4585_YeHPlaum.png,4585,2021-10-05T13:50:09,tv,analyse,EURNZD,,H4,,,,Wyckoff
+319,assets/tradingview/2021-10/2021-10-05_15h43_msg4590_B5bNJsx0.png,4590,2021-10-05T15:43:11,tv,analyse,XAUUSD,,M5,,,,projection haussière
+320,ChatExport_2026-10-01/photos/photo_1374@05-10-2021_16-24-36.jpg,4592,2021-10-05T16:24:36,photo,resultat,,,,,,,FTMO d'un membre : +1 401 €
+321,ChatExport_2026-10-01/photos/photo_1375@05-10-2021_16-54-02.jpg,4594,2021-10-05T16:54:02,photo,resultat,,,,,,,"historique d'un membre : ordres limites NAS100, US30, or"
+322,assets/tradingview/2021-10/2021-10-06_14h11_msg4601_MBMEMDWa.png,4601,2021-10-06T14:11:16,tv,analyse,GBPUSD,,H1,,,,"projection baissière, zone invalidée"
+323,ChatExport_2026-10-01/photos/photo_1376@06-10-2021_14-11-39.jpg,4602,2021-10-06T14:11:39,photo,analyse,GBPUSD,,M1,,,,zone invalidée
+324,assets/tradingview/2021-10/2021-10-08_15h38_msg4610_EFxcqbYh.png,4610,2021-10-08T15:38:38,tv,trade,XAUUSD,achat,M1,1754.770,1754.200,,entrée non atteinte ? (zone barrée)
+325,assets/tradingview/2021-10/2021-10-15_16h50_msg4624_8AZMAvMC.png,4624,2021-10-15T16:50:23,tv,trade,EURUSD,vente,H1,1.16086,1.16111,1.15853,prix 1.15940
+326,assets/tradingview/2021-10/2021-10-15_16h53_msg4626_Q3QQVI3i.png,4626,2021-10-15T16:53:09,tv,trade,EURUSD,vente,M5,1.16086,1.16111,1.15853,même trade que [325]
+327,assets/tradingview/2021-10/2021-10-19_04h57_msg4631_lchVXQwV.png,4631,2021-10-19T04:57:28,tv,trade,XAUUSD,achat,M5,1761.6,1761.2,1773.0,niveaux approximatifs ; en gain
+328,assets/tradingview/2021-10/2021-10-19_04h59_msg4634_P9pElmKc.png,4634,2021-10-19T04:59:22,tv,trade,XAUUSD,achat,M15,1762.4,1761.8,1799.8,niveaux approximatifs ; en gain
+329,assets/tradingview/2021-10/2021-10-19_15h15_msg4637_RAT3r02q.png,4637,2021-10-19T15:15:24,tv,analyse,DXY,,H4,,,,zone
+330,ChatExport_2026-10-01/photos/photo_1378@19-10-2021_17-50-33.jpg,4640,2021-10-19T17:50:33,photo,autre,,,,,,,dessin humoristique sur un graphique crypto
+331,assets/tradingview/2021-10/2021-10-24_03h35_msg4643_rtlIn0F8.png,4643,2021-10-24T03:35:37,tv,analyse,WAXPUSDT,,H4,,,,crypto
+332,ChatExport_2026-10-01/photos/photo_1380@24-10-2021_03-40-21.jpg,4647,2021-10-24T03:40:21,photo,autre,,,,,,,portefeuille crypto : 41 340 WAXP (12 698 $)
+333,assets/tradingview/2021-10/2021-10-25_16h44_msg4653_CucPo8K7.png,4653,2021-10-25T16:44:08,tv,analyse,XAUUSD,,H4,,,,"intention, oblique"
+334,assets/tradingview/2021-10/2021-10-26_16h14_msg4660_UDsiv8UX.png,4660,2021-10-26T16:14:30,tv,trade,XAUUSD,vente,M5,1812.132,1814.158,1783.079,TP atteint ou presque (prix 1791.6 après plus bas)
+335,ChatExport_2026-10-01/photos/photo_1382@27-10-2021_22-31-32.jpg,4663,2021-10-27T22:31:32,photo,autre,,,,,,,liste CoinMarketCap
+336,ChatExport_2026-10-01/photos/photo_1383@27-10-2021_22-32-10.jpg,4664,2021-10-27T22:32:10,photo,autre,,,,,,,liste CoinMarketCap
+337,ChatExport_2026-10-01/photos/photo_1384@29-10-2021_03-07-44.jpg,4669,2021-10-29T03:07:44,photo,autre,,,,,,,portefeuille crypto : WAXP 14 755 $
+338,ChatExport_2026-10-01/photos/photo_1385@29-10-2021_03-55-21.jpg,4670,2021-10-29T03:55:21,photo,analyse,EURCAD,,D1,,,,"élève (Tanimoune01), projection haussière"
+339,ChatExport_2026-10-01/photos/photo_1386@29-10-2021_03-55-21.jpg,4671,2021-10-29T03:55:21,photo,analyse,EURCAD,,M45,,,,"élève, accumulation"
+340,ChatExport_2026-10-01/photos/photo_1387@29-10-2021_03-55-21.jpg,4672,2021-10-29T03:55:21,photo,analyse,EURCAD,,H1,,,,"élève, possibilité de vente"
+341,ChatExport_2026-10-01/photos/photo_1390@29-10-2021_16-39-14.jpg,4680,2021-10-29T16:39:14,photo,analyse,EURUSD,,M30,,,,élève
+342,ChatExport_2026-10-01/photos/photo_1391@31-10-2021_00-21-45.jpg,4685,2021-10-31T00:21:45,photo,autre,,,,,,,CoinMarketCap : WAXP +20 %
+343,ChatExport_2026-10-01/photos/photo_1392@31-10-2021_00-22-45.jpg,4688,2021-10-31T00:22:45,photo,autre,,,,,,,portefeuille crypto : 0.33 BTC
+344,ChatExport_2026-10-01/photos/photo_1393@31-10-2021_00-24-15.jpg,4690,2021-10-31T00:24:15,photo,analyse,WAXPUSDT,,H1,,,,crypto
+345,assets/tradingview/2021-10/2021-10-31_06h30_msg4694_bzJoO1eN.png,4694,2021-10-31T06:30:56,tv,analyse,BANDUSDT,,D1,,,,crypto
+346,ChatExport_2026-10-01/photos/photo_1395@31-10-2021_16-15-45.jpg,4696,2021-10-31T16:15:45,photo,autre,,,,,,,portefeuille crypto : BAND
+347,ChatExport_2026-10-01/photos/photo_1396@31-10-2021_20-21-45.jpg,4698,2021-10-31T20:21:45,photo,autre,,,,,,,portefeuille crypto : BAND
+348,ChatExport_2026-10-01/photos/photo_1397@31-10-2021_20-22-49.jpg,4699,2021-10-31T20:22:49,photo,autre,,,,,,,CoinMarketCap : BAND
+349,ChatExport_2026-10-01/photos/photo_1398@01-11-2021_17-52-58.jpg,4700,2021-11-01T17:52:58,photo,autre,,,,,,,portefeuille crypto : BAND
+350,assets/tradingview/2021-11/2021-11-04_15h02_msg4716_7PJwyOcj.png,4716,2021-11-04T15:02:25,tv,trade,GBPUSD,achat,H4,1.37637,1.37559,1.38298,stop touché (prix 1.35015)
+351,assets/tradingview/2021-11/2021-11-04_15h20_msg4719_ORTKalnX.png,4719,2021-11-04T15:20:49,tv,analyse,USDCAD,,H4,,,,oblique
+352,assets/tradingview/2021-11/2021-11-04_15h22_msg4720_YCevER7c.png,4720,2021-11-04T15:22:03,tv,analyse,USDCAD,,H1,,,,canal et liquidité
+353,assets/tradingview/2021-11/2021-11-05_14h47_msg4725_2M217Jgb.png,4725,2021-11-05T14:47:18,tv,analyse,GBPUSD,,M15,,,,projection hausse puis baisse
+354,ChatExport_2026-10-01/photos/photo_1401@05-11-2021_17-09-50.jpg,4730,2021-11-05T17:09:50,photo,autre,,,,,,,portefeuille crypto : GRT
+355,assets/tradingview/2021-11/2021-11-07_18h34_msg4731_MBRiPLOj.png,4731,2021-11-07T18:34:49,tv,analyse,GRTUSDT,,D1,,,,crypto
+356,assets/tradingview/2021-11/2021-11-08_14h42_msg4740_p0eoSUFC.png,4740,2021-11-08T14:42:14,tv,analyse,GBPJPY,,H1,,,,zone
+357,assets/tradingview/2021-11/2021-11-08_14h43_msg4741_9zMs1S98.png,4741,2021-11-08T14:43:05,tv,analyse,GBPJPY,,M5,,,,zone de vente 153.6
+358,assets/tradingview/2021-11/2021-11-08_14h50_msg4744_O46uBZIQ.png,4744,2021-11-08T14:50:45,tv,analyse,GRTUSDT,,D1,,,,crypto
+359,ChatExport_2026-10-01/photos/photo_1402@08-11-2021_14-55-37.jpg,4747,2021-11-08T14:55:37,photo,trade,EURJPY,vente,M5,131.25,131.31,130.87,"MT4, niveaux approximatifs ; prix 130.96"
+360,assets/tradingview/2021-11/2021-11-08_18h31_msg4751_IgKCcRey.png,4751,2021-11-08T18:31:09,tv,analyse,GBPUSD,,M15,,,,niveaux 1.35739 / 1.35534
+361,assets/tradingview/2021-11/2021-11-08_18h34_msg4753_4MViEpHC.png,4753,2021-11-08T18:34:00,tv,analyse,GBPUSD,,M3,,,,canal
+362,assets/tradingview/2021-11/2021-11-08_18h40_msg4756_eECDTnTX.png,4756,2021-11-08T18:40:57,tv,autre,,,,,,,schéma pédagogique « comprendre la liquidité » (la pluie)
+363,assets/tradingview/2021-11/2021-11-09_15h18_msg4761_62WmS5Ld.png,4761,2021-11-09T15:18:55,tv,analyse,GBPUSD,,M15,,,,niveaux 1.35741 / 1.35534
+364,assets/tradingview/2021-11/2021-11-09_15h23_msg4764_G61RStyj.png,4764,2021-11-09T15:23:29,tv,trade,GBPUSD,vente,M15,1.36000,1.36081,1.3440,objectif approximatif ; ordre au-dessus du prix (1.35344)
+365,assets/tradingview/2021-11/2021-11-09_15h36_msg4775_szjUzWOl.png,4775,2021-11-09T15:36:01,tv,analyse,GRTUSDT,,H4,,,,crypto
+366,ChatExport_2026-10-01/photos/photo_1405@09-11-2021_15-38-47.jpg,4776,2021-11-09T15:38:47,photo,autre,,,,,,,portefeuille crypto : GRT
+367,ChatExport_2026-10-01/photos/photo_1406@11-11-2021_15-44-28.jpg,4785,2021-11-11T15:44:28,photo,autre,,,,,,,liste CoinMarketCap
+368,assets/tradingview/2021-11/2021-11-11_17h22_msg4801_nKEeMX5L.png,4801,2021-11-11T17:22:10,tv,analyse,AUDJPY,,H1,,,,zone
+369,assets/tradingview/2021-11/2021-11-11_17h25_msg4802_IZNfdGZq.png,4802,2021-11-11T17:25:17,tv,trade,AUDJPY,achat,M5,83.05,82.95,84.15,niveaux approximatifs (petits chiffres)
+370,assets/tradingview/2021-11/2021-11-12_00h57_msg4804_EuO14RLe.png,4804,2021-11-12T00:57:01,tv,analyse,USDJPY,,M5,,,,zone 114.20-114.25
+371,assets/tradingview/2021-11/2021-11-12_01h14_msg4808_rWlpNEbI.png,4808,2021-11-12T01:14:12,tv,analyse,USDJPY,,M1,,,,zone
+372,assets/tradingview/2021-11/2021-11-12_13h55_msg4811_TbfAHA1O.png,4811,2021-11-12T13:55:02,tv,analyse,USDJPY,,H1,,,,zone de validation
+373,assets/tradingview/2021-11/2021-11-12_20h05_msg4820_1xsUrrQ4.png,4820,2021-11-12T20:05:47,tv,analyse,USDJPY,,M15,,,,"validation, BOS"
+374,assets/tradingview/2021-11/2021-11-13_19h12_msg4823_aa3RWb7Y.png,4823,2021-11-13T19:12:38,tv,analyse,EURNZD,,H1,,,,"manipulation, POI validé"
+375,assets/tradingview/2021-11/2021-11-13_19h14_msg4826_bsvAC4vw.png,4826,2021-11-13T19:14:20,tv,analyse,EURNZD,,H4,,,,idem
+376,ChatExport_2026-10-01/photos/photo_1408@14-11-2021_23-48-57.jpg,4834,2021-11-14T23:48:57,photo,autre,,,,,,,CoinMarketCap : WAXP +34 %
+377,assets/tradingview/2021-11/2021-11-15_16h38_msg4837_0qHZQAwC.png,4837,2021-11-15T16:38:11,tv,analyse,AUDUSD,,H1,,,,projection baissière
+378,assets/tradingview/2021-11/2021-11-15_16h40_msg4840_7jZVrQnp.png,4840,2021-11-15T16:40:28,tv,analyse,USDCAD,,H1,,,,zone de validation
+379,assets/tradingview/2021-11/2021-11-15_16h41_msg4842_TujLPUQW.png,4842,2021-11-15T16:41:39,tv,trade,AUDJPY,achat,H1,83.05,82.95,84.19,niveaux approximatifs ; en gain (prix 83.91)
+380,assets/tradingview/2021-11/2021-11-15_16h42_msg4844_PtbFLu9f.png,4844,2021-11-15T16:42:43,tv,analyse,EURNZD,,H1,,,,zone de demande
+381,assets/tradingview/2021-11/2021-11-16_17h50_msg4849_3ioTBp4H.png,4849,2021-11-16T17:50:28,tv,trade,GBPUSD,achat,M15,1.34107,1.34018,1.34804,
+382,assets/tradingview/2021-11/2021-11-17_00h27_msg4852_Dm8Chu6w.png,4852,2021-11-17T00:27:08,tv,analyse,AUDUSD,,H1,,,,validation
+383,assets/tradingview/2021-11/2021-11-17_03h44_msg4855_vafXkMSX.png,4855,2021-11-17T03:44:16,tv,trade,GBPUSD,achat,M15,1.34107,1.34018,1.34804,prix 1.34018 : au stop ? (mèche sous l'entrée)
+384,assets/tradingview/2021-11/2021-11-17_11h42_msg4859_4rYUXGHy.png,4859,2021-11-17T11:42:07,tv,trade,GBPUSD,achat,M15,1.34097,1.34015,1.34742,en gain (prix 1.34459) ; la mèche n'a pas touché le stop
+385,assets/tradingview/2021-11/2021-11-17_11h51_msg4863_rTUocY5D.png,4863,2021-11-17T11:51:34,tv,trade,NZDJPY,vente,M15,80.595,80.647,80.0,objectif approximatif ; en gain
+386,ChatExport_2026-10-01/photos/photo_1410@17-11-2021_11-54-06.jpg,4864,2021-11-17T11:54:06,photo,trade,NZDJPY,vente,M5,80.52,,,MT4 ; prix 80.44
+387,ChatExport_2026-10-01/photos/photo_1411@17-11-2021_17-18-38.jpg,4867,2021-11-17T17:18:38,photo,trade,GBPUSD,achat,M5,1.3423,,,MT4 buy 5.00 ; tp 1.3472 ; prix 1.34819
+388,assets/tradingview/2021-11/2021-11-17_17h27_msg4869_cjE4zzXV.png,4869,2021-11-17T17:27:00,tv,trade,NZDJPY,vente,H1,80.595,80.647,79.814,"prix 79.969, proche du TP"
+389,ChatExport_2026-10-01/photos/photo_1412@17-11-2021_17-29-00.jpg,4871,2021-11-17T17:29:00,photo,trade,NZDJPY,vente,M30,80.52,,,MT4 ; prix 79.983
+390,assets/tradingview/2021-11/2021-11-17_17h43_msg4876_ZfnD2eqZ.png,4876,2021-11-17T17:43:20,tv,trade,GBPUSD,achat,M15,1.34097,1.34015,1.34742,TP atteint (prix 1.34928)
+391,assets/tradingview/2021-11/2021-11-18_02h19_msg4879_pKZBoAno.png,4879,2021-11-18T02:19:27,tv,analyse,BTCUSDT,,D1,,,,zone d'achat
+392,assets/tradingview/2021-11/2021-11-18_02h26_msg4884_5BjFwU27.png,4884,2021-11-18T02:26:03,tv,analyse,KCSUSDT,,H4,,,,"crypto (KuCoin), projection baissière"
+393,assets/tradingview/2021-11/2021-11-18_07h09_msg4887_opFLRhZF.png,4887,2021-11-18T07:09:58,tv,analyse,XAUUSD,,H4,,,,niveaux 1878.875 / 1874.125
+394,assets/tradingview/2021-11/2021-11-18_07h11_msg4888_c3udK9hH.png,4888,2021-11-18T07:11:22,tv,analyse,XAUUSD,,M15,,,,liquidité
+395,assets/tradingview/2021-11/2021-11-18_07h16_msg4890_cJNfTKkl.png,4890,2021-11-18T07:16:47,tv,trade,XAUUSD,vente,M15,1874.615,1878.616,1846.758,ordre au-dessus du prix (1865.13)
+396,ChatExport_2026-10-01/photos/photo_1414@18-11-2021_15-19-34.jpg,4892,2021-11-18T15:19:34,photo,analyse,EURNZD,,H1,,,,zone
+397,ChatExport_2026-10-01/photos/photo_1415@18-11-2021_15-23-31.jpg,4894,2021-11-18T15:23:31,photo,trade,EURUSD,achat,M5,1.13150,1.1314,1.13387,"graphique d'un membre (diarrabouna737) ; prix 1.13334, proche du TP"
+398,ChatExport_2026-10-01/photos/photo_1416@18-11-2021_15-23-31.jpg,4895,2021-11-18T15:23:31,photo,trade,EURUSD,achat,M5,1.1315,1.1316,1.1338,MT5 d'un membre : buy 1.00
+399,ChatExport_2026-10-01/photos/photo_1417@18-11-2021_15-59-56.jpg,4896,2021-11-18T15:59:56,photo,analyse,BTCUSDT,,D1,,,,niveaux 60 884 / 58 442
+400,assets/tradingview/2021-11/2021-11-18_20h27_msg4898_IOdr0TU3.png,4898,2021-11-18T20:27:04,tv,analyse,XAUUSD,,M1,,,,élève (Dmh2WS)
+401,assets/tradingview/2021-11/2021-11-18_20h27_msg4899_vntGb9jh.png,4899,2021-11-18T20:27:04,tv,trade,XAUUSD,vente,M5,1865.07,1866.33,1855.2,élève (Dmh2WS) ; en gain
+402,assets/tradingview/2021-11/2021-11-18_20h27_msg4900_QdEUIV1L.png,4900,2021-11-18T20:27:04,tv,trade,XAUUSD,vente,M2,1865.07,1866.33,,"élève (Dmh2WS), deux ventes en gain"
+403,ChatExport_2026-10-01/photos/photo_1418@18-11-2021_20-27-04.jpg,4901,2021-11-18T20:27:04,photo,trade,GBPUSD,vente,M1,1.3484,,,MT4 ; prix 1.34650
+404,ChatExport_2026-10-01/photos/photo_1419@19-11-2021_02-13-38.jpg,4902,2021-11-19T02:13:38,photo,analyse,EURNZD,,H1,,,,oblique
+405,ChatExport_2026-10-01/photos/photo_1420@19-11-2021_14-14-14.jpg,4906,2021-11-19T14:14:14,photo,trade,GBPUSD,vente,M15,1.3499,1.3510,1.34085,TP atteint (niveaux approximatifs)
+406,assets/tradingview/2021-11/2021-11-19_14h14_msg4907_qoQnmQzy.png,4907,2021-11-19T14:14:14,tv,trade,NZDJPY,vente,M30,80.554,80.604,79.770,élève (Dmh2WS) ; TP atteint
+407,ChatExport_2026-10-01/photos/photo_1421@19-11-2021_14-15-36.jpg,4908,2021-11-19T14:15:36,photo,trade,NZDJPY,vente,H1,80.509,80.541,79.647,élève (bouba-Arawani) ; TP presque atteint
+408,assets/tradingview/2021-11/2021-11-22_05h07_msg4919_JqbYHaGB.png,4919,2021-11-22T05:07:36,tv,analyse,EURJPY,,D1,,,,liquidité 128.2
+409,assets/tradingview/2021-11/2021-11-22_05h13_msg4922_2V0gtLea.png,4922,2021-11-22T05:13:07,tv,analyse,BTCUSDT,,H4,,,,"« bye bye bitcoin, 60k rdv à 45k »"
+410,assets/tradingview/2021-11/2021-11-22_05h28_msg4926_DJxAk6n2.png,4926,2021-11-22T05:28:34,tv,analyse,FTMUSDT,,D1,,,,crypto (Fantom)
+411,assets/tradingview/2021-11/2021-11-22_08h24_msg4931_jHmKuanb.png,4931,2021-11-22T08:24:22,tv,trade,EURNZD,achat,M15,1.60708,1.60608,1.6250,objectif approximatif
+412,ChatExport_2026-10-01/photos/photo_1423@22-11-2021_08-26-58.jpg,4932,2021-11-22T08:26:58,photo,trade,EURNZD,achat,M1,1.6071,1.6061,,MT4 buy ; même trade que [411]
+413,ChatExport_2026-10-01/photos/photo_1424@22-11-2021_15-31-18.jpg,4934,2021-11-22T15:31:18,photo,trade,EURNZD,achat,M5,1.6073,1.6075,,MT4 buy ; stop remonté ; prix 1.61317
+414,assets/tradingview/2021-11/2021-11-22_18h37_msg4941_eDSKjHao.png,4941,2021-11-22T18:37:04,tv,analyse,XAUUSD,,H1,,,,"liquidité, chute"
+415,ChatExport_2026-10-01/photos/photo_1426@22-11-2021_21-48-51.jpg,4944,2021-11-22T21:48:51,photo,autre,,,,,,,CoinMarketCap : Opacity
+416,ChatExport_2026-10-01/photos/photo_1427@23-11-2021_06-20-05.jpg,4946,2021-11-23T06:20:05,photo,trade,EURNZD,achat,H1,1.60708,1.60608,1.62175,TP atteint (prix 1.62158)
+417,ChatExport_2026-10-01/photos/photo_1428@23-11-2021_14-20-50.jpg,4947,2021-11-23T14:20:50,photo,trade,EURAUD,vente,H1,1.56411,1.56558,1.54428,ordre au-dessus du prix (1.55745)
+418,ChatExport_2026-10-01/photos/photo_1429@23-11-2021_17-28-26.jpg,4951,2021-11-23T17:28:26,photo,trade,USDCAD,achat,M5,1.26982,1.26937,1.2730,élève (papytocoulibaly30)
+419,ChatExport_2026-10-01/photos/photo_1430@23-11-2021_17-28-26.jpg,4952,2021-11-23T17:28:26,photo,trade,USDCAD,achat,M5,1.26984,1.26939,1.2731,"élève (papytocoulibaly30), TP atteint (prix 1.27310)"
+420,ChatExport_2026-10-01/photos/photo_1431@23-11-2021_17-28-26.jpg,4953,2021-11-23T17:28:26,photo,trade,USDCAD,achat,M5,1.2703,,,MT4 buy 0.15 (élève) ; prix 1.27273
+421,assets/tradingview/2021-11/2021-11-24_17h05_msg4955_Wk90b2qq.png,4955,2021-11-24T17:05:13,tv,analyse,CADJPY,,H4,,,,"canal baissier, zone"
+422,assets/tradingview/2021-11/2021-11-24_21h43_msg4961_Yx88r4tq.png,4961,2021-11-24T21:43:12,tv,trade,EURNZD,achat,H1,1.60708,1.60608,1.63193,TP atteint (prix 1.62922 après un plus haut)
+423,ChatExport_2026-10-01/photos/photo_1432@25-11-2021_02-17-37.jpg,4962,2021-11-25T02:17:37,photo,trade,AUDJPY,vente,M30,83.281,83.381,82.310,élève (Tanimoune01)
+424,ChatExport_2026-10-01/photos/photo_1433@25-11-2021_02-27-06.jpg,4964,2021-11-25T02:27:06,photo,trade,GBPCHF,vente,M10,1.25075,1.25168,1.24214,élève (Tanimoune01) ; en gain (prix 1.24580)
+425,ChatExport_2026-10-01/photos/photo_1434@25-11-2021_11-14-02.jpg,4966,2021-11-25T11:14:02,photo,trade,AUDUSD,achat,H1,0.71806,0.71698,0.7340,objectif approximatif
+426,ChatExport_2026-10-01/photos/photo_1435@25-11-2021_16-31-45.jpg,4968,2021-11-25T16:31:45,photo,trade,AUDUSD,vente,M1,0.71894,0.71912,0.71813,élève (papytocoulibaly30) ; prix 0.71842
+427,ChatExport_2026-10-01/photos/photo_1436@25-11-2021_16-31-45.jpg,4969,2021-11-25T16:31:45,photo,trade,AUDUSD,vente,M1,0.7189,,,MT4 sell 0.90 (élève) ; prix 0.71815
+428,assets/tradingview/2021-11/2021-11-26_00h42_msg4972_rtd2PRzj.png,4972,2021-11-26T00:42:24,tv,trade,AUDUSD,achat,H1,0.71744,0.71670,0.73604,
+429,assets/tradingview/2021-11/2021-11-28_18h29_msg4977_cvP1YjS3.png,4977,2021-11-28T18:29:43,tv,analyse,BTCUSDT,,D1,,,,« bye bye bitcoin »
+430,ChatExport_2026-10-01/photos/photo_1438@28-11-2021_18-41-06.jpg,4984,2021-11-28T18:41:06,photo,autre,,,,,,,liste CoinMarketCap
+431,ChatExport_2026-10-01/photos/photo_1439@29-11-2021_15-05-56.jpg,4985,2021-11-29T15:05:56,photo,trade,EURAUD,vente,M3,1.58081,1.58120,1.57547,graphique d'un membre (diarrabouna737) ; prix 1.57872
