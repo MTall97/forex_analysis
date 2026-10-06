@@ -1927,3 +1927,51 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 1925,ChatExport_2026-10-01/photos/photo_3200@17-09-2025_19-13-04.jpg,13866,2025-09-17T19:13:04,photo,resultat,,,,,,,"Seacrest Funded (simulé) : +8 132 $ (+16,26 %) sur 50 000 $"
 1926,ChatExport_2026-10-01/photos/photo_3201@17-09-2025_19-13-04.jpg,13867,2025-09-17T19:13:04,photo,resultat,,,,,,,"Seacrest Funded : profit 6 505 $, part 80 %, retrait indisponible"
 1927,assets/tradingview/2025-09/2025-09-18_00h30_msg13874_qGaFb04w.png,13874,2025-09-18T00:30:26,tv,analyse,NZDJPY,vente,H4,,,,BLACKMAKER ; cassure sous 87.5
+1928,assets/tradingview/2025-09/2025-09-18_00h31_msg13875_iEIHsbnc.png,13875,2025-09-18T00:31:46,tv,analyse,EURNZD,achat,H4,,,,BLACKMAKER ; projection haussière vers 2.0
+1929,assets/tradingview/2025-09/2025-09-18_00h41_msg13876_qjKFS1r9.png,13876,2025-09-18T00:41:08,tv,analyse,GBPNZD,achat,H4,,,,BLACKMAKER ; projection haussière
+1930,ChatExport_2026-10-01/photos/photo_3202@18-09-2025_16-06-58.jpg,13882,2025-09-18T16:06:58,photo,resultat,,,,,,,"classement Trading Cult : « touramirou » 2e (+7,57 %), « Khalil » 3e"
+1931,ChatExport_2026-10-01/photos/photo_3203@18-09-2025_16-07-34.jpg,13883,2025-09-18T16:07:34,photo,resultat,,,,,,,"classement Trading Cult (autre) : « rachidfxtrader » 2e, +5 179 $"
+1932,assets/tradingview/2025-09/2025-09-21_14h24_msg13899_aHmgVxpK.png,13899,2025-09-21T14:24:56,tv,analyse,DXY,achat,D1,,,,BLACKMAKER ; projection haussière
+1933,ChatExport_2026-10-01/photos/photo_3206@22-09-2025_02-20-07.jpg,13905,2025-09-22T02:20:07,photo,resultat,GBPAUD,vente,,,,,
+1934,assets/tradingview/2025-09/2025-09-22_12h57_msg13908_yfVqgLOV.png,13908,2025-09-22T12:57:41,tv,analyse,DXY,vente,H12,,,,"BLACKMAKER ; rejet de 97.5, projection vers 96.23"
+1935,assets/tradingview/2025-09/2025-09-22_12h58_msg13910_maVbn9Yo.png,13910,2025-09-22T12:58:29,tv,analyse,DXY,vente,H4,,,,BLACKMAKER ; projection vers 96.23
+1936,ChatExport_2026-10-01/photos/photo_3208@23-09-2025_08-40-05.jpg,13919,2025-09-23T08:40:05,photo,resultat,GBPJPY,vente,,199.525,,199.275,"GBPJPY sell 2.11, +357 $"
+1937,ChatExport_2026-10-01/photos/photo_3209@23-09-2025_08-49-55.jpg,13920,2025-09-23T08:49:55,photo,resultat,GBPAUD,vente,,,,,
+1938,ChatExport_2026-10-01/photos/photo_3211@24-09-2025_02-34-54.jpg,13925,2025-09-24T02:34:54,photo,resultat,GBPAUD,vente,H1,2.04995,2.05409,2.04141,"TradingView mobile ; prix 2.0420, proche du TP"
+1939,ChatExport_2026-10-01/photos/photo_3212@24-09-2025_13-24-45.jpg,13931,2025-09-24T13:24:45,photo,trade,AUDUSD,achat,M30,0.66032,0.65850,0.66397,TradingView mobile
+1940,assets/tradingview/2025-09/2025-09-24_18h21_msg13936_8qoTCabc.png,13936,2025-09-24T18:21:05,tv,analyse,GBPAUD,achat,M15,,,,BLACKMAKER ; rebond sur 2.0377
+1941,ChatExport_2026-10-01/photos/photo_3215@24-09-2025_18-21-50.jpg,13938,2025-09-24T18:21:50,photo,analyse,GBPAUD,achat,M30,,,,TradingView mobile ; rebond à 2.0439
+1942,ChatExport_2026-10-01/photos/photo_3217@25-09-2025_22-02-17.jpg,13946,2025-09-25T22:02:17,photo,analyse,CADJPY,vente,H1,,,,TradingView mobile ; rejet de 107.5
+1943,ChatExport_2026-10-01/photos/photo_3218@29-09-2025_03-55-46.jpg,13969,2025-09-29T03:55:46,photo,resultat,CADJPY,vente,,,,,
+1944,ChatExport_2026-10-01/photos/photo_3220@01-10-2025_01-41-47.jpg,13980,2025-10-01T01:41:47,photo,trade,USDJPY,vente,H1,148.127,148.489,147.396,TradingView mobile
+1945,ChatExport_2026-10-01/photos/photo_3221@01-10-2025_04-56-17.jpg,13982,2025-10-01T04:56:17,photo,trade,USDJPY,vente,H1,148.127,148.489,147.399,TradingView mobile ; prix 147.66
+1946,ChatExport_2026-10-01/photos/photo_3222@01-10-2025_06-25-49.jpg,13983,2025-10-01T06:25:49,photo,resultat,,,,,,,"classement Trading Cult : « touramirou » 2e, +7,08 %"
+1947,ChatExport_2026-10-01/photos/photo_3223@01-10-2025_11-39-46.jpg,13988,2025-10-01T11:39:46,photo,trade,EURGBP,vente,H1,0.87328,0.87506,0.86956,TradingView mobile ; prix 0.8704
+1948,ChatExport_2026-10-01/photos/photo_3227@01-10-2025_14-29-57.jpg,14000,2025-10-01T14:29:57,photo,trade,USDCHF,vente,M15,0.79719,0.80073,0.79068,TradingView mobile
+1949,ChatExport_2026-10-01/photos/photo_3228@01-10-2025_14-30-23.jpg,14001,2025-10-01T14:30:23,photo,trade,USDJPY,vente,M15,146.888,147.243,146.156,TradingView mobile
+1950,assets/tradingview/2025-10/2025-10-02_09h01_msg14005_gTk5ixKE.png,14005,2025-10-02T09:01:35,tv,analyse,DXY,vente,D1,,,,BLACKMAKER ; projection vers 97.195
+1951,ChatExport_2026-10-01/photos/photo_3229@02-10-2025_09-01-59.jpg,14008,2025-10-02T09:01:59,photo,trade,EURUSD,achat,H4,1.17362,1.17105,1.17877,TradingView mobile
+1952,assets/tradingview/2025-10/2025-10-03_08h37_msg14013_C4wDYn6C.png,14013,2025-10-03T08:37:20,tv,analyse,EURUSD,,H1,,,,"BLACKMAKER ; exemple historique (janvier 2019), zone de range"
+1953,assets/tradingview/2025-10/2025-10-03_08h37_msg14017_GQupbbWK.png,14017,2025-10-03T08:37:20,tv,analyse,EURUSD,,H1,,,,"BLACKMAKER ; exemple historique, bougie de manipulation encadrée"
+1954,assets/tradingview/2025-10/2025-10-03_08h37_msg14021_6Ca6ncVI.png,14021,2025-10-03T08:37:51,tv,trade,EURUSD,achat,M30,1.17021,1.16764,1.17795,BLACKMAKER
+1955,assets/tradingview/2025-10/2025-10-03_08h37_msg14023_nXh9JSD9.png,14023,2025-10-03T08:37:51,tv,trade,EURUSD,achat,M30,1.17021,1.16764,1.17795,"BLACKMAKER ; range et bougie de manipulation, prix 1.1735"
+1956,ChatExport_2026-10-01/photos/photo_3231@03-10-2025_16-22-28.jpg,14030,2025-10-03T16:22:28,photo,resultat,,,,,,,"classement Trading Cult : « touramirou » 1er, +7,32 %"
+1957,assets/tradingview/2025-10/2025-10-08_01h19_msg14040_PRc49Sf1.png,14040,2025-10-08T01:19:36,tv,analyse,GBPNZD,achat,M15,,,,BLACKMAKER ; projection haussière après mèche
+1958,ChatExport_2026-10-01/photos/photo_3233@10-10-2025_11-55-26.jpg,14054,2025-10-10T11:55:26,photo,trade,CADJPY,vente,H1,109.123,109.630,108.091,TradingView mobile
+1959,assets/tradingview/2025-10/2025-10-10_11h56_msg14055_Mt5GBh43.png,14055,2025-10-10T11:56:02,tv,trade,CHFJPY,vente,H1,189.808,190.312,188.817,BLACKMAKER
+1960,assets/tradingview/2025-10/2025-10-17_14h12_msg14072_Yd2p42KL.png,14072,2025-10-17T14:12:42,tv,trade,XAUUSD,vente,M15,4310.347,4354.008,4221.824,BLACKMAKER
+1961,assets/tradingview/2025-10/2025-10-17_14h12_msg14073_Wut6prrI.png,14073,2025-10-17T14:12:42,tv,resultat,XAUUSD,vente,M15,4309.741,4349.213,4221.218,BLACKMAKER ; TP presque atteint (4 227)
+1962,ChatExport_2026-10-01/photos/photo_3245@21-10-2025_11-04-28.jpg,14091,2025-10-21T11:04:28,photo,resultat,,,,,,,"classement Trading Cult : « touramirou » 1er, +6,56 %"
+1963,ChatExport_2026-10-01/photos/photo_3247@24-10-2025_14-08-10.jpg,14099,2025-10-24T14:08:10,photo,resultat,,,,,,,"classement Trading Cult : « touramirou » 1er, +7,67 %"
+1964,ChatExport_2026-10-01/photos/photo_3250@28-10-2025_06-45-30.jpg,14107,2025-10-28T06:45:30,photo,trade,CADJPY,vente,H1,109.233,109.531,108.615,TradingView mobile
+1965,ChatExport_2026-10-01/photos/photo_3251@28-10-2025_06-45-30.jpg,14108,2025-10-28T06:45:30,photo,trade,CADJPY,vente,H1,109.233,109.531,108.615,TradingView mobile ; prix 109.04
+1966,ChatExport_2026-10-01/photos/photo_3252@28-10-2025_06-45-30.jpg,14109,2025-10-28T06:45:30,photo,resultat,CADJPY,vente,H1,109.233,109.531,108.621,TradingView mobile ; TP atteint
+1967,ChatExport_2026-10-01/photos/photo_3253@28-10-2025_09-47-43.jpg,14110,2025-10-28T09:47:43,photo,resultat,,,,,,,"classement Trading Cult : « touramirou » 1er, +10,88 %"
+1968,ChatExport_2026-10-01/photos/photo_3254@29-10-2025_01-52-02.jpg,14118,2025-10-29T01:52:02,photo,trade,AUDJPY,achat,M5,99.999,99.692,100.769,TradingView mobile ; Major whole number 100
+1969,ChatExport_2026-10-01/photos/photo_3255@29-10-2025_07-31-10.jpg,14119,2025-10-29T07:31:10,photo,trade,AUDJPY,achat,M15,99.999,99.692,100.769,TradingView mobile ; prix 100.54
+1970,ChatExport_2026-10-01/photos/photo_3262@04-11-2025_21-03-01.jpg,14135,2025-11-04T21:03:01,photo,trade,EURNZD,achat,H1,2.02500,2.01599,2.03507,TradingView mobile ; prix 2.0321
+1971,ChatExport_2026-10-01/photos/photo_3280@02-12-2025_22-57-29.jpg,14205,2025-12-02T22:57:29,photo,trade,USDCAD,vente,H4,1.39954,1.40154,1.38968,TradingView mobile ; Major whole number 1.40
+1972,ChatExport_2026-10-01/photos/photo_3282@11-12-2025_10-04-45.jpg,14215,2025-12-11T10:04:45,photo,resultat,,,,,,,"compte 100 000 $ (décembre 2025) : 9 trades, +5 704 $ ; pertes AUDNZD −215 $ et AUDCAD −238 $"
+1973,ChatExport_2026-10-01/photos/photo_3284@11-12-2025_15-53-47.jpg,14219,2025-12-11T15:53:47,photo,resultat,,,,,,,"classement Trading Cult (200 000 $) : « touramirou » 3e, +3,21 %"
+1974,ChatExport_2026-10-01/photos/photo_3285@11-12-2025_15-55-05.jpg,14220,2025-12-11T15:55:05,photo,resultat,,,,,,,"classement Trading Cult (100 000 $) : « touramirou » 4e, +3,95 %"
+1975,ChatExport_2026-10-01/photos/photo_3288@12-12-2025_16-22-18.jpg,14226,2025-12-12T16:22:18,photo,trade,GBPAUD,achat,H1,2.01027,2.00527,2.02309,TradingView mobile
