@@ -771,3 +771,43 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 769,ChatExport_2026-10-01/photos/photo_1732@12-10-2022_01-41-30.jpg,6572,2022-10-12T01:41:30,photo,trade,XAUUSD,vente,M1,1672.0,,,membre : sell 0.20 ; prix 1667.65
 770,ChatExport_2026-10-01/photos/photo_1733@12-10-2022_01-41-41.jpg,6573,2022-10-12T01:41:41,photo,trade,EURUSD,vente,M1,0.9718,,,membre : sell 5.00 ; prix 0.96954
 771,ChatExport_2026-10-01/photos/photo_1734@12-10-2022_01-41-49.jpg,6574,2022-10-12T01:41:49,photo,trade,AUDUSD,vente,M1,0.6296,0.6298,0.6275,"membre, niveaux approximatifs"
+772,assets/tradingview/2022-10/2022-10-12_04h39_msg6578_6yIxOmsb.png,6578,2022-10-12T04:39:58,tv,analyse,EURUSD,,M15,,,,niveau 0.97381 ; projection baissière
+773,assets/tradingview/2022-10/2022-10-12_12h33_msg6584_YPyD7htC.png,6584,2022-10-12T12:33:13,tv,analyse,EURUSD,,M15,,,,"même projection, réalisée"
+774,assets/tradingview/2022-10/2022-10-13_12h37_msg6596_HHSgF3cp.png,6596,2022-10-13T12:37:52,tv,trade,AUDUSD,vente,S30,0.6292,0.6294,0.6256,"membre, niveaux approximatifs ; TP atteint"
+775,ChatExport_2026-10-01/photos/photo_1737@13-10-2022_12-37-52.jpg,6597,2022-10-13T12:37:52,photo,trade,AUDUSD,vente,S30,0.6292,0.6294,0.6256,membre ; même trade
+776,ChatExport_2026-10-01/photos/photo_1738@13-10-2022_12-39-21.jpg,6599,2022-10-13T12:39:21,photo,resultat,,,,,,,"historique d'un membre (13/10/2022) : EURUSD, GBPUSD (-21.60), XAUUSD ; +66.57 $"
+777,assets/tradingview/2022-10/2022-10-13_12h46_msg6604_7reukfuS.png,6604,2022-10-13T12:46:08,tv,analyse,EURUSD,,H1,,,,MLQ 0.975 ; chute (CPI)
+778,ChatExport_2026-10-01/photos/photo_1739@13-10-2022_14-42-33.jpg,6609,2022-10-13T14:42:33,photo,resultat,,,,,,,compte d'un membre : +2 446 $
+779,ChatExport_2026-10-01/photos/photo_1740@13-10-2022_14-42-40.jpg,6610,2022-10-13T14:42:40,photo,trade,GBPJPY,vente,M1,165.27,,,membre ; prix 164.871
+780,ChatExport_2026-10-01/photos/photo_1743@13-10-2022_17-05-26.jpg,6619,2022-10-13T17:05:26,photo,autre,,,,,,,"note Citi « FX Snapshot » (AUD, CAD)"
+781,assets/tradingview/2022-10/2022-10-14_14h36_msg6630_KNq0w8r5.png,6630,2022-10-14T14:36:29,tv,trade,AUDUSD,vente,M15,0.63096,0.63264,0.62046,membre (traoti)
+782,assets/tradingview/2022-10/2022-10-14_14h36_msg6631_U3AjG5z4.png,6631,2022-10-14T14:36:29,tv,trade,EURGBP,achat,H1,0.86214,0.86051,0.87895,membre (traoti)
+783,ChatExport_2026-10-01/photos/photo_1744@14-10-2022_14-36-29.jpg,6632,2022-10-14T14:36:29,photo,trade,GBPJPY,achat,M5,165.540,165.425,166.971,membre (ascobamba9)
+784,ChatExport_2026-10-01/photos/photo_1745@14-10-2022_14-36-29.jpg,6633,2022-10-14T14:36:29,photo,resultat,,,,,,,compte d'un membre : +2 033 $
+785,ChatExport_2026-10-01/photos/photo_1746@14-10-2022_15-34-40.jpg,6634,2022-10-14T15:34:40,photo,trade,GBPJPY,achat,M5,165.540,165.258,166.971,membre ; TP atteint (prix 166.940)
+786,ChatExport_2026-10-01/photos/photo_1747@14-10-2022_15-34-40.jpg,6635,2022-10-14T15:34:40,photo,resultat,GBPJPY,achat,,165.785,,,"positions d'un membre : GBPJPY buy 5 + 10 lots, +4 000 et +7 986 $"
+787,assets/tradingview/2022-10/2022-10-14_18h45_msg6644_KNGEU5Pv.png,6644,2022-10-14T18:45:40,tv,trade,NZDJPY,vente,H4,82.500,82.760,80.166,MLQ 82.500 ; projection
+788,ChatExport_2026-10-01/photos/photo_1748@14-10-2022_18-49-19.jpg,6645,2022-10-14T18:49:19,photo,trade,NZDJPY,vente,M15,82.95,83.10,,MT4 sell ; prix 82.599
+789,ChatExport_2026-10-01/photos/photo_1752@18-10-2022_08-39-07.jpg,6664,2022-10-18T08:39:07,photo,trade,EURAUD,vente,M1,1.56535,1.56593,1.55980,élève (Tanimoune01) ; 2e POI après un stop
+790,ChatExport_2026-10-01/photos/photo_1753@18-10-2022_08-39-07.jpg,6665,2022-10-18T08:39:07,photo,trade,EURAUD,vente,M1,1.56535,1.56593,1.55989,élève ; TP atteint
+791,ChatExport_2026-10-01/photos/photo_1754@18-10-2022_08-39-07.jpg,6666,2022-10-18T08:39:07,photo,resultat,EURUSD,vente,,0.98535,,,"position EURUSD sell 10 lots, +1 070 $ flottant"
+792,assets/tradingview/2022-10/2022-10-20_13h00_msg6680_ogHcY6LQ.png,6680,2022-10-20T13:00:06,tv,analyse,GBPUSD,,H1,,,,MLQ 1.125 ; projection baissière
+793,ChatExport_2026-10-01/photos/photo_1757@20-10-2022_17-52-17.jpg,6693,2022-10-20T17:52:17,photo,trade,XAUUSD,vente,M1,1629.196,1629.416,1626.019,membre (freshprince223) ; TP atteint
+794,ChatExport_2026-10-01/photos/photo_1758@20-10-2022_17-52-17.jpg,6694,2022-10-20T17:52:17,photo,trade,XAUUSD,vente,M1,1629.0,1629.1,1626.2,membre ; TP presque atteint
+795,ChatExport_2026-10-01/photos/photo_1759@20-10-2022_17-52-17.jpg,6695,2022-10-20T17:52:17,photo,analyse,AUDUSD,,H1,,,,membre
+796,assets/tradingview/2022-10/2022-10-20_17h52_msg6696_0CWcZx4f.png,6696,2022-10-20T17:52:17,tv,analyse,XAUUSD,,H4,,,,"membre (EOWS), projection haussière"
+797,ChatExport_2026-10-01/photos/photo_1760@20-10-2022_17-52-17.jpg,6697,2022-10-20T17:52:17,photo,trade,XAUUSD,achat,M3,1622.850,1621.850,1645.585,membre ; TP presque atteint (prix 1643.445)
+798,ChatExport_2026-10-01/photos/photo_1761@20-10-2022_17-52-17.jpg,6698,2022-10-20T17:52:17,photo,trade,XAUUSD,achat,H4,1645.0,,,membre : ligne d'entrée ~1645 ; prix 1637.59
+799,ChatExport_2026-10-01/photos/photo_1762@20-10-2022_17-52-17.jpg,6701,2022-10-20T17:52:17,photo,resultat,AUDUSD,vente,,0.63550,,,"positions : AUDCAD sell 1.50 (+299), AUDUSD sell 6.00 (+3 528) ; ordre EURGBP sell limit"
+800,ChatExport_2026-10-01/photos/photo_1763@20-10-2022_17-52-17.jpg,6702,2022-10-20T17:52:17,photo,resultat,,,,,,,compte d'un membre : +20 742.86 $
+801,ChatExport_2026-10-01/photos/photo_1764@21-10-2022_09-49-22.jpg,6705,2022-10-21T09:49:22,photo,analyse,GBPUSD,,H1,,,,MLQ 1.125 ; projection réalisée
+802,assets/tradingview/2022-10/2022-10-21_14h02_msg6712_kLmcl3jn.png,6712,2022-10-21T14:02:10,tv,trade,GBPUSD,vente,H1,1.12482,1.13274,1.09212,MLQ 1.125
+803,assets/tradingview/2022-10/2022-10-24_11h54_msg6721_10IGx9jF.png,6721,2022-10-24T11:54:26,tv,trade,GBPUSD,vente,M15,1.12499,1.13082,1.09229,"même trade, deuxième entrée ; prix 1.12982"
+804,ChatExport_2026-10-01/photos/photo_1768@26-10-2022_15-26-49.jpg,6726,2022-10-26T15:26:49,photo,resultat,,,,,,,compte d'un membre : +536 $
+805,assets/tradingview/2022-10/2022-10-26_15h26_msg6727_s1ZxwOrg.png,6727,2022-10-26T15:26:49,tv,trade,EURUSD,achat,M1,0.9856,0.9853,0.9900,"membre, niveaux approximatifs ; TP atteint"
+806,assets/tradingview/2022-10/2022-10-26_15h26_msg6728_TiLSBeqS.png,6728,2022-10-26T15:26:49,tv,trade,US30,achat,M1,31345,31330,31400,membre ; TP atteint
+807,ChatExport_2026-10-01/photos/photo_1769@26-10-2022_15-26-49.jpg,6729,2022-10-26T15:26:49,photo,resultat,,,,,,,compte d'un membre : +6 130 $
+808,ChatExport_2026-10-01/photos/photo_1770@26-10-2022_15-26-49.jpg,6730,2022-10-26T15:26:49,photo,trade,SPX500,achat,M5,3782.7,3778.9,3828.8,membre (kathelsow) ; TP atteint
+809,assets/tradingview/2022-10/2022-10-26_15h26_msg6731_nE3bpagk.png,6731,2022-10-26T15:26:49,tv,analyse,AUDUSD,,M5,,,,membre ; projection baissière
+810,ChatExport_2026-10-01/photos/photo_1771@26-10-2022_15-26-49.jpg,6732,2022-10-26T15:26:49,photo,trade,XAUUSD,achat,M1,1671.137,1670.709,1674.905,membre ; TP presque atteint
+811,ChatExport_2026-10-01/photos/photo_1772@26-10-2022_15-26-49.jpg,6733,2022-10-26T15:26:49,photo,trade,GBPJPY,vente,M1,170.33,,,MT4 sell ; prix 170.016
