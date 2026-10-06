@@ -1399,3 +1399,123 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 1397,ChatExport_2026-10-01/photos/photo_2470@02-01-2024_10-14-25.jpg,10246,2024-01-02T10:14:25,photo,analyse,EURUSD,vente,D1,,,,TradingView mobile ; prix sur 1.10
 1398,ChatExport_2026-10-01/photos/photo_2471@02-01-2024_10-15-48.jpg,10247,2024-01-02T10:15:48,photo,resultat,EURNZD,vente,,1.74981,,,"position EURNZD sell 16.00, +5 095 $"
 1399,ChatExport_2026-10-01/photos/photo_2472@02-01-2024_10-17-07.jpg,10249,2024-01-02T10:17:07,photo,resultat,EURNZD,vente,,1.74981,1.75500,,"position EURNZD sell 16.00, +5 247 $"
+1400,ChatExport_2026-10-01/photos/photo_2473@02-01-2024_13-29-57.jpg,10251,2024-01-02T13:29:57,photo,analyse,EURUSD,vente,D1,,,,"TradingView mobile ; schéma mardi-mercredi-vendredi, prix 1.0959"
+1401,ChatExport_2026-10-01/photos/photo_2475@02-01-2024_13-38-35.jpg,10255,2024-01-02T13:38:35,photo,analyse,DXY,,D1,,,,TradingView mobile ; rebond depuis la zone 101
+1402,ChatExport_2026-10-01/photos/photo_2476@02-01-2024_19-28-31.jpg,10259,2024-01-02T19:28:31,photo,autre,,,,,,,photo d'écran : règle de cohérence des lots (société de financement)
+1403,ChatExport_2026-10-01/photos/photo_2477@03-01-2024_10-43-03.jpg,10272,2024-01-03T10:43:03,photo,analyse,GBPJPY,vente,H4,,,,"TradingView mobile ; Major larger quarter 182.5, projection baissière"
+1404,ChatExport_2026-10-01/photos/photo_2479@03-01-2024_14-47-47.jpg,10288,2024-01-03T14:47:47,photo,resultat,,,,,,,compte à 206 239 $ sans position
+1405,ChatExport_2026-10-01/photos/photo_2480@03-01-2024_15-56-27.jpg,10295,2024-01-03T15:56:27,photo,resultat,,,,,,,Pro Trade Funded : demande de retrait refusée (compte 88893500)
+1406,ChatExport_2026-10-01/photos/photo_2481@03-01-2024_15-57-18.jpg,10296,2024-01-03T15:57:18,photo,resultat,NZDJPY,achat,,88.671,,90.195,"historique : NZDJPY +6 004 $, GBPJPY +507 $, NZDJPY −375 $, GBPJPY −218 $, EURNZD −110 $ ; total +5 706 $"
+1407,ChatExport_2026-10-01/photos/photo_2483@03-01-2024_16-50-32.jpg,10306,2024-01-03T16:50:32,photo,resultat,GBPJPY,achat,,186.016,,185.487,"historique mensuel (déc. 2023-janv. 2024) : 5 pertes GBPJPY de −1 223 à −2 303 $, EURNZD −1 162 $, GBPJPY sell 14.50 −4 949 $ ; total −16 287 $ (perte)"
+1408,ChatExport_2026-10-01/photos/photo_2489@03-01-2024_19-12-49.jpg,10327,2024-01-03T19:12:49,photo,autre,,,,,,,message du canal (13/12/2023) : Amirou dit avoir perdu plus de 8 000 $ en restant baissier sur le yen
+1409,ChatExport_2026-10-01/photos/photo_2494@04-01-2024_01-59-23.jpg,10344,2024-01-04T01:59:23,photo,resultat,EURNZD,vente,,1.75188,,1.74450,"historique compte 200 000 $ : EURNZD −2 140 $, +4 213 $, +1 631 $, AUDJPY +473 $ ; solde 204 096 $"
+1410,assets/tradingview/2024-01/2024-01-04_18h01_msg10366_qm5Zydj7.png,10366,2024-01-04T18:01:00,tv,analyse,EURUSD,vente,D1,,,,BLACKMAKER ; rejet Major whole number 1.10
+1411,ChatExport_2026-10-01/photos/photo_2501@05-01-2024_09-24-55.jpg,10373,2024-01-05T09:24:55,photo,analyse,EURUSD,vente,H4,,,,"TradingView mobile ; rejet 1.10, projection baissière"
+1412,ChatExport_2026-10-01/photos/photo_2502@05-01-2024_09-27-32.jpg,10374,2024-01-05T09:27:32,photo,analyse,EURUSD,vente,H4,,,,TradingView mobile ; projection vers 1.08926
+1413,ChatExport_2026-10-01/photos/photo_2503@05-01-2024_13-46-04.jpg,10377,2024-01-05T13:46:04,photo,analyse,EURUSD,vente,H4,,,,TradingView mobile ; projection vers 1.08926
+1414,ChatExport_2026-10-01/photos/photo_2504@05-01-2024_15-59-58.jpg,10379,2024-01-05T15:59:58,photo,analyse,EURUSD,vente,H1,,,,TradingView mobile ; projection vers 1.08926
+1415,ChatExport_2026-10-01/photos/photo_2505@05-01-2024_16-30-12.jpg,10385,2024-01-05T16:30:12,photo,analyse,EURUSD,vente,H1,,,,TradingView mobile ; projection vers 1.08926
+1416,ChatExport_2026-10-01/photos/photo_2508@07-01-2024_22-41-06.jpg,10416,2024-01-07T22:41:06,photo,analyse,EURNZD,,H1,,,,TradingView mobile ; niveau 1.7594
+1417,ChatExport_2026-10-01/photos/photo_2509@07-01-2024_22-42-47.jpg,10417,2024-01-07T22:42:47,photo,analyse,EURUSD,,H4,,,,"TradingView mobile ; mode replay, niveau 1.14819"
+1418,ChatExport_2026-10-01/photos/photo_2510@08-01-2024_01-20-21.jpg,10420,2024-01-08T01:20:21,photo,trade,EURNZD,vente,M30,1.75145,1.75700,,MT4 sell 16.00 avec sl
+1419,ChatExport_2026-10-01/photos/photo_2511@08-01-2024_01-21-02.jpg,10421,2024-01-08T01:21:02,photo,resultat,EURNZD,vente,,1.75145,1.75700,,"position EURNZD sell 16.00, +1 933 $"
+1420,assets/tradingview/2024-01/2024-01-08_11h56_msg10424_TctiKqJ7.png,10424,2024-01-08T11:56:33,tv,analyse,EURNZD,,H1,,,,BLACKMAKER ; retour sur 1.75947
+1421,ChatExport_2026-10-01/photos/photo_2516@11-01-2024_14-38-37.jpg,10432,2024-01-11T14:38:37,photo,analyse,EURUSD,vente,M30,,,,TradingView mobile ; Major whole number 1.10
+1422,ChatExport_2026-10-01/photos/photo_2522@18-01-2024_16-18-05.jpg,10470,2024-01-18T16:18:05,photo,resultat,,,,,,,Nova Funding : demande de paiement acceptée
+1423,ChatExport_2026-10-01/photos/photo_2523@18-01-2024_18-17-24.jpg,10472,2024-01-18T18:17:24,photo,resultat,,,,,,,"Funding Pips : phases 1 et 2 réussies, en revue"
+1424,ChatExport_2026-10-01/photos/photo_2524@18-01-2024_18-18-42.jpg,10473,2024-01-18T18:18:42,photo,resultat,,,,,,,réception de 2 × 5 990 USDT (paiements en crypto)
+1425,ChatExport_2026-10-01/photos/photo_2525@18-01-2024_18-19-17.jpg,10475,2024-01-18T18:19:17,photo,autre,,,,,,,portefeuille crypto à 837 $
+1426,ChatExport_2026-10-01/photos/photo_2530@22-01-2024_13-10-11.jpg,10488,2024-01-22T13:10:11,photo,resultat,,,,,,,compte à 105 259 $ sans position
+1427,ChatExport_2026-10-01/photos/photo_2531@22-01-2024_13-10-11.jpg,10489,2024-01-22T13:10:11,photo,resultat,,,,,,,compte à 103 073 $ sans position
+1428,ChatExport_2026-10-01/photos/photo_2532@23-01-2024_06-20-48.jpg,10494,2024-01-23T06:20:48,photo,trade,GBPJPY,achat,M5,188.312,,,MT4 buy 11.85 avec sl
+1429,ChatExport_2026-10-01/photos/photo_2533@23-01-2024_06-21-23.jpg,10495,2024-01-23T06:21:23,photo,resultat,GBPJPY,achat,,188.312,,,"position GBPJPY buy 11.85, +3 023 $ (flottant)"
+1430,ChatExport_2026-10-01/photos/photo_2534@23-01-2024_06-58-00.jpg,10496,2024-01-23T06:58:00,photo,resultat,GBPJPY,achat,,188.312,,188.185,"historique : GBPJPY buy 11.85 clôturé −1 019 $ (perte, après +3 023 $ flottant)"
+1431,ChatExport_2026-10-01/photos/photo_2535@23-01-2024_07-00-13.jpg,10498,2024-01-23T07:00:13,photo,resultat,GBPJPY,,M5,,,,MT4 : chute brutale à 187.44 après la clôture
+1432,ChatExport_2026-10-01/photos/photo_2536@23-01-2024_12-23-58.jpg,10504,2024-01-23T12:23:58,photo,analyse,AUDJPY,vente,H4,,,,TradingView mobile ; projection baissière
+1433,ChatExport_2026-10-01/photos/photo_2537@24-01-2024_09-01-15.jpg,10510,2024-01-24T09:01:15,photo,trade,AUDJPY,vente,H1,97.499,98.002,96.520,TradingView mobile
+1434,ChatExport_2026-10-01/photos/photo_2538@24-01-2024_14-26-04.jpg,10512,2024-01-24T14:26:04,photo,analyse,JXY,,H4,,,,TradingView mobile ; indice du yen
+1435,ChatExport_2026-10-01/photos/photo_2542@25-01-2024_18-58-55.jpg,10529,2024-01-25T18:58:55,photo,trade,AUDJPY,vente,D1,97.233,97.634,95.536,TradingView mobile ; Major larger quarter 95
+1436,ChatExport_2026-10-01/photos/photo_2543@31-01-2024_14-46-19.jpg,10543,2024-01-31T14:46:19,photo,analyse,EURNZD,vente,W1,,,,"TradingView mobile ; Major larger quarter 1.775, projection vers 1.73938"
+1437,assets/tradingview/2024-01/2024-01-31_14h46_msg10544_ARb9mJeb.png,10544,2024-01-31T14:46:50,tv,analyse,EURNZD,vente,H4,,,,"BLACKMAKER ; Major larger quarter 1.775, projection baissière"
+1438,assets/tradingview/2024-01/2024-01-31_14h52_msg10546_8Jyt5JCt.png,10546,2024-01-31T14:52:18,tv,analyse,NZDUSD,vente,D1,,,,BLACKMAKER ; deux scénarios sous 0.61489
+1439,ChatExport_2026-10-01/photos/photo_2544@31-01-2024_15-52-55.jpg,10549,2024-01-31T15:52:55,photo,trade,AUDJPY,vente,M5,97.438,97.900,,"MT4 sell 7.50 avec sl, prix 96.76"
+1440,ChatExport_2026-10-01/photos/photo_2545@31-01-2024_16-06-04.jpg,10554,2024-01-31T16:06:04,photo,resultat,AUDJPY,vente,,97.438,97.900,,"position AUDJPY sell 7.50, +3 845 $"
+1441,assets/tradingview/2024-02/2024-02-01_08h37_msg10561_uchaXF0I.png,10561,2024-02-01T08:37:18,tv,trade,AUDJPY,vente,H4,97.441,97.945,94.969,BLACKMAKER ; prix 95.75
+1442,assets/tradingview/2024-02/2024-02-01_08h38_msg10564_dWadfBoM.png,10564,2024-02-01T08:38:38,tv,analyse,NZDUSD,vente,D1,,,,BLACKMAKER ; suite du 1438
+1443,assets/tradingview/2024-02/2024-02-01_08h45_msg10567_0hlCtyCp.png,10567,2024-02-01T08:45:08,tv,analyse,GBPUSD,,D1,,,,BLACKMAKER ; range
+1444,assets/tradingview/2024-02/2024-02-01_08h48_msg10569_JGpFjczF.png,10569,2024-02-01T08:48:10,tv,analyse,GBPUSD,,D1,,,,BLACKMAKER ; range après la hausse
+1445,ChatExport_2026-10-01/photos/photo_2547@01-02-2024_08-53-13.jpg,10572,2024-02-01T08:53:13,photo,resultat,AUDJPY,vente,,97.215,,,"membre : AUDJPY sell 2, +1 542 $"
+1446,ChatExport_2026-10-01/photos/photo_2548@01-02-2024_12-06-00.jpg,10579,2024-02-01T12:06:00,photo,resultat,GBPAUD,achat,,1.92505,,1.94164,historique : GBPAUD buy 2.90 clôturé +3 136 $
+1447,ChatExport_2026-10-01/photos/photo_2549@01-02-2024_12-06-00.jpg,10580,2024-02-01T12:06:00,photo,resultat,GBPAUD,achat,,1.92472,,1.94180,historique : GBPAUD buy 6.00 clôturé +6 680 $
+1448,ChatExport_2026-10-01/photos/photo_2550@01-02-2024_12-06-53.jpg,10581,2024-02-01T12:06:53,photo,resultat,AUDJPY,vente,,97.553,,96.518,"historique d'un membre (compte 50 000 $) : 4 ventes AUDJPY, +2 099 $"
+1449,ChatExport_2026-10-01/photos/photo_2551@01-02-2024_12-06-53.jpg,10582,2024-02-01T12:06:53,photo,resultat,AUDJPY,vente,,97.601,,96.521,"historique d'un membre : GBPJPY +112 $ +84 $, AUDJPY +739 $ +360 $ ; total +1 247 $"
+1450,ChatExport_2026-10-01/photos/photo_2552@01-02-2024_12-07-40.jpg,10584,2024-02-01T12:07:40,photo,resultat,AUDJPY,vente,,97.438,,96.622,historique : AUDJPY sell 7.50 clôturé +4 188 $
+1451,ChatExport_2026-10-01/photos/photo_2553@01-02-2024_12-07-40.jpg,10585,2024-02-01T12:07:40,photo,resultat,AUDJPY,vente,,97.421,,96.589,historique (autre compte) : AUDJPY sell 7.50 clôturé +4 267 $
+1452,ChatExport_2026-10-01/photos/photo_2554@01-02-2024_12-15-37.jpg,10589,2024-02-01T12:15:37,photo,trade,GBPJPY,achat,M15,185.642,,,"MT4 buy 5.80 avec sl, prix 186.25"
+1453,ChatExport_2026-10-01/photos/photo_2555@01-02-2024_12-46-43.jpg,10592,2024-02-01T12:46:43,photo,resultat,GBPJPY,achat,,185.642,,186.333,historique : GBPJPY buy 5.80 clôturé +2 725 $
+1454,ChatExport_2026-10-01/photos/photo_2559@02-02-2024_10-20-33.jpg,10599,2024-02-02T10:20:33,photo,autre,,,,,,,"tableau NFP de février et mars 2018-2024 (réel, prévision, précédent)"
+1455,assets/tradingview/2024-02/2024-02-02_13h32_msg10607_3tHcDKLO.png,10607,2024-02-02T13:32:49,tv,analyse,DXY,achat,H1,,,,"BLACKMAKER ; rebond sur la zone 103, projection vers 104.27"
+1456,assets/tradingview/2024-02/2024-02-02_13h36_msg10609_1zaEiMVA.png,10609,2024-02-02T13:36:44,tv,analyse,NZDUSD,vente,H4,,,,BLACKMAKER ; deux scénarios sous 0.61489
+1457,assets/tradingview/2024-02/2024-02-06_12h44_msg10628_HrasZVSx.png,10628,2024-02-06T12:44:24,tv,trade,EURNZD,achat,H1,1.77499,1.76981,,"BLACKMAKER ; prix 1.7729, sous l'entrée"
+1458,ChatExport_2026-10-01/photos/photo_2560@06-02-2024_13-40-52.jpg,10630,2024-02-06T13:40:52,photo,resultat,AUDJPY,achat,,96.539,96.537,,"position AUDJPY buy 29.70, +2 299 $ ; stop à l'entrée"
+1459,ChatExport_2026-10-01/photos/photo_2561@08-02-2024_12-52-17.jpg,10638,2024-02-08T12:52:17,photo,trade,AUDUSD,vente,H1,,,,"MT4 sell 4.00 avec sl, prix 0.6490"
+1460,ChatExport_2026-10-01/photos/photo_2562@08-02-2024_12-54-26.jpg,10640,2024-02-08T12:54:26,photo,analyse,GBPUSD,vente,H4,,,,TradingView mobile ; projection vers 1.22622
+1461,assets/tradingview/2024-02/2024-02-08_12h54_msg10641_FBQWmQ7y.png,10641,2024-02-08T12:54:42,tv,analyse,GBPUSD,vente,H4,,,,BLACKMAKER ; projection baissière
+1462,ChatExport_2026-10-01/photos/photo_2590@13-02-2024_13-31-40.jpg,10679,2024-02-13T13:31:40,photo,trade,GBPUSD,vente,H1,1.26747,,,MT4 sell 10.00 avec sl
+1463,ChatExport_2026-10-01/photos/photo_2591@13-02-2024_13-33-37.jpg,10682,2024-02-13T13:33:37,photo,resultat,GBPUSD,vente,,1.26747,,,"position GBPUSD sell 10.00, +7 820 $"
+1464,ChatExport_2026-10-01/photos/photo_2593@21-02-2024_15-39-42.jpg,10697,2024-02-21T15:39:42,photo,analyse,EURUSD,vente,H4,,,,TradingView mobile ; projection baissière
+1465,assets/tradingview/2024-03/2024-03-01_14h59_msg10730_RbRDaMZX.png,10730,2024-03-01T14:59:12,tv,trade,GBPUSD,vente,H1,1.26315,1.26716,1.25016,BLACKMAKER ; deux positions vers Major larger quarter 1.25
+1466,ChatExport_2026-10-01/photos/photo_2604@01-03-2024_14-59-56.jpg,10731,2024-03-01T14:59:56,photo,trade,GBPUSD,vente,H1,,,,MT4 sell 5.70 avec sl
+1467,ChatExport_2026-10-01/photos/photo_2605@01-03-2024_15-03-18.jpg,10732,2024-03-01T15:03:18,photo,resultat,GBPUSD,vente,,1.26303,,1.26127,historique : GBPUSD sell 5.70 clôturé +1 003 $
+1468,ChatExport_2026-10-01/photos/photo_2607@14-03-2024_14-21-04.jpg,10768,2024-03-14T14:21:04,photo,trade,AUDUSD,vente,M15,,,,"MT4 sell 6.70 avec sl, prix 0.6591"
+1469,ChatExport_2026-10-01/photos/photo_2608@14-03-2024_14-21-59.jpg,10769,2024-03-14T14:21:59,photo,trade,EURUSD,vente,M15,,,,"MT4 sell 5.00 avec sl, prix 1.0903"
+1470,assets/tradingview/2024-03/2024-03-18_15h40_msg10779_zLV1n17Z.png,10779,2024-03-18T15:40:06,tv,trade,AUDJPY,achat,H4,97.598,97.246,99.015,BLACKMAKER
+1471,assets/tradingview/2024-03/2024-03-18_16h00_msg10788_zVG4fjYh.png,10788,2024-03-18T16:00:36,tv,analyse,NZDUSD,vente,D1,,,,"BLACKMAKER ; cassure de l'oblique, projection baissière"
+1472,ChatExport_2026-10-01/photos/photo_2610@19-03-2024_12-26-57.jpg,10797,2024-03-19T12:26:57,photo,trade,AUDJPY,achat,H1,97.601,97.280,98.267,"TradingView mobile ; prix 98.09, proche du TP"
+1473,assets/tradingview/2024-03/2024-03-19_12h35_msg10801_Hozr24Cz.png,10801,2024-03-19T12:35:58,tv,analyse,NZDUSD,vente,H4,,,,BLACKMAKER ; cassure de l'oblique
+1474,assets/tradingview/2024-03/2024-03-19_12h38_msg10803_w4T7z5up.png,10803,2024-03-19T12:38:08,tv,analyse,NZDUSD,vente,H4,,,,"BLACKMAKER ; schéma Wyckoff (PS, LPS), projection baissière"
+1475,ChatExport_2026-10-01/photos/photo_2614@20-03-2024_05-49-47.jpg,10811,2024-03-20T05:49:47,photo,resultat,AUDJPY,achat,H4,97.601,97.280,98.896,TradingView mobile ; TP atteint (98.92)
+1476,ChatExport_2026-10-01/photos/photo_2615@20-03-2024_08-57-07.jpg,10813,2024-03-20T08:57:07,photo,analyse,DXY,,D1,,,,TradingView mobile ; rebond sur 102.5
+1477,ChatExport_2026-10-01/photos/photo_2616@20-03-2024_09-05-25.jpg,10817,2024-03-20T09:05:25,photo,resultat,GBPUSD,vente,,1.27151,,,"position GBPUSD sell 6.70, +951 $"
+1478,ChatExport_2026-10-01/photos/photo_2617@21-03-2024_20-01-33.jpg,10821,2024-03-21T20:01:33,photo,trade,GBPUSD,vente,H1,1.27597,1.27898,1.26636,TradingView mobile
+1479,ChatExport_2026-10-01/photos/photo_2618@21-03-2024_20-01-44.jpg,10822,2024-03-21T20:01:44,photo,resultat,GBPUSD,vente,H1,1.27587,1.27890,1.26656,TradingView mobile ; TP atteint (1.2651)
+1480,ChatExport_2026-10-01/photos/photo_2619@27-03-2024_18-37-57.jpg,10827,2024-03-27T18:37:57,photo,resultat,,,,,,,"classement Funding Pips (100 000 $) : Arawani S. (Mali) 1er, +43,82 %"
+1481,assets/tradingview/2024-03/2024-03-28_15h37_msg10829_j6gI8gwA.png,10829,2024-03-28T15:37:38,tv,analyse,EURUSD,vente,H1,,,,BLACKMAKER ; projection atteinte
+1482,assets/tradingview/2024-04/2024-04-01_15h10_msg10843_TqyEsx0F.png,10843,2024-04-01T15:10:54,tv,analyse,NZDUSD,vente,H4,,,,"BLACKMAKER ; Wyckoff, projection atteinte"
+1483,assets/tradingview/2024-04/2024-04-02_11h46_msg10845_hHodGN1G.png,10845,2024-04-02T11:46:08,tv,analyse,DXY,,H4,,,,BLACKMAKER ; zone 105
+1484,ChatExport_2026-10-01/photos/photo_2621@03-04-2024_14-11-37.jpg,10860,2024-04-03T14:11:37,photo,trade,GBPJPY,achat,H1,190.453,190.053,,"cTrader buy 11.30 lots, +5 152 $ flottant"
+1485,assets/tradingview/2024-04/2024-04-03_14h12_msg10861_gsUpzWMI.png,10861,2024-04-03T14:12:06,tv,trade,GBPJPY,achat,D1,190.439,190.030,193.462,BLACKMAKER
+1486,ChatExport_2026-10-01/photos/photo_2622@03-04-2024_15-16-28.jpg,10862,2024-04-03T15:16:28,photo,analyse,GBPJPY,achat,D1,,,,BLACKMAKER ; « comment anticiper la formation de cette bougie journalière ? » ; +8 327 $ flottant
+1487,ChatExport_2026-10-01/photos/photo_2623@03-04-2024_16-35-26.jpg,10865,2024-04-03T16:35:26,photo,resultat,GBPJPY,achat,,,,,
+1488,assets/tradingview/2024-04/2024-04-03_17h17_msg10869_txdqPhmD.png,10869,2024-04-03T17:17:28,tv,analyse,NZDUSD,vente,D1,,,,"BLACKMAKER ; Wyckoff, projection baissière"
+1489,assets/tradingview/2024-04/2024-04-03_17h23_msg10875_n5OEM26i.png,10875,2024-04-03T17:23:57,tv,analyse,DXY,vente,D1,,,,BLACKMAKER ; projection vers 103.5
+1490,ChatExport_2026-10-01/photos/photo_2624@04-04-2024_14-49-14.jpg,10880,2024-04-04T14:49:14,photo,resultat,GBPJPY,achat,,190.453,190.053,,"cTrader : GBPJPY buy 11.30 lots, +13 664 $ flottant (192.2)"
+1491,ChatExport_2026-10-01/photos/photo_2625@05-04-2024_01-25-17.jpg,10887,2024-04-05T01:25:17,photo,trade,EURUSD,vente,H4,1.08531,1.08735,1.07931,TradingView mobile
+1492,ChatExport_2026-10-01/photos/photo_2626@05-04-2024_12-34-03.jpg,10889,2024-04-05T12:34:03,photo,resultat,EURUSD,vente,H1,1.08376,1.08525,1.07926,"TradingView mobile ; prix 1.0805, proche du TP"
+1493,ChatExport_2026-10-01/photos/photo_2627@05-04-2024_12-34-20.jpg,10890,2024-04-05T12:34:20,photo,resultat,EURUSD,vente,,1.08370,1.08520,,"cTrader : EURUSD sell 20 lots, +6 420 $ flottant"
+1494,ChatExport_2026-10-01/photos/photo_2628@05-04-2024_13-56-31.jpg,10893,2024-04-05T13:56:31,photo,resultat,EURUSD,vente,H4,1.08376,1.08525,1.07926,TradingView mobile ; prix 1.0805
+1495,assets/tradingview/2024-04/2024-04-05_14h06_msg10899_z1YvVr6K.png,10899,2024-04-05T14:06:00,tv,analyse,EURUSD,,W1,,,,BLACKMAKER ; mèche hebdomadaire
+1496,ChatExport_2026-10-01/photos/photo_2629@05-04-2024_14-37-08.jpg,10906,2024-04-05T14:37:08,photo,autre,,,,,,,photo d'écran : compte rendu NFP du 05/04/2024 ; Amirou écrit que le NFP du 08/03/2024 lui a causé « d'énormes pertes » et mis un compte Nova de 200 000 $ en drawdown
+1497,ChatExport_2026-10-01/photos/photo_2630@05-04-2024_15-43-11.jpg,10909,2024-04-05T15:43:11,photo,resultat,EURUSD,vente,H1,1.08376,1.08525,1.07926,TradingView mobile ; TP touché puis remontée à 1.0835
+1498,ChatExport_2026-10-01/photos/photo_2631@08-04-2024_13-36-17.jpg,10919,2024-04-08T13:36:17,photo,autre,,,,,,,schéma pédagogique prix/temps
+1499,ChatExport_2026-10-01/photos/photo_2632@10-04-2024_13-05-57.jpg,10932,2024-04-10T13:05:57,photo,trade,NZDJPY,vente,H4,92.500,92.805,91.246,TradingView mobile
+1500,ChatExport_2026-10-01/photos/photo_2633@10-04-2024_13-11-05.jpg,10934,2024-04-10T13:11:05,photo,analyse,DXY,,H4,,,,TradingView mobile ; hausse à 104.86 (CPI)
+1501,ChatExport_2026-10-01/photos/photo_2634@10-04-2024_13-51-01.jpg,10940,2024-04-10T13:51:01,photo,resultat,AUDUSD,vente,,0.66179,,0.65502,"membre (ABK) : AUDUSD sell, +3 375 $ (677 points), remerciements à Amirou"
+1502,ChatExport_2026-10-01/photos/photo_2635@10-04-2024_16-00-57.jpg,10946,2024-04-10T16:00:57,photo,analyse,EURUSD,,H4,,,,TradingView mobile ; chute à 1.0735
+1503,assets/tradingview/2024-04/2024-04-11_02h31_msg10952_CcYp1KxV.png,10952,2024-04-11T02:31:03,tv,analyse,AUDUSD,vente,D1,,,,BLACKMAKER ; projection vers 0.64421
+1504,ChatExport_2026-10-01/photos/photo_2636@11-04-2024_14-35-46.jpg,10954,2024-04-11T14:35:46,photo,analyse,AUDUSD,vente,H4,,,,TradingView mobile ; projection vers 0.64421
+1505,ChatExport_2026-10-01/photos/photo_2637@12-04-2024_08-43-01.jpg,10961,2024-04-12T08:43:01,photo,trade,GBPAUD,achat,M30,1.92041,1.91787,1.92858,TradingView mobile
+1506,ChatExport_2026-10-01/photos/photo_2638@12-04-2024_13-05-19.jpg,10962,2024-04-12T13:05:19,photo,trade,GBPAUD,achat,H1,1.92041,1.91787,1.92858,TradingView mobile ; prix 1.9233
+1507,ChatExport_2026-10-01/photos/photo_2639@12-04-2024_13-45-37.jpg,10963,2024-04-12T13:45:37,photo,resultat,GBPAUD,achat,,1.92066,1.91816,,"cTrader : GBPAUD buy 18.40 lots, +4 250 $ flottant"
+1508,ChatExport_2026-10-01/photos/photo_2641@12-04-2024_16-05-37.jpg,10965,2024-04-12T16:05:37,photo,resultat,,,,,,,Funding Pips : phases 1 et 2 réussies par un membre (Ousmane Cherif H.)
+1509,ChatExport_2026-10-01/photos/photo_2642@12-04-2024_16-47-33.jpg,10969,2024-04-12T16:47:33,photo,resultat,GBPAUD,achat,,1.92066,1.91816,,"cTrader : GBPAUD buy 18.40 lots, +5 740 $ flottant"
+1510,ChatExport_2026-10-01/photos/photo_2643@12-04-2024_17-22-10.jpg,10974,2024-04-12T17:22:10,photo,resultat,GBPAUD,achat,,,,,
+1511,assets/tradingview/2024-04/2024-04-12_17h35_msg10979_C4H87lvv.png,10979,2024-04-12T17:35:57,tv,trade,NZDJPY,vente,H4,92.496,92.799,90.831,"BLACKMAKER ; « low du lundi », prix 90.90"
+1512,ChatExport_2026-10-01/photos/photo_2649@15-04-2024_02-00-16.jpg,10999,2024-04-15T02:00:16,photo,trade,NZDJPY,achat,H4,91.038,90.695,92.295,TradingView mobile
+1513,ChatExport_2026-10-01/photos/photo_2650@15-04-2024_02-01-44.jpg,11001,2024-04-15T02:01:44,photo,resultat,NZDJPY,achat,,91.054,90.704,,"cTrader : NZDJPY buy 13.13 lots, +1 572 $ flottant"
+1514,ChatExport_2026-10-01/photos/photo_2651@15-04-2024_04-13-36.jpg,11002,2024-04-15T04:13:36,photo,trade,NZDJPY,achat,H4,91.038,90.695,92.295,TradingView mobile ; prix 91.47
+1515,ChatExport_2026-10-01/photos/photo_2652@15-04-2024_04-14-32.jpg,11003,2024-04-15T04:14:32,photo,resultat,NZDJPY,achat,,91.054,90.704,,"cTrader : NZDJPY buy 13.13 lots, +3 423 $ flottant"
+1516,assets/tradingview/2024-04/2024-04-15_18h54_msg11005_XjuUqE6r.png,11005,2024-04-15T18:54:44,tv,analyse,USDJPY,,M30,,,,BLACKMAKER ; zone 154.4 entourée
+1517,ChatExport_2026-10-01/photos/photo_2653@15-04-2024_18-58-15.jpg,11008,2024-04-15T18:58:15,photo,resultat,NZDJPY,achat,,91.054,,91.423,"NZDJPY buy clôturé +3 060 $ (36,9 pips)"
+1518,assets/tradingview/2024-04/2024-04-15_19h04_msg11009_dSOq1oyr.png,11009,2024-04-15T19:04:38,tv,trade,AUDJPY,achat,H4,99.212,98.908,100.240,BLACKMAKER
+1519,ChatExport_2026-10-01/photos/photo_2655@16-04-2024_02-12-20.jpg,11012,2024-04-16T02:12:20,photo,resultat,GBPAUD,achat,H1,1.92055,1.91787,1.93756,TradingView mobile ; TP atteint (1.9384)
