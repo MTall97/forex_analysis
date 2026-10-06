@@ -10,6 +10,8 @@ en horaire quand c'est possible, sinon en journalier ; resolution(paire, date) i
 
 Usage direct (pré-remplir le cache) :
     python scripts/prix_yahoo.py EURUSD GBPUSD ...
+Compléter le cache horaire avec les derniers jours (Yahoo ne garde que 730 jours) :
+    python scripts/prix_yahoo.py --mettre-a-jour [EURUSD GBPUSD ...]   (toutes les paires en cache par défaut)
 """
 
 import os
@@ -75,6 +77,36 @@ def bougies(paire, debut, fin):
     return out
 
 
+def mettre_a_jour(paire):
+    """Ajoute au cache horaire les bougies des 60 derniers jours (sans toucher à l'historique)."""
+    import yfinance as yf
+    f = f"{CACHE}/{paire}_1h.csv"
+    ancien = pd.read_csv(f, parse_dates=['date']) if os.path.exists(f) else pd.DataFrame(
+        columns=['date', 'open', 'high', 'low', 'close'])
+    d = yf.download(symbole(paire), period='60d', interval='1h', progress=False, auto_adjust=False)
+    if d is None or d.empty:
+        return 0
+    if isinstance(d.columns, pd.MultiIndex):
+        d.columns = d.columns.get_level_values(0)
+    idx = d.index.tz_convert('UTC').tz_localize(None) if d.index.tz is not None else d.index
+    neuf = pd.DataFrame({'date': idx, 'open': d['Open'].values, 'high': d['High'].values,
+                         'low': d['Low'].values, 'close': d['Close'].values}).dropna()
+    # la dernière bougie horaire de l'ancien cache pouvait être incomplète : on garde la nouvelle version
+    tout = pd.concat([ancien, neuf]).drop_duplicates('date', keep='last').sort_values('date')
+    tout.to_csv(f, index=False)
+    _memo.pop((paire, '1h'), None)
+    return len(tout) - len(ancien)
+
+
 if __name__ == '__main__':
-    for p in sys.argv[1:]:
-        print(p, len(_charger(p, '1d')), len(_charger(p, '1h')))
+    args = sys.argv[1:]
+    if args and args[0] == '--mettre-a-jour':
+        paires = args[1:] or sorted(n[:-7] for n in os.listdir(CACHE) if n.endswith('_1h.csv'))
+        for p in paires:
+            try:
+                print(p, '+', mettre_a_jour(p), 'bougies horaires')
+            except Exception as ex:
+                print(p, 'échec :', ex)
+    else:
+        for p in args:
+            print(p, len(_charger(p, '1d')), len(_charger(p, '1h')))
