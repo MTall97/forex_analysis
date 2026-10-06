@@ -956,7 +956,8 @@ def recents():
                 ax.bar(tab.index, tab[col], bottom=bas, color=coul, label=nom, edgecolor='white', linewidth=1.5, width=0.6)
                 bas += tab[col].values
             ax.set_title(titre, fontsize=9)
-            ax.legend(fontsize=7)
+            ax.legend(fontsize=7, loc="upper left", ncol=2)
+            ax.set_ylim(0, 205)
         axes[0].set_ylabel('trades')
         fig.suptitle('Tous les trades d\'Amirou, 2019-2026 : issue publiée et issue réelle', fontsize=10)
         sauver(fig, 'verification_tous_les_mois.png')
