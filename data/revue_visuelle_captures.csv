@@ -671,3 +671,43 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 669,ChatExport_2026-10-01/photos/photo_1648@28-07-2022_12-02-03.jpg,6097,2022-07-28T12:02:03,photo,analyse,EURUSD,,H1,,,,MLQ 1.015 et 1.000
 670,ChatExport_2026-10-01/photos/photo_1649@28-07-2022_12-18-34.jpg,6099,2022-07-28T12:18:34,photo,analyse,EURUSD,,H4,,,,membre (mountagad)
 671,ChatExport_2026-10-01/photos/photo_1650@28-07-2022_12-35-33.jpg,6102,2022-07-28T12:35:33,photo,trade,EURUSD,vente,M15,1.02209,1.02531,1.01070,membre (ascobamba9)
+672,assets/tradingview/2022-08/2022-08-02_12h37_msg6109_4g2INuOh.png,6109,2022-08-02T12:37:03,tv,analyse,AUDJPY,,H4,,,,projection baissière
+673,assets/tradingview/2022-08/2022-08-02_12h38_msg6111_NDoF92pz.png,6111,2022-08-02T12:38:21,tv,analyse,EURJPY,,H4,,,,projection baissière
+674,assets/tradingview/2022-08/2022-08-02_12h39_msg6112_AQFuKrBK.png,6112,2022-08-02T12:39:02,tv,analyse,USDJPY,,H4,,,,projection baissière
+675,ChatExport_2026-10-01/photos/photo_1655@04-08-2022_15-04-12.jpg,6120,2022-08-04T15:04:12,photo,trade,EURAUD,achat,M45,1.45566,1.45212,1.48009,élève (Tanimoune01)
+676,assets/tradingview/2022-08/2022-08-04_16h21_msg6123_YppkOvKf.png,6123,2022-08-04T16:21:01,tv,analyse,USDJPY,,H4,,,,"MLQ 135.000, projection"
+677,assets/tradingview/2022-08/2022-08-04_16h21_msg6124_0AYmmMfu.png,6124,2022-08-04T16:21:01,tv,analyse,GBPJPY,,H1,,,,"MLQ 162.500, projection baissière"
+678,assets/tradingview/2022-08/2022-08-04_16h21_msg6125_gxAWqBME.png,6125,2022-08-04T16:21:01,tv,analyse,GBPJPY,,H1,,,,MLQ 162.500
+679,assets/tradingview/2022-08/2022-08-04_16h21_msg6126_YwSBZuX3.png,6126,2022-08-04T16:21:01,tv,analyse,EURJPY,,H1,,,,"MLQ 137.500, projection"
+680,assets/tradingview/2022-08/2022-08-04_16h21_msg6127_SLDjTTPO.png,6127,2022-08-04T16:21:01,tv,analyse,NZDJPY,,H1,,,,MLQ 85.000
+681,assets/tradingview/2022-08/2022-08-05_12h38_msg6130_JzQDs8Mh.png,6130,2022-08-05T12:38:42,tv,analyse,EURUSD,,H1,,,,MLQ 1.02500
+682,assets/tradingview/2022-08/2022-08-05_12h39_msg6131_OjTdzvJ3.png,6131,2022-08-05T12:39:38,tv,analyse,GBPUSD,,H1,,,,MLQ 1.22501
+683,assets/tradingview/2022-08/2022-08-05_12h57_msg6137_VXBKX9tc.png,6137,2022-08-05T12:57:49,tv,analyse,EURJPY,,H1,,,,"MLQ 137.500, projection"
+684,ChatExport_2026-10-01/photos/photo_1656@09-08-2022_16-18-33.jpg,6152,2022-08-09T16:18:33,photo,resultat,,,,,,,My Forex Funds d'un membre : phase 2 réussie (+512 $)
+685,assets/tradingview/2022-08/2022-08-09_17h08_msg6155_PsZmCUNj.png,6155,2022-08-09T17:08:30,tv,trade,EURAUD,achat,M15,1.45418,1.45260,1.47445,LPS
+686,assets/tradingview/2022-08/2022-08-10_13h14_msg6161_M9WjQj5Z.png,6161,2022-08-10T13:14:01,tv,trade,USDJPY,vente,H1,134.973,135.245,132.742,MLQ 135 ; TP presque atteint (prix 133.249 après plus bas)
+687,assets/tradingview/2022-08/2022-08-10_13h26_msg6164_xhI8UI6M.png,6164,2022-08-10T13:26:12,tv,analyse,USDJPY,,H1,,,,MLQ 135 ; chute après l'inflation US
+688,ChatExport_2026-10-01/photos/photo_1657@12-08-2022_14-57-25.jpg,6168,2022-08-12T14:57:25,photo,trade,EURJPY,vente,M15,137.409,137.50,136.80,MT4 sell 9.00
+689,ChatExport_2026-10-01/photos/photo_1658@12-08-2022_14-59-11.jpg,6169,2022-08-12T14:59:11,photo,resultat,EURJPY,vente,,137.409,,,"position EURJPY sell 9.00, +3 042 $ flottant"
+690,ChatExport_2026-10-01/photos/photo_1659@14-08-2022_23-56-42.jpg,6171,2022-08-14T23:56:42,photo,resultat,EURJPY,vente,,137.409,,,"historique : EURJPY sell 9.00 137.409 -> 136.766, +4 341 $ (TP)"
+691,assets/tradingview/2022-08/2022-08-17_06h48_msg6175_7Zsh75lH.png,6175,2022-08-17T06:48:15,tv,analyse,NZDCAD,,H4,,,,MLQ 0.82500
+692,assets/tradingview/2022-08/2022-08-17_06h54_msg6176_JttEwuXL.png,6176,2022-08-17T06:54:53,tv,trade,NZDCAD,vente,M5,0.82310,0.82440,0.8180,MLQ 0.825 ; session de New York ; en gain (prix 0.82083)
+693,ChatExport_2026-10-01/photos/photo_1660@18-08-2022_02-40-27.jpg,6179,2022-08-18T02:40:27,photo,resultat,,,,,,,"My Forex Funds d'un membre : +512 $, phase 2"
+694,ChatExport_2026-10-01/photos/photo_1661@24-08-2022_15-30-44.jpg,6202,2022-08-24T15:30:44,photo,trade,USDCAD,vente,H1,1.29982,1.30037,1.29331,membre (nouhoum412) ; « quarter point » 1.300
+695,ChatExport_2026-10-01/photos/photo_1664@24-08-2022_15-31-12.jpg,6206,2022-08-24T15:31:12,photo,trade,USDCAD,vente,M30,1.29977,1.30037,1.29331,membre ; prix 1.29662
+696,ChatExport_2026-10-01/photos/photo_1665@25-08-2022_12-20-54.jpg,6208,2022-08-25T12:20:54,photo,trade,USDJPY,vente,M15,137.02,137.27,,MT4 sell 1.64 ; prix 136.441
+697,ChatExport_2026-10-01/photos/photo_1666@25-08-2022_12-40-10.jpg,6210,2022-08-25T12:40:10,photo,autre,,,,,,,calendrier : PIB américain T2
+698,ChatExport_2026-10-01/photos/photo_1667@25-08-2022_12-47-42.jpg,6218,2022-08-25T12:47:42,photo,autre,,,,,,,"diapositive pédagogique : Fed, chômage et dollar"
+699,ChatExport_2026-10-01/photos/photo_1668@26-08-2022_14-30-08.jpg,6221,2022-08-26T14:30:08,photo,trade,NZDUSD,vente,M15,0.6220,0.6227,,MT4 sell 3.00 ; prix 0.61896
+700,assets/tradingview/2022-08/2022-08-26_15h21_msg6222_aeiDJZUL.png,6222,2022-08-26T15:21:08,tv,trade,NZDUSD,vente,H1,0.62270,0.62372,0.6120,objectif approximatif ; prix 0.61617
+701,ChatExport_2026-10-01/photos/photo_1669@26-08-2022_15-21-15.jpg,6223,2022-08-26T15:21:15,photo,resultat,NZDUSD,vente,,0.62201,,,"position NZDUSD sell 3.00, +1 707 $ flottant"
+702,ChatExport_2026-10-01/photos/photo_1670@26-08-2022_19-57-31.jpg,6227,2022-08-26T19:57:31,photo,resultat,,,,,,,My Forex Funds d'un membre : +633.67 $ (objectif 500 $)
+703,ChatExport_2026-10-01/photos/photo_1671@29-08-2022_00-36-35.jpg,6236,2022-08-29T00:36:35,photo,resultat,NZDUSD,vente,,0.62201,,,"position NZDUSD sell 3.00, +3 174 $ flottant (prix 0.61143)"
+704,assets/tradingview/2022-09/2022-09-02_12h32_msg6253_SXawSHKM.png,6253,2022-09-02T12:32:30,tv,analyse,EURUSD,,M3,,,,NFP
+705,assets/tradingview/2022-09/2022-09-07_18h23_msg6269_8V3aku3e.png,6269,2022-09-07T18:23:52,tv,analyse,EURUSD,,M15,,,,"« major whole number » 1.000, plus haut du jour ; projection baissière"
+706,ChatExport_2026-10-01/photos/photo_1674@08-09-2022_11-59-03.jpg,6277,2022-09-08T11:59:03,photo,autre,,,,,,,calendrier : BCE (taux)
+707,ChatExport_2026-10-01/photos/photo_1675@08-09-2022_12-21-39.jpg,6283,2022-09-08T12:21:39,photo,resultat,EURUSD,vente,,1.00068,,,"position EURUSD sell 3.30, +673 $ flottant"
+708,ChatExport_2026-10-01/photos/photo_1676@08-09-2022_13-16-42.jpg,6293,2022-09-08T13:16:42,photo,resultat,EURUSD,vente,,1.00068,,,"position EURUSD sell 3.30, +2 382 $ flottant (prix 0.99346)"
+709,assets/tradingview/2022-09/2022-09-13_21h19_msg6313_K6m2PKpj.png,6313,2022-09-13T21:19:22,tv,analyse,DXY,,H1,,,,projection haussière
+710,assets/tradingview/2022-09/2022-09-13_21h19_msg6314_gRZlRr96.png,6314,2022-09-13T21:19:33,tv,analyse,DXY,,H1,,,,projection haussière
+711,assets/tradingview/2022-09/2022-09-13_21h19_msg6315_znoSKxMI.png,6315,2022-09-13T21:19:59,tv,analyse,AUDUSD,,H4,,,,
