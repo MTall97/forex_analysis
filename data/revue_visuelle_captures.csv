@@ -1615,3 +1615,75 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 1613,ChatExport_2026-10-01/photos/photo_2838@04-09-2024_12-47-59.jpg,11802,2024-09-04T12:47:59,photo,trade,USDJPY,vente,M5,145.132,,,MT5 sell 14 avec sl
 1614,ChatExport_2026-10-01/photos/photo_2839@04-09-2024_12-59-47.jpg,11806,2024-09-04T12:59:47,photo,trade,USDJPY,vente,M1,145.132,,,"MT5 sell 14, prix 145.08"
 1615,ChatExport_2026-10-01/photos/photo_2840@04-09-2024_14-06-18.jpg,11810,2024-09-04T14:06:18,photo,resultat,USDJPY,vente,M30,145.146,145.347,144.195,"TradingView mobile ; prix 144.27, proche du TP"
+1616,ChatExport_2026-10-01/photos/photo_2841@04-09-2024_14-15-10.jpg,11813,2024-09-04T14:15:10,photo,resultat,,,,,,,compte d'un membre à 111 815 XOF sans position
+1617,assets/tradingview/2024-09/2024-09-04_17h02_msg11819_Ez3LCBtE.png,11819,2024-09-04T17:02:02,tv,analyse,DXY,vente,H4,,,,BLACKMAKER ; projection vers 100.6
+1618,ChatExport_2026-10-01/photos/photo_2842@06-09-2024_16-13-35.jpg,11830,2024-09-06T16:13:35,photo,trade,AUDNZD,vente,H4,1.08523,1.08726,1.07972,TradingView mobile
+1619,ChatExport_2026-10-01/photos/photo_2843@10-09-2024_07-38-06.jpg,11844,2024-09-10T07:38:06,photo,trade,EURNZD,vente,H1,1.79805,1.80309,1.78283,TradingView mobile ; Major larger quarter 1.80
+1620,ChatExport_2026-10-01/photos/photo_2844@10-09-2024_10-58-46.jpg,11845,2024-09-10T10:58:46,photo,resultat,EURNZD,vente,,,,1.79174,"photo d'écran MT5 : EURNZD, +2 231 $ flottant"
+1621,ChatExport_2026-10-01/photos/photo_2847@11-09-2024_12-34-03.jpg,11857,2024-09-11T12:34:03,photo,trade,EURNZD,vente,M30,1.7996,,,MT5 sell limit 10.85
+1622,ChatExport_2026-10-01/photos/photo_2848@11-09-2024_12-34-11.jpg,11858,2024-09-11T12:34:11,photo,trade,EURNZD,vente,M30,1.79980,,,MT5 sell 10.85 et 6.50
+1623,ChatExport_2026-10-01/photos/photo_2849@11-09-2024_12-35-09.jpg,11859,2024-09-11T12:35:09,photo,resultat,EURNZD,vente,,,,1.79789,"photo d'écran MT5 : EURNZD, +1 271 $ flottant"
+1624,ChatExport_2026-10-01/photos/photo_2850@11-09-2024_18-44-49.jpg,11866,2024-09-11T18:44:49,photo,trade,EURNZD,vente,M30,1.79922,1.80222,1.79071,TradingView mobile
+1625,assets/tradingview/2024-09/2024-09-11_22h54_msg11869_UOSoqx9b.png,11869,2024-09-11T22:54:07,tv,analyse,GBPAUD,vente,H4,,,,BLACKMAKER ; projection vers 1.95
+1626,assets/tradingview/2024-09/2024-09-11_22h57_msg11873_JElC0vV9.png,11873,2024-09-11T22:57:38,tv,analyse,AUDNZD,,H4,,,,BLACKMAKER ; zone 1.0876
+1627,ChatExport_2026-10-01/photos/photo_2851@12-09-2024_07-08-21.jpg,11875,2024-09-12T07:08:21,photo,resultat,EURNZD,vente,H1,1.79884,1.80184,1.78975,"BLACKMAKER ; prix 1.7914, proche du TP"
+1628,assets/tradingview/2024-09/2024-09-12_07h12_msg11878_xHgyNIVv.png,11878,2024-09-12T07:12:31,tv,analyse,GBPAUD,vente,H4,,,,"BLACKMAKER ; Wyckoff (spring, test en cours), projection vers 1.95"
+1629,assets/tradingview/2024-09/2024-09-12_07h17_msg11879_SUBdhx0y.png,11879,2024-09-12T07:17:20,tv,analyse,GBPCHF,achat,H4,,,,BLACKMAKER ; range 1.1025-1.124
+1630,ChatExport_2026-10-01/photos/photo_2852@12-09-2024_11-59-54.jpg,11886,2024-09-12T11:59:54,photo,resultat,,,,,,,"photo d'écran MT5 : 11 positions ouvertes, total +21 624 $ flottant (dont −1 896 $, −1 878 $, −700 $)"
+1631,ChatExport_2026-10-01/photos/photo_2853@12-09-2024_13-26-41.jpg,11889,2024-09-12T13:26:41,photo,trade,GBPUSD,vente,H4,1.30724,1.30976,1.29960,TradingView mobile ; Major whole number 1.30
+1632,assets/tradingview/2024-09/2024-09-12_17h57_msg11890_viA0TIut.png,11890,2024-09-12T17:57:09,tv,trade,GBPUSD,vente,H4,1.30724,1.30976,1.29960,BLACKMAKER
+1633,ChatExport_2026-10-01/photos/photo_2854@13-09-2024_17-34-26.jpg,11898,2024-09-13T17:34:26,photo,resultat,EURNZD,vente,,,,,
+1634,ChatExport_2026-10-01/photos/photo_2857@17-09-2024_10-37-42.jpg,11926,2024-09-17T10:37:42,photo,trade,EURNZD,vente,H1,1.79627,1.79885,1.78970,TradingView mobile
+1635,ChatExport_2026-10-01/photos/photo_2858@18-09-2024_03-15-35.jpg,11930,2024-09-18T03:15:35,photo,trade,EURNZD,vente,H1,1.79895,1.80194,1.78970,TradingView mobile ; prix 1.7932
+1636,ChatExport_2026-10-01/photos/photo_2859@18-09-2024_03-22-59.jpg,11931,2024-09-18T03:22:59,photo,trade,EURAUD,vente,H1,1.64997,1.65256,1.64132,TradingView mobile
+1637,ChatExport_2026-10-01/photos/photo_2860@18-09-2024_11-23-15.jpg,11932,2024-09-18T11:23:15,photo,resultat,EURNZD,vente,H1,1.79895,1.80194,1.78970,TradingView mobile ; TP atteint (1.7871)
+1638,ChatExport_2026-10-01/photos/photo_2861@18-09-2024_11-25-22.jpg,11934,2024-09-18T11:25:22,photo,resultat,EURAUD,vente,H1,1.64997,1.65256,1.64132,TradingView mobile ; TP atteint (1.6389)
+1639,assets/tradingview/2024-09/2024-09-18_16h20_msg11948_p5ZMkLKW.png,11948,2024-09-18T16:20:01,tv,analyse,EURUSD,vente,H4,,,,BLACKMAKER ; montée vers Major larger quarter 1.125 puis baisse
+1640,assets/tradingview/2024-09/2024-09-18_16h23_msg11951_KKlsGpgw.png,11951,2024-09-18T16:23:54,tv,analyse,EURUSD,achat,D1,,,,BLACKMAKER ; projection au-delà de Major larger quarter 1.125
+1641,ChatExport_2026-10-01/photos/photo_2862@18-09-2024_18-13-22.jpg,11955,2024-09-18T18:13:22,photo,trade,GBPAUD,,H1,1.95331,,,photo d'écran MT5 : ordre en attente
+1642,ChatExport_2026-10-01/photos/photo_2863@19-09-2024_11-05-07.jpg,11968,2024-09-19T11:05:07,photo,trade,GBPAUD,,M15,1.94645,,,photo d'écran MT5 : ordre en attente
+1643,assets/tradingview/2024-09/2024-09-19_13h39_msg11978_Yv0bYApu.png,11978,2024-09-19T13:39:46,tv,trade,XAUUSD,vente,H1,2583.811,2596.346,2543.595,BLACKMAKER
+1644,ChatExport_2026-10-01/photos/photo_2864@19-09-2024_23-45-29.jpg,11980,2024-09-19T23:45:29,photo,resultat,GBPAUD,,,1.95004,,,"photo d'écran MT5 : GBPAUD, +2 129 $ flottant"
+1645,ChatExport_2026-10-01/photos/photo_2865@20-09-2024_07-14-01.jpg,11981,2024-09-20T07:14:01,photo,trade,GBPAUD,achat,H4,1.94481,1.93974,1.96095,TradingView mobile ; Wyckoff (test)
+1646,ChatExport_2026-10-01/photos/photo_2866@20-09-2024_07-16-09.jpg,11983,2024-09-20T07:16:09,photo,trade,GBPAUD,achat,H4,1.94481,1.93974,1.96095,"TradingView mobile ; Wyckoff (spring, test)"
+1647,ChatExport_2026-10-01/photos/photo_2867@20-09-2024_07-22-46.jpg,11986,2024-09-20T07:22:46,photo,trade,GBPAUD,achat,M15,1.94481,1.93974,1.96095,TradingView mobile ; prix 1.9553
+1648,ChatExport_2026-10-01/photos/photo_2868@20-09-2024_18-52-44.jpg,11996,2024-09-20T18:52:44,photo,resultat,,,,,,,"classement MyFundedFX (100 000 $) : Kouma1329 2e, +12 077 $"
+1649,ChatExport_2026-10-01/photos/photo_2869@20-09-2024_18-52-56.jpg,11997,2024-09-20T18:52:56,photo,resultat,,,,,,,"classement MyFundedFX (200 000 $) : Kouma1329 2e, +15 973 $"
+1650,ChatExport_2026-10-01/photos/photo_2873@27-09-2024_13-31-02.jpg,12012,2024-09-27T13:31:02,photo,analyse,EURUSD,,D1,,,,TradingView mobile ; Major larger quarter 1.125
+1651,assets/tradingview/2024-10/2024-10-07_03h34_msg12043_XwujFiHs.png,12043,2024-10-07T03:34:41,tv,analyse,NZDUSD,vente,D1,,,,BLACKMAKER ; projection vers 0.61
+1652,assets/tradingview/2024-10/2024-10-07_03h38_msg12045_tdgbQoU3.png,12045,2024-10-07T03:38:03,tv,analyse,USDJPY,achat,D1,,,,BLACKMAKER ; repli vers 145 puis hausse vers 162
+1653,ChatExport_2026-10-01/photos/photo_2880@07-10-2024_12-45-49.jpg,12046,2024-10-07T12:45:49,photo,trade,GBPJPY,achat,H4,193.492,192.185,197.424,TradingView mobile
+1654,ChatExport_2026-10-01/photos/photo_2882@09-10-2024_11-06-34.jpg,12055,2024-10-09T11:06:34,photo,analyse,GBPJPY,achat,H4,,,,TradingView mobile ; projection vers 200
+1655,assets/tradingview/2024-10/2024-10-10_10h55_msg12057_zoiuJXQF.png,12057,2024-10-10T10:55:07,tv,analyse,GBPJPY,achat,H1,,,,BLACKMAKER ; projection vers 200
+1656,assets/tradingview/2024-10/2024-10-10_12h39_msg12062_m43RtF4e.png,12062,2024-10-10T12:39:49,tv,analyse,EURUSD,,M15,,,,BLACKMAKER ; mèche (CPI)
+1657,ChatExport_2026-10-01/photos/photo_2911@13-10-2024_12-58-29.jpg,12095,2024-10-13T12:58:29,photo,autre,,,,,,,photo de groupe (rencontre de la communauté)
+1658,assets/tradingview/2024-10/2024-10-17_00h59_msg12105_AC6DMDBr.png,12105,2024-10-17T00:59:41,tv,analyse,EURNZD,vente,H1,,,,"BLACKMAKER ; Major whole number 1.80, projection baissière"
+1659,assets/tradingview/2024-10/2024-10-17_14h10_msg12115_mYJsEu9f.png,12115,2024-10-17T14:10:02,tv,trade,EURAUD,vente,H1,1.62500,1.63104,1.61284,BLACKMAKER
+1660,assets/tradingview/2024-10/2024-10-17_14h57_msg12122_wEQsKEqs.png,12122,2024-10-17T14:57:51,tv,trade,GBPAUD,vente,M30,1.94476,1.94782,1.92674,BLACKMAKER
+1661,assets/tradingview/2024-10/2024-10-17_16h21_msg12125_P7RDyWOZ.png,12125,2024-10-17T16:21:49,tv,analyse,AUDJPY,achat,D1,,,,BLACKMAKER ; projection haussière
+1662,assets/tradingview/2024-10/2024-10-22_12h56_msg12152_4fhpGm5G.png,12152,2024-10-22T12:56:18,tv,analyse,GBPUSD,vente,H4,,,,"BLACKMAKER ; rejet de 1.30, projection baissière"
+1663,ChatExport_2026-10-01/photos/photo_2916@23-10-2024_13-59-08.jpg,12159,2024-10-23T13:59:08,photo,trade,AUDJPY,achat,H4,100.309,99.799,102.652,TradingView mobile ; prix 101.63
+1664,assets/tradingview/2024-10/2024-10-31_12h42_msg12181_LwEMMNDl.png,12181,2024-10-31T12:42:08,tv,analyse,EURNZD,vente,D1,,,,BLACKMAKER ; montée vers 1.825 puis baisse
+1665,ChatExport_2026-10-01/photos/photo_2917@31-10-2024_14-51-58.jpg,12185,2024-10-31T14:51:58,photo,analyse,EURNZD,,M15,,,,TradingView mobile ; prix sur 1.825
+1666,ChatExport_2026-10-01/photos/photo_2918@31-10-2024_17-10-34.jpg,12187,2024-10-31T17:10:34,photo,analyse,EURNZD,vente,H1,,,,TradingView mobile ; rejet de 1.825
+1667,ChatExport_2026-10-01/photos/photo_2919@31-10-2024_17-12-31.jpg,12188,2024-10-31T17:12:31,photo,analyse,EURNZD,vente,M15,,,,TradingView mobile ; rejet de 1.825
+1668,ChatExport_2026-10-01/photos/photo_2920@31-10-2024_17-15-09.jpg,12190,2024-10-31T17:15:09,photo,analyse,DXY,achat,D1,,,,TradingView mobile ; projection vers 105
+1669,ChatExport_2026-10-01/photos/photo_2921@01-11-2024_12-37-45.jpg,12195,2024-11-01T12:37:45,photo,analyse,USDJPY,,M5,,,,TradingView mobile ; chute sous 152.5
+1670,ChatExport_2026-10-01/photos/photo_2922@01-11-2024_14-57-52.jpg,12199,2024-11-01T14:57:52,photo,analyse,EURNZD,vente,H1,,,,TradingView mobile ; retour sur 1.8149
+1671,assets/tradingview/2024-11/2024-11-06_01h09_msg12209_ahtj2GRa.png,12209,2024-11-06T01:09:13,tv,analyse,DXY,achat,H4,,,,"BLACKMAKER ; élection américaine, projection vers 104.8"
+1672,assets/tradingview/2024-11/2024-11-06_01h12_msg12212_6iI9WKhm.png,12212,2024-11-06T01:12:04,tv,analyse,GBPUSD,vente,H4,,,,BLACKMAKER ; projection baissière
+1673,assets/tradingview/2024-11/2024-11-06_01h13_msg12214_3zLfsDaI.png,12214,2024-11-06T01:13:39,tv,analyse,EURUSD,vente,D1,,,,BLACKMAKER ; projection vers 1.078
+1674,assets/tradingview/2024-11/2024-11-06_02h39_msg12216_txUeq4aC.png,12216,2024-11-06T02:39:42,tv,trade,EURUSD,vente,H4,1.08742,1.09386,1.07432,BLACKMAKER ; élection américaine
+1675,assets/tradingview/2024-11/2024-11-06_03h30_msg12219_6QVtNftq.png,12219,2024-11-06T03:30:02,tv,analyse,EURNZD,vente,H4,,,,BLACKMAKER ; projection vers 1.80
+1676,assets/tradingview/2024-11/2024-11-06_10h13_msg12224_oWIc3Kjf.png,12224,2024-11-06T10:13:11,tv,analyse,EURNZD,vente,H4,,,,BLACKMAKER ; projection atteinte (1.8013)
+1677,ChatExport_2026-10-01/photos/photo_2925@06-11-2024_10-14-48.jpg,12225,2024-11-06T10:14:48,photo,trade,EURNZD,vente,H4,1.81476,,,MT5 sell 5 avec sl
+1678,ChatExport_2026-10-01/photos/photo_2928@07-11-2024_16-52-00.jpg,12239,2024-11-07T16:52:00,photo,analyse,GBPUSD,vente,H1,,,,TradingView mobile ; rejet de 1.30
+1679,ChatExport_2026-10-01/photos/photo_2929@08-11-2024_13-23-20.jpg,12247,2024-11-08T13:23:20,photo,trade,GBPUSD,vente,H1,1.30009,1.30409,1.28706,TradingView mobile
+1680,ChatExport_2026-10-01/photos/photo_2930@08-11-2024_17-17-41.jpg,12255,2024-11-08T17:17:41,photo,resultat,EURUSD,vente,,,,1.06729,photo d'écran MT5 : +4 682 $ flottant (prix 1.0697)
+1681,ChatExport_2026-10-01/photos/photo_2931@11-11-2024_14-13-38.jpg,12263,2024-11-11T14:13:38,photo,resultat,EURUSD,vente,,,,,
+1682,ChatExport_2026-10-01/photos/photo_2933@15-11-2024_02-22-34.jpg,12274,2024-11-15T02:22:34,photo,resultat,GBPJPY,achat,,,,199.621,"photo d'écran MT5 : sl 197.482, +2 525 $ flottant"
+1683,assets/tradingview/2024-11/2024-11-19_02h41_msg12291_UOMniIRx.png,12291,2024-11-19T02:41:43,tv,analyse,EURAUD,vente,H4,,,,BLACKMAKER ; « setup A+ »
+1684,ChatExport_2026-10-01/photos/photo_2941@19-11-2024_08-12-02.jpg,12293,2024-11-19T08:12:02,photo,analyse,EURAUD,vente,H4,,,,TradingView mobile ; « setup A+ » atteint (1.6251)
+1685,ChatExport_2026-10-01/photos/photo_2942@19-11-2024_08-14-56.jpg,12296,2024-11-19T08:14:56,photo,trade,EURNZD,vente,H4,1.80155,1.80556,1.78893,TradingView mobile
+1686,assets/tradingview/2024-11/2024-11-21_17h11_msg12317_tiz4EsdA.png,12317,2024-11-21T17:11:47,tv,trade,GBPAUD,vente,H4,1.95217,1.95711,1.93421,"BLACKMAKER ; prix 1.9349, proche du TP"
+1687,ChatExport_2026-10-01/photos/photo_2945@21-11-2024_18-28-51.jpg,12324,2024-11-21T18:28:51,photo,resultat,XAUUSD,achat,,2630.57,2644.28,,"membre : XAUUSD buy 2, +8 315 $"
