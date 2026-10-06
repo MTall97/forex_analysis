@@ -711,3 +711,23 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 709,assets/tradingview/2022-09/2022-09-13_21h19_msg6313_K6m2PKpj.png,6313,2022-09-13T21:19:22,tv,analyse,DXY,,H1,,,,projection haussière
 710,assets/tradingview/2022-09/2022-09-13_21h19_msg6314_gRZlRr96.png,6314,2022-09-13T21:19:33,tv,analyse,DXY,,H1,,,,projection haussière
 711,assets/tradingview/2022-09/2022-09-13_21h19_msg6315_znoSKxMI.png,6315,2022-09-13T21:19:59,tv,analyse,AUDUSD,,H4,,,,
+712,ChatExport_2026-10-01/photos/photo_1678@13-09-2022_21-20-00.jpg,6316,2022-09-13T21:20:00,photo,trade,AUDUSD,vente,M1,0.6905,0.6907,0.6885,"membre, niveaux approximatifs (petits chiffres)"
+713,ChatExport_2026-10-01/photos/photo_1679@13-09-2022_21-20-00.jpg,6317,2022-09-13T21:20:00,photo,trade,AUDUSD,vente,M5,0.6905,0.6908,0.6824,"membre, niveaux approximatifs"
+714,ChatExport_2026-10-01/photos/photo_1680@13-09-2022_21-20-00.jpg,6318,2022-09-13T21:20:00,photo,trade,EURUSD,vente,H1,1.0166,,,membre : sell 1.00 ; prix 1.00643
+715,ChatExport_2026-10-01/photos/photo_1682@14-09-2022_18-55-17.jpg,6326,2022-09-14T18:55:17,photo,resultat,AUDUSD,achat,,0.67194,,,"position AUDUSD buy 7.00, +1 337 $ flottant"
+716,ChatExport_2026-10-01/photos/photo_1683@14-09-2022_18-55-18.jpg,6327,2022-09-14T18:55:18,photo,resultat,AUDUSD,achat,,0.67194,,,"historique 14/09/2022 : 3 achats AUDUSD, +165 +1 096 +804 = +2 041 $"
+717,ChatExport_2026-10-01/photos/photo_1684@15-09-2022_13-31-32.jpg,6332,2022-09-15T13:31:32,photo,trade,GBPUSD,vente,M5,1.1510,1.1512,1.1470,"membre, niveaux approximatifs"
+718,ChatExport_2026-10-01/photos/photo_1685@15-09-2022_13-31-32.jpg,6333,2022-09-15T13:31:32,photo,trade,GBPUSD,vente,M1,1.1509,,,membre ; prix 1.14883
+719,ChatExport_2026-10-01/photos/photo_1686@15-09-2022_13-31-32.jpg,6335,2022-09-15T13:31:32,photo,trade,XAUUSD,vente,M5,1691.670,1693.455,1682.692,TP presque atteint (prix 1683.11)
+720,assets/tradingview/2022-09/2022-09-16_21h34_msg6342_uW3fTRIf.png,6342,2022-09-16T21:34:04,tv,analyse,EURUSD,,M10,,,,« major whole number » 1.000 ; projection baissière réalisée
+721,ChatExport_2026-10-01/photos/photo_1687@20-09-2022_20-12-55.jpg,6344,2022-09-20T20:12:55,photo,trade,EURJPY,vente,M1,143.58,143.60,,MT4 sell 5.00 ; prix 143.463
+722,assets/tradingview/2022-09/2022-09-20_20h12_msg6345_NB88XKjJ.png,6345,2022-09-20T20:12:55,tv,trade,EURJPY,vente,M1,143.58,143.60,143.45,"membre, niveaux approximatifs"
+723,ChatExport_2026-10-01/photos/photo_1688@20-09-2022_20-12-55.jpg,6346,2022-09-20T20:12:55,photo,trade,EURUSD,vente,M1,0.99969,0.99993,0.99724,prix 0.99870
+724,ChatExport_2026-10-01/photos/photo_1689@20-09-2022_20-12-55.jpg,6347,2022-09-20T20:12:55,photo,trade,EURJPY,vente,M1,143.65,,,MT4 sell 5.00 ; prix 143.428
+725,assets/tradingview/2022-09/2022-09-20_20h12_msg6348_8yAOIwZo.png,6348,2022-09-20T20:12:55,tv,trade,USDCHF,vente,H1,0.96590,0.96892,0.95271,membre (traoti)
+726,ChatExport_2026-10-01/photos/photo_1691@21-09-2022_11-05-33.jpg,6360,2022-09-21T11:05:33,photo,trade,EURUSD,vente,M15,1.0000,1.0018,,MT4 sell limit 11.11
+727,ChatExport_2026-10-01/photos/photo_1692@21-09-2022_11-06-47.jpg,6362,2022-09-21T11:06:47,photo,trade,EURUSD,vente,M15,1.0000,1.0018,,MT4 sell limit 11.11 ; prix 0.99205 (en gain si exécuté)
+728,ChatExport_2026-10-01/photos/photo_1693@21-09-2022_12-48-42.jpg,6363,2022-09-21T12:48:42,photo,resultat,EURJPY,vente,,143.648,,,historique 20/09/2022 : EURJPY sell 3.00 +2 014 $ ; EURUSD sell +320 $ ; total +2 313 $
+729,assets/tradingview/2022-09/2022-09-21_16h34_msg6371_H1xvA9Sk.png,6371,2022-09-21T16:34:28,tv,trade,NZDUSD,vente,H1,0.60001,0.60170,0.58779,MLQ 0.600 ; TP atteint
+730,ChatExport_2026-10-01/photos/photo_1697@21-09-2022_16-34-53.jpg,6372,2022-09-21T16:34:53,photo,trade,USDJPY,achat,M15,143.377,143.185,144.346,membre (michaelkrizz001) ; TP atteint
+731,ChatExport_2026-10-01/photos/photo_1700@22-09-2022_14-13-26.jpg,6382,2022-09-22T14:13:26,photo,resultat,USDJPY,achat,,140.813,,,"historique d'un membre : USDJPY buy 25 lots, +14 140 $"
