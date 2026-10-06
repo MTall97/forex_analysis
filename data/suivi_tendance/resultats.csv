@@ -1,0 +1,97 @@
+declencheur,stop,sortie,objectif,groupe,trades,gagnants,r_moyen,r_moyen_optimiste,erreur_type
+cassure,0.25 ATR,48 h,1 R,tendance >= 1 ATR (règle),3478,0.477,-0.141,-0.116,0.017
+cassure,0.25 ATR,48 h,1 R,tendance >= 2 ATR,1085,0.462,-0.168,-0.14,0.03
+cassure,0.25 ATR,48 h,1 R,toutes les cassures (témoin),12282,0.477,-0.143,-0.118,0.009
+cassure,0.25 ATR,48 h,1 R,contre-tendance <= -1 ATR (témoin),2111,0.447,-0.202,-0.177,0.022
+cassure,0.25 ATR,48 h,2 R,tendance >= 1 ATR (règle),3478,0.319,-0.152,-0.144,0.023
+cassure,0.25 ATR,48 h,2 R,tendance >= 2 ATR,1085,0.324,-0.126,-0.12,0.042
+cassure,0.25 ATR,48 h,2 R,toutes les cassures (témoin),12282,0.327,-0.133,-0.122,0.012
+cassure,0.25 ATR,48 h,2 R,contre-tendance <= -1 ATR (témoin),2111,0.301,-0.205,-0.199,0.03
+cassure,0.25 ATR,48 h,3 R,tendance >= 1 ATR (règle),3478,0.258,-0.155,-0.151,0.028
+cassure,0.25 ATR,48 h,3 R,tendance >= 2 ATR,1085,0.262,-0.115,-0.108,0.051
+cassure,0.25 ATR,48 h,3 R,toutes les cassures (témoin),12282,0.268,-0.134,-0.129,0.015
+cassure,0.25 ATR,48 h,3 R,contre-tendance <= -1 ATR (témoin),2111,0.246,-0.206,-0.202,0.035
+cassure,0.25 ATR,jour,1 R,tendance >= 1 ATR (règle),3478,0.477,-0.131,-0.107,0.016
+cassure,0.25 ATR,jour,1 R,tendance >= 2 ATR,1085,0.463,-0.155,-0.129,0.03
+cassure,0.25 ATR,jour,1 R,toutes les cassures (témoin),12282,0.471,-0.139,-0.117,0.009
+cassure,0.25 ATR,jour,1 R,contre-tendance <= -1 ATR (témoin),2111,0.442,-0.193,-0.171,0.021
+cassure,0.25 ATR,jour,2 R,tendance >= 1 ATR (règle),3478,0.373,-0.109,-0.103,0.021
+cassure,0.25 ATR,jour,2 R,tendance >= 2 ATR,1085,0.361,-0.106,-0.1,0.039
+cassure,0.25 ATR,jour,2 R,toutes les cassures (témoin),12282,0.371,-0.118,-0.109,0.011
+cassure,0.25 ATR,jour,2 R,contre-tendance <= -1 ATR (témoin),2111,0.348,-0.185,-0.18,0.026
+cassure,0.25 ATR,jour,3 R,tendance >= 1 ATR (règle),3478,0.348,-0.11,-0.11,0.024
+cassure,0.25 ATR,jour,3 R,tendance >= 2 ATR,1085,0.333,-0.106,-0.106,0.044
+cassure,0.25 ATR,jour,3 R,toutes les cassures (témoin),12282,0.35,-0.119,-0.115,0.012
+cassure,0.25 ATR,jour,3 R,contre-tendance <= -1 ATR (témoin),2111,0.332,-0.189,-0.186,0.029
+cassure,0.5 ATR,48 h,1 R,tendance >= 1 ATR (règle),3478,0.486,-0.069,-0.063,0.016
+cassure,0.5 ATR,48 h,1 R,tendance >= 2 ATR,1085,0.484,-0.076,-0.072,0.029
+cassure,0.5 ATR,48 h,1 R,toutes les cassures (témoin),12282,0.487,-0.065,-0.062,0.009
+cassure,0.5 ATR,48 h,1 R,contre-tendance <= -1 ATR (témoin),2111,0.442,-0.144,-0.141,0.021
+cassure,0.5 ATR,48 h,2 R,tendance >= 1 ATR (règle),3478,0.384,-0.086,-0.086,0.02
+cassure,0.5 ATR,48 h,2 R,tendance >= 2 ATR,1085,0.371,-0.097,-0.097,0.037
+cassure,0.5 ATR,48 h,2 R,toutes les cassures (témoin),12282,0.394,-0.076,-0.076,0.011
+cassure,0.5 ATR,48 h,2 R,contre-tendance <= -1 ATR (témoin),2111,0.359,-0.161,-0.161,0.025
+cassure,0.5 ATR,48 h,3 R,tendance >= 1 ATR (règle),3478,0.369,-0.092,-0.092,0.022
+cassure,0.5 ATR,48 h,3 R,tendance >= 2 ATR,1085,0.352,-0.093,-0.093,0.041
+cassure,0.5 ATR,48 h,3 R,toutes les cassures (témoin),12282,0.382,-0.085,-0.085,0.011
+cassure,0.5 ATR,48 h,3 R,contre-tendance <= -1 ATR (témoin),2111,0.348,-0.167,-0.167,0.026
+cassure,0.5 ATR,jour,1 R,tendance >= 1 ATR (règle),3478,0.48,-0.052,-0.048,0.013
+cassure,0.5 ATR,jour,1 R,tendance >= 2 ATR,1085,0.467,-0.062,-0.059,0.025
+cassure,0.5 ATR,jour,1 R,toutes les cassures (témoin),12282,0.47,-0.06,-0.057,0.007
+cassure,0.5 ATR,jour,1 R,contre-tendance <= -1 ATR (témoin),2111,0.432,-0.117,-0.114,0.017
+cassure,0.5 ATR,jour,2 R,tendance >= 1 ATR (règle),3478,0.444,-0.072,-0.072,0.015
+cassure,0.5 ATR,jour,2 R,tendance >= 2 ATR,1085,0.421,-0.095,-0.095,0.028
+cassure,0.5 ATR,jour,2 R,toutes les cassures (témoin),12282,0.442,-0.068,-0.068,0.008
+cassure,0.5 ATR,jour,2 R,contre-tendance <= -1 ATR (témoin),2111,0.412,-0.115,-0.115,0.018
+cassure,0.5 ATR,jour,3 R,tendance >= 1 ATR (règle),3478,0.441,-0.071,-0.071,0.015
+cassure,0.5 ATR,jour,3 R,tendance >= 2 ATR,1085,0.418,-0.096,-0.096,0.029
+cassure,0.5 ATR,jour,3 R,toutes les cassures (témoin),12282,0.441,-0.067,-0.067,0.008
+cassure,0.5 ATR,jour,3 R,contre-tendance <= -1 ATR (témoin),2111,0.412,-0.114,-0.114,0.019
+faux dépassement,0.25 ATR,48 h,1 R,tendance >= 1 ATR (règle),1611,0.518,-0.059,-0.021,0.025
+faux dépassement,0.25 ATR,48 h,1 R,tendance >= 2 ATR,395,0.514,-0.066,-0.005,0.05
+faux dépassement,0.25 ATR,48 h,1 R,toutes les cassures (témoin),8926,0.492,-0.114,-0.085,0.011
+faux dépassement,0.25 ATR,48 h,1 R,contre-tendance <= -1 ATR (témoin),2458,0.495,-0.107,-0.08,0.02
+faux dépassement,0.25 ATR,48 h,2 R,tendance >= 1 ATR (règle),1611,0.339,-0.103,-0.099,0.035
+faux dépassement,0.25 ATR,48 h,2 R,tendance >= 2 ATR,395,0.354,-0.048,-0.041,0.071
+faux dépassement,0.25 ATR,48 h,2 R,toutes les cassures (témoin),8926,0.328,-0.135,-0.126,0.015
+faux dépassement,0.25 ATR,48 h,2 R,contre-tendance <= -1 ATR (témoin),2458,0.336,-0.106,-0.097,0.028
+faux dépassement,0.25 ATR,48 h,3 R,tendance >= 1 ATR (règle),1611,0.272,-0.147,-0.147,0.04
+faux dépassement,0.25 ATR,48 h,3 R,tendance >= 2 ATR,395,0.273,-0.122,-0.122,0.082
+faux dépassement,0.25 ATR,48 h,3 R,toutes les cassures (témoin),8926,0.268,-0.152,-0.147,0.017
+faux dépassement,0.25 ATR,48 h,3 R,contre-tendance <= -1 ATR (témoin),2458,0.275,-0.117,-0.109,0.033
+faux dépassement,0.25 ATR,jour,1 R,tendance >= 1 ATR (règle),1611,0.5,-0.077,-0.046,0.023
+faux dépassement,0.25 ATR,jour,1 R,tendance >= 2 ATR,395,0.489,-0.098,-0.053,0.048
+faux dépassement,0.25 ATR,jour,1 R,toutes les cassures (témoin),8926,0.479,-0.117,-0.091,0.01
+faux dépassement,0.25 ATR,jour,1 R,contre-tendance <= -1 ATR (témoin),2458,0.482,-0.111,-0.086,0.019
+faux dépassement,0.25 ATR,jour,2 R,tendance >= 1 ATR (règle),1611,0.405,-0.078,-0.075,0.029
+faux dépassement,0.25 ATR,jour,2 R,tendance >= 2 ATR,395,0.41,-0.059,-0.051,0.061
+faux dépassement,0.25 ATR,jour,2 R,toutes les cassures (témoin),8926,0.381,-0.128,-0.119,0.012
+faux dépassement,0.25 ATR,jour,2 R,contre-tendance <= -1 ATR (témoin),2458,0.38,-0.112,-0.104,0.024
+faux dépassement,0.25 ATR,jour,3 R,tendance >= 1 ATR (règle),1611,0.39,-0.081,-0.081,0.032
+faux dépassement,0.25 ATR,jour,3 R,tendance >= 2 ATR,395,0.387,-0.046,-0.046,0.067
+faux dépassement,0.25 ATR,jour,3 R,toutes les cassures (témoin),8926,0.366,-0.136,-0.132,0.013
+faux dépassement,0.25 ATR,jour,3 R,contre-tendance <= -1 ATR (témoin),2458,0.36,-0.133,-0.125,0.026
+faux dépassement,0.5 ATR,48 h,1 R,tendance >= 1 ATR (règle),1611,0.503,-0.03,-0.029,0.023
+faux dépassement,0.5 ATR,48 h,1 R,tendance >= 2 ATR,395,0.539,0.031,0.036,0.048
+faux dépassement,0.5 ATR,48 h,1 R,toutes les cassures (témoin),8926,0.494,-0.046,-0.043,0.01
+faux dépassement,0.5 ATR,48 h,1 R,contre-tendance <= -1 ATR (témoin),2458,0.504,-0.027,-0.022,0.019
+faux dépassement,0.5 ATR,48 h,2 R,tendance >= 1 ATR (règle),1611,0.413,-0.049,-0.049,0.029
+faux dépassement,0.5 ATR,48 h,2 R,tendance >= 2 ATR,395,0.433,0.01,0.01,0.059
+faux dépassement,0.5 ATR,48 h,2 R,toutes les cassures (témoin),8926,0.407,-0.06,-0.06,0.012
+faux dépassement,0.5 ATR,48 h,2 R,contre-tendance <= -1 ATR (témoin),2458,0.418,-0.041,-0.04,0.023
+faux dépassement,0.5 ATR,48 h,3 R,tendance >= 1 ATR (règle),1611,0.407,-0.044,-0.044,0.03
+faux dépassement,0.5 ATR,48 h,3 R,tendance >= 2 ATR,395,0.433,0.051,0.051,0.065
+faux dépassement,0.5 ATR,48 h,3 R,toutes les cassures (témoin),8926,0.398,-0.06,-0.06,0.013
+faux dépassement,0.5 ATR,48 h,3 R,contre-tendance <= -1 ATR (témoin),2458,0.41,-0.033,-0.033,0.025
+faux dépassement,0.5 ATR,jour,1 R,tendance >= 1 ATR (règle),1611,0.492,-0.026,-0.025,0.018
+faux dépassement,0.5 ATR,jour,1 R,tendance >= 2 ATR,395,0.501,-0.008,-0.003,0.036
+faux dépassement,0.5 ATR,jour,1 R,toutes les cassures (témoin),8926,0.469,-0.047,-0.045,0.008
+faux dépassement,0.5 ATR,jour,1 R,contre-tendance <= -1 ATR (témoin),2458,0.472,-0.048,-0.046,0.015
+faux dépassement,0.5 ATR,jour,2 R,tendance >= 1 ATR (règle),1611,0.476,-0.023,-0.023,0.019
+faux dépassement,0.5 ATR,jour,2 R,tendance >= 2 ATR,395,0.478,0.021,0.021,0.042
+faux dépassement,0.5 ATR,jour,2 R,toutes les cassures (témoin),8926,0.451,-0.052,-0.051,0.008
+faux dépassement,0.5 ATR,jour,2 R,contre-tendance <= -1 ATR (témoin),2458,0.448,-0.056,-0.056,0.016
+faux dépassement,0.5 ATR,jour,3 R,tendance >= 1 ATR (règle),1611,0.475,-0.025,-0.025,0.019
+faux dépassement,0.5 ATR,jour,3 R,tendance >= 2 ATR,395,0.478,0.026,0.026,0.043
+faux dépassement,0.5 ATR,jour,3 R,toutes les cassures (témoin),8926,0.451,-0.05,-0.05,0.008
+faux dépassement,0.5 ATR,jour,3 R,contre-tendance <= -1 ATR (témoin),2458,0.448,-0.046,-0.046,0.017
