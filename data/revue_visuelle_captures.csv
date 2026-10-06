@@ -831,3 +831,139 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 829,ChatExport_2026-10-01/photos/photo_1783@27-10-2022_10-33-12.jpg,6787,2022-10-27T10:33:12,photo,trade,XAUUSD,vente,H1,1672.54,1672.25,1657.40,MT4 sell 0.31 (membre)
 830,ChatExport_2026-10-01/photos/photo_1785@27-10-2022_10-33-12.jpg,6789,2022-10-27T10:33:12,photo,trade,EURUSD,vente,M5,1.0077,,1.0025,membre ; prix 1.00537
 831,ChatExport_2026-10-01/photos/photo_1790@27-10-2022_13-21-18.jpg,6795,2022-10-27T13:21:18,photo,resultat,XAUUSD,vente,,1672.54,1672.25,1657.40,"historique : XAUUSD sell 0.31, TP atteint le 27/10/2022, +469.65 $"
+832,ChatExport_2026-10-01/photos/photo_1791@27-10-2022_13-26-58.jpg,6796,2022-10-27T13:26:58,photo,trade,XAUUSD,achat,M5,,,1665.2,MT4 buy ; sl ~1657 ; prix 1662.94
+833,ChatExport_2026-10-01/photos/photo_1792@27-10-2022_13-27-05.jpg,6797,2022-10-27T13:27:05,photo,trade,XAUUSD,,M5,,,,"graphique MT4, niveaux masqués"
+834,ChatExport_2026-10-01/photos/photo_1794@01-11-2022_16-36-03.jpg,6841,2022-11-01T16:36:03,photo,resultat,,,,,,,My Forex Funds d'un membre : +8 007 $ sur 100 000 $ (objectif 8 000 $)
+835,ChatExport_2026-10-01/photos/photo_1795@01-11-2022_16-48-51.jpg,6847,2022-11-01T16:48:51,photo,resultat,XAUUSD,vente,,1650.61,,,"position XAUUSD sell, +1 101 $"
+836,ChatExport_2026-10-01/photos/photo_1796@01-11-2022_16-48-51.jpg,6848,2022-11-01T16:48:51,photo,trade,EURUSD,vente,M1,,,,sell limit 5.00 et sell 1.00 ; prix 0.99207
+837,assets/tradingview/2022-11/2022-11-01_16h48_msg6849_9DQtlEQ3.png,6849,2022-11-01T16:48:51,tv,trade,NZDJPY,vente,M1,86.800,86.900,86.482,membre (Seyba11)
+838,ChatExport_2026-10-01/photos/photo_1797@01-11-2022_16-48-51.jpg,6850,2022-11-01T16:48:51,photo,trade,EURUSD,vente,M5,,,,sell 1.00 ; prix 0.99078
+839,ChatExport_2026-10-01/photos/photo_1798@01-11-2022_16-48-51.jpg,6852,2022-11-01T16:48:51,photo,resultat,US30,vente,,32685.02,,,"position US30 sell 0.50, +5 151 $"
+840,assets/tradingview/2022-11/2022-11-01_16h48_msg6853_bkopdIvg.png,6853,2022-11-01T16:48:51,tv,trade,EURUSD,vente,M10,,,,projection
+841,ChatExport_2026-10-01/photos/photo_1800@11-11-2022_16-30-44.jpg,6859,2022-11-11T16:30:44,photo,trade,AUDUSD,,M1,,,,"MT4, prix 0.6458"
+842,ChatExport_2026-10-01/photos/photo_1802@11-11-2022_16-30-44.jpg,6861,2022-11-11T16:30:44,photo,resultat,AUDUSD,vente,,0.64649,,,"position AUDUSD sell 50 lots, +4 000 $"
+843,assets/tradingview/2022-11/2022-11-11_16h30_msg6862_hMWdVaec.png,6862,2022-11-11T16:30:44,tv,trade,AUDUSD,achat,M1,,,,"membre, niveaux approximatifs"
+844,ChatExport_2026-10-01/photos/photo_1803@11-11-2022_16-30-44.jpg,6863,2022-11-11T16:30:44,photo,resultat,EURUSD,achat,,0.99916,,,"position EURUSD buy 12.50, +1 262 $"
+845,ChatExport_2026-10-01/photos/photo_1804@11-11-2022_16-30-44.jpg,6864,2022-11-11T16:30:44,photo,trade,EURUSD,achat,M5,,,,membre (ascobamba9)
+846,ChatExport_2026-10-01/photos/photo_1805@11-11-2022_16-30-44.jpg,6865,2022-11-11T16:30:44,photo,trade,EURUSD,vente,M1,,,,sell limit 21.73
+847,ChatExport_2026-10-01/photos/photo_1806@11-11-2022_16-30-44.jpg,6866,2022-11-11T16:30:44,photo,trade,EURUSD,vente,M1,1.00048,1.00078,0.99939,membre (papytocoulibaly30) ; TP atteint
+848,ChatExport_2026-10-01/photos/photo_1807@11-11-2022_16-30-44.jpg,6867,2022-11-11T16:30:44,photo,trade,,vente,M5,,,,MT4 sell
+849,ChatExport_2026-10-01/photos/photo_1808@11-11-2022_16-30-45.jpg,6868,2022-11-11T16:30:45,photo,trade,EURUSD,achat,M1,1.00067,0.99987,1.00584,membre (mahamadou55079)
+850,assets/tradingview/2022-11/2022-11-11_16h30_msg6869_3ZoQc20A.png,6869,2022-11-11T16:30:45,tv,trade,AUDUSD,achat,M1,,,,membre ; projection
+851,ChatExport_2026-10-01/photos/photo_1809@11-11-2022_16-30-45.jpg,6870,2022-11-11T16:30:45,photo,trade,EURGBP,achat,M15,,,,buy limit ×2
+852,ChatExport_2026-10-01/photos/photo_1810@11-11-2022_16-30-45.jpg,6871,2022-11-11T16:30:45,photo,trade,EURGBP,achat,M15,,,,MT4 buy ×2 avec tp et sl
+853,ChatExport_2026-10-01/photos/photo_1811@11-11-2022_16-30-45.jpg,6873,2022-11-11T16:30:45,photo,trade,EURCHF,vente,M15,,,,MT4 sell 0.79
+854,assets/tradingview/2022-11/2022-11-11_16h30_msg6874_akDtsQA8.png,6874,2022-11-11T16:30:45,tv,trade,EURCHF,vente,H1,0.99319,0.99387,0.98282,membre (traoti) ; ratio 39
+855,ChatExport_2026-10-01/photos/photo_1812@11-11-2022_16-30-45.jpg,6875,2022-11-11T16:30:45,photo,resultat,XAUUSD,,,1709.68,,,"position XAUUSD, +621 $"
+856,ChatExport_2026-10-01/photos/photo_1813@11-11-2022_16-30-45.jpg,6876,2022-11-11T16:30:45,photo,trade,EURGBP,achat,M15,0.87029,0.86973,0.87964,membre (Seyba11)
+857,assets/tradingview/2022-11/2022-11-11_16h30_msg6877_1FXf6hn9.png,6877,2022-11-11T16:30:45,tv,resultat,EURGBP,achat,M15,0.87029,0.86973,0.87964,"membre (Seyba11) ; suite du 856, prix à 0.8775"
+858,assets/tradingview/2022-11/2022-11-11_16h30_msg6878_2sIecU6I.png,6878,2022-11-11T16:30:45,tv,analyse,AUDUSD,,M5,,,,membre ; zones
+859,ChatExport_2026-10-01/photos/photo_1814@11-11-2022_16-30-45.jpg,6879,2022-11-11T16:30:45,photo,analyse,AUDUSD,,M6,,,,membre (michaelkrizz001) ; BOS
+860,ChatExport_2026-10-01/photos/photo_1815@11-11-2022_16-30-45.jpg,6881,2022-11-11T16:30:45,photo,resultat,XAUUSD,achat,,1705.07,,,"position XAUUSD buy 10, +920 $"
+861,ChatExport_2026-10-01/photos/photo_1816@11-11-2022_16-30-45.jpg,6882,2022-11-11T16:30:45,photo,trade,EURUSD,achat,M1,1.00121,1.00102,1.00273,TradingView mobile ; TP atteint
+862,assets/tradingview/2022-11/2022-11-11_16h41_msg6888_tb83ymkG.png,6888,2022-11-11T16:41:34,tv,analyse,EURUSD,,D1,,,,BLACKMAKER ; order blocks
+863,assets/tradingview/2022-11/2022-11-11_16h49_msg6894_tMxeqv05.png,6894,2022-11-11T16:49:08,tv,analyse,EURUSD,,H1,,,,BLACKMAKER ; ICT NY open
+864,assets/tradingview/2022-11/2022-11-15_20h48_msg6904_TdOuT6pn.png,6904,2022-11-15T20:48:48,tv,trade,EURUSD,vente,H1,1.03627,1.03776,1.02547,BLACKMAKER ; projection vers Major larger quarter 1.05
+865,assets/tradingview/2022-11/2022-11-15_20h48_msg6905_v6h2WBuT.png,6905,2022-11-15T20:48:48,tv,analyse,EURUSD,,H1,,,,BLACKMAKER ; projection Major larger quarter 1.05
+866,assets/tradingview/2022-11/2022-11-16_15h35_msg6914_VbFJPP23.png,6914,2022-11-16T15:35:07,tv,analyse,GBPUSD,,H1,,,,BLACKMAKER ; Major whole number 1.20
+867,assets/tradingview/2022-11/2022-11-16_15h35_msg6915_xpTd0DpV.png,6915,2022-11-16T15:35:07,tv,analyse,EURUSD,,H1,,,,BLACKMAKER ; Major larger quarter 1.05
+868,assets/tradingview/2022-11/2022-11-16_15h35_msg6916_AwtxzKpz.png,6916,2022-11-16T15:35:07,tv,analyse,USDCAD,,H1,,,,BLACKMAKER ; Major larger quarter 1.325
+869,assets/tradingview/2022-11/2022-11-16_15h35_msg6917_GtaHDyQc.png,6917,2022-11-16T15:35:07,tv,analyse,USDJPY,,H4,,,,BLACKMAKER ; Major larger quarter 137.5
+870,assets/tradingview/2022-11/2022-11-16_15h35_msg6918_RHwBwu2n.png,6918,2022-11-16T15:35:07,tv,analyse,EURJPY,,H4,,,,BLACKMAKER ; Major larger quarter 147.5
+871,assets/tradingview/2022-11/2022-11-16_15h35_msg6919_wGDLdb16.png,6919,2022-11-16T15:35:07,tv,analyse,NZDJPY,,H4,,,,BLACKMAKER ; Major larger quarter 87.5
+872,ChatExport_2026-10-01/photos/photo_1819@18-11-2022_16-02-10.jpg,6923,2022-11-18T16:02:10,photo,resultat,AUDUSD,vente,,0.67149,,,"position AUDUSD sell 5.80, +1 438 $"
+873,ChatExport_2026-10-01/photos/photo_1820@18-11-2022_16-07-29.jpg,6924,2022-11-18T16:07:29,photo,analyse,AUDUSD,,D1,,,,membre (mahamadou55079) ; projection baissière
+874,ChatExport_2026-10-01/photos/photo_1821@18-11-2022_21-16-45.jpg,6926,2022-11-18T21:16:45,photo,resultat,AUDUSD,vente,,0.67149,,,"position AUDUSD sell 5.80, +2 459 $ (suite)"
+875,ChatExport_2026-10-01/photos/photo_1822@21-11-2022_18-16-55.jpg,6929,2022-11-21T18:16:55,photo,resultat,AUDUSD,vente,,0.67149,,,"position AUDUSD sell 5.80, +6 357 $ à 0.66053 (suite)"
+876,assets/tradingview/2022-11/2022-11-29_00h10_msg6952_TsWWriGa.png,6952,2022-11-29T00:10:47,tv,analyse,USDJPY,,H4,,,,BLACKMAKER ; Major larger quarter 137.5
+877,assets/tradingview/2022-11/2022-11-29_00h23_msg6957_zr7f6ZOT.png,6957,2022-11-29T00:23:56,tv,analyse,EURUSD,,H4,,,,BLACKMAKER ; schéma liquidité
+878,assets/tradingview/2022-11/2022-11-29_00h28_msg6959_QH0QnOSb.png,6959,2022-11-29T00:28:10,tv,analyse,EURUSD,,H4,,,,"BLACKMAKER ; schéma liquidité, commentaire"
+879,assets/tradingview/2022-11/2022-11-29_00h32_msg6961_mB45eiKe.png,6961,2022-11-29T00:32:28,tv,analyse,EURUSD,,M15,,,,BLACKMAKER ; schéma liquidité 15 min
+880,assets/tradingview/2022-11/2022-11-29_00h39_msg6964_2uAhZy1x.png,6964,2022-11-29T00:39:55,tv,analyse,EURUSD,,H4,,,,BLACKMAKER ; schéma « le faux SMC »
+881,assets/tradingview/2022-12/2022-12-02_13h20_msg6985_xWFYvW4Q.png,6985,2022-12-02T13:20:58,tv,analyse,EURUSD,,H1,,,,BLACKMAKER ; jours de la semaine
+882,assets/tradingview/2022-12/2022-12-02_13h31_msg6995_iIhmNb0E.png,6995,2022-12-02T13:31:48,tv,analyse,EURUSD,,M15,,,,"BLACKMAKER ; jours de la semaine, chute vendredi (NFP)"
+883,assets/tradingview/2022-12/2022-12-02_13h33_msg6997_MswuE7Ah.png,6997,2022-12-02T13:33:14,tv,analyse,GBPUSD,,M15,,,,"BLACKMAKER ; jours de la semaine, chute vendredi"
+884,assets/tradingview/2022-12/2022-12-02_13h38_msg6999_JabxUdYd.png,6999,2022-12-02T13:38:35,tv,analyse,GBPUSD,vente,H4,,,,"BLACKMAKER ; rejet Major larger quarter 1.225, projection baissière"
+885,ChatExport_2026-10-01/photos/photo_1829@13-12-2022_14-24-32.jpg,7033,2022-12-13T14:24:32,photo,analyse,GBPUSD,,H1,,,,"TradingView mobile, prix 1.2406"
+886,ChatExport_2026-10-01/photos/photo_1830@13-12-2022_15-11-14.jpg,7039,2022-12-13T15:11:14,photo,resultat,,,,,,,classement True Forex Funds : Sidi Boubacar A. (Mali) +30 %
+887,ChatExport_2026-10-01/photos/photo_1832@16-12-2022_13-20-07.jpg,7070,2022-12-16T13:20:07,photo,analyse,GBPJPY,,H4,,,,membre (Kaourou) ; Fibonacci
+888,ChatExport_2026-10-01/photos/photo_1834@21-12-2022_14-32-54.jpg,7083,2022-12-21T14:32:54,photo,analyse,EURUSD,,H1,,,,"TradingView mobile, ligne 1.07776"
+889,assets/tradingview/2023-01/2023-01-09_17h07_msg7114_z9DveFbn.png,7114,2023-01-09T17:07:13,tv,analyse,GBPJPY,vente,D1,,,,BLACKMAKER ; projection vers 152.56
+890,ChatExport_2026-10-01/photos/photo_1841@09-01-2023_19-09-19.jpg,7117,2023-01-09T19:09:19,photo,autre,,,,,,,calendrier économique JPY
+891,assets/tradingview/2023-01/2023-01-09_19h17_msg7121_oi8TFKL4.png,7121,2023-01-09T19:17:50,tv,analyse,AUDUSD,achat,D1,,,,BLACKMAKER ; projection vers 0.71315
+892,ChatExport_2026-10-01/photos/photo_1842@10-01-2023_06-33-23.jpg,7126,2023-01-10T06:33:23,photo,autre,,,,,,,schéma « comment analyser la valeur d'une devise »
+893,assets/tradingview/2023-01/2023-01-12_15h38_msg7139_72poHFEx.png,7139,2023-01-12T15:38:37,tv,analyse,CADJPY,,H4,,,,BLACKMAKER ; Major whole number 100
+894,assets/tradingview/2023-01/2023-01-12_15h39_msg7141_ZFpGXjjq.png,7141,2023-01-12T15:39:15,tv,analyse,EURJPY,,H1,,,,BLACKMAKER ; niveaux 142.93 / 137.34
+895,assets/tradingview/2023-01/2023-01-12_15h40_msg7143_TX7QXHzh.png,7143,2023-01-12T15:40:00,tv,analyse,GBPJPY,vente,H1,,,,BLACKMAKER ; projection baissière
+896,assets/tradingview/2023-01/2023-01-13_06h46_msg7150_2MaqVE1F.png,7150,2023-01-13T06:46:13,tv,analyse,GBPUSD,vente,H1,,,,"BLACKMAKER ; rejet 1.225, projection baissière"
+897,assets/tradingview/2023-01/2023-01-13_12h15_msg7157_xiJDdLKx.png,7157,2023-01-13T12:15:27,tv,analyse,GBPUSD,vente,H1,,,,BLACKMAKER ; suite du 896
+898,ChatExport_2026-10-01/photos/photo_1843@18-01-2023_03-34-09.jpg,7167,2023-01-18T03:34:09,photo,autre,,,,,,,"cotations yen (hausse de 2,2 à 2,6 % le 18/01/2023, BoJ)"
+899,ChatExport_2026-10-01/photos/photo_1844@18-01-2023_03-34-56.jpg,7169,2023-01-18T03:34:56,photo,analyse,USDJPY,,H4,,,,"TradingView mobile, prix 131.19"
+900,ChatExport_2026-10-01/photos/photo_1845@18-01-2023_03-35-16.jpg,7170,2023-01-18T03:35:16,photo,analyse,EURJPY,,H4,,,,"TradingView mobile, prix 141.34"
+901,ChatExport_2026-10-01/photos/photo_1846@18-01-2023_03-35-37.jpg,7171,2023-01-18T03:35:37,photo,analyse,NZDJPY,,H4,,,,TradingView mobile ; Major larger quarter 82.5
+902,ChatExport_2026-10-01/photos/photo_1847@18-01-2023_19-16-19.jpg,7176,2023-01-18T19:16:19,photo,trade,USDJPY,achat,H1,127.598,127.049,131.463,TradingView mobile
+903,assets/tradingview/2023-01/2023-01-18_21h34_msg7186_7RKiX0vH.png,7186,2023-01-18T21:34:24,tv,analyse,USDJPY,vente,D1,,,,"BLACKMAKER ; Fibonacci, cible 126.28"
+904,assets/tradingview/2023-01/2023-01-18_21h34_msg7187_mdJSIE6p.png,7187,2023-01-18T21:34:24,tv,analyse,AUDUSD,achat,W1,,,,BLACKMAKER ; projection vers 0.71315
+905,assets/tradingview/2023-01/2023-01-18_21h34_msg7188_eOrm2TwD.png,7188,2023-01-18T21:34:24,tv,analyse,AUDUSD,achat,D1,,,,BLACKMAKER ; projection vers 0.71315
+906,ChatExport_2026-10-01/photos/photo_1849@20-01-2023_06-10-49.jpg,7205,2023-01-20T06:10:49,photo,trade,EURJPY,achat,H1,138.252,,,MT4 buy 1.28 avec tp ~140.25
+907,ChatExport_2026-10-01/photos/photo_1850@20-01-2023_06-12-39.jpg,7206,2023-01-20T06:12:39,photo,resultat,EURJPY,achat,,138.252,,,"compte Amirou : EURJPY buy 1.28, +1 621 $"
+908,ChatExport_2026-10-01/photos/photo_1851@20-01-2023_06-13-28.jpg,7207,2023-01-20T06:13:28,photo,resultat,EURJPY,,,,,,compte My Forex Funds d'Amirou (évaluation 20 000 $) : solde 19 695 $
+909,ChatExport_2026-10-01/photos/photo_1852@20-01-2023_06-45-59.jpg,7209,2023-01-20T06:45:59,photo,autre,,,,,,,schéma Kelly criterion
+910,assets/tradingview/2023-01/2023-01-20_13h17_msg7213_Brcy3VgG.png,7213,2023-01-20T13:17:47,tv,trade,EURJPY,achat,H1,138.212,137.903,140.265,BLACKMAKER ; TP atteint
+911,ChatExport_2026-10-01/photos/photo_1853@20-01-2023_13-18-55.jpg,7215,2023-01-20T13:18:55,photo,resultat,EURJPY,achat,,138.252,,140.243,historique Amirou : EURJPY buy 0.54 −303 $ puis buy 1.28 +1 970 $ ; solde 21 668 $
+912,ChatExport_2026-10-01/photos/photo_1854@20-01-2023_13-20-21.jpg,7216,2023-01-20T13:20:21,photo,resultat,,,,,,,"compte My Forex Funds d'Amirou : +1 667,55 $ (8,34 %), objectif 1 600 $ atteint"
+913,assets/tradingview/2023-01/2023-01-24_07h47_msg7231_8M9SzOnt.png,7231,2023-01-24T07:47:30,tv,analyse,EURJPY,achat,D1,,,,BLACKMAKER ; projection vers 143
+914,assets/tradingview/2023-01/2023-01-24_17h12_msg7240_ZRRCYOrG.png,7240,2023-01-24T17:12:26,tv,trade,EURUSD,achat,H1,1.08461,1.08307,1.09360,BLACKMAKER
+915,ChatExport_2026-10-01/photos/photo_1858@24-01-2023_17-12-48.jpg,7241,2023-01-24T17:12:48,photo,trade,EURUSD,achat,H1,1.08463,,,MT4 buy 8.33
+916,ChatExport_2026-10-01/photos/photo_1859@24-01-2023_17-13-21.jpg,7242,2023-01-24T17:13:21,photo,resultat,EURUSD,achat,,1.08463,,,"position EURUSD buy 8.33, +2 499 $"
+917,ChatExport_2026-10-01/photos/photo_1860@24-01-2023_23-54-54.jpg,7245,2023-01-24T23:54:54,photo,resultat,EURUSD,achat,,1.08463,,,"position EURUSD buy 8.33, +3 474 $ (suite)"
+918,ChatExport_2026-10-01/photos/photo_1861@25-01-2023_14-31-17.jpg,7252,2023-01-25T14:31:17,photo,trade,USDCAD,vente,H4,,1.34674,1.32280,"BLACKMAKER ; 1TP 1.33218, 2TP 1.3229"
+919,ChatExport_2026-10-01/photos/photo_1862@25-01-2023_15-11-16.jpg,7255,2023-01-25T15:11:16,photo,trade,EURUSD,achat,M15,1.08463,,,"MT4 buy 8.33, prix 1.09206"
+920,ChatExport_2026-10-01/photos/photo_1863@25-01-2023_15-12-48.jpg,7256,2023-01-25T15:12:48,photo,resultat,EURUSD,achat,,1.08463,1.08490,1.09484,"position EURUSD buy 8.33, +5 889 $ ; stop remonté à 1.0849"
+921,assets/tradingview/2023-01/2023-01-25_18h25_msg7261_cJeGCswm.png,7261,2023-01-25T18:25:54,tv,trade,USDCAD,vente,H1,,1.34674,1.33218,"BLACKMAKER ; scénario, 1TP 1.33218"
+922,assets/tradingview/2023-01/2023-01-25_18h26_msg7262_ASjjQrMc.png,7262,2023-01-25T18:26:09,tv,analyse,USDCAD,vente,H1,,,,BLACKMAKER ; scénario révisé
+923,ChatExport_2026-10-01/photos/photo_1864@25-01-2023_19-37-03.jpg,7268,2023-01-25T19:37:03,photo,analyse,GBPUSD,achat,H4,,,,TradingView mobile ; zone 1.2314 validée
+924,ChatExport_2026-10-01/photos/photo_1865@25-01-2023_19-37-03.jpg,7270,2023-01-25T19:37:03,photo,trade,GBPUSD,achat,H1,1.23138,1.22617,1.24531,BLACKMAKER ; coche verte
+925,assets/tradingview/2023-01/2023-01-25_19h38_msg7271_yjXap0RX.png,7271,2023-01-25T19:38:00,tv,resultat,GBPUSD,achat,H1,1.23138,1.22617,1.24531,"BLACKMAKER ; prix 1.2394, coche verte"
+926,ChatExport_2026-10-01/photos/photo_1866@26-01-2023_14-20-58.jpg,7286,2023-01-26T14:20:58,photo,trade,EURJPY,achat,M15,,,,MT4 buy
+927,assets/tradingview/2023-01/2023-01-26_14h25_msg7290_tvxZOxCP.png,7290,2023-01-26T14:25:13,tv,trade,USDCAD,vente,H4,,1.34674,1.32280,"BLACKMAKER ; 1TP 1.33218, 2TP 1.3229, prix 1.3313"
+928,ChatExport_2026-10-01/photos/photo_1870@31-01-2023_18-50-33.jpg,7327,2023-01-31T18:50:33,photo,trade,EURJPY,achat,H1,140.908,,,MT4 buy 3.25 avec sl
+929,ChatExport_2026-10-01/photos/photo_1871@31-01-2023_18-52-48.jpg,7328,2023-01-31T18:52:48,photo,resultat,EURJPY,achat,,140.908,,,"position EURJPY buy 3.25, +1 386 $"
+930,ChatExport_2026-10-01/photos/photo_1873@01-02-2023_05-59-44.jpg,7334,2023-02-01T05:59:44,photo,trade,EURJPY,achat,M15,140.908,,,"MT4 buy 3.25, prix 141.64"
+931,ChatExport_2026-10-01/photos/photo_1874@01-02-2023_19-45-00.jpg,7342,2023-02-01T19:45:00,photo,analyse,EURUSD,,M15,,,,"TradingView mobile, pic à 1.0968"
+932,ChatExport_2026-10-01/photos/photo_1875@02-02-2023_13-35-03.jpg,7353,2023-02-02T13:35:03,photo,resultat,EURJPY,achat,,141.079,,140.865,historique : EURJPY buy 5.14 clôturé −857 $ (perte)
+933,ChatExport_2026-10-01/photos/photo_1876@02-02-2023_13-35-55.jpg,7356,2023-02-02T13:35:55,photo,analyse,EURJPY,achat,D1,,,,TradingView mobile ; projection vers 142.95
+934,ChatExport_2026-10-01/photos/photo_1877@02-02-2023_14-49-37.jpg,7364,2023-02-02T14:49:37,photo,trade,EURJPY,achat,D1,140.007,139.497,143.075,BLACKMAKER ; Major whole number 140
+935,ChatExport_2026-10-01/photos/photo_1878@03-02-2023_09-52-47.jpg,7372,2023-02-03T09:52:47,photo,resultat,EURJPY,achat,,140.000,,,"position EURJPY buy 3.85, +1 360 $"
+936,ChatExport_2026-10-01/photos/photo_1879@03-02-2023_09-53-33.jpg,7373,2023-02-03T09:53:33,photo,trade,EURJPY,achat,M30,140.000,,,MT4 buy 3.85
+937,ChatExport_2026-10-01/photos/photo_1880@03-02-2023_14-34-01.jpg,7380,2023-02-03T14:34:01,photo,trade,EURJPY,achat,M30,140.000,,,MT4 buy 3.85 avec sl
+938,ChatExport_2026-10-01/photos/photo_1881@03-02-2023_14-34-28.jpg,7381,2023-02-03T14:34:28,photo,resultat,EURJPY,achat,,140.000,,,"position EURJPY buy 3.85, +4 753 $"
+939,ChatExport_2026-10-01/photos/photo_1882@03-02-2023_15-50-39.jpg,7385,2023-02-03T15:50:39,photo,resultat,EURJPY,achat,,140.000,,142.163,historique : EURJPY buy 3.85 clôturé +6 364 $
+940,ChatExport_2026-10-01/photos/photo_1886@07-02-2023_16-45-33.jpg,7407,2023-02-07T16:45:33,photo,trade,AUDJPY,achat,H1,90.931,90.689,91.736,BLACKMAKER
+941,ChatExport_2026-10-01/photos/photo_1887@07-02-2023_19-08-01.jpg,7408,2023-02-07T19:08:01,photo,autre,,,,,,,"schéma « ce qu'on vous montre » (bougies, figures, rentabilité)"
+942,ChatExport_2026-10-01/photos/photo_1888@07-02-2023_20-37-40.jpg,7410,2023-02-07T20:37:40,photo,trade,GBPUSD,vente,M15,1.20593,1.20980,1.18414,BLACKMAKER
+943,ChatExport_2026-10-01/photos/photo_1889@07-02-2023_21-59-02.jpg,7412,2023-02-07T21:59:02,photo,trade,AUDJPY,achat,H1,90.931,90.689,91.930,TradingView mobile ; prix 91.20
+944,ChatExport_2026-10-01/photos/photo_1890@07-02-2023_21-59-25.jpg,7413,2023-02-07T21:59:25,photo,trade,AUDJPY,achat,H1,90.927,,,MT4 buy 2.85 avec sl
+945,ChatExport_2026-10-01/photos/photo_1891@07-02-2023_22-00-06.jpg,7414,2023-02-07T22:00:06,photo,resultat,AUDJPY,achat,,90.927,,,"position AUDJPY buy 2.85, +570 $"
+946,ChatExport_2026-10-01/photos/photo_1892@08-02-2023_01-21-47.jpg,7416,2023-02-08T01:21:47,photo,trade,GBPUSD,vente,H1,,1.20980,,"TradingView mobile ; suite du 942, prix 1.2049"
+947,ChatExport_2026-10-01/photos/photo_1895@08-02-2023_02-46-29.jpg,7423,2023-02-08T02:46:29,photo,resultat,AUDJPY,achat,,90.927,,,"position AUDJPY buy 2.85, +958 $"
+948,ChatExport_2026-10-01/photos/photo_1896@08-02-2023_06-48-55.jpg,7426,2023-02-08T06:48:55,photo,resultat,,,,,,,"True Forex Funds d'Amirou : phase 1 réussie, 108 002 $ sur 100 000 $"
+949,ChatExport_2026-10-01/photos/photo_1897@08-02-2023_06-49-37.jpg,7427,2023-02-08T06:49:37,photo,resultat,,,,,,,My Forex Funds : courriel de réussite de la phase II pour Amirou
+950,ChatExport_2026-10-01/photos/photo_1900@14-02-2023_14-17-22.jpg,7453,2023-02-14T14:17:22,photo,analyse,AUDUSD,vente,H1,,,,TradingView mobile ; message d'un membre « plus que ce qu'on espérait »
+951,ChatExport_2026-10-01/photos/photo_1902@14-02-2023_19-42-37.jpg,7469,2023-02-14T19:42:37,photo,analyse,USDZAR,,M,,,,"TradingView mobile, graphique long terme"
+952,ChatExport_2026-10-01/photos/photo_1903@15-02-2023_05-32-34.jpg,7472,2023-02-15T05:32:34,photo,resultat,AUDUSD,vente,,0.69701,,,"position AUDUSD sell 1.85, +709 $"
+953,ChatExport_2026-10-01/photos/photo_1905@15-02-2023_15-24-39.jpg,7490,2023-02-15T15:24:39,photo,resultat,AUDUSD,vente,,0.69701,,,"position AUDUSD sell 1.85, +1 767 $"
+954,ChatExport_2026-10-01/photos/photo_1907@16-02-2023_13-48-46.jpg,7502,2023-02-16T13:48:46,photo,trade,AUDUSD,vente,M15,0.69213,,,MT4 sell 6.60 avec sl
+955,ChatExport_2026-10-01/photos/photo_1908@16-02-2023_13-49-42.jpg,7503,2023-02-16T13:49:42,photo,resultat,AUDUSD,vente,,0.69213,,,"position AUDUSD sell 6.60, +3 003 $"
+956,ChatExport_2026-10-01/photos/photo_1910@16-02-2023_15-07-33.jpg,7507,2023-02-16T15:07:33,photo,resultat,,,,,,,compte à 105 254 $ sans position
+957,ChatExport_2026-10-01/photos/photo_1911@16-02-2023_15-09-26.jpg,7508,2023-02-16T15:09:26,photo,resultat,,,,,,,compte à 21 039 $ sans position
+958,ChatExport_2026-10-01/photos/photo_1912@17-02-2023_13-24-00.jpg,7522,2023-02-17T13:24:00,photo,resultat,,,,,,,True Forex Funds : phase 2 réussie (25 000 $ → 26 250 $)
+959,ChatExport_2026-10-01/photos/photo_1914@23-02-2023_09-34-58.jpg,7560,2023-02-23T09:34:58,photo,analyse,GBPUSD,vente,H4,,,,TradingView mobile ; projection vers 1.18413
+960,ChatExport_2026-10-01/photos/photo_1915@23-02-2023_09-34-58.jpg,7561,2023-02-23T09:34:58,photo,analyse,GBPUSD,vente,H1,,,,TradingView mobile ; projection vers 1.20
+961,ChatExport_2026-10-01/photos/photo_1916@23-02-2023_09-34-58.jpg,7562,2023-02-23T09:34:58,photo,trade,GBPUSD,vente,M30,1.20716,1.21139,1.20000,membre (mahamadou55079)
+962,ChatExport_2026-10-01/photos/photo_1917@23-02-2023_09-36-37.jpg,7564,2023-02-23T09:36:37,photo,trade,GBPUSD,vente,H1,,,,MT4 sell 1.00 avec sl
+963,ChatExport_2026-10-01/photos/photo_1919@24-02-2023_05-13-08.jpg,7570,2023-02-24T05:13:08,photo,resultat,,,,,,,"FTMO d'un membre (Abraham Judicael), essai gratuit 100 000 $"
+964,assets/tradingview/2023-02/2023-02-24_15h20_msg7577_SBfFrvHe.png,7577,2023-02-24T15:20:44,tv,trade,GBPUSD,vente,M15,1.20336,1.20487,1.19601,BLACKMAKER ; Asia high
+965,ChatExport_2026-10-01/photos/photo_1921@24-02-2023_15-43-57.jpg,7581,2023-02-24T15:43:57,photo,analyse,JXY,vente,D1,,,,"indice du yen, projection baissière"
+966,assets/tradingview/2023-02/2023-02-24_15h43_msg7582_KddFyVXO.png,7582,2023-02-24T15:43:57,tv,analyse,JXY,vente,H4,,,,"BLACKMAKER ; indice du yen, projection baissière"
+967,assets/tradingview/2023-03/2023-03-02_05h10_msg7609_jN5sRLUd.png,7609,2023-03-02T05:10:03,tv,trade,USDJPY,achat,H4,135.907,135.511,136.930,BLACKMAKER
