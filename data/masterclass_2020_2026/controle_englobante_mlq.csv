@@ -1,0 +1,85 @@
+niveaux,periode,sens,gestion,n,gagnants_pct,r_moyen,t
+MLQ réels,2012-2019,tous,2R,1096,41.2,-0.056,-1.75
+MLQ réels,2012-2019,tous,3 jours,1096,39.7,-0.048,-1.29
+MLQ réels,2012-2019,achat,2R,540,42.8,-0.023,-0.49
+MLQ réels,2012-2019,achat,3 jours,540,41.5,0.006,0.11
+MLQ réels,2012-2019,vente,2R,556,39.7,-0.088,-2.01
+MLQ réels,2012-2019,vente,3 jours,556,37.9,-0.101,-2.05
+MLQ réels,2020-2026,tous,2R,876,46.6,0.08,2.13
+MLQ réels,2020-2026,tous,3 jours,876,45.2,0.096,2.18
+MLQ réels,2020-2026,achat,2R,420,51.2,0.198,3.52
+MLQ réels,2020-2026,achat,3 jours,420,49.3,0.255,3.52
+MLQ réels,2020-2026,vente,2R,456,42.3,-0.029,-0.58
+MLQ réels,2020-2026,vente,3 jours,456,41.4,-0.05,-0.96
+décalés de 50 pips,2012-2019,tous,2R,1103,42.6,-0.036,-1.11
+décalés de 50 pips,2012-2019,tous,3 jours,1103,41.4,-0.041,-1.12
+décalés de 50 pips,2012-2019,achat,2R,531,42.9,-0.035,-0.75
+décalés de 50 pips,2012-2019,achat,3 jours,531,42.0,-0.013,-0.24
+décalés de 50 pips,2012-2019,vente,2R,572,42.3,-0.037,-0.81
+décalés de 50 pips,2012-2019,vente,3 jours,572,40.9,-0.066,-1.36
+décalés de 50 pips,2020-2026,tous,2R,842,41.9,-0.057,-1.57
+décalés de 50 pips,2020-2026,tous,3 jours,842,40.7,-0.041,-0.95
+décalés de 50 pips,2020-2026,achat,2R,420,41.7,-0.096,-1.89
+décalés de 50 pips,2020-2026,achat,3 jours,420,41.0,-0.044,-0.69
+décalés de 50 pips,2020-2026,vente,2R,422,42.2,-0.017,-0.34
+décalés de 50 pips,2020-2026,vente,3 jours,422,40.5,-0.037,-0.65
+décalés de 100 pips,2012-2019,tous,2R,1029,45.3,0.016,0.49
+décalés de 100 pips,2012-2019,tous,3 jours,1029,43.5,0.011,0.29
+décalés de 100 pips,2012-2019,achat,2R,522,46.4,0.013,0.28
+décalés de 100 pips,2012-2019,achat,3 jours,522,44.8,0.036,0.64
+décalés de 100 pips,2012-2019,vente,2R,507,44.2,0.019,0.42
+décalés de 100 pips,2012-2019,vente,3 jours,507,42.2,-0.015,-0.3
+décalés de 100 pips,2020-2026,tous,2R,889,43.5,0.047,1.27
+décalés de 100 pips,2020-2026,tous,3 jours,889,42.2,0.034,0.84
+décalés de 100 pips,2020-2026,achat,2R,459,45.3,0.07,1.35
+décalés de 100 pips,2020-2026,achat,3 jours,459,43.8,0.055,0.97
+décalés de 100 pips,2020-2026,vente,2R,430,41.6,0.023,0.43
+décalés de 100 pips,2020-2026,vente,3 jours,430,40.5,0.011,0.2
+décalés de 125 pips,2012-2019,tous,2R,991,44.9,0.023,0.65
+décalés de 125 pips,2012-2019,tous,3 jours,991,43.1,0.045,1.05
+décalés de 125 pips,2012-2019,achat,2R,492,45.9,0.03,0.6
+décalés de 125 pips,2012-2019,achat,3 jours,492,44.3,0.087,1.32
+décalés de 125 pips,2012-2019,vente,2R,499,43.9,0.016,0.32
+décalés de 125 pips,2012-2019,vente,3 jours,499,41.9,0.003,0.05
+décalés de 125 pips,2020-2026,tous,2R,898,40.1,-0.06,-1.7
+décalés de 125 pips,2020-2026,tous,3 jours,898,38.8,-0.057,-1.4
+décalés de 125 pips,2020-2026,achat,2R,461,42.5,-0.027,-0.53
+décalés de 125 pips,2020-2026,achat,3 jours,461,41.0,-0.026,-0.45
+décalés de 125 pips,2020-2026,vente,2R,437,37.5,-0.095,-1.92
+décalés de 125 pips,2020-2026,vente,3 jours,437,36.4,-0.09,-1.57
+décalés de 175 pips,2012-2019,tous,2R,1051,41.6,-0.055,-1.7
+décalés de 175 pips,2012-2019,tous,3 jours,1051,40.5,-0.047,-1.27
+décalés de 175 pips,2012-2019,achat,2R,516,42.2,-0.01,-0.2
+décalés de 175 pips,2012-2019,achat,3 jours,516,40.9,-0.027,-0.51
+décalés de 175 pips,2012-2019,vente,2R,535,40.9,-0.099,-2.29
+décalés de 175 pips,2012-2019,vente,3 jours,535,40.2,-0.066,-1.28
+décalés de 175 pips,2020-2026,tous,2R,909,43.3,-0.008,-0.23
+décalés de 175 pips,2020-2026,tous,3 jours,909,41.9,0.008,0.19
+décalés de 175 pips,2020-2026,achat,2R,479,44.9,0.043,0.83
+décalés de 175 pips,2020-2026,achat,3 jours,479,42.8,0.076,1.2
+décalés de 175 pips,2020-2026,vente,2R,430,41.6,-0.065,-1.29
+décalés de 175 pips,2020-2026,vente,3 jours,430,40.9,-0.067,-1.21
+décalés de 200 pips,2012-2019,tous,2R,1052,43.2,-0.03,-0.92
+décalés de 200 pips,2012-2019,tous,3 jours,1052,41.8,-0.009,-0.24
+décalés de 200 pips,2012-2019,achat,2R,516,43.2,-0.016,-0.34
+décalés de 200 pips,2012-2019,achat,3 jours,516,42.1,0.011,0.19
+décalés de 200 pips,2012-2019,vente,2R,536,43.1,-0.043,-0.97
+décalés de 200 pips,2012-2019,vente,3 jours,536,41.6,-0.028,-0.54
+décalés de 200 pips,2020-2026,tous,2R,895,41.3,-0.066,-1.84
+décalés de 200 pips,2020-2026,tous,3 jours,895,40.2,-0.028,-0.63
+décalés de 200 pips,2020-2026,achat,2R,464,44.2,-0.013,-0.25
+décalés de 200 pips,2020-2026,achat,3 jours,464,42.7,0.029,0.45
+décalés de 200 pips,2020-2026,vente,2R,431,38.3,-0.123,-2.44
+décalés de 200 pips,2020-2026,vente,3 jours,431,37.6,-0.088,-1.46
+toute englobante (témoin),2012-2019,tous,2R,5311,43.0,-0.03,-2.07
+toute englobante (témoin),2012-2019,tous,3 jours,5311,41.6,-0.023,-1.36
+toute englobante (témoin),2012-2019,achat,2R,2618,43.7,-0.014,-0.65
+toute englobante (témoin),2012-2019,achat,3 jours,2618,42.4,0.007,0.29
+toute englobante (témoin),2012-2019,vente,2R,2693,42.3,-0.046,-2.28
+toute englobante (témoin),2012-2019,vente,3 jours,2693,40.8,-0.053,-2.32
+toute englobante (témoin),2020-2026,tous,2R,4385,43.1,-0.003,-0.18
+toute englobante (témoin),2020-2026,tous,3 jours,4385,41.7,0.011,0.56
+toute englobante (témoin),2020-2026,achat,2R,2222,45.9,0.05,2.12
+toute englobante (témoin),2020-2026,achat,3 jours,2222,44.2,0.079,2.76
+toute englobante (témoin),2020-2026,vente,2R,2163,40.3,-0.057,-2.52
+toute englobante (témoin),2020-2026,vente,3 jours,2163,39.1,-0.06,-2.33

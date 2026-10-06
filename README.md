@@ -22,6 +22,7 @@ Le dépôt réunit trois choses :
 | [`analyses/MODELE_FONDAMENTAL_ET_MLQ.md`](analyses/MODELE_FONDAMENTAL_ET_MLQ.md) | **Version fondamentale (calendrier, COT, taux, biais écrit d'Amirou), habitudes MLQ et mercredi, évolution de son style 2021-2026** |
 | [`analyses/TRADES_PAR_EPOQUE.md`](analyses/TRADES_PAR_EPOQUE.md) | **Ses trades analysés séparément pour 2021-2022 (stops serrés, grands ratios) et 2023-2026 (fondamental, MLQ, ratios 1:2-1:3)** |
 | [`analyses/MASTERCLASS_VERIFIEE.md`](analyses/MASTERCLASS_VERIFIEE.md) | **La masterclass vérifiée sur 2012-2026 : 70 %, 75 %, 85 % annoncés contre 20 à 50 % mesurés ; aucune règle ni combinaison robuste sur 11 instruments** |
+| [`analyses/MASTERCLASS_TRADES_DATES.md`](analyses/MASTERCLASS_TRADES_DATES.md) | **Les trades simulés pour chaque règle, datés, avec le focus 2020-2026 : aucune règle ne devient rentable ; une seule piste (achat sur englobante qui rejette un MLQ, +0,20 R depuis 2020) à suivre en démo** |
 | [`analyses/STRATEGIES_PAR_PAIRE.md`](analyses/STRATEGIES_PAR_PAIRE.md) | **Chaque stratégie paire par paire et année par année, avec les dates de toutes les occurrences** |
 | [`analyses/GUIDE_STRATEGIES.md`](analyses/GUIDE_STRATEGIES.md) | **Guide illustré : lundi-mardi-mercredi, englobante, bébé abandonné, structure du marché et Bombe, MLQ** |
 | [`analyses/FLASHCARDS_ENGLOBANTE.md`](analyses/FLASHCARDS_ENGLOBANTE.md) | **Les flashcards « Naruto » (2025-2026) : la stratégie de l'englobante et ses « probabilités de rupture » vérifiées** |
@@ -114,7 +115,7 @@ Six années de données, c'est peu : un seul mois exceptionnel suffit à déplac
 - **À ne pas utiliser sans vérification** :
   - les statistiques de trades ;
   - les citations « complétées » ;
-  - l'attribution de la « Chandler Signature » à Marc Chandler, absente de toutes les sources ;
+  - l'attribution de la « Chandler Signature » à Marc Chandler, absente de toutes les sources (l'utilisateur précise qu'Amirou utilise les analyses de Marc to Market : le lien est plausible, mais le contenu attribué à Chandler par Antigravity restait inventé) ;
   - la « règle de la semaine 1 », que le moteur ne calcule pas ;
   - la saisonnalité d'EURUSD en mai, présentée à tort comme baissière ;
   - la description technique des PDF (ReportLab, seaborn).

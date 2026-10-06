@@ -56,6 +56,8 @@
 - La plupart des règles chiffrées sont **récentes** (2023-2026). Elles ont donc été formulées après coup, sur des années que l'on peut vérifier.
 - **Période testée** : toutes les règles journalières sont testées sur 2012-2026, donc avant et après leur publication. Les résultats après publication, de 2023 à 2026 selon la règle, figurent dans les tableaux par année de [`STRATEGIES_PAR_PAIRE.md`](STRATEGIES_PAR_PAIRE.md) et de son annexe.
 
+**Dates des trades simulés** : chaque trade utilisé pour tester les règles, daté, avec le détail année par année de 2020 à 2026, est dans [`MASTERCLASS_TRADES_DATES.md`](MASTERCLASS_TRADES_DATES.md).
+
 ## En bref
 
 ![Annoncé et mesuré](../assets/figures/masterclass_promesses.png)
