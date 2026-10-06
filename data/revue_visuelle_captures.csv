@@ -1975,3 +1975,51 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 1973,ChatExport_2026-10-01/photos/photo_3284@11-12-2025_15-53-47.jpg,14219,2025-12-11T15:53:47,photo,resultat,,,,,,,"classement Trading Cult (200 000 $) : « touramirou » 3e, +3,21 %"
 1974,ChatExport_2026-10-01/photos/photo_3285@11-12-2025_15-55-05.jpg,14220,2025-12-11T15:55:05,photo,resultat,,,,,,,"classement Trading Cult (100 000 $) : « touramirou » 4e, +3,95 %"
 1975,ChatExport_2026-10-01/photos/photo_3288@12-12-2025_16-22-18.jpg,14226,2025-12-12T16:22:18,photo,trade,GBPAUD,achat,H1,2.01027,2.00527,2.02309,TradingView mobile
+1976,ChatExport_2026-10-01/photos/photo_3304@20-01-2026_11-44-34.jpg,14339,2026-01-20T11:44:34,photo,trade,CADCHF,vente,D1,0.57495,0.57844,0.56997,TradingView mobile ; Major larger quarter 0.575
+1977,assets/tradingview/2026-01/2026-01-20_11h46_msg14341_be43MoCH.png,14341,2026-01-20T11:46:31,tv,trade,CADCHF,vente,D1,0.57499,0.57850,0.56989,BLACKMAKER
+1978,ChatExport_2026-10-01/photos/photo_3308@28-01-2026_16-16-45.jpg,14366,2026-01-28T16:16:45,photo,trade,EURAUD,vente,H1,1.71672,1.72179,1.70612,TradingView mobile
+1979,assets/tradingview/2026-01/2026-01-28_23h12_msg14377_FFJ66WhR.png,14377,2026-01-28T23:12:36,tv,trade,EURUSD,achat,H1,1.19546,1.19138,1.20377,BLACKMAKER
+1980,ChatExport_2026-10-01/photos/photo_3310@29-01-2026_00-45-40.jpg,14380,2026-01-29T00:45:40,photo,trade,EURUSD,achat,H1,1.19546,1.19138,1.20377,TradingView mobile ; prix 1.1975
+1981,ChatExport_2026-10-01/photos/photo_3311@29-01-2026_06-41-59.jpg,14381,2026-01-29T06:41:59,photo,trade,EURUSD,achat,H1,1.19546,1.19138,1.20377,TradingView mobile ; prix 1.1986
+1982,ChatExport_2026-10-01/photos/photo_3312@29-01-2026_07-06-47.jpg,14382,2026-01-29T07:06:47,photo,trade,GBPUSD,achat,H1,1.38384,1.37926,1.39303,TradingView mobile
+1983,ChatExport_2026-10-01/photos/photo_3314@10-02-2026_13-07-36.jpg,14407,2026-02-10T13:07:36,photo,trade,USDJPY,vente,M15,156.047,156.497,155.146,TradingView mobile
+1984,ChatExport_2026-10-01/photos/photo_3315@10-02-2026_13-07-36.jpg,14408,2026-02-10T13:07:36,photo,resultat,USDJPY,vente,H1,156.047,156.497,155.146,"TradingView mobile ; prix 155.33, proche du TP"
+1985,ChatExport_2026-10-01/photos/photo_3316@11-02-2026_23-45-28.jpg,14414,2026-02-11T23:45:28,photo,resultat,,,,,,,"historique MT4 (TradersTrust, compte 200 000 $) du 09/12/2025 au 11/02/2026 : environ 40 trades, total +7 301 $ ; pertes de −1 000 à −2 060 $ (GBPAUD, GBPJPY, EURUSD, USDCHF, CADCHF, EURAUD, AUDJPY, GBPUSD)"
+1986,ChatExport_2026-10-01/photos/photo_3317@11-02-2026_23-46-41.jpg,14415,2026-02-11T23:46:41,photo,resultat,,,,,,,"classement Trading Cult (200 000 $) : « touramirou » 2e, +3,65 %"
+1987,ChatExport_2026-10-01/photos/photo_3318@12-02-2026_16-25-01.jpg,14418,2026-02-12T16:25:01,photo,resultat,,,,,,,"classement Trading Cult (200 000 $) : « touramirou » 1er, +4,71 %"
+1988,ChatExport_2026-10-01/photos/photo_3319@12-02-2026_23-32-55.jpg,14419,2026-02-12T23:32:55,photo,resultat,,,,,,,photo d'écran du même historique MT4 que le 1985
+1989,ChatExport_2026-10-01/photos/photo_3320@23-02-2026_00-47-23.jpg,14425,2026-02-23T00:47:23,photo,trade,EURUSD,achat,H1,1.17830,1.17322,1.19313,TradingView mobile
+1990,ChatExport_2026-10-01/photos/photo_3321@25-02-2026_16-50-14.jpg,14428,2026-02-25T16:50:14,photo,trade,EURUSD,achat,M30,1.17843,1.17591,1.18346,TradingView mobile ; prix 1.1805
+1991,ChatExport_2026-10-01/photos/photo_3322@25-02-2026_16-50-58.jpg,14430,2026-02-25T16:50:58,photo,trade,EURNZD,vente,M30,1.97337,1.97684,1.96641,TradingView mobile ; Major larger quarter 1.975
+1992,ChatExport_2026-10-01/photos/photo_3323@25-02-2026_16-55-07.jpg,14431,2026-02-25T16:55:07,photo,resultat,,,,,,,"classement Trading Cult (200 000 $) : « touramirou » 2e, +3,54 %"
+1993,ChatExport_2026-10-01/photos/photo_3324@26-02-2026_20-05-53.jpg,14441,2026-02-26T20:05:53,photo,trade,GBPNZD,vente,H1,2.26125,2.26580,2.25200,"TradingView mobile ; prix 2.2532, proche du TP"
+1994,ChatExport_2026-10-01/photos/photo_3325@27-02-2026_10-19-36.jpg,14442,2026-02-27T10:19:36,photo,analyse,GBPJPY,,H1,,,,TradingView mobile ; niveau 209.99
+1995,ChatExport_2026-10-01/photos/photo_3326@27-02-2026_10-19-36.jpg,14443,2026-02-27T10:19:36,photo,analyse,GBPJPY,,H1,,,,"TradingView mobile ; niveau 209.99, suite"
+1996,ChatExport_2026-10-01/photos/photo_3327@27-02-2026_13-32-43.jpg,14446,2026-02-27T13:32:43,photo,analyse,GBPJPY,,H1,,,,TradingView mobile ; prix sur 209.99
+1997,ChatExport_2026-10-01/photos/photo_3328@27-02-2026_13-35-14.jpg,14447,2026-02-27T13:35:14,photo,autre,,,,,,,"FX Replay (backtest d'un autre compte) : +131 412 $, 80 % de gagnants, 100 opérations (simulation)"
+1998,ChatExport_2026-10-01/photos/photo_3329@27-02-2026_13-35-14.jpg,14448,2026-02-27T13:35:14,photo,autre,,,,,,,FX Replay (backtest) : performances par heure et par jour
+1999,ChatExport_2026-10-01/photos/photo_3330@27-02-2026_13-35-14.jpg,14449,2026-02-27T13:35:14,photo,autre,,,,,,,FX Replay (backtest) : calendrier et fréquence des trades
+2000,assets/tradingview/2026-03/2026-03-01_00h56_msg14451_36J1go0L.png,14451,2026-03-01T00:56:37,tv,analyse,AUDCAD,vente,D1,,,,"BLACKMAKER ; rejet Major larger quarter 0.975, projection vers 0.95"
+2001,ChatExport_2026-10-01/photos/photo_3332@01-03-2026_22-07-03.jpg,14465,2026-03-01T22:07:03,photo,analyse,AUDCAD,vente,H4,,,,TradingView mobile ; projection vers 0.95
+2002,ChatExport_2026-10-01/photos/photo_3333@01-03-2026_22-07-50.jpg,14466,2026-03-01T22:07:50,photo,analyse,AUDJPY,,H4,,,,TradingView mobile ; ouverture en gap
+2003,ChatExport_2026-10-01/photos/photo_3334@01-03-2026_23-21-39.jpg,14469,2026-03-01T23:21:39,photo,trade,USDJPY,achat,H1,156.405,155.950,157.327,TradingView mobile
+2004,ChatExport_2026-10-01/photos/photo_3336@02-03-2026_12-52-48.jpg,14473,2026-03-02T12:52:48,photo,resultat,USDJPY,achat,M30,156.395,155.950,157.327,TradingView mobile ; TP atteint (157.32)
+2005,ChatExport_2026-10-01/photos/photo_3337@02-03-2026_12-58-07.jpg,14474,2026-03-02T12:58:07,photo,trade,AUDCAD,vente,H4,0.96489,0.96855,0.95002,TradingView mobile
+2006,ChatExport_2026-10-01/photos/photo_3338@02-03-2026_13-00-08.jpg,14475,2026-03-02T13:00:08,photo,trade,USDJPY,achat,M5,156.264,156.300,,MT5 buy 3.5 ; prix 157.39 (stop au-dessus de l'entrée)
+2007,ChatExport_2026-10-01/photos/photo_3339@02-03-2026_14-59-02.jpg,14477,2026-03-02T14:59:02,photo,trade,AUDCAD,vente,H1,0.96489,0.96855,0.95002,"TradingView mobile ; prix 0.9675, au-dessus de l'entrée"
+2008,ChatExport_2026-10-01/photos/photo_3340@03-03-2026_20-26-22.jpg,14478,2026-03-03T20:26:22,photo,analyse,AUDCAD,vente,D1,,,,TradingView mobile ; projection vers 0.95
+2009,ChatExport_2026-10-01/photos/photo_3341@03-03-2026_20-27-05.jpg,14479,2026-03-03T20:27:05,photo,trade,EURGBP,vente,H4,0.87498,0.87799,0.86747,TradingView mobile ; Major larger quarter 0.875
+2010,ChatExport_2026-10-01/photos/photo_3342@03-03-2026_20-27-25.jpg,14480,2026-03-03T20:27:25,photo,trade,EURGBP,vente,D1,0.87498,0.87799,0.86747,TradingView mobile ; prix 0.8694
+2011,ChatExport_2026-10-01/photos/photo_3343@03-03-2026_23-57-18.jpg,14483,2026-03-03T23:57:18,photo,resultat,AUDCAD,vente,,0.96448,,0.96802,"historique (02-03/03/2026) : AUDCAD sell 3.9 −1 010 $ (perte), USDJPY buy 3.5 +2 654 $, GBPJPY buy 2.5 +1 981 $ ; total +3 624 $"
+2012,ChatExport_2026-10-01/photos/photo_3344@03-03-2026_23-57-19.jpg,14484,2026-03-03T23:57:19,photo,resultat,AUDCAD,vente,,0.96453,,0.96821,"historique (autre compte) : AUDCAD −1 050 $ (perte), USDJPY +2 676 $, GBPJPY +1 966 $ ; total +3 592 $"
+2013,ChatExport_2026-10-01/photos/photo_3345@04-03-2026_00-04-20.jpg,14490,2026-03-04T00:04:20,photo,resultat,,,,,,,"classement Trading Cult (200 000 $) : « touramirou » 1er, +4,51 %"
+2014,assets/tradingview/2026-03/2026-03-04_01h43_msg14499_cwDVGgPW.png,14499,2026-03-04T01:43:27,tv,trade,EURUSD,achat,M5,1.15786,1.15626,1.16106,BLACKMAKER ; deux scénarios
+2015,assets/tradingview/2026-03/2026-03-04_03h56_msg14501_324pozwT.png,14501,2026-03-04T03:56:57,tv,trade,EURUSD,achat,M15,1.15786,1.15626,1.16095,"BLACKMAKER ; prix 1.1609, TP atteint"
+2016,ChatExport_2026-10-01/photos/photo_3347@04-03-2026_09-58-50.jpg,14503,2026-03-04T09:58:50,photo,trade,USDJPY,vente,M15,157.497,157.804,156.878,TradingView mobile ; prix 157.20
+2017,ChatExport_2026-10-01/photos/photo_3349@05-03-2026_05-03-26.jpg,14509,2026-03-05T05:03:26,photo,trade,AUDUSD,vente,H1,0.70786,0.71090,0.69871,TradingView mobile
+2018,ChatExport_2026-10-01/photos/photo_3350@05-03-2026_05-51-43.jpg,14512,2026-03-05T05:51:43,photo,resultat,,,,,,,"classement Trading Cult (100 000 $) : « touramirou » 1er, +5,38 %"
+2019,ChatExport_2026-10-01/photos/photo_3351@05-03-2026_05-51-43.jpg,14513,2026-03-05T05:51:43,photo,resultat,,,,,,,"classement Trading Cult (200 000 $) : « touramirou » 1er, +5,06 %"
+2020,ChatExport_2026-10-01/photos/photo_3352@05-03-2026_08-33-11.jpg,14514,2026-03-05T08:33:11,photo,trade,AUDUSD,vente,H1,0.70786,0.71090,0.70122,"TradingView mobile ; prix 0.7016, proche du TP"
+2021,ChatExport_2026-10-01/photos/photo_3354@06-03-2026_13-57-34.jpg,14525,2026-03-06T13:57:34,photo,analyse,AUDUSD,vente,H1,,,,TradingView mobile ; projection vers 0.69448
+2022,assets/tradingview/2026-03/2026-03-08_23h40_msg14532_wgSp6XSJ.png,14532,2026-03-08T23:40:37,tv,analyse,AUDCAD,vente,D1,,,,BLACKMAKER ; objectif 0.95 atteint
+2023,assets/tradingview/2026-03/2026-03-08_23h54_msg14536_pq2m3VRl.png,14536,2026-03-08T23:54:29,tv,analyse,EURUSD,vente,H4,,,,"BLACKMAKER ; projection baissière (crise d'Ormuz, mars 2026)"
