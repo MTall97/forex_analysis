@@ -75,6 +75,8 @@ Tous les scripts se lancent **depuis la racine du dépôt** : `python scripts/<s
 | Revue visuelle | lecture à l'œil (planches de 4 captures), puis `python scripts/rejouer_revue_visuelle.py` | `data/revue_visuelle_captures.csv`, cache Yahoo | `data/revue_trades_amirou.csv`, `data/revue_trades_simules.csv`, `analyses/REVUE_CAPTURES.md` | non |
 | Trades datés 2020-2026 | `python scripts/trades_masterclass_par_date.py` puis `python scripts/tester_englobante_mlq_recent.py` | `data/par_paire/occurrences_*.csv`, Dukascopy journalier | `data/masterclass_2020_2026/`, `analyses/MASTERCLASS_TRADES_DATES.md` | non |
 | Par paire | `python scripts/analyse_par_paire.py` | tous les fichiers de trades | `data/par_paire/`, `analyses/annexes/` (rapports : `MASTERCLASS_VERIFIEE.md`, `STRATEGIES_PAR_PAIRE.md`) | non |
+| Vérification de tous les mois | `python scripts/verifier_tous_les_trades.py` | `data/trades.csv`, `data/trade_events.csv`, `data/trades_simules.csv`, `data/revue_*`, `data/prix/journalier_dukascopy_registre.csv` (Dukascopy journalier 2019-2021, 18 paires), cache Yahoo | `data/verification_trades.csv`, `data/verification_mensuelle.csv`, `analyses/TRADES_TOUS_LES_MOIS.md` | non |
+| Suivi en démo | `python scripts/prix_yahoo.py --mettre-a-jour …`, puis `python scripts/suivi_demo_englobante_mlq.py` | Yahoo horaire | `data/suivi_demo/journal_englobante_mlq.csv`, `analyses/SUIVI_DEMO.md` | oui (Yahoo) |
 | Figures | `python scripts/figures_rapports.py` | tout | `assets/figures/` | non |
 
 ## 4. Mettre à jour les données

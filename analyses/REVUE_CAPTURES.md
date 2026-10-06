@@ -130,7 +130,7 @@ En 2026 apparaissent aussi EURNOK (« EURNOK ~ 1/USOIL », #14951), le Dow Jones
 
 1. **Toutes les images ont été vues.**
    - 2 240 captures restantes + 518 trades OCR = l'ensemble des captures 2021-2026 du canal.
-   - Les autres mois que septembre ne sont pas pour autant vérifiés trade par trade avec les messages texte.
+   - La confrontation avec les messages texte, mois par mois, est dans [`TRADES_TOUS_LES_MOIS.md`](TRADES_TOUS_LES_MOIS.md).
 2. **Les captures sont une vitrine.**
    - Une capture de résultat sur dix seulement laisse voir une perte.
    - Les gains affichés sont souvent flottants.
