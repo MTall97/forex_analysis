@@ -22,6 +22,8 @@ Seuls des trades **postérieurs** à la découverte peuvent dire si l'avantage e
 - **Spread** déduit.
 - **10 paires** : AUDJPY, AUDUSD, EURJPY, EURNZD, EURUSD, GBPJPY, GBPUSD, NZDUSD, USDCAD, USDJPY.
 
+*Variante d'entrée testée à part, sans toucher à cette règle : l'entrée sur un FVG 1h ou 4h fait moins bien que l'entrée à la clôture ([`ENGLOBANTE_FVG.md`](ENGLOBANTE_FVG.md)).*
+
 ## Critère de décision (fixé à l'avance)
 
 | Après 30 à 60 trades | Décision |

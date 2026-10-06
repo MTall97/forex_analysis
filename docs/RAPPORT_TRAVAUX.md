@@ -61,6 +61,7 @@ Résumé de ce qui a été fait sur le dépôt `forex_analysis`, dans l'ordre de
 - `analyses/CONFRONTATION_MARC_TO_MARKET.md` (06/10/2026) : 2 489 billets de Chandler confrontés aux textes et aux trades d'Amirou ; aucune reprise mesurable, positions dans le même sens une fois sur deux.
 - `analyses/TRADES_TOUS_LES_MOIS.md` (06/10/2026) : les 953 trades du canal (texte, OCR, revue visuelle) vérifiés mois par mois ; le canal ne publie aucune issue pour 605 d'entre eux ; sur 2024-2026 (horaire), chaque écart entre le canal et les cours a été relu : aucun faux TP, mais une sortie anticipée (#10853) et un stop élargi après publication (#15295).
 - `analyses/SUIVI_DEMO.md` (06/10/2026) : suivi hors échantillon de la piste englobante + MLQ (achat), à partir du 02/10/2026, avec un critère de décision fixé à l'avance.
+- `analyses/ENGLOBANTE_FVG.md` (06/10/2026) : entrée sur un FVG 1h ou 4h de l'englobante testée sur 22 paires (12/2023-10/2026) ; elle fait moins bien que l'entrée à la clôture, car les ordres ne s'exécutent que sur les englobantes qui échouent.
 - Selon l'utilisateur, Amirou s'appuie sur les analyses de Marc to Market (Marc Chandler) ; c'est indiqué dans les rapports corrigés, en précisant que le canal ne le dit pas.
 
 ## Ce qui reste à faire (de votre côté)

@@ -963,6 +963,56 @@ def recents():
         sauver(fig, 'verification_tous_les_mois.png')
 
 
+def englobante_fvg():
+    """Entrée sur FVG 1h/4h de l'englobante contre entrée à la clôture (data/englobante_fvg/)."""
+    if not os.path.exists('data/englobante_fvg/trades.csv'):
+        return
+    t = pd.read_csv('data/englobante_fvg/trades.csv')
+    fig, axes = plt.subplots(1, 2, figsize=(11, 4))
+    ax = axes[0]
+    demo = t[(t['sens'] == 'achat') & t['mlq'] & (t['groupe'] == '10 paires')]
+    variantes = [('clôture', 'clôture (règle actuelle)', BLEU),
+                 ('témoin repli 20 % 2R 24h', 'repli fixe 20 %', GRIS), ('témoin repli 30 % 2R 24h', 'repli fixe 30 %', GRIS),
+                 ('témoin repli 50 % 2R 24h', 'repli fixe 50 %', GRIS),
+                 ('FVG 4h profond haut objectif inchangé 24h', 'FVG 4h profond,\nobjectif inchangé', ORANGE),
+                 ('FVG 4h profond haut 2R 24h', 'FVG 4h profond, 2R', ORANGE),
+                 ('FVG 4h récent haut 2R 24h', 'FVG 4h récent, 2R', ORANGE),
+                 ('FVG 1h récent haut 2R 24h', 'FVG 1h récent, 2R', ORANGE),
+                 ('FVG 1h profond haut 2R 24h', 'FVG 1h profond, 2R', ORANGE)]
+    for k, (v, nom, coul) in enumerate(variantes):
+        r = demo.loc[demo['variante'] == v, 'r']
+        ax.barh(k, r.mean(), color=coul, height=0.6, xerr=r.std() / np.sqrt(len(r)), error_kw=dict(ecolor='#555', lw=1))
+        ax.text(max(r.mean(), 0) + 0.01, k + 0.3, f'{r.mean():+.2f}', fontsize=7, va='center')
+    ax.set_yticks(range(len(variantes)))
+    ax.set_yticklabels([n for _, n, _ in variantes], fontsize=7)
+    ax.invert_yaxis()
+    ax.axvline(0, color='#333', lw=0.8)
+    ax.set_xlabel('R moyen par signal (ordre non exécuté = 0)', fontsize=8)
+    ax.set_title(f'Achats sur englobante + MLQ, 10 paires ({demo["variante"].eq("clôture").sum()} signaux, 12/2023-10/2026)',
+                 fontsize=9)
+    ax = axes[1]
+    s = t[t['groupe'] == '10 paires']
+    c = s[s['variante'] == 'clôture'].set_index(['paire', 'date', 'sens'])['r']
+    f = s[s['variante'] == 'FVG 1h récent haut 2R 24h'].set_index(['paire', 'date', 'sens']).join(c.rename('rc'))
+    ex, nex = f[f['execute']], f[(~f['execute']) & (f['issue'] == 'non exécuté')]
+    vals = [(0, ex['rc'].mean(), BLEU, 'entrée à la clôture'), (1, ex['r'].mean(), ORANGE, 'entrée sur le FVG'),
+            (3, nex['rc'].mean(), BLEU, 'entrée à la clôture'), (4, 0, ORANGE, 'FVG : trade raté')]
+    for x, v, coul, nom in vals:
+        ax.bar(x, v, color=coul, width=0.8)
+        ax.text(x, v + (0.02 if v >= 0 else -0.05), f'{v:+.2f}', ha='center', fontsize=8)
+    ax.set_xticks([0.5, 3.5])
+    ax.set_xticklabels([f'le prix revient sur le FVG\n({len(ex)} signaux)', f"le prix ne revient pas\n({len(nex)} signaux)"],
+                       fontsize=8)
+    ax.axhline(0, color='#333', lw=0.8)
+    ax.set_ylim(min(v for _, v, _, _ in vals) - 0.1, max(v for _, v, _, _ in vals) + 0.1)
+    ax.set_ylabel('R moyen par trade', fontsize=8)
+    ax.legend(handles=[plt.Rectangle((0, 0), 1, 1, color=BLEU), plt.Rectangle((0, 0), 1, 1, color=ORANGE)],
+              labels=['entrée à la clôture', 'ordre sur le FVG 1h'], fontsize=7, loc='upper left')
+    ax.set_title('Toutes les englobantes, 10 paires : ce que le FVG sélectionne', fontsize=9)
+    fig.tight_layout()
+    sauver(fig, 'englobante_fvg.png')
+
+
 def main():
     os.makedirs(SORTIE, exist_ok=True)
     schema_englobante()
@@ -984,6 +1034,7 @@ def main():
     schema_mlq_trade()
     masterclass()
     recents()
+    englobante_fvg()
 
 
 if __name__ == '__main__':
