@@ -811,3 +811,23 @@ idx,fichier,id_message,date,type,categorie,paire,sens,unite,entree,stop,objectif
 809,assets/tradingview/2022-10/2022-10-26_15h26_msg6731_nE3bpagk.png,6731,2022-10-26T15:26:49,tv,analyse,AUDUSD,,M5,,,,membre ; projection baissière
 810,ChatExport_2026-10-01/photos/photo_1771@26-10-2022_15-26-49.jpg,6732,2022-10-26T15:26:49,photo,trade,XAUUSD,achat,M1,1671.137,1670.709,1674.905,membre ; TP presque atteint
 811,ChatExport_2026-10-01/photos/photo_1772@26-10-2022_15-26-49.jpg,6733,2022-10-26T15:26:49,photo,trade,GBPJPY,vente,M1,170.33,,,MT4 sell ; prix 170.016
+812,ChatExport_2026-10-01/photos/photo_1773@26-10-2022_15-26-49.jpg,6734,2022-10-26T15:26:49,photo,trade,CADCHF,vente,H1,0.73206,0.73361,0.72188,membre ; prix 0.72436
+813,ChatExport_2026-10-01/photos/photo_1774@26-10-2022_15-26-49.jpg,6735,2022-10-26T15:26:49,photo,trade,US100,achat,M15,11414.65,11381.46,11683.64,membre (kathelsow)
+814,assets/tradingview/2022-10/2022-10-26_15h26_msg6736_e73waZMI.png,6736,2022-10-26T15:26:49,tv,trade,USDCAD,vente,H2,1.38453,1.39018,1.35093,membre (edemade3) ; TP presque atteint
+815,assets/tradingview/2022-10/2022-10-26_15h26_msg6737_8GIL8Es8.png,6737,2022-10-26T15:26:49,tv,trade,AUDUSD,achat,S5,0.6486,0.6485,0.6493,"membre, niveaux approximatifs ; TP atteint"
+816,assets/tradingview/2022-10/2022-10-26_15h26_msg6738_t33Uty3t.png,6738,2022-10-26T15:26:50,tv,trade,NZDCAD,achat,M1,0.7900,0.7899,0.7925,"membre, niveaux approximatifs"
+817,ChatExport_2026-10-01/photos/photo_1775@26-10-2022_15-26-50.jpg,6740,2022-10-26T15:26:50,photo,trade,AUDUSD,vente,M11,0.64841,0.64913,0.6452,membre ; MLQ 0.650 ; TP atteint
+818,assets/tradingview/2022-10/2022-10-26_15h26_msg6741_s9x0j2S6.png,6741,2022-10-26T15:26:50,tv,trade,AUDUSD,achat,M2,0.64572,0.64544,0.64957,membre (edemade3) ; TP atteint
+819,assets/tradingview/2022-10/2022-10-26_15h26_msg6742_T7PHVZfh.png,6742,2022-10-26T15:26:50,tv,trade,AUDUSD,achat,S5,0.6488,0.6487,0.6497,"membre, niveaux approximatifs ; TP atteint"
+820,ChatExport_2026-10-01/photos/photo_1776@26-10-2022_15-53-29.jpg,6746,2022-10-26T15:53:29,photo,trade,US100,achat,M15,11414.65,11381.46,11683.64,membre ; prix 11642.75
+821,ChatExport_2026-10-01/photos/photo_1777@26-10-2022_15-53-29.jpg,6747,2022-10-26T15:53:29,photo,resultat,,,,,,,compte d'un membre : +7 101 $
+822,ChatExport_2026-10-01/photos/photo_1778@26-10-2022_15-53-44.jpg,6748,2022-10-26T15:53:44,photo,trade,USDCAD,achat,M1,1.3537,,,membre : buy 1.00 ; prix 1.35677
+823,ChatExport_2026-10-01/photos/photo_1779@26-10-2022_15-53-58.jpg,6749,2022-10-26T15:53:58,photo,trade,XAUUSD,vente,H1,1672.571,1673.761,1660.675,membre (freshprince223)
+824,ChatExport_2026-10-01/photos/photo_1780@26-10-2022_15-53-58.jpg,6750,2022-10-26T15:53:58,photo,trade,XAUUSD,vente,M1,1672.571,1673.761,1660.734,membre ; SL déplacé ; prix 1666.55
+825,ChatExport_2026-10-01/photos/photo_1781@26-10-2022_16-03-00.jpg,6751,2022-10-26T16:03:00,photo,trade,XAUUSD,vente,M5,1672.5,1672.3,1661.0,membre : stop remonté ; prix 1666.54
+826,assets/tradingview/2022-10/2022-10-27_10h33_msg6783_CikFICNh.png,6783,2022-10-27T10:33:12,tv,trade,AUDUSD,vente,M5,0.64856,0.65014,0.64128,projection
+827,assets/tradingview/2022-10/2022-10-27_10h33_msg6784_SkPjmFdn.png,6784,2022-10-27T10:33:12,tv,trade,EURUSD,vente,M1,1.0080,1.0089,1.0060,niveaux approximatifs
+828,ChatExport_2026-10-01/photos/photo_1782@27-10-2022_10-33-12.jpg,6785,2022-10-27T10:33:12,photo,trade,AUDUSD,vente,M1,0.6499,0.6502,,MT4 sell limit 8.50 ; prix 0.64756
+829,ChatExport_2026-10-01/photos/photo_1783@27-10-2022_10-33-12.jpg,6787,2022-10-27T10:33:12,photo,trade,XAUUSD,vente,H1,1672.54,1672.25,1657.40,MT4 sell 0.31 (membre)
+830,ChatExport_2026-10-01/photos/photo_1785@27-10-2022_10-33-12.jpg,6789,2022-10-27T10:33:12,photo,trade,EURUSD,vente,M5,1.0077,,1.0025,membre ; prix 1.00537
+831,ChatExport_2026-10-01/photos/photo_1790@27-10-2022_13-21-18.jpg,6795,2022-10-27T13:21:18,photo,resultat,XAUUSD,vente,,1672.54,1672.25,1657.40,"historique : XAUUSD sell 0.31, TP atteint le 27/10/2022, +469.65 $"
