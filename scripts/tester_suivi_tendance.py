@@ -10,7 +10,7 @@ Règle (vente ; l'achat est symétrique) :
   - « cassure » : le prix passe sous le plus bas de la veille -> vente 1 pip sous ce plus bas (ordre stop ;
     au prix d'ouverture de l'heure si elle ouvre déjà en dessous) ;
   - « faux dépassement » : le prix passe d'abord au-dessus du plus haut de la veille, puis une bougie 1h clôture
-    de nouveau sous ce plus haut -> vente à cette clôture (comme le GBPUSD du 22/06/2026) ;
+    de nouveau sous ce plus haut -> vente à cette clôture ;
 - stop à 0,25 ATR(14) de l'entrée (environ 15-25 pips sur les paires majeures ; variante 0,5 ATR) ;
 - objectif 1 R (2 R, 3 R pour comparer) ;
 - sortie à 20h UTC le jour même si rien n'est touché, avant le rollover de 21h (variante : 20h le lendemain) ;
