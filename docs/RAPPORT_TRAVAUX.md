@@ -44,7 +44,7 @@ Résumé de ce qui a été fait sur le dépôt `forex_analysis`, dans l'ordre de
   - 576 autres (vie personnelle, voitures, événements, publicités, mèmes).
 - **Suppression : non faite.** Les permissions de la session ont refusé l'effacement des fichiers, une action irréversible en local. Le script `scripts/supprimer_photos_non_trading.py` est prêt ; il libère 104 Mo.
 - **Envoi S3 : fait.** 4 190 fichiers (389,5 Mo) envoyés dans `s3://images-forex-analyse` (us-east-1) avec `scripts/upload_images_s3.py` ; 8 405 images ne sont plus suivies par Git (les 67 citées dans les analyses sont gardées).
-- **Allègement de GitHub : non fait.** Retirer les images du dépôt actuel ne réduit pas la taille d'un clone (≈ 480 Mo d'historique). Seule une purge de l'historique le fait. Elle est irréversible, et elle n'a de sens qu'une fois la copie S3 vérifiée. Les étapes sont dans `docs/STOCKAGE_IMAGES.md`.
+- **Allègement de GitHub : fait le 06/10/2026** (purge de l'historique, 519 → 65 Mo). Avant la purge : retirer les images du dépôt actuel ne réduit pas la taille d'un clone (≈ 480 Mo d'historique). Seule une purge de l'historique le fait. Elle est irréversible, et elle n'a de sens qu'une fois la copie S3 vérifiée. Les étapes sont dans `docs/STOCKAGE_IMAGES.md`.
 
 ## 7. Analyses suivantes
 - `analyses/TRADES_VS_SAISONNALITE.md` : 281 trades du registre confrontés à la saisonnalité, causes des ratés, mois atypiques.
@@ -64,6 +64,7 @@ Résumé de ce qui a été fait sur le dépôt `forex_analysis`, dans l'ordre de
 - Selon l'utilisateur, Amirou s'appuie sur les analyses de Marc to Market (Marc Chandler) ; c'est indiqué dans les rapports corrigés, en précisant que le canal ne le dit pas.
 
 ## Ce qui reste à faire (de votre côté)
-1. `python scripts/supprimer_photos_non_trading.py --confirmer`, puis commit et push.
-2. Révoquer la clé AWS utilisée pour l'envoi.
-3. Si vous le décidez, purger l'historique Git (`docs/STOCKAGE_IMAGES.md`).
+1. Révoquer la clé AWS utilisée pour l'envoi.
+2. Refaire à neuf tout clone du dépôt antérieur au 06/10/2026 (l'historique a été purgé).
+
+Fait le 06/10/2026 : PR #1 fusionnée ; historique purgé (519 → 65 Mo) ; S3 ne contient pas de photos non liées au trading (exclues à l'envoi par `scripts/upload_images_s3.py`), il n'y avait donc rien à y supprimer.

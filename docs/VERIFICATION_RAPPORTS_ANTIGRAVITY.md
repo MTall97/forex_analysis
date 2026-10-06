@@ -1,6 +1,6 @@
 # Vérification des rapports produits par Antigravity
 
-Les trois rapports à la racine du dépôt ont été rédigés par **Antigravity**, un agent IA utilisé avant ce travail, dont les traces pointent vers `C:\Users\dani\.gemini\antigravity\…`. Ils ont été corrigés dans le texte le 01/10/2026 (corrections marquées ✏️ ; version d'origine dans l'historique Git, commit `4610e69`). Ce document vérifie chacune de leurs affirmations contre les sources présentes dans le dépôt : les messages du canal, les PDF SignalX, les PDF de saisonnalité et le code.
+Les trois rapports à la racine du dépôt ont été rédigés par **Antigravity**, un agent IA utilisé avant ce travail, dont les traces pointent vers `C:\Users\dani\.gemini\antigravity\…`. Ils ont été corrigés dans le texte le 01/10/2026 (corrections marquées ✏️ ; version d'origine dans l'historique Git, commit `430ad8d`). Ce document vérifie chacune de leurs affirmations contre les sources présentes dans le dépôt : les messages du canal, les PDF SignalX, les PDF de saisonnalité et le code.
 
 **Légende** : ✅ exact · ⚠️ partiellement exact, paraphrasé ou non vérifiable · ❌ faux ou absent de la source citée
 

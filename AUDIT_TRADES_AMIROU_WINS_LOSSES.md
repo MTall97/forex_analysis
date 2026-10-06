@@ -1,4 +1,4 @@
-> **Version corrigée le 01/10/2026.** Cet audit a été rédigé par **Antigravity**, l'agent IA utilisé au démarrage du projet. Les erreurs ont été corrigées **dans le texte**. Chaque correction est signalée par ✏️ et expliquée sur place. La version d'origine reste dans l'historique Git (commit `4610e69`). Le détail des vérifications est dans [`docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md`](docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md).
+> **Version corrigée le 01/10/2026.** Cet audit a été rédigé par **Antigravity**, l'agent IA utilisé au démarrage du projet. Les erreurs ont été corrigées **dans le texte**. Chaque correction est signalée par ✏️ et expliquée sur place. La version d'origine reste dans l'historique Git (commit `430ad8d`). Le détail des vérifications est dans [`docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md`](docs/VERIFICATION_RAPPORTS_ANTIGRAVITY.md).
 >
 > **Principales corrections** :
 > 1. Les chiffres « 167 gains, 41 pertes, 134 BE » n'avaient ni méthode ni fichier source. Les chiffres reproductibles donnent **environ 40 % de TP** parmi les issues annoncées, et non 80 %.
