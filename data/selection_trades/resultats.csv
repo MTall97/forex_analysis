@@ -1,0 +1,25 @@
+strategie,methode,mesure,periode,trades,r_tous,gardes,r_gardes,erreur_type,r_rejetes
+"englobante + MLQ, journalier 2012-2026",meilleures paires du passé,dans l'échantillon (après coup),2012-2026,1973,0.004,1067,0.083,0.034,-0.089
+"englobante + MLQ, journalier 2012-2026",meilleures paires du passé,hors échantillon (walk-forward),2016-01-2026-08,935,0.037,377,0.106,0.057,-0.01
+"englobante + MLQ, journalier 2012-2026",régression linéaire,dans l'échantillon (après coup),2012-2026,1973,0.004,1060,0.126,0.034,-0.138
+"englobante + MLQ, journalier 2012-2026",régression linéaire,hors échantillon (walk-forward),2016-01-2026-08,935,0.037,377,0.011,0.053,0.054
+"englobante + MLQ, journalier 2012-2026",arbres de décision,dans l'échantillon (après coup),2012-2026,1973,0.004,887,0.461,0.038,-0.37
+"englobante + MLQ, journalier 2012-2026",arbres de décision,hors échantillon (walk-forward),2016-01-2026-08,935,0.037,442,0.042,0.051,0.032
+"englobante + MLQ, horaire 2024-2026",meilleures paires du passé,dans l'échantillon (après coup),2023-2026,764,0.096,467,0.243,0.053,-0.133
+"englobante + MLQ, horaire 2024-2026",meilleures paires du passé,hors échantillon (walk-forward),2025-01-2026-10,308,0.129,109,0.097,0.106,0.146
+"englobante + MLQ, horaire 2024-2026",régression linéaire,dans l'échantillon (après coup),2023-2026,764,0.096,471,0.249,0.052,-0.149
+"englobante + MLQ, horaire 2024-2026",régression linéaire,hors échantillon (walk-forward),2025-01-2026-10,308,0.129,182,0.147,0.083,0.102
+"englobante + MLQ, horaire 2024-2026",arbres de décision,dans l'échantillon (après coup),2023-2026,764,0.096,449,0.579,0.051,-0.592
+"englobante + MLQ, horaire 2024-2026",arbres de décision,hors échantillon (walk-forward),2025-01-2026-10,308,0.129,216,0.174,0.076,0.021
+"cassure puis retour MLQ, horaire 2024-2026",meilleures paires du passé,dans l'échantillon (après coup),2024-2026,3941,0.009,1850,0.17,0.034,-0.134
+"cassure puis retour MLQ, horaire 2024-2026",meilleures paires du passé,hors échantillon (walk-forward),2025-01-2026-10,1652,0.025,865,0.084,0.049,-0.04
+"cassure puis retour MLQ, horaire 2024-2026",régression linéaire,dans l'échantillon (après coup),2024-2026,3941,0.009,1938,0.198,0.033,-0.174
+"cassure puis retour MLQ, horaire 2024-2026",régression linéaire,hors échantillon (walk-forward),2025-01-2026-10,1652,0.025,831,0.072,0.05,-0.023
+"cassure puis retour MLQ, horaire 2024-2026",arbres de décision,dans l'échantillon (après coup),2024-2026,3941,0.009,1949,0.462,0.033,-0.435
+"cassure puis retour MLQ, horaire 2024-2026",arbres de décision,hors échantillon (walk-forward),2025-01-2026-10,1652,0.025,885,0.031,0.048,0.019
+"suivi de tendance 1 R, horaire 2024-2026",meilleures paires du passé,dans l'échantillon (après coup),2024-2026,3487,-0.13,466,0.068,0.045,-0.16
+"suivi de tendance 1 R, horaire 2024-2026",meilleures paires du passé,hors échantillon (walk-forward),2025-01-2026-10,1352,-0.137,278,-0.123,0.057,-0.141
+"suivi de tendance 1 R, horaire 2024-2026",régression linéaire,dans l'échantillon (après coup),2024-2026,3487,-0.13,578,0.086,0.039,-0.173
+"suivi de tendance 1 R, horaire 2024-2026",régression linéaire,hors échantillon (walk-forward),2025-01-2026-10,1352,-0.137,343,-0.09,0.051,-0.153
+"suivi de tendance 1 R, horaire 2024-2026",arbres de décision,dans l'échantillon (après coup),2024-2026,3487,-0.13,445,0.362,0.04,-0.202
+"suivi de tendance 1 R, horaire 2024-2026",arbres de décision,hors échantillon (walk-forward),2025-01-2026-10,1352,-0.137,286,-0.133,0.056,-0.139

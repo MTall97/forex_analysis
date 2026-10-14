@@ -85,6 +85,8 @@ Tous les scripts se lancent **depuis la racine du dépôt** : `python scripts/<s
 | Octobre 2026 | `python scripts/verifier_octobre_2026.py` (niveaux lus sur les captures) ; vidéos : extraction d'images avec ffmpeg, transcription faster-whisper | `ChatExport_2026-10-14`, Yahoo horaire | `data/octobre_2026/`, `analyses/OCTOBRE_2026.md` | non (cache) |
 | Cassure et retour sur MLQ | `python scripts/tester_cassure_retour_mlq.py` | Yahoo horaire, Dukascopy journalier | `data/cassure_retour_mlq/`, `analyses/CASSURE_RETOUR_MLQ.md` | non (cache) |
 | Narratif et stratégies | `python scripts/tester_narratif_et_strategies.py` | `data/fondamental/indicateurs.csv`, trades simulés des deux stratégies | `data/narratif_strategies/`, `analyses/NARRATIF_ET_STRATEGIES.md` | non |
+| Journal des trades des stratégies | `python scripts/journal_trades_strategies.py` | Yahoo horaire, Dukascopy journalier, `data/fondamental/indicateurs.csv` | `data/journal_trades/` | non (cache) |
+| Sélection des trades (gagnants/perdants) | `python scripts/tester_selection_trades.py` | `data/journal_trades/` | `data/selection_trades/`, `analyses/JOURNAL_ET_SELECTION_TRADES.md` | non |
 | Figures | `python scripts/figures_rapports.py` | tout | `assets/figures/` | non |
 
 ## 4. Mettre à jour les données
