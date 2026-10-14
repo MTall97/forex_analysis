@@ -81,6 +81,7 @@ Tous les scripts se lancent **depuis la racine du dépôt** : `python scripts/<s
 | Entrées lundi-mardi-mercredi | `python scripts/tester_entrees_lmm.py` | Yahoo horaire (22 paires) | `data/lmm_entrees/`, `analyses/ENTREES_LUNDI_MARDI_MERCREDI.md` | non (cache) |
 | Aller-retour +1 R | `python scripts/tester_aller_retour_1r.py` | `data/verification_trades.csv`, Yahoo horaire | `data/aller_retour_1r/`, `analyses/ALLER_RETOUR_1R.md` | non (cache) |
 | Englobante + MLQ (1-3 R), suivi de tendance | `python scripts/tester_englobante_mlq_objectifs.py`, `python scripts/tester_suivi_tendance.py` | Dukascopy journalier, Yahoo horaire | `data/englobante_mlq_objectifs/`, `data/suivi_tendance/`, `analyses/ENGLOBANTE_MLQ_ET_SUIVI_TENDANCE.md` | non (cache) |
+| Fourchette (confluence) | `python scripts/tester_fourchette.py` | COT, taux BIS, change Fed | `data/fourchette/`, `analyses/FOURCHETTE_CONFLUENCE.md` | non |
 | Figures | `python scripts/figures_rapports.py` | tout | `assets/figures/` | non |
 
 ## 4. Mettre à jour les données

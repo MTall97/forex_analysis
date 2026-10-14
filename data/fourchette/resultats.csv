@@ -1,0 +1,57 @@
+regle,periode,positions_semaine,semaines_actives,positions_gagnantes,r_moyen_position_pct,rendement_annuel_pct,sharpe,t_stat
+COT suivi seul,2007-2026,13237,954,0.49,-0.011,-0.99,-0.15,-0.65
+COT suivi seul,2007-2014,4900,343,0.495,0.016,-0.25,-0.03,-0.09
+COT suivi seul,2015-2019,3640,260,0.479,-0.055,-3.65,-0.57,-1.27
+COT suivi seul,2020-2026,4697,351,0.494,-0.006,0.12,0.03,0.07
+COT accélération seule,2007-2026,28810,1029,0.488,-0.037,-1.91,-0.46,-2.05
+COT accélération seule,2007-2014,11676,417,0.489,-0.046,-2.37,-0.45,-1.28
+COT accélération seule,2015-2019,7308,261,0.49,-0.033,-1.71,-0.49,-1.09
+COT accélération seule,2020-2026,9826,351,0.486,-0.029,-1.51,-0.52,-1.34
+COT contrarien seul,2007-2026,4748,815,0.508,-0.035,-0.97,-0.12,-0.52
+COT contrarien seul,2007-2014,1814,305,0.503,-0.128,-3.06,-0.3,-0.84
+COT contrarien seul,2015-2019,1372,220,0.509,0.014,0.67,0.08,0.19
+COT contrarien seul,2020-2026,1562,290,0.512,0.029,0.28,0.05,0.12
+divergence de taux seule,2007-2026,13326,922,0.496,-0.01,-1.49,-0.2,-0.87
+divergence de taux seule,2007-2014,5146,382,0.499,-0.0,-0.96,-0.11,-0.31
+divergence de taux seule,2015-2019,2958,254,0.493,-0.014,-2.67,-0.27,-0.61
+divergence de taux seule,2020-2026,5222,286,0.495,-0.018,-1.25,-0.37,-0.97
+portage seul,2007-2026,20905,1029,0.525,0.012,1.13,0.18,0.78
+portage seul,2007-2014,8822,417,0.526,0.008,1.26,0.15,0.42
+portage seul,2015-2019,5569,261,0.518,0.003,0.29,0.06,0.13
+portage seul,2020-2026,6514,351,0.529,0.026,1.59,0.38,1.0
+tendance 4 semaines seule,2007-2026,28793,1029,0.492,-0.019,-0.97,-0.19,-0.86
+tendance 4 semaines seule,2007-2014,11666,417,0.5,0.005,0.27,0.04,0.12
+tendance 4 semaines seule,2015-2019,7302,261,0.495,-0.033,-1.7,-0.45,-1.0
+tendance 4 semaines seule,2020-2026,9825,351,0.481,-0.036,-1.89,-0.55,-1.44
+tendance 13 semaines seule,2007-2026,28801,1029,0.494,-0.007,-0.34,-0.07,-0.29
+tendance 13 semaines seule,2007-2014,11673,417,0.51,0.035,1.81,0.27,0.75
+tendance 13 semaines seule,2015-2019,7304,261,0.483,-0.038,-1.96,-0.53,-1.19
+tendance 13 semaines seule,2020-2026,9824,351,0.485,-0.032,-1.69,-0.49,-1.26
+fourchette : COT suivi + divergence + tendance 4s,2007-2026,2233,644,0.468,-0.073,-2.69,-0.29,-1.28
+fourchette : COT suivi + divergence + tendance 4s,2007-2014,754,227,0.471,0.074,-1.2,-0.11,-0.3
+fourchette : COT suivi + divergence + tendance 4s,2015-2019,602,187,0.432,-0.239,-6.63,-0.64,-1.43
+fourchette : COT suivi + divergence + tendance 4s,2020-2026,877,230,0.49,-0.087,-1.54,-0.29,-0.76
+fourchette : COT suivi + portage + tendance 4s,2007-2026,2351,706,0.496,-0.052,-2.35,-0.31,-1.37
+fourchette : COT suivi + portage + tendance 4s,2007-2014,819,240,0.519,-0.001,0.05,0.01,0.02
+fourchette : COT suivi + portage + tendance 4s,2015-2019,725,219,0.462,-0.157,-8.0,-0.76,-1.7
+fourchette : COT suivi + portage + tendance 4s,2020-2026,807,247,0.503,-0.009,-1.01,-0.18,-0.48
+fourchette : COT accélération + portage + tendance 4s,2007-2026,5923,961,0.508,-0.009,-1.05,-0.15,-0.66
+fourchette : COT accélération + portage + tendance 4s,2007-2014,2815,399,0.528,0.043,-0.58,-0.07,-0.2
+fourchette : COT accélération + portage + tendance 4s,2015-2019,1567,254,0.494,-0.081,-1.53,-0.23,-0.52
+fourchette : COT accélération + portage + tendance 4s,2020-2026,1541,308,0.487,-0.029,-1.25,-0.21,-0.56
+fourchette : COT suivi + portage + tendance 13s,2007-2026,3015,752,0.501,-0.031,-1.89,-0.24,-1.08
+fourchette : COT suivi + portage + tendance 13s,2007-2014,1043,270,0.528,0.043,0.86,0.11,0.31
+fourchette : COT suivi + portage + tendance 13s,2015-2019,987,231,0.469,-0.118,-8.95,-0.89,-1.99
+fourchette : COT suivi + portage + tendance 13s,2020-2026,985,251,0.506,-0.022,0.08,0.01,0.04
+fourchette : COT contrarien + divergence + tendance 4s,2007-2026,201,125,0.498,-0.053,-0.76,-0.25,-1.13
+fourchette : COT contrarien + divergence + tendance 4s,2007-2014,43,31,0.395,-0.527,-1.96,-0.61,-1.79
+fourchette : COT contrarien + divergence + tendance 4s,2015-2019,82,43,0.561,0.208,0.23,0.07,0.16
+fourchette : COT contrarien + divergence + tendance 4s,2020-2026,76,51,0.487,-0.066,-0.07,-0.03,-0.07
+COT suivi + tendance 4s,2007-2026,7228,928,0.482,-0.023,-1.93,-0.25,-1.1
+COT suivi + tendance 4s,2007-2014,3115,338,0.499,0.047,-0.19,-0.02,-0.06
+COT suivi + tendance 4s,2015-2019,1914,251,0.462,-0.108,-4.89,-0.66,-1.49
+COT suivi + tendance 4s,2020-2026,2199,339,0.475,-0.047,-1.78,-0.33,-0.87
+portage + tendance 13s,2007-2026,10492,1011,0.519,0.008,0.51,0.08,0.34
+portage + tendance 13s,2007-2014,4505,411,0.534,0.045,1.86,0.22,0.63
+portage + tendance 13s,2015-2019,2708,261,0.498,-0.056,-0.8,-0.15,-0.34
+portage + tendance 13s,2020-2026,3279,339,0.514,0.011,-0.13,-0.02,-0.06
