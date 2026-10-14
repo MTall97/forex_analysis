@@ -7,3 +7,6 @@ __pycache__/
 ChatExport_2026-10-01/photos/
 assets/tradingview/*/*.png
 data/marc_to_market/embeddings_chandler.npz
+
+# Vidéos du canal : hors Git (trop lourdes), à envoyer sur S3
+ChatExport_2026-10-14/video_files/

@@ -6,6 +6,7 @@
 >   - `assets/tradingview/` : 1 243 captures et `index.csv` ;
 >   - `assets/trades/` : 47 captures.
 > - **Branche allégée** : ces images ne sont plus suivies par Git (8 405 fichiers retirés du suivi, sans suppression locale), et `.gitignore` empêche de les rajouter. Les 67 images citées dans les analyses restent dans le dépôt pour que les liens fonctionnent.
+> - **Export du 14/10/2026** (`ChatExport_2026-10-14`) : messages et photos suivis par Git ; les 7 vidéos (183 Mo) sont exclues par `.gitignore` et sont à envoyer sur S3.
 > - **Historique purgé le 06/10/2026**, à la demande de l'utilisateur, après la fusion de la PR #1 : les 8 295 images absentes de `main` ont été retirées de tous les commits (`git filter-repo --strip-blobs-with-ids`) ; les 190 images encore utilisées sont conservées. Taille du dépôt : 519 Mo → 65 Mo. Les identifiants de commits ont changé : refaire tout clone antérieur (`git clone` à neuf).
 > - GitHub peut garder les anciens objets en cache, notamment via la référence de la PR fusionnée, jusqu'à son propre nettoyage. Pour les effacer tout de suite, il faut le demander au support GitHub.
 

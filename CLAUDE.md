@@ -17,7 +17,7 @@ L'utilisateur travaille en français.
    - proposition de stockage des images (`docs/STOCKAGE_IMAGES.md`).
 
 ## Règles de travail
-- **Source de vérité des messages** : `data/telegram_messages.jsonl` (id, date_utc, text, photo, media, reply_to, forwarded_from). Les ids sont ceux de Telegram, identiques dans `result.json` ; les heures sont en UTC. Pour le régénérer : `python scripts/telegram_html_to_jsonl.py ChatExport_… data/telegram_messages.jsonl`.
+- **Source de vérité des messages** : `data/telegram_messages.jsonl` (id, date_utc, text, photo, media, reply_to, forwarded_from). Les ids sont ceux de Telegram, identiques dans `result.json` ; les heures sont en UTC. Pour le régénérer : `python scripts/telegram_html_to_jsonl.py ChatExport_… data/telegram_messages.jsonl`. Il couvre jusqu'au 14/10/2026 : les messages #15536 à #15629 viennent de `ChatExport_2026-10-14` (export du 01/09 au 14/10, dont les photos sont dans `ChatExport_2026-10-14/photos/`). Les vidéos (`media` = `video:…`) ne sont pas suivies par Git.
 - **Citer** un message par son id (`#15374`). Ne jamais compléter une citation ni présenter un commentaire comme un trade : c'est l'erreur principale des rapports d'Antigravity.
 - **Classer chaque trade selon ce que le canal montre** : ✅ gain, ❌ perte, ➖ BE, ⏸ non déclenché, ❔ non documenté, ⚠️ après coup ou invérifiable. Un gain « flottant » n'est pas un TP.
 - **Captures** :

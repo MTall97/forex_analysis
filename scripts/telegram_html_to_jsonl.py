@@ -59,6 +59,8 @@ class TelegramExportParser(HTMLParser):
             self.cur['_fwd'] = True
         elif tag == 'a' and 'photo_wrap' in cls:
             self.cur['photo'] = a.get('href')
+        elif tag == 'a' and 'video_file_wrap' in cls:
+            self.cur['media'] = 'video:' + a.get('href', '')
         elif tag == 'div' and cls.startswith('media clearfix'):
             self.cur['media'] = cls.split()[-1].replace('media_', '')
         elif tag == 'a' and a.get('href', '').startswith('#go_to_message'):

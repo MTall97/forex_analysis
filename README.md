@@ -15,7 +15,7 @@ Le dépôt réunit trois choses :
 |---|---|
 | [`forex_seasonality_generator.py`](forex_seasonality_generator.py) | Générateur de rapports PDF de saisonnalité (yfinance + pandas + matplotlib) |
 | [`rapports_pdf/`](rapports_pdf/) | 13 rapports de 5 pages (AUDJPY, AUDUSD, EURJPY, EURUSD, GBPJPY, GBPUSD, NZDUSD, USDCAD, USDCHF, USDJPY, GOLD, SILVER, OIL — 2020-2025) + `21sep.pdf` (rapport SignalX du 21/09/2026) |
-| [`data/telegram_messages.jsonl`](data/telegram_messages.jsonl) | **Source de référence** : le canal entier (14/03/2019 → 01/10/2026), un message par ligne |
+| [`data/telegram_messages.jsonl`](data/telegram_messages.jsonl) | **Source de référence** : le canal entier (14/03/2019 → 14/10/2026), un message par ligne |
 | [`data/trade_events.csv`](data/trade_events.csv) | Messages classés par événement de trade (entrée, TP, SL, BE, raté…) |
 | [`scripts/`](scripts/) | Scripts de conversion, d'extraction et de téléchargement (voir plus bas) |
 | [`analyses/STRATEGIE_ET_MODELE.md`](analyses/STRATEGIE_ET_MODELE.md) | **Stratégie d'Amirou, performance mesurée sur 518 trades rejoués, algorithme et modèle d'IA de copie** |
@@ -45,6 +45,7 @@ Le dépôt réunit trois choses :
 | [`assets/trades/`](assets/trades/) | Captures de trades citées dans les analyses, nommées `AAAA-MM-JJ_HHhMM_photoN.jpg` (UTC) |
 | [`assets/tradingview/`](assets/tradingview/) | Les 1 243 captures des liens TradingView du canal, nommées par date et numéro de message (+ `index.csv`) |
 | [`ChatExport_2026-10-01/`](ChatExport_2026-10-01/) | Export HTML brut du canal (messages + photos), jusqu'au 01/10/2026 |
+| [`ChatExport_2026-10-14/`](ChatExport_2026-10-14/) | Export HTML du 01/09 au 14/10/2026 (messages #15270 à #15629 et photos) ; les 7 vidéos restent hors Git |
 | [`ChatExport_2026-09-17/`](ChatExport_2026-09-17/) | Export JSON brut (jusqu'au 17/09/2026, sans les photos) + les 21 PDF SignalX (`rapport Amirou/`) |
 | [`RAPPORT_GLOBAL_PROJET.md`](RAPPORT_GLOBAL_PROJET.md), [`AUDIT_TRADES_AMIROU_WINS_LOSSES.md`](AUDIT_TRADES_AMIROU_WINS_LOSSES.md), [`RAPPORT_SYNTHESE_SIGNALX_2026.md`](RAPPORT_SYNTHESE_SIGNALX_2026.md) | Rapports rédigés par Antigravity, **corrigés dans le texte** (corrections marquées ✏️ et expliquées ; version d'origine dans l'historique Git) |
 
@@ -136,6 +137,7 @@ Six années de données, c'est peu : un seul mois exceptionnel suffit à déplac
 |---|---|
 | sept. 2026 | Antigravity : générateur Python, 13 PDF de saisonnalité, analyse de `result.json`, trois rapports de synthèse |
 | 01/10/2026 | Ajout de l'export HTML complet du canal (avec photos) |
+| 14/10/2026 | Ajout de l'export du 01/09 au 14/10/2026 ; 92 nouveaux messages dans `data/telegram_messages.jsonl` |
 | 01/10/2026 | Vérification : parseur HTML, extraction des trades, vérification des septembres et des rapports d'Antigravity, scripts TradingView, README |
 
 ## Avertissement
