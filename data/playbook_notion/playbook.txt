@@ -1,0 +1,262 @@
+# Extrait du 14/10/2026 de https://conscious-dirt-ada.notion.site/Thehalalwinningteam-Playbook-b1f8629244e04274aeebd97e1a624a90
+# (scripts/collecter_playbook_notion.py ; lignes vides du modèle retirées)
+[page] Thehalalwinningteam Playbook
+      [sub_header] Trading system
+      [page] PLAN DE TRADING 
+            |- INFORMATIONS GÉNÉRALES SUR MON PROFIL :   
+        [bulleted_list] PROFIL : Swing trader-daytrader
+        [bulleted_list] ACTIFS : Les paires majeures et les cross paires (JPY)
+        [bulleted_list] SESSIONS : NY, London
+        [toggle] PÉRIODES D’EXÉCUTION : NY, LONDON
+          👉🏾   ANALYSE DES ACTIFS :   
+          👉🏾   EXÉCUTION :  
+          👉🏾   HORAIRES DE CHECKING :  
+          👉🏾   ARRÊT DE SÉANCE :   
+        [toggle] JOURS DE TRADING : Mardi, Mercredi, jeudi et le vendredi (uniquement quand il y’a NFP)
+          👉🏾 
+        [callout]   | - MONEY MANAGEMENT  
+        [toggle] Voir plus
+          [bulleted_list] RISQUE/TRADE : ……………………….………….. A > %  - B > %  - C > %
+          [bulleted_list] % D’EXPOSITION MAX EN SIMULTANE : 
+          [bulleted_list] PERTE LIMITE/JOURNEE : ………………………  
+          [bulleted_list] NBRE LIMITE DE TRADE/JOUR : …………….
+          [bulleted_list] PERTE LIMITE/SEMAINE : ………………………. 
+        [callout]  II- TRADE MANAGEMENT 
+        [toggle] Voir plus
+          [bulleted_list] La gestion de vos trades en cours, si vous mettez des BE, gerez plusieurs trades en même temps ou d’autres choses, à votre sauce 
+        [callout]  III - DRAWDOWN MANAGEMENT 
+        [toggle] Voir plus
+          [bulleted_list] Comment vous gerez les periodes de drawdown du capital dans votre trading
+            MON OBJECTIF COURT TERME :  
+        [bulleted_list] Mensuel : 
+           MON OBJECTIF LONG TERME :  
+        [bulleted_list] Annuel : 
+                      
+      [page] ROUTINE TECHNIQUE & FONDAMENTAL
+        [toggle] Ici, vous mettrez en place vos routines d’analyses faites au préalable dans votre trading
+            [sub_header] Jours de la semaine : 
+            [sub_header] (Choisir le jour) :
+        [sub_header] Routine fondamentale : 
+      [page] SETUPS CHECKLISTS
+        [toggle] Ici, c’est pour les points à respecter dans vos setups & stratégies pour être sur de ne pas y déroger
+        [sub_header] SETUP A+ WEEKLY CYCLE :
+        [numbered_list] Orderflow weekly & daily identifié 
+        [numbered_list] Premium/discount daily identifié 
+        [numbered_list] Weekly open identifié (s’en servir comme premium discount, cf PO3)
+        [numbered_list] Fvg & high/low weekly ou monthly proche identifié (200-300 pips max en moyenne) 
+        [numbered_list] Daily FVG pour l’entrée
+        [numbered_list] OTE H4 identifié en corrélation avec le daily FVG
+        [numbered_list] Attentes confirmations LTF (H4-H1) dans killzones NY ou London 
+        [toggle] Structure Wyckoff ; MLQ ; BPR H4
+        [numbered_list] SL minimum 50 pips sur le point pertinent le plus proche 
+        [toggle] Avant le FVG ; last high/low - MLQ/MWN 
+        [numbered_list] TP target weekly ou MLQ/MWN 
+        [sub_header] SETUP B :
+      [page] PROP-FIRMS
+        [page] MONEY MANAGEMENT PASSAGE DE CHALLENGES 
+          [toggle] Si vous avez une stratégie spécifique pour passer des challenges
+        [page] GESTION DES COMPTES 
+          [toggle] Votre gestion si vous avez plusieurs comptes funded à la fois 
+      [sub_header] Notes/apprentissage
+      [page] LIVRES 
+        [to_do] the alpha trader
+        [to_do] 
+      [page] CHECKLIST 
+        [toggle] Ici, vous mettrez les choses les choses que vous prevoyez d’approfondir dans votre apprentissage
+        [to_do] 
+      [sub_header] Journaling 
+      [page] JOURNAL DE TRADING 
+            [page] 2024
+            [page] 2025
+            [page] 2026
+            [page] 2027
+        [page] 2028
+        [page] 2029
+      [page] TRACK RECORD 
+        2024
+            [page] JANVIER
+                | WINRATE | NUMBER OF TRADES | BE | ROI % | SL | TP |
+            [page] FEVRIER 
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] MARS
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] AVRIL
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] MAI
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] SEPTEMBRE
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] JUIN
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] OCTOBRE
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] JUILLET
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] NOVEMBRE
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] AOUT
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] DECEMBRE
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+        TRACK RECORD GLOBAL  
+          | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+        2025
+            [page] JANVIER
+                | WINRATE | NUMBER OF TRADES | BE | ROI % | SL | TP |
+            [page] FEVRIER 
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] MARS
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] AVRIL
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] MAI
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] SEPTEMBRE
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] JUIN
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] OCTOBRE
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] JUILLET
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] NOVEMBRE
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] AOUT
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+            [page] DECEMBRE
+                | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+        TRACK RECORD GLOBAL  
+          | WINRATE | NUMBER OF TRADES | REWARDS | BE | ROI % | SL | TP |
+      [page] CARNET DE NOTE 
+        [page] REMARQUES
+          [bulleted_list] JPY 19/03/24 : Eviter de trade en pré-meeting et d’anticiper les sorties de taux d’intérêts trop proche (je dois pouvoir me BE avant donc seulement trader en pré-meeting et pas laisser d’ordre vacant pour la news)
+      [sub_header] Fondamental & économie 
+      [page] RAPPORTS FONDAMENTAUX WEEKLY
+      [page] GLOSSAIRE FONDAMENTAL
+        [toggle] Ici, toute les définitions concernant le fondamental, pour qu’elles soient à portée de main
+      [page] SAISONNALITÉ
+      [sub_header] Backtesting
+      [page] PLAYBOOK
+        [page] SETUP A + Thehalalwinningteam Model
+           LES CARACTÉRISTIQUES DE BACKTEST DU SETUP A+ 
+          [toggle] Voir plus
+            [callout] SETUP A+ HTF
+              [bulleted_list] TIMEFRAMES D’ANALYSE : ………………………………………………. W-D-H4-H1
+              [bulleted_list] PÉRIODE DE BACKTEST : …………………………………………….…..… 5 dernières années 
+              [bulleted_list] NOMBRE MINIMUM DE TRADE A SAISIR : ………………………. 100 
+              [bulleted_list] WINRATE : ….………………………………..……………………………………..  90+%
+              [bulleted_list] RISQUE-RATIO MINIMUM/TRADE : ………….………………….……. 1:3
+              [bulleted_list] NOMBRE MINIMUM D’APPARITION DU SETUP/AN : …….…. 20 fois
+              [bulleted_list] RETOUR SUR INVESTISSEMENT : …………………....………………….. > 15% yearly
+              [bulleted_list] SHOT TIME A CHOISIR :  …………………....………………………….. LDN/NY ou les 2
+          [image] https://prod-files-secure.s3.us-west-2.amazonaws.com/a76e7f86-f885-4465-aedc-cd25dd87f401/8c207f4a-b39e-42cb-ab4f-391f43f5882e/Untitled.png 
+          [sub_header] JOURNAL :
+          [page] EURUSD
+            STATISTIQUES
+              | WINRATE | NUMBER OF TRADES | AVERAGE YEARLY ROI | AVERAGE REWARD |  5 YEARS ROI  | SL | TP | BE |
+                  | HORAIRES | SL | TP |
+          [page] gbpusd
+            STATISTIQUES
+              | WINRATE | NUMBER OF TRADES | AVERAGE YEARLY ROI | AVERAGE REWARD |  5 YEARS ROI  | SL | TP |
+                  | HORAIRES | SL | TP |
+          [page] usdcad
+            STATISTIQUES
+              | WINRATE | NUMBER OF TRADES | AVERAGE YEARLY ROI | AVERAGE REWARD |  5 YEARS ROI  | SL | TP |
+                  | HORAIRES | SL | TP |
+          [page] PAIRE 
+            STATISTIQUES
+              | WINRATE | NUMBER OF TRADES | AVERAGE YEARLY ROI | AVERAGE REWARD |  5 YEARS ROI  | SL | TP |
+                  | HORAIRES | SL | TP |
+          [page] PAIRE (1)
+            STATISTIQUES
+              | WINRATE | NUMBER OF TRADES | AVERAGE YEARLY ROI | AVERAGE REWARD |  5 YEARS ROI  | SL | TP |
+                  | HORAIRES | SL | TP |
+          [page] REMARQUES EN BACKTEST 
+        [page] SETUP B
+           LES CARACTÉRISTIQUES DE BACKTEST DU SETUP B 
+          [toggle] Voir plus
+            [callout] SETUP ? 
+              [bulleted_list] TIMEFRAMES D’ANALYSE : ………………………………………………. D-H4-H1-15min
+              [bulleted_list] PÉRIODE DE BACKTEST : …………………………………………….…..… 5 dernières années 
+              [bulleted_list] NOMBRE MINIMUM DE TRADE A SAISIR : ………………………. 100 
+              [bulleted_list] WINRATE : ….………………………………..…………………………………….. 75%—89%
+              [bulleted_list] RISQUE-RATIO MINIMUM/TRADE : ………….………………….……. 1:3
+              [bulleted_list] NOMBRE MINIMUM D’APPARITION DU SETUP/AN : …….…. 60 fois
+              [bulleted_list] RETOUR SUR INVESTISSEMENT : …………………....………………….. > 15% yearly
+              [bulleted_list] SHOT TIME A CHOISIR :  …………………....………………………….. LDN/NY ou les 2
+          [sub_header] JOURNAL :
+          [page] PAIRE 
+            STATISTIQUES
+              | WINRATE | NUMBER OF TRADES | AVERAGE YEARLY ROI | AVERAGE REWARD |  5 YEARS ROI  | SL | TP |
+                  | HORAIRES | SL | TP |
+          [page] PAIRE 
+            STATISTIQUES
+              | WINRATE | NUMBER OF TRADES | AVERAGE YEARLY ROI | AVERAGE REWARD |  5 YEARS ROI  | SL | TP |
+                  | HORAIRES | SL | TP |
+          [page] PAIRE 
+            STATISTIQUES
+              | WINRATE | NUMBER OF TRADES | AVERAGE YEARLY ROI | AVERAGE REWARD |  5 YEARS ROI  | SL | TP |
+                  | HORAIRES | SL | TP |
+          [page] REMARQUES EN BACKTEST 
+        [page] SETUP C
+           LES CARACTÉRISTIQUES DE BACKTEST DU SETUP C 
+          [toggle] Voir plus
+            [callout] SETUP C
+              [bulleted_list] TIMEFRAMES D’ANALYSE : ………………………………………………. H4-H1-15min-5min
+              [bulleted_list] PÉRIODE DE BACKTEST : …………………………………………….…..… 5 dernières années 
+              [bulleted_list] NOMBRE MINIMUM DE TRADE A SAISIR : ………………………. 100 
+              [bulleted_list] WINRATE : ….………………………………..…………………………………….. 50-74%
+              [bulleted_list] RISQUE-RATIO MINIMUM/TRADE : ………….………………….……. 1:3
+              [bulleted_list] NOMBRE MINIMUM D’APPARITION DU SETUP/AN : …….…. 60 fois
+              [bulleted_list] RETOUR SUR INVESTISSEMENT : …………………....………………….. > 15% yearly
+              [bulleted_list] SHOT TIME A CHOISIR :  …………………....………………………….. LDN/NY ou les 2
+          [sub_header] JOURNAL :
+          [page] PAIRE 
+            STATISTIQUES
+              | WINRATE | NUMBER OF TRADES | AVERAGE YEARLY ROI | AVERAGE REWARD |  5 YEARS ROI  | SL | TP |
+                  | HORAIRES | SL | TP |
+          [page] PAIRE 
+            STATISTIQUES
+              | WINRATE | NUMBER OF TRADES | AVERAGE YEARLY ROI | AVERAGE REWARD |  5 YEARS ROI  | SL | TP |
+                  | HORAIRES | SL | TP |
+          [page] PAIRE 
+            STATISTIQUES
+              | WINRATE | NUMBER OF TRADES | AVERAGE YEARLY ROI | AVERAGE REWARD |  5 YEARS ROI  | SL | TP |
+                  | HORAIRES | SL | TP |
+          [page] REMARQUES EN BACKTEST 
+        Modèle de page :
+        [page] PAIRE 
+          STATISTIQUES
+            | WINRATE | NUMBER OF TRADES | AVERAGE YEARLY ROI | AVERAGE REWARD |  5 YEARS ROI  | SL | TP |
+                | HORAIRES | SL | TP |
+        Formules de calculs : 
+        [bulleted_list] Winrate : ((Nombre de trades totaux – nombre de SL) / Nombre de trades totaux) x 100
+        Les paires à backtest : 
+        XXXJPY; XXXUSD; XXXAUD; XXXCHF ; GBPXXX; EURXXX; XXXCAD
+        Au minimum celles ci pour avoir touché à toute les devises intéressantes 
+      [page] EDGE FINDER
+        [page] CREATION DE STRATEGIES
+          [bulleted_list] Ici, vous mettrez tout les concepts que vous preferez garder de la formation pour vous batîr des stratégies
+          [sub_sub_header] Liste des concepts préférés :
+              Niveaux :
+              Structures :
+              Fibo :
+              Indicateurs :
+              Price action :
+              Timing :
+          Premium/Discount - Open/close :
+        [page] SETUPS A ENVISAGER 
+          [bulleted_list] Ici, vous mettrez les idées de setups complets que vous avez en assemblant les concepts 
+      [sub_header] Biais fondamental weekly - mid term 
+      Trends
+        | USD  |
+        | EUR |
+        | GBP  |
+        | JPY  |
+        | AUD |
+        | NZD |
+        | CHF  |
+        | Risk - off | Risk - on |
+  [sub_header] Weekly news
+  [sub_sub_header] Semaine n° - Du XX/XX/XX au XX/XX/XX                                                              
+    | Mardi | Jeudi  | Mercredi | Vendredi | Lundi |

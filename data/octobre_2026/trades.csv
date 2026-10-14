@@ -8,5 +8,6 @@ id,paire,sens,entree,stop,objectif,ratio,publication,prix_a_la_publication,statu
 15594,EURNZD,vente,1.99982,2.00332,1.99235,2.13,2026-10-09 15:50,1.99705,après coup,objectif,2026-10-13 12:00:00,2.13,"récapitulatif #15594, #15597"
 15595,XAUUSD,achat,4125.15,4106.16,4172.2,2.48,2026-10-09 15:50,4207.2998,après coup,objectif,2026-10-09 00:00:00,2.48,"récapitulatif #15595, #15596"
 15615,GBPUSD,vente,1.32371,,,,2026-10-12 18:38,1.32062,après coup,sans stop ni objectif,,,"MT5 #15615 (1,66 lots, +529,54 $)"
-15620,EURUSD,vente,1.11923,1.12279,1.11032,2.5,2026-10-14 12:33,1.11957,après coup,en cours au 14/10,,1.38,"TradingView #15620-#15621, MT5 #15623 (1,43 lots, +549,12 $)"
-15624,GBPJPY,vente,209.997,210.244,209.455,2.19,2026-10-14 12:40,210.18201,annoncé,non déclenché,,,"TradingView #15624, #15626 (ordre limite sur le MLQ 210.000)"
+15620,EURUSD,vente,1.11923,1.12279,1.11032,2.5,2026-10-14 12:33,1.11957,après coup,en cours au 14/10,,1.03,"TradingView #15620-#15621, MT5 #15623 (1,43 lots, +549,12 $)"
+15624,GBPJPY,vente,209.997,210.244,209.455,2.19,2026-10-14 12:40,210.18201,annoncé,pas encore déclenché au 14/10,,,"TradingView #15624, #15626 (ordre limite sur le MLQ 210.000)"
+14/10 18h14,EURUSD,vente,1.11617,1.11967,1.1089,2.08,2026-10-14 18:14,1.11408,annoncé,pas encore déclenché au 14/10,,,"TradingView BYN1sOvd (4h, créé 18h13 UTC), « continuation logique », « setup A+ »"

@@ -29,11 +29,17 @@
 | #15615 | GBPUSD vente | 1.32371, stop au point mort | 12/10 18h38, MT5 : 1,66 lot, +529,54 $ | ⚠️ après coup, sans objectif | — |
 | #15620-#15623 | EURUSD vente | 1.11923 / 1.12279 / 1.11032 (2,5) | 14/10 12h33, juste après la chute de 12h30 ; plan créé le 13/10 13h55 (SignalX) | ⚠️ après coup dans le canal ; MT5 : 1,43 lot, +549,12 $ | en cours au 14/10 au soir (+1,4 R) |
 | #15624-#15628 | GBPJPY vente limite | 209.997 (« MLQ à 210.000 ») / 210.244 / 209.455 (2,2) | 14/10 12h40 | ⏸ non déclenché (« le trade est parti sans nous ») | non déclenché ; objectif atteint sans entrée |
+| 14/10 18h25 (hors export) | GBPJPY, même plan republié | 209.997 / 210.244 / **208.670 (5,4)** | 14/10 18h25, « un trade qui a fait 1:5 RR » | ⚠️ objectif déplacé après coup (voir plus bas) | non déclenché ; le prix est passé à 208.67 vers 15h, avant la nouvelle capture |
+| 14/10 18h14 (hors export) | EURUSD vente limite | 1.11617 / 1.11967 / 1.10890 (2,1) | 14/10 18h14, prix à 1.1145 ; « continuation logique », « setup A+ » | annoncé | pas encore déclenché au 14/10 à 20h (plus haut 1.11595 à 18h, à 2 pips de l'entrée sur Yahoo) |
 
 **Bilan** :
 - **Trois plans seulement sont publiés dans le canal gratuit avant l'entrée** : deux ordres limites jamais déclenchés (EURGBP, GBPJPY) et une vente EURNZD gagnante après 9 jours (+2,3 R).
 - **Huit plans sont montrés après coup**, presque tous gagnants. Ce sont les trades de SignalX, l'abonnement payant, republiés en récapitulatif (« SignalX était en feu ces 4 dernières semaines », #15590). Aucune perte n'est montrée sur la période.
 - **Les positions MT5 sont grosses** : de 1,43 à 2,8 lots, avec des gains de 529 à 695 $ affichés.
+
+**Ajout du 14/10 au soir** (messages transmis par l'utilisateur en capture d'écran, pas encore dans un export ; captures dans `assets/trades/2026-10/`) :
+- **GBPJPY, « un trade qui a fait 1:5 RR »** (18h25). Il s'agit du plan de #15624, qui n'a jamais été déclenché, publié à 12h40 avec **un objectif à 209.455, soit un ratio de 2,2** ([capture de 12h40](../assets/trades/2026-10/2026-10-14_12h40_gbpjpy_plan_initial_nmTZFWSn.png)). Sur la capture de 18h25 ([ici](../assets/trades/2026-10/2026-10-14_18h25_gbpjpy_1-5_gMfvBlcb.png)), l'entrée et le stop sont inchangés, mais **l'objectif a été descendu à 208.670**, là où le prix était déjà allé. Le ratio passe ainsi de 2,2 à 5,4. Même si l'ordre avait été exécuté, le plan publié aurait rapporté 2,2 R, pas 5. C'est le même procédé que pour la vidéo du setup 3 (stop et objectif réécrits après coup).
+- **EURUSD, nouvelle vente** (18h14, [capture](../assets/trades/2026-10/2026-10-14_18h13_eurusd_vente_BYN1sOvd.png)) : ordre limite à 1.11617, sur la zone grise qui a cédé le 14/10 à 12h30, stop 1.11967 (35 pips), objectif 1.10890 (2,1 R). C'est le schéma « cassure puis retour » décrit en partie 4. Le plan est publié **avant** l'entrée, donc copiable. Il est à suivre avec `scripts/verifier_octobre_2026.py`.
 
 ## 3. Les vidéos
 

@@ -87,6 +87,8 @@ Tous les scripts se lancent **depuis la racine du dépôt** : `python scripts/<s
 | Narratif et stratégies | `python scripts/tester_narratif_et_strategies.py` | `data/fondamental/indicateurs.csv`, trades simulés des deux stratégies | `data/narratif_strategies/`, `analyses/NARRATIF_ET_STRATEGIES.md` | non |
 | Journal des trades des stratégies | `python scripts/journal_trades_strategies.py` | Yahoo horaire, Dukascopy journalier, `data/fondamental/indicateurs.csv` | `data/journal_trades/` | non (cache) |
 | Sélection des trades (gagnants/perdants) | `python scripts/tester_selection_trades.py` | `data/journal_trades/` | `data/selection_trades/`, `analyses/JOURNAL_ET_SELECTION_TRADES.md` | non |
+| Playbook Notion | `python scripts/collecter_playbook_notion.py` | page publique notion.site | `data/playbook_notion/playbook.txt` | oui |
+| Setups « A+ » | `python scripts/verifier_setups_a_plus.py` | `data/verification_trades.csv`, `data/octobre_2026/trades.csv` | `data/setups_a_plus.csv`, `analyses/PLAYBOOK_NOTION.md` | non |
 | Figures | `python scripts/figures_rapports.py` | tout | `assets/figures/` | non |
 
 ## 4. Mettre à jour les données

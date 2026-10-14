@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Trades d'Amirou du 02/10 au 14/10/2026 (messages #15536 à #15629, export ChatExport_2026-10-14) : niveaux lus sur
+Trades d'Amirou du 02/10 au 14/10/2026 (messages #15536 à #15629, export ChatExport_2026-10-14, plus les messages du
+14/10 au soir transmis en capture par l'utilisateur) : niveaux lus sur
 les captures, puis rejeu sur les cours horaires Yahoo à partir de l'heure de publication dans le canal.
 
 Statut :
@@ -31,6 +32,9 @@ TRADES = [
     (15615, 'GBPUSD', 'vente', 1.32371, None, None, '2026-10-12 18:38', '2026-10-12 08:00', 'MT5 #15615 (1,66 lots, +529,54 $)'),
     (15620, 'EURUSD', 'vente', 1.11923, 1.12279, 1.11032, '2026-10-14 12:33', '2026-10-13 14:00', 'TradingView #15620-#15621, MT5 #15623 (1,43 lots, +549,12 $)'),
     (15624, 'GBPJPY', 'vente', 209.997, 210.244, 209.455, '2026-10-14 12:40', None, 'TradingView #15624, #15626 (ordre limite sur le MLQ 210.000)'),
+    # messages du 14/10 au soir, transmis par l'utilisateur en capture d'écran (pas encore dans un export du canal)
+    ('14/10 18h14', 'EURUSD', 'vente', 1.11617, 1.11967, 1.10890, '2026-10-14 18:14', None,
+     'TradingView BYN1sOvd (4h, créé 18h13 UTC), « continuation logique », « setup A+ »'),
 ]
 
 
@@ -47,7 +51,7 @@ def rejouer(h, sens, e, sl, tp, debut, limite):
         # ordre limite (repère achat) : exécuté quand le prix descend jusqu'à l'entrée, dans les 5 jours (120 h)
         k = next((i for i in range(min(len(x), 120)) if ll[i] <= E), None)
         if k is None:
-            return 'non déclenché', None, None
+            return ('non déclenché' if len(x) >= 120 else 'pas encore déclenché au 14/10'), None, None
         i0 = k
     if SL is None or TP is None:
         return 'sans stop ni objectif', None, None
