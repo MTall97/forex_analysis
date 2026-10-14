@@ -1,0 +1,13 @@
+strategie,narratif,trades,gagnants,r_moyen,erreur_type
+"englobante + MLQ, journalier 2020-2026",contre,218,0.445,-0.0,0.072
+"englobante + MLQ, journalier 2020-2026",dans le sens,200,0.53,0.232,0.082
+"englobante + MLQ, journalier 2020-2026",sans avis,458,0.448,0.051,0.052
+"englobante + MLQ, horaire 2024-2026",contre,200,0.475,0.049,0.077
+"englobante + MLQ, horaire 2024-2026",dans le sens,182,0.495,0.126,0.085
+"englobante + MLQ, horaire 2024-2026",sans avis,375,0.488,0.115,0.057
+"cassure-retour MLQ, journalier 2019-2026",contre,288,0.375,0.028,0.082
+"cassure-retour MLQ, journalier 2019-2026",dans le sens,313,0.387,0.081,0.08
+"cassure-retour MLQ, journalier 2019-2026",sans avis,696,0.318,-0.124,0.051
+"cassure-retour MLQ, horaire 2024-2026",contre,964,0.376,0.048,0.046
+"cassure-retour MLQ, horaire 2024-2026",dans le sens,985,0.347,-0.015,0.045
+"cassure-retour MLQ, horaire 2024-2026",sans avis,1983,0.363,0.008,0.032
