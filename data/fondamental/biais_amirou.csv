@@ -639,3 +639,9 @@ date,devise,score,nb_phrases,source
 2026-09-21,NZD,0,2,signalx
 2026-09-21,USD,2,2,signalx
 2026-10-01,EUR,-2,2,canal
+2026-10-02,JPY,-1,1,canal
+2026-10-02,USD,1,1,canal
+2026-10-07,EUR,-1,1,canal
+2026-10-10,GBP,1,1,canal
+2026-10-12,GBP,1,1,canal
+2026-10-14,USD,1,1,canal
