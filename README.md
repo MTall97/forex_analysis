@@ -7,6 +7,8 @@ Le dépôt réunit trois choses :
 2. les **archives** du canal (15 062 messages, 3 577 photos) et des 21 rapports SignalX de 2026 ;
 3. des **analyses** : celles produites par Antigravity (un agent IA utilisé au départ), et une vérification complète de ces analyses et des trades de septembre.
 
+Avant de citer un résultat, lisez la section [Limites et contestations possibles](#limites-et-contestations-possibles).
+
 ---
 
 ## Arborescence
@@ -132,6 +134,33 @@ Six années de données, c'est peu : un seul mois exceptionnel suffit à déplac
   - la « règle de la semaine 1 », que le moteur ne calcule pas ;
   - la saisonnalité d'EURUSD en mai, présentée à tort comme baissière ;
   - la description technique des PDF (ReportLab, seaborn).
+
+---
+
+## Limites et contestations possibles
+Ce travail est **reproductible**, mais il n'est **pas incontestable**. Il faut distinguer trois niveaux de solidité.
+
+**Les faits sont solides.** Ce qu'Amirou a écrit, et quand, est cité par l'id du message (`#15374`). Que le prix ait touché ou non un stop ou un objectif se vérifie sur des cours publics. Chaque chiffre est produit par un script du dépôt, qu'on peut relancer.
+
+**Les conclusions sur les stratégies sont plus contestables.** Elles dépendent des choix suivants :
+1. **La traduction en règles.** Amirou ne publie pas d'algorithme. Pour tester « englobante + MLQ » ou « cassure puis retour », il a fallu fixer des paramètres qu'il ne donne jamais : distance de confirmation, durée, taille du stop… Un test négatif montre que *cette version* de la règle n'a pas d'avantage. Il ne montre pas que son jugement discrétionnaire n'en a pas.
+2. **La lecture des captures.** Les niveaux viennent de l'OCR (Tesseract) et d'une revue visuelle faite par une IA. Seule une partie a été corrigée à la main ; des erreurs de lecture subsistent.
+3. **Le classement des trades.** « Annoncé », « après coup » ou « non documenté » dépend parfois de l'heure d'une capture ou du sens d'une phrase. Une autre personne pourrait classer quelques cas autrement.
+4. **Les données de cours.** Les cours horaires Yahoo et journaliers Dukascopy ne sont pas ceux de son courtier : spreads et mèches diffèrent. Un trade à quelques pips du stop peut changer d'issue. Les hypothèses retenues sont volontairement défavorables : stop avant objectif dans la même bougie, spread déduit, ordre non déclenché compté 0 R. Quand c'est incertain, on donne les deux bornes.
+5. **Le nombre de tests.** Des dizaines de variantes ont été essayées. Quelques résultats positifs isolés peuvent donc venir du hasard ; c'est pour cela qu'aucun n'est présenté comme une stratégie prouvée. Chaque test est comparé à un témoin (niveaux décalés, toutes les bougies).
+6. **La mesure du « narratif ».** Le biais écrit est mesuré par un lexique. Il ne capte que les phrases explicites, ni le ton, ni l'ironie, ni le contenu des vidéos.
+
+**Le verdict sur ses trades copiables est réellement incertain.** Sur 2024-2026, on obtient +0,21 R ± 0,14 par trade : ce n'est ni une perte prouvée, ni un avantage prouvé.
+
+**Données absentes :**
+- SignalX en direct ;
+- les éventuels groupes privés ;
+- les messages supprimés avant l'export ;
+- un historique de compte réel vérifié (Myfxbook ou relevé de courtier), qui serait une meilleure preuve que toute reconstruction.
+
+**Pas de relecture indépendante.** C'est une analyse faite avec une IA, sans relecture par un tiers. Ce n'est pas une publication scientifique au sens strict.
+
+Seul le suivi en démo (`analyses/SUIVI_DEMO.md`) est un test au sens strict : le critère y est fixé avant de voir les résultats, et la règle ne change pas en cours de route.
 
 ---
 
