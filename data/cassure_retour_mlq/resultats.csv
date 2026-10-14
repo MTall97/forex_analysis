@@ -1,0 +1,109 @@
+rejeu,periode,groupe,sens,stop,objectif,trades,gagnants,r_moyen,r_optimiste,erreur_type
+horaire 22 paires 2024-2026,2024-2026,MLQ,achat,0.35 ATR,1 R,1924,0.517,-0.029,-0.029,0.023
+horaire 22 paires 2024-2026,2024-2026,MLQ,achat,0.35 ATR,2 R,1924,0.362,0.021,0.021,0.033
+horaire 22 paires 2024-2026,2024-2026,MLQ,achat,0.35 ATR,3 R,1924,0.287,0.056,0.056,0.04
+horaire 22 paires 2024-2026,2024-2026,MLQ,achat,0.5 ATR,1 R,1924,0.543,0.045,0.045,0.023
+horaire 22 paires 2024-2026,2024-2026,MLQ,achat,0.5 ATR,2 R,1924,0.383,0.079,0.079,0.033
+horaire 22 paires 2024-2026,2024-2026,MLQ,achat,0.5 ATR,3 R,1924,0.331,0.136,0.136,0.039
+horaire 22 paires 2024-2026,2024-2026,MLQ,vente,0.35 ATR,1 R,2008,0.522,-0.02,-0.02,0.022
+horaire 22 paires 2024-2026,2024-2026,MLQ,vente,0.35 ATR,2 R,2008,0.338,-0.057,-0.057,0.031
+horaire 22 paires 2024-2026,2024-2026,MLQ,vente,0.35 ATR,3 R,2008,0.261,-0.054,-0.054,0.038
+horaire 22 paires 2024-2026,2024-2026,MLQ,vente,0.5 ATR,1 R,2008,0.504,-0.038,-0.038,0.022
+horaire 22 paires 2024-2026,2024-2026,MLQ,vente,0.5 ATR,2 R,2008,0.342,-0.052,-0.052,0.031
+horaire 22 paires 2024-2026,2024-2026,MLQ,vente,0.5 ATR,3 R,2008,0.272,-0.095,-0.095,0.036
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),achat,0.35 ATR,1 R,1916,0.514,-0.034,-0.034,0.023
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),achat,0.35 ATR,2 R,1916,0.353,-0.006,-0.006,0.033
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),achat,0.35 ATR,3 R,1916,0.271,-0.018,-0.018,0.04
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),achat,0.5 ATR,1 R,1916,0.526,0.008,0.008,0.023
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),achat,0.5 ATR,2 R,1916,0.366,0.018,0.018,0.032
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),achat,0.5 ATR,3 R,1916,0.307,0.034,0.034,0.038
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),vente,0.35 ATR,1 R,2020,0.511,-0.041,-0.041,0.022
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),vente,0.35 ATR,2 R,2020,0.325,-0.093,-0.093,0.031
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),vente,0.35 ATR,3 R,2020,0.236,-0.15,-0.15,0.037
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),vente,0.5 ATR,1 R,2020,0.501,-0.043,-0.043,0.022
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),vente,0.5 ATR,2 R,2020,0.324,-0.101,-0.101,0.03
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),vente,0.5 ATR,3 R,2020,0.267,-0.119,-0.119,0.035
+horaire 22 paires 2024-2026,2024-2026,MLQ,les deux,0.35 ATR,1 R,3932,0.519,-0.024,-0.024,0.016
+horaire 22 paires 2024-2026,2024-2026,MLQ,les deux,0.35 ATR,2 R,3932,0.35,-0.019,-0.019,0.023
+horaire 22 paires 2024-2026,2024-2026,MLQ,les deux,0.35 ATR,3 R,3932,0.274,-0.0,-0.0,0.028
+horaire 22 paires 2024-2026,2024-2026,MLQ,les deux,0.5 ATR,1 R,3932,0.523,0.003,0.003,0.016
+horaire 22 paires 2024-2026,2024-2026,MLQ,les deux,0.5 ATR,2 R,3932,0.362,0.012,0.012,0.022
+horaire 22 paires 2024-2026,2024-2026,MLQ,les deux,0.5 ATR,3 R,3932,0.301,0.018,0.018,0.027
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),les deux,0.35 ATR,1 R,3936,0.513,-0.038,-0.038,0.016
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),les deux,0.35 ATR,2 R,3936,0.339,-0.051,-0.051,0.023
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),les deux,0.35 ATR,3 R,3936,0.253,-0.086,-0.086,0.027
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),les deux,0.5 ATR,1 R,3936,0.513,-0.018,-0.018,0.016
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),les deux,0.5 ATR,2 R,3936,0.345,-0.043,-0.043,0.022
+horaire 22 paires 2024-2026,2024-2026,niveaux décalés (témoin),les deux,0.5 ATR,3 R,3936,0.287,-0.045,-0.045,0.026
+journalier 10 paires 2012-2026,2012-2019,MLQ,achat,0.35 ATR,1 R,724,0.319,-0.408,-0.232,0.035
+journalier 10 paires 2012-2026,2012-2019,MLQ,achat,0.35 ATR,2 R,724,0.276,-0.224,-0.112,0.05
+journalier 10 paires 2012-2026,2012-2019,MLQ,achat,0.35 ATR,3 R,724,0.239,-0.127,-0.044,0.062
+journalier 10 paires 2012-2026,2012-2019,MLQ,achat,0.5 ATR,1 R,724,0.384,-0.266,-0.177,0.036
+journalier 10 paires 2012-2026,2012-2019,MLQ,achat,0.5 ATR,2 R,724,0.308,-0.15,-0.084,0.05
+journalier 10 paires 2012-2026,2012-2019,MLQ,achat,0.5 ATR,3 R,724,0.279,-0.087,-0.065,0.059
+journalier 10 paires 2012-2026,2012-2019,MLQ,vente,0.35 ATR,1 R,706,0.336,-0.376,-0.164,0.035
+journalier 10 paires 2012-2026,2012-2019,MLQ,vente,0.35 ATR,2 R,706,0.299,-0.154,-0.073,0.052
+journalier 10 paires 2012-2026,2012-2019,MLQ,vente,0.35 ATR,3 R,706,0.252,-0.065,0.003,0.064
+journalier 10 paires 2012-2026,2012-2019,MLQ,vente,0.5 ATR,1 R,706,0.425,-0.184,-0.071,0.037
+journalier 10 paires 2012-2026,2012-2019,MLQ,vente,0.5 ATR,2 R,706,0.337,-0.054,-0.003,0.052
+journalier 10 paires 2012-2026,2012-2019,MLQ,vente,0.5 ATR,3 R,706,0.303,0.035,0.047,0.063
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),achat,0.35 ATR,1 R,759,0.347,-0.352,-0.18,0.035
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),achat,0.35 ATR,2 R,759,0.298,-0.158,-0.103,0.049
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),achat,0.35 ATR,3 R,759,0.253,-0.08,-0.059,0.061
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),achat,0.5 ATR,1 R,759,0.407,-0.216,-0.131,0.036
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),achat,0.5 ATR,2 R,759,0.325,-0.091,-0.076,0.049
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),achat,0.5 ATR,3 R,759,0.282,-0.073,-0.063,0.058
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),vente,0.35 ATR,1 R,766,0.343,-0.358,-0.136,0.034
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),vente,0.35 ATR,2 R,766,0.299,-0.149,-0.036,0.05
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),vente,0.35 ATR,3 R,766,0.266,-0.01,0.058,0.063
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),vente,0.5 ATR,1 R,766,0.428,-0.172,-0.041,0.036
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),vente,0.5 ATR,2 R,766,0.358,0.009,0.067,0.051
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),vente,0.5 ATR,3 R,766,0.311,0.044,0.065,0.06
+journalier 10 paires 2012-2026,2020-2026,MLQ,achat,0.35 ATR,1 R,592,0.302,-0.443,-0.237,0.038
+journalier 10 paires 2012-2026,2020-2026,MLQ,achat,0.35 ATR,2 R,592,0.28,-0.212,-0.111,0.055
+journalier 10 paires 2012-2026,2020-2026,MLQ,achat,0.35 ATR,3 R,592,0.235,-0.15,-0.109,0.068
+journalier 10 paires 2012-2026,2020-2026,MLQ,achat,0.5 ATR,1 R,592,0.446,-0.143,-0.032,0.041
+journalier 10 paires 2012-2026,2020-2026,MLQ,achat,0.5 ATR,2 R,592,0.361,0.003,0.059,0.057
+journalier 10 paires 2012-2026,2020-2026,MLQ,achat,0.5 ATR,3 R,592,0.324,0.088,0.101,0.069
+journalier 10 paires 2012-2026,2020-2026,MLQ,vente,0.35 ATR,1 R,615,0.317,-0.414,-0.216,0.038
+journalier 10 paires 2012-2026,2020-2026,MLQ,vente,0.35 ATR,2 R,615,0.275,-0.232,-0.105,0.054
+journalier 10 paires 2012-2026,2020-2026,MLQ,vente,0.35 ATR,3 R,615,0.229,-0.168,-0.116,0.066
+journalier 10 paires 2012-2026,2020-2026,MLQ,vente,0.5 ATR,1 R,615,0.428,-0.181,-0.106,0.04
+journalier 10 paires 2012-2026,2020-2026,MLQ,vente,0.5 ATR,2 R,615,0.333,-0.08,-0.051,0.055
+journalier 10 paires 2012-2026,2020-2026,MLQ,vente,0.5 ATR,3 R,615,0.291,-0.059,-0.046,0.064
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),achat,0.35 ATR,1 R,619,0.352,-0.343,-0.156,0.038
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),achat,0.35 ATR,2 R,619,0.315,-0.118,-0.016,0.056
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),achat,0.35 ATR,3 R,619,0.275,-0.009,0.036,0.069
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),achat,0.5 ATR,1 R,619,0.451,-0.132,-0.048,0.04
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),achat,0.5 ATR,2 R,619,0.354,-0.015,0.029,0.056
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),achat,0.5 ATR,3 R,619,0.31,0.012,0.038,0.065
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),vente,0.35 ATR,1 R,635,0.354,-0.339,-0.172,0.038
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),vente,0.35 ATR,2 R,635,0.291,-0.182,-0.106,0.054
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),vente,0.35 ATR,3 R,635,0.257,-0.057,-0.025,0.068
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),vente,0.5 ATR,1 R,635,0.408,-0.217,-0.113,0.039
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),vente,0.5 ATR,2 R,635,0.32,-0.105,-0.081,0.054
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),vente,0.5 ATR,3 R,635,0.279,-0.082,-0.069,0.063
+journalier 10 paires 2012-2026,2012-2019,MLQ,les deux,0.35 ATR,1 R,1430,0.327,-0.392,-0.198,0.025
+journalier 10 paires 2012-2026,2012-2019,MLQ,les deux,0.35 ATR,2 R,1430,0.287,-0.189,-0.093,0.036
+journalier 10 paires 2012-2026,2012-2019,MLQ,les deux,0.35 ATR,3 R,1430,0.245,-0.096,-0.021,0.044
+journalier 10 paires 2012-2026,2012-2019,MLQ,les deux,0.5 ATR,1 R,1430,0.404,-0.225,-0.125,0.026
+journalier 10 paires 2012-2026,2012-2019,MLQ,les deux,0.5 ATR,2 R,1430,0.322,-0.103,-0.044,0.036
+journalier 10 paires 2012-2026,2012-2019,MLQ,les deux,0.5 ATR,3 R,1430,0.291,-0.027,-0.01,0.043
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),les deux,0.35 ATR,1 R,1525,0.345,-0.355,-0.158,0.024
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),les deux,0.35 ATR,2 R,1525,0.298,-0.154,-0.069,0.035
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),les deux,0.35 ATR,3 R,1525,0.26,-0.045,-0.0,0.044
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),les deux,0.5 ATR,1 R,1525,0.418,-0.194,-0.086,0.025
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),les deux,0.5 ATR,2 R,1525,0.342,-0.041,-0.004,0.035
+journalier 10 paires 2012-2026,2012-2019,niveaux décalés (témoin),les deux,0.5 ATR,3 R,1525,0.296,-0.014,0.001,0.041
+journalier 10 paires 2012-2026,2020-2026,MLQ,les deux,0.35 ATR,1 R,1207,0.31,-0.428,-0.226,0.027
+journalier 10 paires 2012-2026,2020-2026,MLQ,les deux,0.35 ATR,2 R,1207,0.278,-0.222,-0.108,0.038
+journalier 10 paires 2012-2026,2020-2026,MLQ,les deux,0.35 ATR,3 R,1207,0.232,-0.159,-0.113,0.047
+journalier 10 paires 2012-2026,2020-2026,MLQ,les deux,0.5 ATR,1 R,1207,0.437,-0.162,-0.069,0.029
+journalier 10 paires 2012-2026,2020-2026,MLQ,les deux,0.5 ATR,2 R,1207,0.347,-0.04,0.003,0.04
+journalier 10 paires 2012-2026,2020-2026,MLQ,les deux,0.5 ATR,3 R,1207,0.307,0.013,0.026,0.047
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),les deux,0.35 ATR,1 R,1254,0.353,-0.341,-0.164,0.027
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),les deux,0.35 ATR,2 R,1254,0.303,-0.15,-0.062,0.039
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),les deux,0.35 ATR,3 R,1254,0.266,-0.033,0.005,0.048
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),les deux,0.5 ATR,1 R,1254,0.429,-0.175,-0.081,0.028
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),les deux,0.5 ATR,2 R,1254,0.337,-0.06,-0.027,0.039
+journalier 10 paires 2012-2026,2020-2026,niveaux décalés (témoin),les deux,0.5 ATR,3 R,1254,0.294,-0.036,-0.017,0.045

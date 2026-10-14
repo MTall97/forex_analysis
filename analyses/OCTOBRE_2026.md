@@ -80,7 +80,7 @@ Les messages, les captures et les vidéos montrent la même méthode, cohérente
   - Avec une probabilité de 90 % et un ratio de 2, Kelly conseille de miser 85 % du capital.
   - Avec la probabilité mesurée (40 % pour un ratio de 2), il conseille 10 %, et seulement si cette estimation est fiable.
   - Augmenter la taille sur une certitude surestimée est la cause classique des comptes brûlés.
-- **Le MLQ seul n'a pas d'avantage mesurable** (15,6 % d'objectifs à 1:5, −0,08 R ; niveaux décalés aussi bons). La seule variante positive est l'achat sur englobante qui touche un MLQ, depuis 2020 ([`ENGLOBANTE_MLQ_ET_SUIVI_TENDANCE.md`](ENGLOBANTE_MLQ_ET_SUIVI_TENDANCE.md)). La « cassure puis retour sur le MLQ » d'octobre n'a pas encore été testée comme règle.
+- **Le MLQ seul n'a pas d'avantage mesurable** (15,6 % d'objectifs à 1:5, −0,08 R ; niveaux décalés aussi bons). La seule variante positive est l'achat sur englobante qui touche un MLQ, depuis 2020 ([`ENGLOBANTE_MLQ_ET_SUIVI_TENDANCE.md`](ENGLOBANTE_MLQ_ET_SUIVI_TENDANCE.md)). La « cassure puis retour sur le MLQ » d'octobre, testée ensuite comme règle, ne fait pas mieux que des niveaux sans signification ([`CASSURE_RETOUR_MLQ.md`](CASSURE_RETOUR_MLQ.md)).
 - **Ce qui est montré n'est pas ce qui est copiable** : 8 plans sur 11 sont publiés après coup dans le canal gratuit, et les deux ordres limites annoncés n'ont pas été déclenchés. Le canal sert de vitrine à SignalX.
 - **Le livre dit lui-même le contraire des messages** : « Ce livre ne vous promettra pas une transformation rapide », « Vous devrez vivre avec l'incertitude » (#15557, #15559), alors que les messages parlent de « 90 % de probabilité » et de « mois à 10 k$ ».
 

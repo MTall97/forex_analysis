@@ -83,6 +83,7 @@ Tous les scripts se lancent **depuis la racine du dépôt** : `python scripts/<s
 | Englobante + MLQ (1-3 R), suivi de tendance | `python scripts/tester_englobante_mlq_objectifs.py`, `python scripts/tester_suivi_tendance.py` | Dukascopy journalier, Yahoo horaire | `data/englobante_mlq_objectifs/`, `data/suivi_tendance/`, `analyses/ENGLOBANTE_MLQ_ET_SUIVI_TENDANCE.md` | non (cache) |
 | Fourchette (confluence) | `python scripts/tester_fourchette.py` | COT, taux BIS, change Fed | `data/fourchette/`, `analyses/FOURCHETTE_CONFLUENCE.md` | non |
 | Octobre 2026 | `python scripts/verifier_octobre_2026.py` (niveaux lus sur les captures) ; vidéos : extraction d'images avec ffmpeg, transcription faster-whisper | `ChatExport_2026-10-14`, Yahoo horaire | `data/octobre_2026/`, `analyses/OCTOBRE_2026.md` | non (cache) |
+| Cassure et retour sur MLQ | `python scripts/tester_cassure_retour_mlq.py` | Yahoo horaire, Dukascopy journalier | `data/cassure_retour_mlq/`, `analyses/CASSURE_RETOUR_MLQ.md` | non (cache) |
 | Figures | `python scripts/figures_rapports.py` | tout | `assets/figures/` | non |
 
 ## 4. Mettre à jour les données
