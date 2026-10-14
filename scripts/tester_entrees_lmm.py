@@ -11,7 +11,7 @@ Signal, identique à T2, en vente (l'achat est symétrique) :
 
 Entrées comparées sur les mêmes signaux (stop et objectif inchangés, R recalculé depuis l'entrée réelle) :
 - clôture du mardi (règle testée jusqu'ici) ;
-- Londres : au marché à 07h UTC le mercredi ;
+- Londres : au marché à 07h UTC le mercredi ; New York : à 13h UTC le mercredi (ajouté le 14/10/2026) ;
 - repli 30 % : ordre limite à 30 % de la distance entrée-stop, valable le mercredi (24 h) ;
 - FVG 4h du mardi : ordre limite au bord du FVG 4h le plus récent du mardi, non comblé, valable 24 h ;
 - repli 30 % la nuit, sinon Londres ; FVG 4h la nuit, sinon Londres (aucun signal raté) ;
@@ -36,7 +36,7 @@ from tester_entrees_englobante import suivre  # noqa: E402
 from tester_masterclass import pip, spread  # noqa: E402
 
 SORTIE = 'data/lmm_entrees'
-VARIANTES = ['clôture du mardi', 'Londres 07h', 'repli 30 % (24 h)', 'FVG 4h du mardi (24 h)',
+VARIANTES = ['clôture du mardi', 'Londres 07h', 'New York 13h', 'repli 30 % (24 h)', 'FVG 4h du mardi (24 h)',
              'repli 30 % la nuit, sinon Londres', 'FVG 4h la nuit, sinon Londres', 'ordre stop au-delà du mardi',
              'confirmation 1h']
 
@@ -110,7 +110,8 @@ def signaux(p):
                         return trade(k + 1, e)
             return res['Londres 07h'] if puis_londres else 0.0
 
-        res = {'clôture du mardi': trade(0, e0), 'Londres 07h': trade(i07, ao[i07])}
+        i13 = next((k for k in range(n24) if heure[k] >= 13), 0)
+        res = {'clôture du mardi': trade(0, e0), 'Londres 07h': trade(i07, ao[i07]), 'New York 13h': trade(i13, ao[i13])}
         L30 = e0 - 0.3 * risque0
         b = g2.assign(bloc=g2['date'].dt.hour // 4).groupby('bloc')
         if sens == 1:

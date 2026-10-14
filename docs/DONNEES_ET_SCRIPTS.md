@@ -89,6 +89,7 @@ Tous les scripts se lancent **depuis la racine du dépôt** : `python scripts/<s
 | Sélection des trades (gagnants/perdants) | `python scripts/tester_selection_trades.py` | `data/journal_trades/` | `data/selection_trades/`, `analyses/JOURNAL_ET_SELECTION_TRADES.md` | non |
 | Playbook Notion | `python scripts/collecter_playbook_notion.py` | page publique notion.site | `data/playbook_notion/playbook.txt` | oui |
 | Setups « A+ » | `python scripts/verifier_setups_a_plus.py` | `data/verification_trades.csv`, `data/octobre_2026/trades.csv` | `data/setups_a_plus.csv`, `analyses/PLAYBOOK_NOTION.md` | non |
+| Checklist A+ du playbook | `python scripts/tester_checklist_a_plus.py` | Yahoo horaire, Dukascopy journalier | `data/checklist_a_plus/`, `analyses/CHECKLIST_A_PLUS.md` | non (cache) |
 | Figures | `python scripts/figures_rapports.py` | tout | `assets/figures/` | non |
 
 ## 4. Mettre à jour les données

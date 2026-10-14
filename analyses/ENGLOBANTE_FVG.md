@@ -114,3 +114,15 @@ python scripts/tester_englobante_fvg.py
 python scripts/tester_entrees_englobante.py
 python scripts/figures_rapports.py
 ```
+
+## Entrer seulement pendant Londres ou New York
+
+*Ajouté le 14/10/2026, même script (`scripts/tester_entrees_englobante.py`), cours à jour.* Mêmes signaux, même stop, objectif à 2 R depuis l'entrée réelle et même sortie à J+3. L'entrée se fait au marché à l'ouverture de Londres (07h UTC) ou de New York (13h UTC) le lendemain de l'englobante. Si, entre-temps, le prix a touché le stop ou en est à moins de 5 pips, le trade compte comme une perte.
+
+| Entrée | Achats + MLQ, 10 paires (178) | Achats + MLQ, autres paires (209) | Toutes, 10 paires (1 800) | Toutes, autres paires (2 187) |
+|---|---|---|---|---|
+| Clôture (R par signal) | **+0,20** | **+0,10** | +0,01 | −0,07 |
+| Londres 07h | +0,15 (écart −0,04 ± 0,05) | −0,03 (−0,13 ± 0,05) | −0,04 (−0,05 ± 0,02) | −0,09 (−0,02 ± 0,01) |
+| New York 13h | +0,11 (écart −0,09 ± 0,07) | −0,14 (−0,24 ± 0,05) | −0,09 (−0,09 ± 0,02) | −0,13 (−0,06 ± 0,02) |
+
+**Attendre une session de trading n'améliore pas l'englobante : cela la dégrade, et d'autant plus qu'on attend longtemps.** Le mouvement qui suit l'englobante commence souvent dès la nuit, en Asie. Entrer à Londres, puis à New York, revient à acheter plus haut avec le même stop.

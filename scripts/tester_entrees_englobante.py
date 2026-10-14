@@ -8,7 +8,7 @@ que quand l'englobante échoue et ratent les trades qui partent directement. On 
 ne ratent aucun signal (repli tenté pendant la nuit, sinon entrée au marché) ou qui attendent une
 confirmation. Liste fixée avant de lancer le test :
 - clôture : à la clôture de J (règle actuelle, suivie en démo) ;
-- Londres : au marché à l'ouverture de 07h UTC de J+1 ;
+- Londres : au marché à l'ouverture de 07h UTC de J+1 ; New York : même chose à 13h UTC (ajouté le 14/10/2026) ;
 - stop au-dessus de J : ordre stop 1 pip au-delà de l'extrême de J (plus haut pour un achat), 24 h ou 48 h ;
 - confirmation 1h : à la clôture de la première bougie 1h (J+1 ou J+2) qui clôture au-delà de l'extrême de J ;
 - repli 30 % la nuit, sinon Londres : ordre limite à 30 % de la distance clôture-stop entre 00h et 07h UTC ;
@@ -34,7 +34,7 @@ from tester_englobante_fvg import PAIRES_AUTRES, PAIRES_DEMO, charger, fvgs  # n
 from tester_masterclass import pip, spread  # noqa: E402
 
 SORTIE = 'data/englobante_fvg'
-VARIANTES = ['clôture', 'Londres 07h', 'stop au-delà de J 24h', 'stop au-delà de J 48h', 'confirmation 1h',
+VARIANTES = ['clôture', 'Londres 07h', 'New York 13h', 'stop au-delà de J 24h', 'stop au-delà de J 48h', 'confirmation 1h',
              'repli 30 % la nuit, sinon Londres', 'FVG 4h la nuit, sinon Londres']
 
 
@@ -92,6 +92,10 @@ def signaux(p):
         res['clôture'] = net(suivre(ah, al, ac, 0, c0, sl, c0 + 2 * risque0), c0)
         e = ao[i07]
         res['Londres 07h'] = net(suivre(ah, al, ac, i07, e, sl, e + 2 * (e - sl)), e) if e > sl else net(-1.0, c0)
+        i13 = next((k for k in range(n24) if heure[k] >= 13), 0)
+        e = ao[i13]
+        # stop presque atteint avant 13h (moins de 5 pips de risque restant) : compté comme une perte
+        res['New York 13h'] = net(suivre(ah, al, ac, i13, e, sl, e + 2 * (e - sl)), e) if e > sl + 5 * pp else net(-1.0, c0)
         niveau = jh.max() + pp
         for nom, n in [('stop au-delà de J 24h', n24), ('stop au-delà de J 48h', n48)]:
             r = 0.0

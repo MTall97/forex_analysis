@@ -66,3 +66,17 @@ Mêmes signaux, même stop, même objectif ; seul le prix d'entrée change, et l
 python scripts/prix_yahoo.py --mettre-a-jour
 python scripts/tester_entrees_lmm.py
 ```
+
+## Entrer seulement pendant Londres ou New York
+
+*Ajouté le 14/10/2026, même script (`scripts/tester_entrees_lmm.py`).* Les signaux, le stop et l'objectif ne changent pas. L'entrée se fait au marché le mercredi, soit à l'ouverture de Londres (07h UTC), soit à celle de New York (13h UTC). Deux cas particuliers :
+- si l'objectif est déjà atteint avant l'heure d'entrée, le trade n'est pas pris (0 R) ;
+- si le stop est déjà touché, le trade compte comme une perte.
+
+| Entrée | Avec le filtre de la masterclass (88 signaux) | Toutes les configurations (352) |
+|---|---|---|
+| **Clôture du mardi** | **+0,39 R** par signal | **+0,09 R** |
+| Londres 07h | +0,16 (écart −0,23 ± 0,11) | −0,02 (écart −0,11 ± 0,05) |
+| New York 13h | **−0,30** (écart −0,68 ± 0,12) | −0,18 (écart −0,27 ± 0,07) |
+
+**Attendre New York fait perdre toute la stratégie.** Avec le filtre, elle passe de +0,39 R à −0,30 R par signal. Le mouvement attendu a souvent déjà eu lieu pendant la nuit et la matinée de Londres. On entre alors plus près de l'objectif, avec le même stop, et le ratio devient défavorable.
