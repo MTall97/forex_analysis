@@ -1,0 +1,43 @@
+rejeu,periode,objectif,groupe,trades,gagnants,r_moyen,erreur_type
+journalier 10 paires,2012-2019,2 R,zone + bougie de retournement,281,0.384,-0.092,0.069
+journalier 10 paires,2012-2019,2 R,zone + englobante,199,0.392,-0.067,0.079
+journalier 10 paires,2012-2019,2 R,zone + pin bar,85,0.376,-0.123,0.135
+journalier 10 paires,2012-2019,2 R,mouvement climatique + bougie de retournement,521,0.39,-0.079,0.052
+journalier 10 paires,2012-2019,2 R,climatique + zone + bougie,39,0.231,-0.521,0.151
+journalier 10 paires,2012-2019,2 R,témoin : bougie de retournement seule,6939,0.392,-0.029,0.015
+journalier 10 paires,2012-2019,2 R,témoin : zone seule (sans bougie),1568,0.323,-0.186,0.032
+journalier 10 paires,2012-2019,3 R,zone + bougie de retournement,281,0.367,-0.111,0.073
+journalier 10 paires,2012-2019,3 R,zone + englobante,199,0.377,-0.089,0.084
+journalier 10 paires,2012-2019,3 R,zone + pin bar,85,0.353,-0.157,0.144
+journalier 10 paires,2012-2019,3 R,mouvement climatique + bougie de retournement,521,0.378,-0.087,0.055
+journalier 10 paires,2012-2019,3 R,climatique + zone + bougie,39,0.231,-0.504,0.161
+journalier 10 paires,2012-2019,3 R,témoin : bougie de retournement seule,6939,0.368,-0.032,0.016
+journalier 10 paires,2012-2019,3 R,témoin : zone seule (sans bougie),1568,0.297,-0.126,0.038
+journalier 10 paires,2020-2026,2 R,zone + bougie de retournement,276,0.351,-0.117,0.072
+journalier 10 paires,2020-2026,2 R,zone + englobante,205,0.337,-0.17,0.08
+journalier 10 paires,2020-2026,2 R,zone + pin bar,74,0.392,0.016,0.155
+journalier 10 paires,2020-2026,2 R,mouvement climatique + bougie de retournement,427,0.466,0.071,0.056
+journalier 10 paires,2020-2026,2 R,climatique + zone + bougie,24,0.417,-0.095,0.231
+journalier 10 paires,2020-2026,2 R,témoin : bougie de retournement seule,5895,0.405,0.007,0.016
+journalier 10 paires,2020-2026,2 R,témoin : zone seule (sans bougie),1579,0.313,-0.195,0.033
+journalier 10 paires,2020-2026,3 R,zone + bougie de retournement,276,0.322,-0.136,0.079
+journalier 10 paires,2020-2026,3 R,zone + englobante,205,0.307,-0.201,0.085
+journalier 10 paires,2020-2026,3 R,zone + pin bar,74,0.365,0.032,0.174
+journalier 10 paires,2020-2026,3 R,mouvement climatique + bougie de retournement,427,0.452,0.1,0.063
+journalier 10 paires,2020-2026,3 R,climatique + zone + bougie,24,0.333,-0.319,0.195
+journalier 10 paires,2020-2026,3 R,témoin : bougie de retournement seule,5895,0.38,0.018,0.018
+journalier 10 paires,2020-2026,3 R,témoin : zone seule (sans bougie),1579,0.273,-0.176,0.038
+"4 h, 22 paires",2024-2026,2 R,zone + bougie de retournement,1633,0.321,-0.144,0.034
+"4 h, 22 paires",2024-2026,2 R,zone + englobante,1124,0.339,-0.098,0.041
+"4 h, 22 paires",2024-2026,2 R,zone + pin bar,527,0.281,-0.245,0.058
+"4 h, 22 paires",2024-2026,2 R,mouvement climatique + bougie de retournement,2478,0.33,-0.102,0.028
+"4 h, 22 paires",2024-2026,2 R,climatique + zone + bougie,150,0.3,-0.215,0.108
+"4 h, 22 paires",2024-2026,2 R,témoin : bougie de retournement seule,34195,0.322,-0.133,0.007
+"4 h, 22 paires",2024-2026,2 R,témoin : zone seule (sans bougie),7638,0.31,-0.215,0.016
+"4 h, 22 paires",2024-2026,3 R,zone + bougie de retournement,1633,0.264,-0.139,0.04
+"4 h, 22 paires",2024-2026,3 R,zone + englobante,1124,0.286,-0.075,0.049
+"4 h, 22 paires",2024-2026,3 R,zone + pin bar,527,0.213,-0.298,0.067
+"4 h, 22 paires",2024-2026,3 R,mouvement climatique + bougie de retournement,2478,0.273,-0.087,0.033
+"4 h, 22 paires",2024-2026,3 R,climatique + zone + bougie,150,0.24,-0.229,0.127
+"4 h, 22 paires",2024-2026,3 R,témoin : bougie de retournement seule,34195,0.258,-0.124,0.009
+"4 h, 22 paires",2024-2026,3 R,témoin : zone seule (sans bougie),7638,0.244,-0.201,0.019
