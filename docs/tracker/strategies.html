@@ -1,0 +1,259 @@
+<title>Journal des stratégies</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,500&display=swap">
+<style>
+/* Mise en page : base de données façon Notion — une ligne par mois, fiche dépliée en dessous */
+:root{
+  --bg:#fbfbfa; --surface:#ffffff; --fg:#2b2a27; --muted:#76736c; --line:#e7e5e0; --hover:#f3f2ef;
+  --accent:#2b5c88; --accent-soft:#e6eef6;
+  --up:#1f7a4d; --up-soft:#dff1e6; --down:#b4372f; --down-soft:#fbe4e1; --warn:#9a6a00; --warn-soft:#fbf0d4;
+  --f-display:"Newsreader", Georgia, serif; --f-body:"IBM Plex Sans", system-ui, sans-serif; --f-mono:"IBM Plex Mono", ui-monospace, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#191918; --surface:#202020; --fg:#e9e7e2; --muted:#a19d95; --line:#33322f; --hover:#2a2927;
+  --accent:#8db8de; --accent-soft:#22313f;
+  --up:#6fd39c; --up-soft:#1d3528; --down:#f08a80; --down-soft:#3f2321; --warn:#e6c063; --warn-soft:#3a3120; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#191918; --surface:#202020; --fg:#e9e7e2; --muted:#a19d95; --line:#33322f; --hover:#2a2927;
+  --accent:#8db8de; --accent-soft:#22313f;
+  --up:#6fd39c; --up-soft:#1d3528; --down:#f08a80; --down-soft:#3f2321; --warn:#e6c063; --warn-soft:#3a3120; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:15px/1.5 var(--f-body);padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 60px}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+h1{font:500 clamp(28px,4vw,40px)/1.1 var(--f-display);margin:0;text-wrap:balance}
+.lede{color:var(--muted);max-width:70ch;margin:6px 0 0}
+a{color:var(--accent)}
+a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.controls{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--surface)}
+.seg button{font:500 13px var(--f-mono);border:0;background:none;color:var(--muted);padding:7px 12px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent-soft);color:var(--accent)}
+.lab{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-right:6px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.stat b{display:block;font:500 22px var(--f-mono);font-variant-numeric:tabular-nums}
+.stat span{color:var(--muted);font-size:13px}
+.db{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th{font:500 12px var(--f-body);color:var(--muted);text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);white-space:nowrap;background:var(--surface);position:sticky;top:0}
+td{padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+tr.row{cursor:pointer}
+tr.row:hover td{background:var(--hover)}
+tr.row[aria-expanded="true"] td{background:var(--accent-soft)}
+.mois{font-weight:600;white-space:nowrap}
+.mois::before{content:"▸";display:inline-block;width:14px;color:var(--muted);transition:transform .15s}
+tr.row[aria-expanded="true"] .mois::before{transform:rotate(90deg)}
+.chip{display:inline-block;padding:1px 8px;border-radius:4px;font-size:13px;font-weight:500;white-space:nowrap}
+.up{background:var(--up-soft);color:var(--up)} .down{background:var(--down-soft);color:var(--down)}
+.neutral{background:var(--hover);color:var(--muted)} .warn{background:var(--warn-soft);color:var(--warn)}
+.num{font-family:var(--f-mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+.small{font-size:12.5px;color:var(--muted)}
+.ok{color:var(--up);font-weight:600} .ko{color:var(--down);font-weight:600}
+td.fiche{padding:0;background:var(--bg)}
+.panel{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:16px;padding:16px}
+@media (max-width:860px){.panel{grid-template-columns:minmax(0,1fr)}}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px;min-width:0}
+.card h3{font:600 12px var(--f-body);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+.span2{grid-column:1/-1}
+svg text{fill:var(--muted);font:11px var(--f-mono)}
+.mini{width:100%;font-size:13px}
+.mini td,.mini th{padding:5px 8px}
+.fonda li{margin:4px 0}
+.fonda{margin:0;padding-left:18px}
+.msg{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 14px;padding:10px 0;border-bottom:1px solid var(--line)}
+.msg:last-child{border-bottom:0}
+.msg q{quotes:"« " " »";font-style:italic}
+.msg select{font:12px var(--f-body);background:var(--surface);color:var(--fg);border:1px solid var(--line);border-radius:4px;padding:1px 4px}
+.res{display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end;font-size:13px}
+.gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px}
+.trade{border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--surface)}
+.trade img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;object-position:top;cursor:zoom-in;background:var(--hover)}
+.trade .t{padding:8px 10px;font-size:13px;display:flex;flex-direction:column;gap:3px}
+.lightbox{position:fixed;inset:0;background:rgba(0,0,0,.82);display:flex;align-items:center;justify-content:center;z-index:20;padding:max(16px,env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) max(16px,env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px))}
+.lightbox[hidden]{display:none}
+.lightbox img{max-height:92vh;max-width:100%;border-radius:6px}
+.lightbox button{position:absolute;top:calc(12px + env(safe-area-inset-top,0px));right:calc(12px + env(safe-area-inset-right,0px));font:500 14px var(--f-body);background:#fff;color:#222;border:0;border-radius:6px;padding:6px 10px;cursor:pointer}
+details.method{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 16px}
+details.method summary{cursor:pointer;font-weight:600}
+details.method p,details.method li{max-width:80ch;color:var(--muted)}
+@media (max-width:640px){.hide-s{display:none}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+<style>
+/* Compléments propres au journal des stratégies */
+.regle{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:16px}
+@media (max-width:760px){.regle{grid-template-columns:minmax(0,1fr)}}
+.regle p{margin:0;max-width:75ch}
+.filtres{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center}
+.filtres select{font:13px var(--f-body);background:var(--surface);color:var(--fg);border:1px solid var(--line);border-radius:6px;padding:5px 8px}
+.trades{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,520px),1fr));gap:14px;padding:16px}
+.tcard{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.tcard header{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;align-items:baseline}
+.duo{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+@media (max-width:460px){.duo{grid-template-columns:1fr}}
+.duo figure{margin:0;min-width:0}
+.duo figcaption{font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin-bottom:2px}
+.duo svg{display:block;width:100%;height:auto;background:var(--bg);border-radius:6px}
+.niv{font-family:var(--f-mono);font-size:12.5px;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 12px}
+.controls .seg{flex-wrap:wrap}
+.plus{margin:0 16px 16px;font:500 13px var(--f-body);background:var(--surface);color:var(--accent);border:1px solid var(--line);border-radius:6px;padding:7px 12px;cursor:pointer}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Journal des stratégies</h1>
+    <p class="lede">Les stratégies que vous m'avez partagées, rejouées sur les cours de 2024 à 2026 avec la même structure que le tracker : une ligne par mois. Dépliez un mois pour voir chaque trade deux fois, au moment de l'entrée (la suite est masquée) et après la sortie.</p>
+  </header>
+
+  <div class="controls"><div><span class="lab">Stratégie</span><span class="seg" id="strats" role="group" aria-label="Stratégie"></span></div></div>
+
+  <div class="card regle" id="regle"></div>
+  <div class="stats" id="stats"></div>
+
+  <div class="filtres">
+    <label><span class="lab">Année</span> <select id="f-an"></select></label>
+    <label><span class="lab">Paire</span> <select id="f-paire"></select></label>
+    <label><span class="lab">Sens</span> <select id="f-sens"><option value="">Tous</option><option value="achat">Achats</option><option value="vente">Ventes</option></select></label>
+    <label><span class="lab">Issue</span> <select id="f-issue"><option value="">Toutes</option><option value="g">Gagnants</option><option value="p">Perdants</option></select></label>
+  </div>
+
+  <div class="db"><table>
+    <thead><tr><th>Mois</th><th>Trades</th><th>Gagnants</th><th>R du mois</th><th>R cumulé</th><th class="hide-s">Paires</th></tr></thead>
+    <tbody id="corps"><tr><td colspan="6" class="small">Chargement des trades…</td></tr></tbody>
+  </table></div>
+
+  <details class="method">
+    <summary>Comment lire les images, et d'où viennent les chiffres</summary>
+    <ul>
+      <li><b>Au moment de l'entrée</b> : les bougies connues avant l'entrée, avec l'entrée (trait plein), le stop (rouge) et l'objectif (vert). La zone de droite est vide : c'est ce que vous auriez vu en prenant le trade.</li>
+      <li><b>Après</b> : les mêmes bougies, puis celles jusqu'à la sortie et quelques-unes de plus. Le point marque l'entrée, le losange la sortie.</li>
+      <li>Bougies de 4 h pour l'englobante et lundi-mardi-mercredi, de 1 h pour la cassure-retour, le suivi de tendance et la checklist en horaire, journalières pour la checklist en journalier. Quand un trade dure longtemps, les bougies sont regroupées (indiqué « 1h×2 », etc.).</li>
+      <li>Cours : Yahoo (horaire, depuis décembre 2023) et Dukascopy (journalier). Ils peuvent différer de quelques pips de ceux de votre courtier. Stop prioritaire quand une même bougie touche le stop et l'objectif ; spread déduit du R.</li>
+      <li>Le lien TradingView ouvre la paire : placez-vous à la date du trade pour comparer.</li>
+      <li>Scripts : <code>construire_page_strategies.py</code> et les scripts de chaque rapport, dans le dépôt <code>forex_analysis</code>.</li>
+    </ul>
+  </details>
+</div>
+
+<script type="application/json" id="index">{{INDEX}}</script>
+<script type="application/json" id="d-englobante">{{ENGLOBANTE}}</script>
+<script>
+const INDEX = JSON.parse(document.getElementById('index').textContent);
+const GH = f => `https://github.com/MTall97/forex_analysis/blob/claude/intelligent-ptolemy-27j5ht/analyses/${f}`;
+const PIP = p => p.endsWith('JPY') ? 0.01 : (p === 'XAUUSD' ? 0.1 : 0.0001);
+const fmt = (x, n = 2, s = true) => x == null ? '—' : (s && x > 0 ? '+' : '') + x.toFixed(n).replace('.', ',');
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const MOIS = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
+const cache = {englobante: JSON.parse(document.getElementById('d-englobante').textContent)};
+let etat = {s: 'englobante', ouvert: undefined, voir: 12};
+try { Object.assign(etat, JSON.parse(localStorage.getItem('strats-etat') || '{}')); etat.voir = 12; } catch (e) {}
+const sauver = () => { try { localStorage.setItem('strats-etat', JSON.stringify({s: etat.s})); } catch (e) {} };
+
+function seg() {
+  const el = document.getElementById('strats'); el.innerHTML = '';
+  INDEX.forEach(x => { const b = document.createElement('button'); b.type = 'button'; b.textContent = x.nom; b.setAttribute('aria-pressed', x.cle === etat.s);
+    b.onclick = () => { etat.s = x.cle; etat.ouvert = undefined; etat.voir = 12; charger(); }; el.appendChild(b); });
+}
+
+function filtres(T) {
+  const an = document.getElementById('f-an'), pa = document.getElementById('f-paire');
+  const ans = [...new Set(T.map(t => t.te.slice(0, 4)))].sort(), ps = [...new Set(T.map(t => t.p))].sort();
+  const keep = (el, opts, lab) => { const v = el.value; el.innerHTML = `<option value="">${lab}</option>` + opts.map(o => `<option>${o}</option>`).join(''); if (opts.includes(v)) el.value = v; };
+  keep(an, ans, 'Toutes'); keep(pa, ps, 'Toutes');
+}
+
+function selection(T) {
+  const an = document.getElementById('f-an').value, pa = document.getElementById('f-paire').value,
+        se = document.getElementById('f-sens').value, is = document.getElementById('f-issue').value;
+  return T.filter(t => (!an || t.te.startsWith(an)) && (!pa || t.p === pa) && (!se || t.s === se) && (!is || (is === 'g' ? t.r > 0 : t.r <= 0)));
+}
+
+function rendre() {
+  sauver(); seg();
+  const I = INDEX.find(x => x.cle === etat.s), T = cache[etat.s];
+  document.getElementById('regle').innerHTML = `<div><h3>Règle testée</h3><p>${esc(I.regle)}</p></div>
+    <div><h3>Verdict du rapport</h3><p>${esc(I.verdict)}</p><p class="small"><a href="${GH(I.rapport)}" target="_blank" rel="noopener">Lire le rapport complet</a></p></div>`;
+  if (!T) return;
+  const S = selection(T), r = S.map(t => t.r).filter(x => x != null);
+  const moy = r.reduce((a, b) => a + b, 0) / (r.length || 1), sd = Math.sqrt(r.reduce((a, b) => a + (b - moy) ** 2, 0) / Math.max(1, r.length - 1));
+  document.getElementById('stats').innerHTML = `
+    <div class="stat"><b>${S.length}</b><span>trades affichés (${I.debut.replace('-', '/')} → ${I.fin.replace('-', '/')})</span></div>
+    <div class="stat"><b>${r.length ? Math.round(100 * r.filter(x => x > 0).length / r.length) : 0} %</b><span>de trades gagnants</span></div>
+    <div class="stat"><b>${fmt(moy)} R</b><span>par trade, ± ${fmt(sd / Math.sqrt(r.length || 1), 2, false)} (erreur type)</span></div>
+    <div class="stat"><b>${fmt(r.reduce((a, b) => a + b, 0), 1)} R</b><span>au total, soit ${fmt(r.reduce((a, b) => a + b, 0), 1)} % avec 1 % de risque par trade</span></div>`;
+  const parMois = {};
+  S.forEach(t => (parMois[t.te.slice(0, 7)] ??= []).push(t));
+  const mois = Object.keys(parMois).sort();
+  if (etat.ouvert === undefined) etat.ouvert = mois[mois.length - 1] ?? null;
+  let cum = 0; const cumul = {};
+  mois.forEach(m => { cum += parMois[m].reduce((a, t) => a + (t.r ?? 0), 0); cumul[m] = cum; });
+  const tb = document.getElementById('corps'); tb.innerHTML = '';
+  if (!mois.length) { tb.innerHTML = '<tr><td colspan="6" class="small">Aucun trade pour ces filtres.</td></tr>'; return; }
+  mois.slice().reverse().forEach(m => {
+    const L = parMois[m], g = L.filter(t => t.r > 0).length, R = L.reduce((a, t) => a + (t.r ?? 0), 0);
+    const ps = [...new Set(L.map(t => t.p))];
+    const tr = document.createElement('tr'); tr.className = 'row'; tr.tabIndex = 0; tr.setAttribute('aria-expanded', etat.ouvert === m);
+    tr.innerHTML = `<td class="mois">${MOIS[+m.slice(5) - 1][0].toUpperCase() + MOIS[+m.slice(5) - 1].slice(1)} ${m.slice(0, 4)}</td>
+      <td class="num">${L.length}</td><td class="num">${g} <span class="small">(${Math.round(100 * g / L.length)} %)</span></td>
+      <td><span class="num ${R > 0 ? 'ok' : R < 0 ? 'ko' : ''}">${fmt(R, 1)} R</span></td><td class="num">${fmt(cumul[m], 1)} R</td>
+      <td class="hide-s small">${ps.slice(0, 6).join(', ')}${ps.length > 6 ? '…' : ''}</td>`;
+    const toggle = () => { etat.ouvert = etat.ouvert === m ? null : m; etat.voir = 12; rendre(); };
+    tr.onclick = toggle; tr.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); } };
+    tb.appendChild(tr);
+    if (etat.ouvert === m) {
+      const f = document.createElement('tr'), td = document.createElement('td'); td.colSpan = 6; td.className = 'fiche';
+      td.innerHTML = `<div class="trades">${L.slice(0, etat.voir).map(carte).join('')}</div>` +
+        (L.length > etat.voir ? `<button type="button" class="plus" id="plus">Afficher ${Math.min(12, L.length - etat.voir)} trades de plus (${L.length - etat.voir} restants)</button>` : '');
+      f.appendChild(td); tb.appendChild(f);
+      const b = td.querySelector('#plus'); if (b) b.onclick = e => { e.stopPropagation(); etat.voir += 12; rendre(); };
+    }
+  });
+}
+
+function svg(t, complet) {
+  const W = 300, H = 170, ml = 4, mr = 48, mt = 8, mb = 16;
+  const n = t.b.length, vis = complet ? n : t.i0;
+  const vals = t.b.slice(0, complet ? n : t.i0).flatMap(x => [x[1], x[2]]).concat([0, t.sl, t.tp]);
+  let lo = Math.min(...vals), hi = Math.max(...vals); const pad = (hi - lo) * 0.08 || 10; lo -= pad; hi += pad;
+  const X = i => ml + (i + 0.5) * (W - ml - mr) / n, Y = v => mt + (hi - v) / (hi - lo) * (H - mt - mb);
+  const bw = Math.max(1.2, (W - ml - mr) / n * 0.62), q = PIP(t.p) / 10, dec = t.p.endsWith('JPY') ? 3 : 5;
+  const prix = v => (t.e + v * q).toFixed(dec);
+  let g = '';
+  const lignes = [[t.tp, 'var(--up)', 'objectif'], [t.sl, 'var(--down)', 'stop'], [0, 'var(--fg)', 'entrée']];
+  lignes.forEach(([v, c]) => { g += `<line x1="${X(complet ? 0 : t.i0) - (complet ? 0 : 0)}" x2="${W - mr}" y1="${Y(v)}" y2="${Y(v)}" stroke="${c}" stroke-width="1" ${v ? 'stroke-dasharray="3 3"' : ''}/>`;
+    g += `<text x="${W - mr + 3}" y="${Y(v) + 3.5}" style="fill:${c}">${prix(v)}</text>`; });
+  if (!complet) g += `<rect x="${X(t.i0) - (W - ml - mr) / n / 2}" y="${mt}" width="${W - mr - X(t.i0) + (W - ml - mr) / n / 2}" height="${H - mt - mb}" fill="var(--hover)" opacity=".6"/><text x="${(X(t.i0) + W - mr) / 2}" y="${H / 2}" text-anchor="middle">?</text>`;
+  for (let i = 0; i < vis; i++) { const x = t.b[i], up = x[3] >= x[0], c = up ? 'var(--up)' : 'var(--down)';
+    g += `<line x1="${X(i)}" x2="${X(i)}" y1="${Y(x[1])}" y2="${Y(x[2])}" stroke="${c}" stroke-width="0.8"/><rect x="${X(i) - bw / 2}" y="${Y(Math.max(x[0], x[3]))}" width="${bw}" height="${Math.max(0.8, Math.abs(Y(x[0]) - Y(x[3])))}" fill="${c}"/>`; }
+  if (complet) {
+    g += `<circle cx="${X(t.i0)}" cy="${Y(0)}" r="3.5" fill="var(--surface)" stroke="var(--accent)" stroke-width="1.8"/>`;
+    const yx = t.mo === 'stop' ? t.sl : t.mo === 'objectif' ? t.tp : t.b[Math.min(t.ix, n - 1)][3];
+    g += `<path d="M${X(t.ix)} ${Y(yx) - 5} l5 5 -5 5 -5 -5z" fill="var(--warn)"/>`;
+  }
+  g += `<text x="${ml}" y="${H - 4}">${t.tf}</text>`;
+  return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${complet ? 'Après la sortie' : "Au moment de l'entrée"}">${g}</svg>`;
+}
+
+function carte(t) {
+  const q = PIP(t.p) / 10, dec = t.p.endsWith('JPY') ? 3 : 5, px = v => (t.e + v * q).toFixed(dec);
+  const issue = t.mo === 'objectif' ? '<span class="chip up">objectif</span>' : t.mo === 'stop' ? '<span class="chip down">stop</span>' : `<span class="chip neutral">${esc(t.mo)}</span>`;
+  const d = s => `${s.slice(8, 10)}/${s.slice(5, 7)}/${s.slice(0, 4)} ${s.slice(11, 16)}`;
+  const tvs = `https://www.tradingview.com/chart/?symbol=${t.p === 'XAUUSD' ? 'OANDA:XAUUSD' : 'FX:' + t.p}`;
+  return `<article class="tcard"><header><div><b>${t.p}</b> <span class="chip ${t.s === 'achat' ? 'up' : 'down'}">${t.s}</span> <span class="small">${esc(t.sig || '')}</span></div>
+    <div>${issue} <span class="num ${t.r > 0 ? 'ok' : 'ko'}">${fmt(t.r)} R</span></div></header>
+    <div class="duo"><figure><figcaption>Au moment de l'entrée</figcaption>${svg(t, false)}</figure><figure><figcaption>Après</figcaption>${svg(t, true)}</figure></div>
+    <div class="niv"><span>entrée ${d(t.te)} UTC à ${px(0)}</span><span>stop ${px(t.sl)} (${Math.abs(t.sl / 10).toFixed(1).replace('.', ',')} pips)</span><span>objectif ${px(t.tp)}</span><span>sortie ${d(t.tx)}</span><a href="${tvs}" target="_blank" rel="noopener">Vérifier sur TradingView</a></div></article>`;
+}
+
+function charger() {
+  rendre();
+  if (cache[etat.s]) { filtres(cache[etat.s]); rendre(); return; }
+  document.getElementById('corps').innerHTML = '<tr><td colspan="6" class="small">Chargement des trades…</td></tr>';
+  fetch(`strategies/${etat.s}.json`).then(r => r.json()).then(T => { cache[etat.s] = T; filtres(T); rendre(); })
+    .catch(() => { document.getElementById('corps').innerHTML = '<tr><td colspan="6">Les trades n\'ont pas pu être chargés. Rechargez la page.</td></tr>'; });
+}
+['f-an', 'f-paire', 'f-sens', 'f-issue'].forEach(id => document.getElementById(id).onchange = () => { etat.ouvert = null; rendre(); });
+if (!INDEX.find(x => x.cle === etat.s)) etat.s = 'englobante';
+charger();
+</script>

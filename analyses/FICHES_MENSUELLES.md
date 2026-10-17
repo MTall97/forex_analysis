@@ -25,3 +25,10 @@
   - annonces : calendrier TradingView ;
   - COT : CFTC (gérants d'actifs) ;
   - trades : `data/verification_trades.csv`.
+
+## Journal des stratégies (deuxième page)
+`scripts/construire_page_strategies.py DOSSIER` produit `DOSSIER/index.json` et `DOSSIER/strategies/<clé>.json`. La page est `docs/tracker/strategies.html` : y insérer `index.json` à la place de `{{INDEX}}`, et `strategies/englobante.json` à la place de `{{ENGLOBANTE}}`.
+
+Cinq stratégies, rejouées avec les règles de leurs rapports : englobante + MLQ, lundi-mardi-mercredi (filtre de la masterclass), cassure puis retour sur MLQ, suivi de tendance 1 R, checklist A+. Une ligne par mois. Chaque trade est dessiné deux fois, au moment de l'entrée (la suite masquée) puis après la sortie, avec l'entrée, le stop et l'objectif.
+
+Artifact : https://claude.ai/artifact/KE45fyVd5ZK3Uqwcet8gy6.
