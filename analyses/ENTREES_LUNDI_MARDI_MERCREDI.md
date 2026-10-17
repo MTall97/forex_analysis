@@ -80,3 +80,18 @@ python scripts/tester_entrees_lmm.py
 | New York 13h | **−0,30** (écart −0,68 ± 0,12) | −0,18 (écart −0,27 ± 0,07) |
 
 **Attendre New York fait perdre toute la stratégie.** Avec le filtre, elle passe de +0,39 R à −0,30 R par signal. Le mouvement attendu a souvent déjà eu lieu pendant la nuit et la matinée de Londres. On entre alors plus près de l'objectif, avec le même stop, et le ratio devient défavorable.
+
+## Journées clôturées à 17h New York, comme sur OANDA et TradingView (17/10/2026)
+
+Script : `scripts/tester_lmm_cloture_ny.py` → `data/lmm_cloture_ny/`. Les règles restent les mêmes ; seule change l'heure où finit la journée : minuit UTC ou 17h à New York (21h UTC l'été, 22h l'hiver). Les données sont l'horaire Yahoo de 2024-2026, avec le filtre de la masterclass.
+
+| Fin de la journée | Trades | Gagnants | R moyen | 1re moitié (avant 05/2025) | 2e moitié |
+|---|---|---|---|---|---|
+| Minuit UTC (journal) | 88 | 43 % | +0,39 ± 0,19 | +0,40 (53 trades) | +0,37 (35 trades) |
+| 17h New York | 77 | 44 % | +0,40 ± 0,22 | +1,14 (33 trades) | −0,16 (44 trades) |
+
+Sur toute la période, la moyenne ne change presque pas. En revanche, **seuls 47 trades sont communs aux deux découpages**. Ces trades communs font +0,85 R en moyenne. Ceux qui n'existent qu'avec un seul découpage font −0,15 R (minuit UTC) et −0,32 R (17h New York). Avec la clôture de New York, la seconde moitié de la période est négative. La configuration dépend donc beaucoup de l'heure où l'on coupe la journée : un mardi « contraire » est souvent une bougie de quelques pips, qui change de couleur selon l'heure de clôture.
+
+Garder seulement les configurations valables dans les deux découpages est une piste, mais elle a été trouvée en regardant les résultats. Il faudrait la vérifier sur d'autres données (en démo ou sur des années antérieures) avant de la retenir.
+
+Exemple : l'USDCAD du lundi 01/06/2026. Avec la clôture de New York, le mardi est rouge de 0,7 pip et la vente se fait à 1,38373, avec un stop à 1,38562. L'objectif est à 44 pips, en dessous du minimum de 60 pips, donc le trade est écarté par le filtre. Il est stoppé le 03/06 à 6h UTC. Avec la coupure à minuit UTC, le mardi est vert et il n'y a pas de signal.
