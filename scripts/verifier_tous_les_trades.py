@@ -159,9 +159,21 @@ VERIFIES = {
     10513: ('❔', None, "précision de l'objectif du trade #10510 (« mon tp … jusqu'à 95.000 ») ; même « SL » mal classé (#10529)"),
     10853: ('✅', None, "position fermée en gain avant l'objectif (#10865 : +9 900 $ le 03/04/2024) ; le plan publié aurait "
                         "fini au stop le 12/04"),
-    13808: ('✅', '✅', "objectif mal lu par l'OCR (1.19593) : la capture #13836 montre l'objectif 1.18722, atteint"),
+    13808: ('⚠️', None, "objectif publié 1.19593 (#13808, 12/09/2025) ; la capture #13836 du 16/09 le redessine à 1.18722, "
+                        "au prix du moment (« arrivé à bon port », #13835) : gain flottant, pas un TP ; le plan publié finit au stop"),
     15295: ('✅', '⚠️', "stop élargi après la publication (1.97098 -> 1.97, #15315) : le plan publié touche le stop le "
                         "04/09/2026 avant l'objectif ; la version modifiée atteint l'objectif"),
+}
+
+# Niveaux relus à la main sur la capture quand l'OCR s'est trompé (prix courant pris pour l'objectif, etc.)
+NIVEAUX = {
+    15279: dict(entree=1.16110, stop=1.16262, objectif=1.15726, statut_rejeu='annoncé',
+                issue_rejeu='non déclenché (objectif atteint sans entrée)', r=float('nan'), cours='⏸', canal='⏸',
+                detail_cours="non déclenché : plus haut 1.16082, à 3 pips de l'entrée (« raté de 3 pips », #15281) ; "
+                             "plan à 2,5 R, l'OCR avait pris le prix affiché (1.15943) pour l'objectif"),
+    15281: dict(entree=1.16121, stop=1.16262, objectif=1.15751, statut_rejeu='après coup',
+                issue_rejeu='non déclenché (objectif atteint sans entrée)', r=float('nan'), cours='⏸', canal='⏸',
+                detail_cours='même trade que #15279, capture du raté (« On a raté notre trade de 3 pips »)'),
 }
 
 
@@ -231,6 +243,11 @@ def main():
         if cours:
             v.loc[k, 'cours'] = cours
         v.loc[k, 'note_verification'] = note
+        v.loc[k, 'ecart'] = ''
+    for mid, cor in NIVEAUX.items():
+        k = v['id_message'] == mid
+        for col, val in cor.items():
+            v.loc[k, col] = val
         v.loc[k, 'ecart'] = ''
     v['resolution'] = np.where(v['date'] >= pd.Timestamp('2023-12-15'), 'horaire', 'journalier')
     v['mois'] = v['date'].dt.strftime('%Y-%m')

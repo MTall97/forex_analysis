@@ -23,7 +23,7 @@ RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(RACINE)
 P = r'(EUR|GBP|AUD|NZD|USD|CAD|CHF|JPY|XAU|NOK)'
 # octobre 2026 : message « A+ » -> trade (data/octobre_2026/trades.csv)
-OCTOBRE = {15562: 15560, 15580: 15576, 15625: 15624}
+OCTOBRE = {15562: 15560, 15580: 15576, 15625: 15624, 15633: 15631}
 
 
 def paires(t):

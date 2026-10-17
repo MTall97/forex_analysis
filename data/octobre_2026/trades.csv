@@ -9,9 +9,9 @@ id,paire,sens,entree,stop,objectif,ratio,publication,prix_a_la_publication,statu
 15595,XAUUSD,achat,4125.15,4106.16,4172.2,2.48,2026-10-09 15:50,4207.2998,après coup,objectif,2026-10-09 00:00:00,2.48,"récapitulatif #15595, #15596"
 15615,GBPUSD,vente,1.32371,,,,2026-10-12 18:38,1.32062,après coup,sans stop ni objectif,,,"MT5 #15615 (1,66 lots, +529,54 $)"
 15620,EURUSD,vente,1.11923,1.12279,1.11032,2.5,2026-10-14 12:33,1.11957,après coup,stop,2026-10-15 02:00:00,-1.0,"TradingView #15620-#15621, MT5 #15623 (1,43 lots, +549,12 $)"
-15624,GBPJPY,vente,209.997,210.244,209.455,2.19,2026-10-14 12:40,210.18201,annoncé,stop,2026-10-16 06:00:00,-1.0,"TradingView #15624, #15626 (ordre limite sur le MLQ 210.000)"
+15624,GBPJPY,vente,209.997,210.244,209.455,2.19,2026-10-14 12:40,210.18201,annoncé,non déclenché (abandonné),,,"TradingView #15624, #15626 (ordre limite sur le MLQ 210.000)"
 15631,EURUSD,vente,1.11617,1.11967,1.1089,2.08,2026-10-14 18:14,1.11408,annoncé,stop,2026-10-14 23:00:00,-1.0,"TradingView #15631 (4h), « continuation logique », « setup A+ » (#15633) ; « fermez sur eurusd pour l'instant » (#15636)"
-15641,AUDJPY,vente,110.002,110.253,109.485,2.06,2026-10-15 00:32,110.232,annoncé,en cours,,1.0,TradingView #15641 et #15642 (ordre limite sur le MLQ 110.000) ; « mieux vaut rater un bon trade » (#15643)
+15641,AUDJPY,vente,110.002,110.253,109.485,2.06,2026-10-15 00:32,110.232,annoncé,non déclenché (abandonné),,,TradingView #15641 et #15642 (ordre limite sur le MLQ 110.000) ; « mieux vaut rater un bon trade » (#15643)
 15649,EURJPY,vente,177.09,177.347,176.57,2.02,2026-10-15 12:24,176.996,annoncé,stop,2026-10-15 17:00:00,-1.0,« je vais vendre l'EURJPY tout de suite » (#15648) ; plan modifié #15650 (177.096 / 177.308 / 176.557) et #15653
 15655,USDJPY,achat,157.5,157.15,158.219,2.05,2026-10-15 13:29,157.756,annoncé,pas encore déclenché,,,"annoncé dès #15639 (00h25), annulé #15647, repris #15656 ; #15661 ; « 4 pips » de l'entrée (#15662, #15666)"
 15664,EURUSD,vente,1.12084,1.1234,1.11565,2.03,2026-10-15 14:48,1.12208,annoncé,stop,2026-10-16 03:00:00,-1.0,« Je vend EURUSD maintenant » (#15665)

@@ -78,7 +78,7 @@
 |---|---|---|
 | AUDJPY, #10510 (24/01/2024) | SL annoncé, objectif selon les cours | le « SL » est #10529, un message d'encouragement mal classé (« imaginez, vous fermez ce soir… », « si on doit toucher SL on le prendra ») ; **aucune issue publiée**. Les cours atteignent l'objectif le 31/01/2024. #10513 précise seulement l'objectif. |
 | GBPJPY, #10853 (02/04/2024) | TP annoncé, stop selon les cours | position **fermée en gain avant l'objectif** : +9 900 $ le 03/04 (#10865). Le plan publié, tenu jusqu'au bout, aurait fini au stop le 12/04. Le TP annoncé est réel ; copier le plan à la lettre aurait perdu. |
-| EURUSD, #13808 (12/09/2025) | objectif non atteint | l'OCR avait lu 1.19593 ; la capture #13836 montre l'objectif **1.18722, atteint**. |
+| EURUSD, #13808 (12/09/2025) | objectif non atteint | ✏️ *corrigé le 17/10/2026* : l'objectif publié est bien 1.19593 (#13808). La capture #13836 du 16/09 le redessine à 1.18722, au prix du moment : gain flottant, pas un TP ; le plan publié finit au stop (voir `analyses/TRADES_SEPTEMBRE.md`). |
 | EURNZD, #15295 (03/09/2026) | TP annoncé, stop selon les cours | **stop élargi après la publication** (1.97098 → 1.97, #15315). Le plan publié touche son stop le 04/09 avant l'objectif ; la version modifiée atteint l'objectif. |
 
 **Aucun faux TP n'a été trouvé sur 2024-2026.** Les TP annoncés correspondent à des mouvements réels, mais deux fois sur quatre il fallait une décision prise après la publication (sortie anticipée, stop déplacé) que le lecteur ne pouvait pas connaître à l'avance.
@@ -200,3 +200,8 @@
 python scripts/verifier_tous_les_trades.py
 python scripts/figures_rapports.py
 ```
+
+## Corrections du 17/10/2026
+- **#15279 (EURUSD, 01/09/2026)** : l'OCR avait pris le prix affiché (1.15943) pour l'objectif, d'où un trade « après coup » à 1,1 R. La capture montre une **vente limite 1.16110, stop 1.16262, objectif 1.15726 (≈ 2,5 R)**, publiée avant l'entrée. Elle n'est **pas déclenchée** : plus haut 1.16082, à 3 pips de l'entrée (« On a raté notre trade de 3 pips », #15281). Correction dans le dictionnaire `NIVEAUX` de `scripts/verifier_tous_les_trades.py`.
+- **#13808** : voir la ligne corrigée ci-dessus.
+- Les statistiques globales ne changent pas : trades copiables 2024-2026, +0,21 R ± 0,14.

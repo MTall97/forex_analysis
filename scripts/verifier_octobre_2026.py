@@ -44,8 +44,12 @@ TRADES = [
     (15664, 'EURUSD', 'vente', 1.12084, 1.12340, 1.11565, '2026-10-15 14:48', None, '« Je vend EURUSD maintenant » (#15665)'),
 ]
 
+# ordres abandonnés dans le canal : l'ordre limite cesse d'être valide à ce moment (UTC)
+ABANDONS = {15624: ('2026-10-14 13:03', '« le trade est parti sans nous » (#15628)'),
+            15641: ('2026-10-15 01:20', '« mieux vaut rater un bon trade » (#15643)')}
 
-def rejouer(h, sens, e, sl, tp, debut, limite):
+
+def rejouer(h, sens, e, sl, tp, debut, limite, abandon=None):
     x = h[h['date'] >= pd.Timestamp(debut).floor('h')].reset_index(drop=True)
     if not len(x):
         return 'pas de cours', None, None
@@ -56,7 +60,12 @@ def rejouer(h, sens, e, sl, tp, debut, limite):
     i0 = 0
     if limite:
         # ordre limite (repère achat) : exécuté quand le prix descend jusqu'à l'entrée, dans les 5 jours (120 h)
-        k = next((i for i in range(min(len(x), 120)) if ll[i] <= E), None)
+        n = min(len(x), 120)
+        if abandon is not None:
+            n = min(n, int((x['date'] < pd.Timestamp(abandon).floor('h')).sum()))
+        k = next((i for i in range(n) if ll[i] <= E), None)
+        if k is None and abandon is not None:
+            return 'non déclenché (abandonné)', None, None
         if k is None:
             return ('non déclenché' if len(x) >= 120 else 'pas encore déclenché'), None, None
         i0 = k
@@ -87,7 +96,8 @@ def main():
         statut = 'après coup' if apres_coup else 'annoncé'
         # plan annoncé : suivi à partir de l'heure qui suit la publication (la bougie en cours contient des prix antérieurs)
         debut = ent if apres_coup else (pd.Timestamp(pub).floor('h') + pd.Timedelta(hours=1))
-        issue, quand, r = rejouer(h, sens, e, sl, tp, debut, limite=not apres_coup)
+        issue, quand, r = rejouer(h, sens, e, sl, tp, debut, limite=not apres_coup,
+                                  abandon=ABANDONS.get(tid, (None,))[0])
         rr = round(abs(tp - e) / abs(e - sl), 2) if sl and tp else None
         lignes.append(dict(id=tid, paire=p, sens=sens, entree=e, stop=sl, objectif=tp, ratio=rr, publication=pub,
                            prix_a_la_publication=round(prix_pub, 5) if prix_pub else None, statut=statut, issue=issue,

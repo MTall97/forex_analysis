@@ -42,17 +42,17 @@ C'est un **modèle Notion destiné aux élèves**, presque entièrement vide. Le
 
 ## 3. Le playbook confronté au canal
 
-### Les « setups A+ » : 41 % de réussite quand ils sont annoncés, 86 % quand ils sont montrés après coup
-Amirou décrit le setup A+ comme « un trade qui a plus de 90 % de taux de réussite […] backtesté sur des années » (#12503, 10/12/2024). Il annonce aussi « plus de 95 % » (#12645) et « setup A+ donc 90 % de probabilité » (#15562). 37 trades sont qualifiés de A+ dans le canal :
+### Les « setups A+ » : 39 % de réussite quand ils sont annoncés, 86 % quand ils sont montrés après coup
+Amirou décrit le setup A+ comme « un trade qui a plus de 90 % de taux de réussite […] backtesté sur des années » (#12503, 10/12/2024). Il annonce aussi « plus de 95 % » (#12645) et « setup A+ donc 90 % de probabilité » (#15562). 38 trades sont qualifiés de A+ dans le canal (mis à jour le 17/10/2026 avec l'EURUSD « setup A+ » du 14/10, #15631-#15633, arrêté au stop) :
 
 | Publication | Trades A+ | Exécutés | Gagnants | Perdants | Non déclenchés | Réussite | R moyen |
 |---|---|---|---|---|---|---|---|
-| **annoncés avant l'entrée** (copiables) | 23 | 17 | 7 | 10 | 6 | **41 %** | +0,25 |
+| **annoncés avant l'entrée** (copiables) | 24 | 18 | 7 | 11 | 6 | **39 %** | +0,18 |
 | montrés après coup | 14 | 14 | 12 | 2 | — | 86 % | +1,76 |
 
-- Si la vraie réussite était de 90 %, obtenir 7 gagnants ou moins sur 17 aurait une probabilité d'environ **1 sur un million**. Sur les trades copiables, l'annonce de 90 % est démentie.
+- Si la vraie réussite était de 90 %, obtenir 7 gagnants ou moins sur 18 aurait une probabilité d'environ **1 sur 6 millions**. Sur les trades copiables, l'annonce de 90 % est démentie.
 - Le chiffre de 86 % n'apparaît que sur les trades montrés **après coup**, c'est-à-dire choisis une fois le résultat connu. C'est l'effet de sélection déjà relevé dans tout le canal.
-- Le R moyen des A+ annoncés, +0,25 R, est du même ordre que celui de tous ses trades copiables (+0,21 R ± 0,14, voir `analyses/TRADES_TOUS_LES_MOIS.md`). Être qualifié de A+ ne distingue pas les trades. Avec 17 trades, ce chiffre reste très imprécis.
+- Le R moyen des A+ annoncés, +0,18 R, est du même ordre que celui de tous ses trades copiables (+0,21 R ± 0,14, voir `analyses/TRADES_TOUS_LES_MOIS.md`). Être qualifié de A+ ne distingue pas les trades. Avec 18 trades, ce chiffre reste très imprécis.
 - Le rapprochement entre chaque message « A+ » et son trade est automatique. Chaque ligne de `data/setups_a_plus.csv` donne les deux ids pour qu'on puisse la vérifier.
 
 ### Ses propres règles ne sont pas appliquées
