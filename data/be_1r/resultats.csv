@@ -1,0 +1,13 @@
+strategie,variante,trades,gagnants,objectif,be,stop,echeance,r_moyen,erreur_type,r_1re_moitie,r_2e_moitie,baisse_max_R
+englobante + MLQ (horaire),sans BE,764,0.487,127,0,279,358,0.096,0.04,0.098,0.095,17.2
+englobante + MLQ (horaire),BE à +1 R,764,0.437,116,98,233,317,0.11,0.038,0.094,0.127,17.6
+englobante + MLQ (horaire),"BE à +1,5 R",764,0.473,123,28,266,347,0.096,0.039,0.093,0.099,17.2
+englobante + MLQ (journalier 2012-2026),sans BE,1973,0.436,272,0,781,920,0.004,0.024,-0.063,0.071,34.9
+englobante + MLQ (journalier 2012-2026),BE à +1 R,1973,0.401,257,168,725,823,0.005,0.024,-0.058,0.069,35.8
+englobante + MLQ (journalier 2012-2026),"BE à +1,5 R",1973,0.427,266,45,762,900,0.005,0.024,-0.056,0.066,42.9
+lundi-mardi-mercredi,sans BE,88,0.432,32,0,47,9,0.386,0.192,-0.118,0.806,9.2
+lundi-mardi-mercredi,BE à +1 R,88,0.33,26,18,40,4,0.273,0.176,-0.006,0.505,7.4
+lundi-mardi-mercredi,"BE à +1,5 R",88,0.398,30,5,45,8,0.328,0.184,-0.138,0.717,8.2
+cassure-retour MLQ,sans BE,3941,0.361,1309,0,2487,145,0.009,0.022,0.014,0.005,90.0
+cassure-retour MLQ,BE à +1 R,3941,0.259,989,1035,1873,44,-0.011,0.019,-0.015,-0.007,80.2
+cassure-retour MLQ,"BE à +1,5 R",3941,0.322,1192,385,2267,97,0.001,0.021,0.015,-0.013,85.1

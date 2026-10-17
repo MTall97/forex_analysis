@@ -64,3 +64,22 @@ Les signaux, l'entrée et la sortie au temps ne changent pas. L'objectif reste e
 - **Le playbook (tracker + journal) n'améliore pas les stratégies de façon fiable.** Une règle qui aide une stratégie en dégrade une autre, ou ne tient que sur une période. Les gains vont de 0,01 à 0,07 R, à la limite du bruit.
 - **Le seul candidat sérieux** : ne pas prendre l'englobante + MLQ dans les 48 h d'une décision de banque centrale, ni quand le COT est déjà extrême dans le sens du trade (+0,10 → +0,16 R sur 2024-2026). Il ne tient pas sur 2012-2026. Il mérite seulement d'être **noté à côté du suivi en démo**, comme le narratif, sans changer la règle suivie.
 - **Le stop fixe de 20 à 50 pips n'apporte rien.** Gardez le stop derrière la structure. Pour réduire le risque, la seule mesure efficace reste la taille de position.
+
+## Stop au point d'entrée (BE) après +1 R (17/10/2026)
+
+Script : `scripts/tester_be_1r.py` → `data/be_1r/`. Pour chaque stratégie, on garde le même signal, la même entrée, le même stop et le même objectif. On remonte simplement le stop au prix d'entrée quand le prix a fait +1 R. Le BE ne s'applique qu'à partir de la bougie suivante. On déduit le spread. Le suivi de tendance n'est pas concerné : son objectif est 1 R.
+
+| Stratégie | Sans BE | BE à +1 R | BE à +1,5 R | Trades | Sortis au BE (avec BE à +1 R) |
+|---|---|---|---|---|---|
+| Englobante + MLQ, horaire 2024-26 | +0,10 ± 0,04 | +0,11 ± 0,04 | +0,10 | 764 | 98 |
+| Englobante + MLQ, journalier 2012-26 | +0,00 | +0,01 | +0,01 | 1 973 | 168 |
+| Lundi-mardi-mercredi | **+0,39 ± 0,19** | +0,27 ± 0,18 | +0,33 | 88 | 18 |
+| Cassure-retour MLQ | +0,01 | −0,01 | +0,00 | 3 941 | 1 035 |
+
+Ce que l'on regarde ensuite, ce sont les trades sortis au BE : qu'auraient-ils donné sans BE ?
+
+- **Lundi-mardi-mercredi** : les 18 trades sortis au BE auraient donné 6 objectifs, 7 stops et 5 sorties le vendredi, soit **+8,9 R au total**. Avec le BE, ils donnent −1,1 R (spread compris). L'objectif d'origine est le plus haut ou le plus bas du lundi : il est souvent loin, et le prix revient fréquemment au point d'entrée avant de l'atteindre. Le BE réduit la plus forte baisse (9,2 → 7,4 R) et améliore la première moitié de la période (−0,12 → −0,01 R), mais il coûte 0,30 R par trade sur la seconde.
+- **Englobante horaire** : le gain de +0,014 R par trade est bien inférieur à l'erreur type (0,04). Il ne vient que de la seconde moitié et disparaît sur le journalier 2012-2026.
+- **Cassure-retour** : le BE coupe 320 trades qui seraient allés à l'objectif.
+
+Conclusion : le BE à +1 R ne fait pas mieux que la règle d'origine. Il transforme surtout des gains en sorties à zéro. Il réduit la baisse maximale, ce qui peut rendre la stratégie plus facile à suivre, mais il ne l'améliore pas.
