@@ -1,0 +1,7 @@
+regle,nom,sum,count
+R1,saisonnalité contraire,6,10
+R2,annonce majeure dans les 24 h,4,9
+R3,banque centrale dans les 48 h,7,9
+R4,COT extrême dans le sens du trade,7,10
+R5,contre le narratif d'Amirou,6,9
+R6,contre le taux US 2 ans,4,9

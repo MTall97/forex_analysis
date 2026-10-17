@@ -1,0 +1,16 @@
+strategie,periode,tous,r_tous,gardes,r_gardes,gain,R_total_tous,R_total_gardes
+cassure-retour MLQ,1re moitié,1970,0.012,1232,0.005,-0.007,23.6,6.0
+cassure-retour MLQ,2e moitié,1971,0.005,1256,0.058,0.053,10.7,73.3
+englobante + MLQ (horaire),1re moitié,382,0.098,250,0.122,0.024,37.4,30.6
+englobante + MLQ (horaire),2e moitié,382,0.095,262,0.201,0.106,36.2,52.7
+englobante + MLQ (journalier 2012-2026),1re moitié,986,-0.063,622,-0.082,-0.019,-62.2,-50.8
+englobante + MLQ (journalier 2012-2026),2e moitié,987,0.071,671,0.037,-0.034,70.0,24.9
+lundi-mardi-mercredi,1re moitié,40,-0.118,23,-0.029,0.089,-4.7,-0.7
+lundi-mardi-mercredi,2e moitié,48,0.806,20,0.377,-0.429,38.7,7.5
+suivi de tendance 1 R,1re moitié,1738,-0.118,1076,-0.082,0.036,-205.3,-88.6
+suivi de tendance 1 R,2e moitié,1749,-0.141,1271,-0.127,0.014,-247.2,-161.6
+cassure-retour MLQ,tout,3941,0.009,2488,0.032,0.023,34.3,79.3
+englobante + MLQ (horaire),tout,764,0.096,512,0.163,0.066,73.6,83.3
+englobante + MLQ (journalier 2012-2026),tout,1973,0.004,1293,-0.02,-0.024,7.7,-25.9
+lundi-mardi-mercredi,tout,88,0.386,43,0.16,-0.226,34.0,6.9
+suivi de tendance 1 R,tout,3487,-0.13,2347,-0.107,0.023,-452.5,-250.2

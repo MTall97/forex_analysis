@@ -1,0 +1,66 @@
+# Améliorer les stratégies avec le playbook (tracker + journal des stratégies)
+
+*17/10/2026. Question de l'utilisateur : en se basant uniquement sur les deux pages (tracker saisonnalité & fonda, journal des stratégies), peut-on améliorer les statistiques des trades ? Puis : et avec un stop de 20 à 50 pips ?*
+
+*Scripts : [`scripts/tester_filtres_playbook.py`](../scripts/tester_filtres_playbook.py) → `data/filtres_playbook/` ; [`scripts/tester_stops_fixes.py`](../scripts/tester_stops_fixes.py) → `data/stops_fixes/`.*
+
+## 1. Six règles « ne pas entrer quand… », tirées des colonnes du tracker
+
+Les règles ont été fixées avant le test, et chacune est mesurée sur les cinq stratégies du journal.
+
+| Règle | Ce qu'elle écarte |
+|---|---|
+| R1 saisonnalité contraire | trades contre la moyenne du même mois sur 10 ans |
+| R2 annonce majeure dans les 24 h | taux, NFP, inflation, chômage ou PIB sur l'une des deux devises |
+| R3 banque centrale dans les 48 h | une décision de taux sur l'une des deux devises |
+| R4 COT extrême dans le sens du trade | devise achetée déjà au-dessus du 90e centile des gérants d'actifs sur 3 ans, ou devise vendue sous le 10e |
+| R5 contre le narratif d'Amirou | trades contre son biais écrit sur 14 jours |
+| R6 contre le taux US 2 ans | achat du dollar quand le 2 ans a baissé de 3 pb ou plus sur 5 jours, et l'inverse |
+
+**Gain en R par trade quand on applique la règle** (R moyen des trades gardés moins R moyen de tous) :
+
+| Règle | Englobante horaire 2024-26 | Englobante journalière 2012-26 | Lundi-mardi-mercredi | Cassure-retour MLQ | Suivi de tendance |
+|---|---|---|---|---|---|
+| R1 saisonnalité | 0,00 | 0,00 | +0,08 | −0,01 | 0,00 |
+| R2 annonce 24 h | 0,00 | −0,01 | −0,18 | +0,01 | 0,00 |
+| R3 banque centrale 48 h | +0,02 | +0,01 | **−0,32** | +0,02 | +0,01 |
+| R4 COT extrême | **+0,05** | **−0,03** | +0,06 | +0,01 | +0,02 |
+| R5 contre Amirou | +0,01 | +0,03 | +0,21 | −0,01 | 0,00 |
+| R6 contre le 2 ans | +0,02 | −0,01 | +0,12 | **+0,12** | **−0,04** |
+
+- **Aucune règle n'aide partout.** La plus régulière (R3, ne pas entrer dans les 48 h d'une décision de banque centrale) aide dans 7 cas sur 9, avec des gains de 0,01 à 0,02 R. Mais elle coûte 0,32 R sur lundi-mardi-mercredi, dont les meilleurs trades tombent justement autour des banques centrales.
+- **R4 (COT extrême)** aide l'englobante récente (+0,05) et le suivi de tendance, mais nuit à l'englobante sur 2012-2026.
+- **R6 (taux à 2 ans)** aide nettement la cassure-retour (+0,12, environ 3,7 erreurs types), mais nuit au suivi de tendance. On retrouve le constat de `analyses/NOTIONS_MEET.md` : c'est un effet de période (2024-2026).
+- **La saisonnalité (R1) et les annonces (R2) ne servent à rien** comme filtres.
+- **Les écarts sur lundi-mardi-mercredi** (88 trades) sont trop instables pour être utilisés.
+
+**Le meilleur couple (R3 + R4)** appliqué aux cinq stratégies :
+
+| Stratégie | Tous les trades | Trades gardés | Écart |
+|---|---|---|---|
+| Englobante + MLQ horaire 2024-2026 | +0,10 R (764) | **+0,16 R** (512) | +0,07, dans les deux moitiés de la période |
+| Cassure-retour MLQ | +0,01 R | +0,03 R | +0,02 (seulement la 2e moitié) |
+| Suivi de tendance 1 R | −0,13 R | −0,11 R | +0,02, toujours perdant |
+| Englobante + MLQ journalière 2012-2026 | +0,00 R | −0,02 R | **−0,02** |
+| Lundi-mardi-mercredi | +0,39 R | +0,16 R | **−0,23** |
+
+## 2. Stop fixe de 20, 30, 40 ou 50 pips
+
+Les signaux, l'entrée et la sortie au temps ne changent pas. L'objectif reste en R de la stratégie : 2 R, ou 1 R pour le suivi de tendance. Pour lundi-mardi-mercredi, l'objectif d'origine (plus haut ou plus bas du lundi) est gardé, avec une variante à 2 R.
+
+| Stratégie | Stop d'origine | 20 pips | 30 pips | 40 pips | 50 pips |
+|---|---|---|---|---|---|
+| Englobante + MLQ horaire 2024-2026 | **+0,10** (baisse max 17 R) | −0,01 | +0,04 | +0,07 | +0,09 (baisse max 27 R) |
+| Englobante + MLQ journalière 2012-2026 | **+0,00** | −0,28 | −0,13 | −0,06 | −0,02 |
+| Lundi-mardi-mercredi (objectif d'origine) | **+0,39** | +0,24 | +0,38 | +0,33 | +0,18 |
+| Cassure-retour MLQ | +0,01 | −0,09 | −0,01 | −0,02 | +0,02 |
+| Suivi de tendance 1 R | −0,13 | −0,11 | −0,08 | −0,05 | −0,04 |
+
+- **Un stop fixe ne fait jamais mieux que le stop d'origine** placé derrière la structure (extrême de la bougie, du mardi, ATR). Au mieux il fait jeu égal (50 pips sur l'englobante, 30 pips sur lundi-mardi-mercredi), et souvent avec une baisse maximale plus forte.
+- **Plus le stop fixe est petit, plus c'est mauvais.** À 20 pips, le bruit de marché touche le stop avant que l'idée ait le temps de jouer, et le spread pèse plus lourd en R.
+- Sur le suivi de tendance, un stop plus large réduit la perte (de −0,13 à −0,04 R), surtout parce que le spread compte moins. La stratégie reste perdante.
+
+## 3. En résumé
+- **Le playbook (tracker + journal) n'améliore pas les stratégies de façon fiable.** Une règle qui aide une stratégie en dégrade une autre, ou ne tient que sur une période. Les gains vont de 0,01 à 0,07 R, à la limite du bruit.
+- **Le seul candidat sérieux** : ne pas prendre l'englobante + MLQ dans les 48 h d'une décision de banque centrale, ni quand le COT est déjà extrême dans le sens du trade (+0,10 → +0,16 R sur 2024-2026). Il ne tient pas sur 2012-2026. Il mérite seulement d'être **noté à côté du suivi en démo**, comme le narratif, sans changer la règle suivie.
+- **Le stop fixe de 20 à 50 pips n'apporte rien.** Gardez le stop derrière la structure. Pour réduire le risque, la seule mesure efficace reste la taille de position.

@@ -1,0 +1,30 @@
+strategie,stop,objectif,trades,gagnants,r_moyen,erreur_type,r_1re_moitie,r_2e_moitie,baisse_max_R
+englobante + MLQ (horaire),origine,règle d'origine,764,0.486,0.096,0.04,0.098,0.095,17.2
+englobante + MLQ (horaire),20 pips,2 R,764,0.364,-0.012,0.052,0.019,-0.042,45.7
+englobante + MLQ (horaire),30 pips,2 R,764,0.395,0.042,0.05,0.045,0.039,30.9
+englobante + MLQ (horaire),40 pips,2 R,764,0.427,0.07,0.048,0.024,0.116,27.8
+englobante + MLQ (horaire),50 pips,2 R,764,0.452,0.094,0.045,0.1,0.089,26.9
+englobante + MLQ (journalier 2012-2026),origine,règle d'origine,1973,0.436,0.004,0.024,-0.063,0.071,34.9
+englobante + MLQ (journalier 2012-2026),20 pips,2 R,1973,0.268,-0.277,0.03,-0.294,-0.26,546.4
+englobante + MLQ (journalier 2012-2026),30 pips,2 R,1973,0.318,-0.125,0.031,-0.156,-0.095,256.5
+englobante + MLQ (journalier 2012-2026),40 pips,2 R,1973,0.353,-0.062,0.03,-0.101,-0.023,141.8
+englobante + MLQ (journalier 2012-2026),50 pips,2 R,1973,0.38,-0.022,0.029,-0.07,0.026,86.4
+lundi-mardi-mercredi,origine,règle d'origine,88,0.432,0.385,0.192,-0.118,0.805,9.2
+lundi-mardi-mercredi,20 pips,objectif d'origine,88,0.227,0.241,0.284,-0.022,0.459,15.7
+lundi-mardi-mercredi,20 pips,2 R,88,0.33,-0.114,0.152,-0.353,0.085,16.6
+lundi-mardi-mercredi,30 pips,objectif d'origine,88,0.33,0.378,0.239,0.037,0.662,10.7
+lundi-mardi-mercredi,30 pips,2 R,88,0.409,0.144,0.157,-0.186,0.419,7.7
+lundi-mardi-mercredi,40 pips,objectif d'origine,88,0.386,0.334,0.197,-0.13,0.72,9.5
+lundi-mardi-mercredi,40 pips,2 R,88,0.432,0.226,0.155,-0.148,0.538,9.5
+lundi-mardi-mercredi,50 pips,objectif d'origine,88,0.386,0.175,0.166,-0.206,0.493,9.5
+lundi-mardi-mercredi,50 pips,2 R,88,0.364,0.038,0.146,-0.32,0.337,9.5
+cassure-retour MLQ,origine,règle d'origine,3941,0.361,0.009,0.022,0.012,0.005,92.9
+cassure-retour MLQ,20 pips,2 R,3941,0.337,-0.091,0.023,-0.095,-0.087,386.0
+cassure-retour MLQ,30 pips,2 R,3941,0.354,-0.014,0.023,-0.019,-0.008,131.0
+cassure-retour MLQ,40 pips,2 R,3941,0.353,-0.016,0.022,-0.013,-0.019,114.8
+cassure-retour MLQ,50 pips,2 R,3941,0.37,0.02,0.022,0.032,0.007,78.4
+suivi de tendance 1 R,origine,règle d'origine,3487,0.478,-0.13,0.016,-0.118,-0.141,463.2
+suivi de tendance 1 R,20 pips,1 R,3487,0.482,-0.109,0.016,-0.094,-0.124,384.3
+suivi de tendance 1 R,30 pips,1 R,3487,0.475,-0.076,0.015,-0.041,-0.111,270.9
+suivi de tendance 1 R,40 pips,1 R,3487,0.476,-0.052,0.013,-0.012,-0.091,183.1
+suivi de tendance 1 R,50 pips,1 R,3487,0.471,-0.043,0.012,-0.007,-0.079,158.8
