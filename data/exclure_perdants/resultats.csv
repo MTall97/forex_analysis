@@ -1,0 +1,51 @@
+strategie,test_depuis,filtre,mesure,trades,r_tous,ecartes,r_ecartes,r_gardes,gain_par_trade,total_R_tous,total_R_gardes,erreur_type
+cassure-retour MLQ,2025-01-01,paires perdantes,après coup,2527,0.021,1328,-0.058,0.108,0.087,53.3,129.8,0.042
+cassure-retour MLQ,2025-01-01,paires perdantes,walk-forward,2527,0.021,1229,0.03,0.013,-0.008,53.3,16.6,0.039
+cassure-retour MLQ,2025-01-01,mois perdants,après coup,2527,0.021,993,-0.051,0.068,0.046,53.3,103.6,0.036
+cassure-retour MLQ,2025-01-01,mois perdants,walk-forward,2527,0.021,922,0.083,-0.014,-0.036,53.3,-23.2,0.035
+cassure-retour MLQ,2025-01-01,paire x mois perdants,après coup,2527,0.021,1280,-0.312,0.363,0.342,53.3,452.3,0.042
+cassure-retour MLQ,2025-01-01,paire x mois perdants,walk-forward,2527,0.021,1113,0.093,-0.036,-0.057,53.3,-50.6,0.037
+cassure-retour MLQ,2025-01-01,paire x sens perdants,après coup,2527,0.021,1345,-0.116,0.177,0.155,53.3,208.7,0.042
+cassure-retour MLQ,2025-01-01,paire x sens perdants,walk-forward,2527,0.021,1168,0.034,0.01,-0.011,53.3,13.1,0.038
+cassure-retour MLQ,2025-01-01,jours perdants,après coup,2527,0.021,1568,-0.008,0.068,0.047,53.3,65.3,0.046
+cassure-retour MLQ,2025-01-01,jours perdants,walk-forward,2527,0.021,820,0.066,-0.001,-0.022,53.3,-0.9,0.034
+englobante + MLQ (horaire),2025-01-01,paires perdantes,après coup,485,0.13,134,-0.085,0.212,0.082,63.0,74.4,0.06
+englobante + MLQ (horaire),2025-01-01,paires perdantes,walk-forward,485,0.13,173,0.176,0.104,-0.026,63.0,32.5,0.062
+englobante + MLQ (horaire),2025-01-01,mois perdants,après coup,485,0.13,80,0.023,0.151,0.021,63.0,61.2,0.054
+englobante + MLQ (horaire),2025-01-01,mois perdants,walk-forward,485,0.13,169,0.209,0.088,-0.042,63.0,27.7,0.059
+englobante + MLQ (horaire),2025-01-01,paire x mois perdants,après coup,485,0.13,181,-0.313,0.394,0.264,63.0,119.7,0.065
+englobante + MLQ (horaire),2025-01-01,paire x mois perdants,walk-forward,485,0.13,43,0.197,0.123,-0.007,63.0,54.5,0.052
+englobante + MLQ (horaire),2025-01-01,paire x sens perdants,après coup,485,0.13,187,-0.12,0.287,0.157,63.0,85.4,0.066
+englobante + MLQ (horaire),2025-01-01,paire x sens perdants,walk-forward,485,0.13,158,0.082,0.153,0.023,63.0,50.1,0.061
+englobante + MLQ (horaire),2025-01-01,jours perdants,après coup,485,0.13,207,-0.003,0.229,0.099,63.0,63.7,0.067
+englobante + MLQ (horaire),2025-01-01,jours perdants,walk-forward,485,0.13,207,-0.003,0.229,0.099,63.0,63.7,0.067
+englobante + MLQ (journalier 2012-2026),2015-01-01,paires perdantes,après coup,1548,0.021,643,-0.039,0.064,0.043,32.6,57.7,0.036
+englobante + MLQ (journalier 2012-2026),2015-01-01,paires perdantes,walk-forward,1548,0.021,1022,0.034,-0.005,-0.026,32.6,-2.5,0.046
+englobante + MLQ (journalier 2012-2026),2015-01-01,mois perdants,après coup,1548,0.021,886,-0.059,0.128,0.107,32.6,84.9,0.043
+englobante + MLQ (journalier 2012-2026),2015-01-01,mois perdants,walk-forward,1548,0.021,1026,-0.022,0.106,0.085,32.6,55.4,0.048
+englobante + MLQ (journalier 2012-2026),2015-01-01,paire x mois perdants,après coup,1548,0.021,773,-0.226,0.267,0.246,32.6,207.1,0.04
+englobante + MLQ (journalier 2012-2026),2015-01-01,paire x mois perdants,walk-forward,1548,0.021,821,-0.001,0.046,0.025,32.6,33.5,0.04
+englobante + MLQ (journalier 2012-2026),2015-01-01,paire x sens perdants,après coup,1548,0.021,728,-0.065,0.097,0.076,32.6,79.9,0.039
+englobante + MLQ (journalier 2012-2026),2015-01-01,paire x sens perdants,walk-forward,1548,0.021,946,0.003,0.05,0.029,32.6,30.2,0.044
+englobante + MLQ (journalier 2012-2026),2015-01-01,jours perdants,après coup,1548,0.021,949,-0.001,0.056,0.035,32.6,33.5,0.046
+englobante + MLQ (journalier 2012-2026),2015-01-01,jours perdants,walk-forward,1548,0.021,1265,0.016,0.043,0.022,32.6,12.3,0.066
+lundi-mardi-mercredi,2025-01-01,paires perdantes,après coup,63,0.583,0,,0.583,0.0,36.7,36.7,0.238
+lundi-mardi-mercredi,2025-01-01,paires perdantes,walk-forward,63,0.583,0,,0.583,0.0,36.7,36.7,0.238
+lundi-mardi-mercredi,2025-01-01,mois perdants,après coup,63,0.583,20,-0.643,1.153,0.57,36.7,49.6,0.299
+lundi-mardi-mercredi,2025-01-01,mois perdants,walk-forward,63,0.583,2,1.343,0.558,-0.025,36.7,34.0,0.245
+lundi-mardi-mercredi,2025-01-01,paire x mois perdants,après coup,63,0.583,2,0.112,0.598,0.015,36.7,36.5,0.244
+lundi-mardi-mercredi,2025-01-01,paire x mois perdants,walk-forward,63,0.583,1,-1.051,0.609,0.026,36.7,37.8,0.24
+lundi-mardi-mercredi,2025-01-01,paire x sens perdants,après coup,63,0.583,5,0.186,0.617,0.034,36.7,35.8,0.251
+lundi-mardi-mercredi,2025-01-01,paire x sens perdants,walk-forward,63,0.583,0,,0.583,0.0,36.7,36.7,0.238
+lundi-mardi-mercredi,2025-01-01,jours perdants,après coup,63,0.583,0,,0.583,0.0,36.7,36.7,0.238
+lundi-mardi-mercredi,2025-01-01,jours perdants,walk-forward,63,0.583,23,0.383,0.697,0.115,36.7,27.9,0.303
+suivi de tendance 1 R,2025-01-01,paires perdantes,après coup,2081,-0.139,1804,-0.169,0.055,0.194,-288.9,15.3,0.058
+suivi de tendance 1 R,2025-01-01,paires perdantes,walk-forward,2081,-0.139,1799,-0.155,-0.033,0.106,-288.9,-9.3,0.058
+suivi de tendance 1 R,2025-01-01,mois perdants,après coup,2081,-0.139,2081,-0.139,,,-288.9,0.0,
+suivi de tendance 1 R,2025-01-01,mois perdants,walk-forward,2081,-0.139,1784,-0.133,-0.171,-0.032,-288.9,-50.8,0.056
+suivi de tendance 1 R,2025-01-01,paire x mois perdants,après coup,2081,-0.139,1396,-0.293,0.175,0.313,-288.9,119.6,0.035
+suivi de tendance 1 R,2025-01-01,paire x mois perdants,walk-forward,2081,-0.139,1254,-0.154,-0.116,0.023,-288.9,-95.7,0.034
+suivi de tendance 1 R,2025-01-01,paire x sens perdants,après coup,2081,-0.139,1818,-0.17,0.078,0.217,-288.9,20.6,0.059
+suivi de tendance 1 R,2025-01-01,paire x sens perdants,walk-forward,2081,-0.139,1656,-0.139,-0.14,-0.001,-288.9,-59.4,0.047
+suivi de tendance 1 R,2025-01-01,jours perdants,après coup,2081,-0.139,2081,-0.139,,,-288.9,0.0,
+suivi de tendance 1 R,2025-01-01,jours perdants,walk-forward,2081,-0.139,2081,-0.139,,,-288.9,0.0,

@@ -83,3 +83,30 @@ Ce que l'on regarde ensuite, ce sont les trades sortis au BE : qu'auraient-ils d
 - **Cassure-retour** : le BE coupe 320 trades qui seraient allés à l'objectif.
 
 Conclusion : le BE à +1 R ne fait pas mieux que la règle d'origine. Il transforme surtout des gains en sorties à zéro. Il réduit la baisse maximale, ce qui peut rendre la stratégie plus facile à suivre, mais il ne l'améliore pas.
+
+## Écarter les paires, mois ou jours perdants (17/10/2026)
+
+Script : `scripts/tester_exclure_perdants.py` → `data/exclure_perdants/resultats.csv`. Pour chaque stratégie, on écarte les cases qui perdent : paires, mois (la saisonnalité propre à la stratégie), paire × mois, paire × sens ou jours de la semaine. On mesure le résultat de deux façons :
+
+- **après coup** : les cases perdantes sont repérées sur tous les trades, puis retirées de ces mêmes trades ;
+- **en conditions réelles (walk-forward)** : chaque trimestre, on ne repère les cases perdantes que sur les trades déjà connus, puis on applique le filtre au trimestre suivant.
+
+Les tests portent sur 2025-2026 pour les stratégies de 2024-2026 et sur 2015-2026 pour l'englobante journalière.
+
+| Stratégie et filtre | Gain par trade après coup | Gain par trade en conditions réelles |
+|---|---|---|
+| Englobante horaire, paire × mois | +0,26 R | −0,01 R |
+| Englobante horaire, paires | +0,08 | −0,03 |
+| Englobante horaire, jours (mardi et vendredi écartés) | +0,10 | **+0,10** (t = 2,3) |
+| Englobante journalière 2012-26, paire × mois | +0,25 | +0,03 |
+| Englobante journalière 2012-26, mois | +0,11 | **+0,09** (t = 2,2) |
+| Cassure-retour, paire × mois | +0,34 | −0,06 |
+| Suivi de tendance, paire × mois | +0,31 | +0,02 (reste perdant) |
+| Lundi-mardi-mercredi | trop peu de trades (63 testés) | — |
+
+Après coup, le filtre améliore toujours le résultat. En conditions réelles, l'amélioration disparaît presque partout. Les deux exceptions ne tiennent pas :
+
+- **Les mois perdants de l'englobante journalière** aident en 2015-2020 et en 2021-2023. En 2024-2026, ce n'est plus le cas : les trades écartés font +0,18 R, contre +0,16 R pour les trades gardés.
+- **Les jours perdants de l'englobante horaire** (entrée le mardi ou le vendredi) aident en 2025 et en 2026. Mais sur l'englobante journalière, l'entrée du mardi est l'une des meilleures depuis 2020 (+0,12 et +0,22 R).
+
+Enfin, ce test compte 25 combinaisons (5 filtres × 5 stratégies). Sur 25 essais, il est normal que le hasard en fasse ressortir une ou deux avec t ≈ 2.
