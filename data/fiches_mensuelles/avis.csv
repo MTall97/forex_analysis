@@ -1,0 +1,433 @@
+id,date,devise,sens,extrait,1 semaine,juste 1 semaine,1 mois,juste 1 mois
+7116,2023-01-09T17:09,JPY,haussier,"Cette année, nous allons purement nous focaliser sur les paires en JPY car nous savons que JPY sera probablement haussier",2.13,True,0.62,True
+7120,2023-01-09T19:17,AUD,haussier,Nous serons egalement haussier sur AUD,0.06,True,0.28,True
+7122,2023-01-09T19:21,AUD,haussier,L'Aussie se renforce sur le sentiment de risque et la réouverture de la Chine,0.06,True,0.28,True
+7133,2023-01-12T15:36,EUR,baissier,"Dans la Video je vous dit qu'il faut vendre USDPJY, EURJPY, CADJPY et GBPJPY",-0.33,True,-0.65,True
+7133,2023-01-12T15:36,JPY,haussier,"Dans la Video je vous dit qu'il faut vendre USDPJY, EURJPY, CADJPY et GBPJPY",-0.58,False,-1.94,False
+7149,2023-01-13T06:43,GBP,haussier,GBPUSD risque de monter et rejeter exactement 1.22500 🙂,1.01,True,0.26,True
+7149,2023-01-13T06:43,USD,baissier,GBPUSD risque de monter et rejeter exactement 1.22500 🙂,-0.42,True,0.57,False
+7155,2023-01-13T07:01,GBP,baissier,"0.1%, pas mal pour GBPUSD, Ce nest pas tres interessant de vendre",1.01,False,0.26,False
+7155,2023-01-13T07:01,USD,haussier,"0.1%, pas mal pour GBPUSD, Ce nest pas tres interessant de vendre",-0.42,False,0.57,True
+7159,2023-01-17T17:37,JPY,haussier,"Le yen japonais est tres incertain atuellement, demain matin on saura sils vont augmenter le taux dinteret ou pas c'est la raison pourlaquel",-1.67,False,-3.15,False
+7161,2023-01-17T17:37,JPY,baissier,"parceque le sentiment general va changer, d'ailleurs je suivais le COT DATA, les institutions ont diminués leurs positions de vente sur le y",-1.67,True,-3.15,True
+7196,2023-01-19T00:35,AUD,baissier,"Je serai baissier sur Aud, donc baissier sur les paires Audusd, Audjpy, Audcad et haussier sur Euraud, Gbpaud",2.45,False,1.19,False
+7227,2023-01-23T06:12,EUR,baissier,"Eurjpy, Gbpjpy, Eurusd Baissier sur:",-0.16,True,-0.19,True
+7227,2023-01-23T06:12,JPY,haussier,"Eurjpy, Gbpjpy, Eurusd Baissier sur:",0.09,True,-1.01,False
+7251,2023-01-25T06:01,AUD,haussier,Nous serons haussier sur AUD.,-0.27,False,-1.88,False
+7282,2023-01-26T09:33,EUR,haussier,On est haussier sur EURJPY,0.17,True,0.38,True
+7282,2023-01-26T09:33,JPY,baissier,On est haussier sur EURJPY,1.19,False,-1.44,True
+7344,2023-02-02T01:33,EUR,haussier,"Eurjpy, il faut penser a l’acheter 🌚 ça va nous rendre riche 🚶🏿‍♂️",-0.23,False,0.85,True
+7344,2023-02-02T01:33,JPY,baissier,"Eurjpy, il faut penser a l’acheter 🌚 ça va nous rendre riche 🚶🏿‍♂️",-0.73,True,-2.74,True
+7348,2023-02-02T12:47,GBP,baissier,Mais on sait quand même qu’ils vont ralentir leur rythme du coup je serai baissier sur GBP.,0.38,False,1.19,False
+7363,2023-02-02T14:34,EUR,haussier,140.000 Eurjpy est un achat pour moi 🚶🏿‍♂️⛳️,-0.23,False,0.85,True
+7363,2023-02-02T14:34,JPY,baissier,140.000 Eurjpy est un achat pour moi 🚶🏿‍♂️⛳️,-0.73,True,-2.74,True
+7403,2023-02-07T05:34,EUR,haussier,"Bonjour, nous serons haussier sur EURJPY, AUDJPY",-0.05,False,0.92,True
+7403,2023-02-07T05:34,JPY,baissier,"Bonjour, nous serons haussier sur EURJPY, AUDJPY",-1.47,True,-1.64,True
+7473,2023-02-15T05:34,AUD,baissier,Je m’attends a une continuation de la chute de Audusd demain car  scotiabank et bank of America estiment qu’on va dépasser le consensus sur ,-0.74,True,-2.55,True
+7473,2023-02-15T05:34,USD,haussier,Je m’attends a une continuation de la chute de Audusd demain car  scotiabank et bank of America estiment qu’on va dépasser le consensus sur ,0.81,True,0.55,True
+7486,2023-02-15T13:36,GBP,baissier,GBPUSD va couler pour le reste de la semaine,0.69,False,1.45,False
+7486,2023-02-15T13:36,USD,haussier,GBPUSD va couler pour le reste de la semaine,0.81,True,0.55,True
+7580,2023-02-24T15:43,JPY,baissier,Le yen japonais va continuer de chuter.,-0.13,True,2.43,False
+7591,2023-02-27T04:55,JPY,baissier,"Le yen japonais va couler cette semaine, Vous n'avez absolument aucune raison de ne pas faire de largent.",-0.1,True,2.48,False
+7591,2023-02-27T04:55,EUR,baissier,GPUSD et EURUSD vont continuer de couler couler aussi,0.64,False,0.89,False
+7591,2023-02-27T04:55,USD,haussier,GPUSD et EURUSD vont continuer de couler couler aussi,-0.28,False,-1.42,False
+7592,2023-02-27T15:27,GBP,baissier,Gbpusd 1.20000 je vais la vendre les yeux fermés 🚶🏿‍♂️,-0.19,True,1.07,False
+7592,2023-02-27T15:27,USD,haussier,Gbpusd 1.20000 je vais la vendre les yeux fermés 🚶🏿‍♂️,-0.28,False,-1.42,False
+7595,2023-02-28T13:22,EUR,haussier,Les gens seront haussier sur Eurusd,0.64,True,1.07,True
+7595,2023-02-28T13:22,USD,baissier,Les gens seront haussier sur Eurusd,0.92,False,-1.02,True
+7597,2023-02-28T13:24,GBP,baissier,"Je continue de surveiller Gbpusd pour une vente, je vous donnerai mon point d’entrée en cas d’opportunité in shaa Allah",-1.06,True,0.78,False
+7597,2023-02-28T13:24,USD,haussier,"Je continue de surveiller Gbpusd pour une vente, je vous donnerai mon point d’entrée en cas d’opportunité in shaa Allah",0.92,True,-1.02,False
+7598,2023-02-28T15:07,USD,baissier,"Bon il ny a eu aucun catalyst pour pousser le prix, USD est devenu temporairement baissier a cause de toutes les nouvelles economiques qui s",0.92,False,-1.02,True
+7643,2023-03-07T16:10,USD,haussier,Le dollar est devenu très haussier !,-1.45,False,-2.97,False
+7759,2023-03-29T14:41,JPY,baissier,Nous etions baissier sur le yen et il yavait des mouvement a prendre,0.17,False,-1.25,True
+7763,2023-03-30T19:55,AUD,haussier,"Pour un coup de pouce, prenez la paire Audjpy, l’histoire a montré que durant le mois d’Avril c’est une paire qui est très haussiere et elle",-0.77,False,-1.35,False
+7763,2023-03-30T19:55,JPY,baissier,"Pour un coup de pouce, prenez la paire Audjpy, l’histoire a montré que durant le mois d’Avril c’est une paire qui est très haussiere et elle",0.42,False,-2.52,True
+7950,2023-04-24T17:03,AUD,baissier,Aud a l’habitude d’être très très baissier en Mai.,-0.25,True,-0.16,True
+8011,2023-05-01T23:27,AUD,baissier,Audusd est prête pour une chute considérable !!!!,0.98,False,-0.86,True
+8011,2023-05-01T23:27,USD,haussier,Audusd est prête pour une chute considérable !!!!,-1.34,False,1.63,True
+8013,2023-05-02T05:03,AUD,baissier,L’Australie a finalement augmenté leur taux d’intérêt plus que prevu ce qui fait que nos probabilités de vente de Audusd change.,0.4,False,-0.5,True
+8013,2023-05-02T05:03,USD,haussier,L’Australie a finalement augmenté leur taux d’intérêt plus que prevu ce qui fait que nos probabilités de vente de Audusd change.,-0.82,False,0.9,True
+8046,2023-05-05T12:35,USD,haussier,Usdjpy sera haussier!!,1.04,True,1.84,True
+8046,2023-05-05T12:35,JPY,baissier,Usdjpy sera haussier!!,0.46,False,-1.67,True
+8075,2023-05-10T12:33,USD,haussier,Long terme USDJPY est haussier,1.2,True,1.36,True
+8075,2023-05-10T12:33,JPY,baissier,Long terme USDJPY est haussier,-1.0,True,-2.17,True
+8086,2023-05-11T12:33,USD,baissier,Dxy est devenu temporairement baissier,1.05,False,1.05,False
+8087,2023-05-11T13:54,USD,haussier,"Ton Hawkish, poussant le dollar vers le haut.",1.05,True,1.05,True
+8321,2023-06-08T13:26,EUR,haussier,"Hier lorsque je vous disais que les probabilités de Eurusd a augmenté que je serai pret a mettre 1% sur le trade, je savais d’office que ce ",0.35,True,1.0,True
+8321,2023-06-08T13:26,USD,baissier,"Hier lorsque je vous disais que les probabilités de Eurusd a augmenté que je serai pret a mettre 1% sur le trade, je savais d’office que ce ",-1.05,True,-0.94,True
+8493,2023-06-22T15:19,GBP,haussier,Je n'arrive toujours pas a justifier pourquoi GBPCAD est entrain de tomber lol etant donné que GBP est normalement haussier et le petrole a ,-0.12,False,-0.24,False
+8524,2023-06-27T09:27,EUR,haussier,Je trouve EURNZD tres tres haussier,-0.51,False,-0.62,False
+8524,2023-06-27T09:27,NZD,baissier,Je trouve EURNZD tres tres haussier,0.62,False,-0.29,True
+8592,2023-07-05T18:06,EUR,baissier,"EURUSD, NZDUSD, GBPUSD ne doivent pas etre des paires a vendre durant ce mois.",0.24,False,0.58,False
+8592,2023-07-05T18:06,USD,haussier,"EURUSD, NZDUSD, GBPUSD ne doivent pas etre des paires a vendre durant ce mois.",-2.08,False,-0.14,False
+8636,2023-07-12T21:39,EUR,baissier,"EURUSD, NZDUSD, GBPUSD ne doivent pas etre des paires a vendre durant ce mois.",0.79,False,1.14,False
+8636,2023-07-12T21:39,USD,haussier,"EURUSD, NZDUSD, GBPUSD ne doivent pas etre des paires a vendre durant ce mois.",0.15,True,2.12,True
+8646,2023-07-12T22:09,JPY,haussier,Tout ce mouvement haussier sur le yen risque detre une deception et en meme temps une tres bonne opportunité de se repositionner sur des pai,-0.96,False,-2.27,False
+8647,2023-07-12T22:10,JPY,haussier,Le yen risque de continuer a etre haussier jusqu'au 28 juillet.,-0.96,False,-2.27,False
+8648,2023-07-12T22:12,JPY,baissier,Les raisons fondamentales pourlesquelles il faut vendre le yen n'ont pas changé.,-0.96,True,-2.27,True
+8677,2023-07-21T08:22,AUD,haussier,Je pense qu'il faut commencer a acheter AUDJPY hein,-0.82,False,-2.73,False
+8677,2023-07-21T08:22,JPY,baissier,Je pense qu'il faut commencer a acheter AUDJPY hein,0.91,False,-0.62,True
+8684,2023-07-21T09:17,JPY,haussier,Tout ce mouvement haussier sur le yen risque detre une deception et en meme temps une tres bonne opportunité de se repositionner sur des pai,0.91,True,-0.62,False
+8685,2023-07-21T09:17,JPY,baissier,Les raisons fondamentales pourlesquelles il faut vendre le yen n'ont pas changé.,0.91,False,-0.62,True
+8728,2023-07-25T15:48,USD,baissier,J'ai la ferme conviction que le dollar va couler,1.2,False,2.36,False
+8745,2023-07-26T08:43,USD,baissier,J'ai la ferme conviction que le dollar va couler,1.61,False,2.86,False
+8784,2023-07-27T17:23,JPY,haussier,Le yen risque de continuer a etre haussier jusqu'au 28 juillet.,0.17,True,-0.79,False
+8848,2023-08-02T06:44,JPY,haussier,En général le yen est très haussier en Aout.,-0.08,False,-0.64,False
+8849,2023-08-02T06:46,EUR,baissier,"Pour lire dans mes pensées, je me vois vendre Eurusd, gbpusd et Audusd et NZDUSD.",0.51,False,0.16,False
+8849,2023-08-02T06:46,USD,haussier,"Pour lire dans mes pensées, je me vois vendre Eurusd, gbpusd et Audusd et NZDUSD.",0.18,True,1.07,True
+8882,2023-08-04T12:13,USD,baissier,"Faisant croire aux gens que le dollar est faible, le marché pousse pour aller prendre de la liquidité vers le haut sur les différentes paire",1.12,False,2.48,False
+8912,2023-08-08T10:33,USD,baissier,"Faisant croire aux gens que le dollar est faible, le marché pousse pour aller prendre de la liquidité vers le haut sur les différentes paire",0.44,False,1.92,False
+8914,2023-08-08T10:37,USD,haussier,"J'ai vu beaucoup de personnes etre haussier sur les paires eurusd, gbpusd a cause d'un nfp negatif et pourtant je vous avais prevenu que cel",0.44,True,1.92,True
+8916,2023-08-08T10:39,JPY,haussier,En général le yen est très haussier en Aout.,-1.11,False,-0.81,False
+8917,2023-08-08T10:39,EUR,baissier,"Pour lire dans mes pensées, je me vois vendre Eurusd, gbpusd et Audusd et NZDUSD.",0.23,False,-0.36,True
+8917,2023-08-08T10:39,USD,haussier,"Pour lire dans mes pensées, je me vois vendre Eurusd, gbpusd et Audusd et NZDUSD.",0.44,True,1.92,True
+9013,2023-08-21T13:37,USD,haussier,Ne soyez pas baissier sur le dollar !!,0.25,True,0.41,True
+9038,2023-08-23T07:42,USD,haussier,Ne soyez pas baissier sur le dollar !!,-0.09,False,1.35,True
+9137,2023-08-31T13:09,CAD,haussier,"Le petrole est tres tres haussier, petrole up ==> cad ⬆️",0.37,True,1.1,True
+9141,2023-08-31T13:20,USD,baissier,"usdcad, gbpcad, eurcad, nzdcad, audcad devraient etre en chute",0.98,False,2.04,False
+9141,2023-08-31T13:20,CAD,haussier,"usdcad, gbpcad, eurcad, nzdcad, audcad devraient etre en chute",0.37,True,1.1,True
+9165,2023-09-01T12:45,GBP,baissier,vente imminente sur gbpcad a mon avis,-0.24,True,-2.05,True
+9165,2023-09-01T12:45,CAD,haussier,vente imminente sur gbpcad a mon avis,0.29,True,1.21,True
+9234,2023-09-06T14:14,GBP,baissier,vente imminente sur gbpcad a mon avis,-0.41,True,-1.75,True
+9234,2023-09-06T14:14,CAD,haussier,vente imminente sur gbpcad a mon avis,0.58,True,0.31,True
+9314,2023-09-15T01:03,GBP,haussier,La probabilité pour que gbpjpy soit haussier est au dela de 90%,-0.96,False,-0.78,False
+9314,2023-09-15T01:03,JPY,baissier,La probabilité pour que gbpjpy soit haussier est au dela de 90%,-0.14,True,-0.53,True
+9362,2023-09-20T18:57,EUR,baissier,EURUSD va couler !,-0.5,True,0.27,False
+9362,2023-09-20T18:57,USD,haussier,EURUSD va couler !,1.43,True,1.42,True
+9395,2023-09-21T17:35,GBP,baissier,Gbpusd et gbpcad vont couler pour le reste du mois,-0.23,True,0.15,False
+9395,2023-09-21T17:35,USD,haussier,Gbpusd et gbpcad vont couler pour le reste du mois,0.39,True,0.66,True
+9411,2023-09-25T07:26,CAD,haussier,"Le petrole est tres tres haussier, petrole up ==> cad ⬆️",-0.77,False,-1.5,False
+9414,2023-09-25T07:26,GBP,baissier,vente imminente sur gbpcad a mon avis,-0.07,True,0.06,False
+9414,2023-09-25T07:26,CAD,haussier,vente imminente sur gbpcad a mon avis,-0.77,False,-1.5,False
+9453,2023-09-29T13:47,EUR,baissier,Quand tu apprends que Eurusd est entrain de couler 😂,0.2,False,1.02,False
+9453,2023-09-29T13:47,USD,haussier,Quand tu apprends que Eurusd est entrain de couler 😂,0.09,True,1.18,True
+9462,2023-10-02T10:52,EUR,baissier,La chute de eurusd etait trop prévisible aujourd’hui.,0.16,False,0.81,False
+9462,2023-10-02T10:52,USD,haussier,La chute de eurusd etait trop prévisible aujourd’hui.,-0.96,False,0.44,True
+9507,2023-10-04T12:20,NZD,baissier,Nzdcad a vendre !,0.09,False,-0.07,True
+9507,2023-10-04T12:20,CAD,haussier,Nzdcad a vendre !,0.33,True,-0.71,False
+9525,2023-10-06T12:25,EUR,baissier,Je suis baissier sur Eurusd !,-0.19,True,0.9,False
+9525,2023-10-06T12:25,USD,haussier,Je suis baissier sur Eurusd !,0.27,True,0.04,True
+9541,2023-10-06T14:48,GBP,baissier,Je vais vendre gbpusd a 1.22300,-0.19,True,0.37,False
+9541,2023-10-06T14:48,USD,haussier,Je vais vendre gbpusd a 1.22300,0.27,True,0.04,True
+9550,2023-10-06T17:14,GBP,baissier,"Maintenant, comme par magie, on verra comment gbpusd va couler !",-0.19,True,0.37,False
+9550,2023-10-06T17:14,USD,haussier,"Maintenant, comme par magie, on verra comment gbpusd va couler !",0.27,True,0.04,True
+9596,2023-10-18T15:03,USD,baissier,Je vais vendre usdjpy a 150.000,0.05,False,-1.36,True
+9596,2023-10-18T15:03,JPY,haussier,Je vais vendre usdjpy a 150.000,0.0,True,-1.33,False
+9617,2023-10-24T07:59,USD,baissier,Je vais vendre usdjpy a 150.000,0.63,False,-2.11,True
+9617,2023-10-24T07:59,JPY,haussier,Je vais vendre usdjpy a 150.000,-0.45,False,-1.93,False
+9706,2023-11-02T11:45,GBP,baissier,"Les taux d'interet sur GBP sortira au consensus, le marché va chuter juste apres ça",0.45,False,1.09,False
+9708,2023-11-02T11:47,USD,haussier,Mais je reste confiant que dxy va partir a la hausse sous peu.,-0.41,False,-2.27,False
+9722,2023-11-03T12:27,GBP,baissier,nfp superieur a 336k ==> gbpusd va couler sérieusement Nfp superieur a 180k ==>  et inférieur a 336kk gbpusd va couler temporairement Nfp = ,0.05,False,0.37,False
+9722,2023-11-03T12:27,USD,haussier,nfp superieur a 336k ==> gbpusd va couler sérieusement Nfp superieur a 180k ==>  et inférieur a 336kk gbpusd va couler temporairement Nfp = ,0.91,True,-1.35,False
+9724,2023-11-03T12:30,GBP,haussier,"Nfp inferieur au consensus, gbpusd va partir a la hausse",0.05,True,0.37,True
+9724,2023-11-03T12:30,USD,baissier,"Nfp inferieur au consensus, gbpusd va partir a la hausse",0.91,False,-1.35,True
+9755,2023-11-07T13:37,EUR,haussier,Je suis haussier sur eurusd,0.59,True,-1.34,False
+9755,2023-11-07T13:37,USD,baissier,Je suis haussier sur eurusd,-0.95,True,-1.89,True
+9782,2023-11-10T02:00,EUR,haussier,"Pendant les 5 dernieres années, EURUSD a été haussier durant le mois de decembre et cette année ne sera pas une exception sauf en cas de ten",0.72,True,-1.22,False
+9782,2023-11-10T02:00,USD,baissier,"Pendant les 5 dernieres années, EURUSD a été haussier durant le mois de decembre et cette année ne sera pas une exception sauf en cas de ten",-0.84,True,-1.97,True
+9817,2023-11-13T16:07,JPY,baissier,Les traders anticipaient  une probable intervention de BOJ d’ou le mouvement rapide de chute sur toutes les devises en yen.,0.49,False,1.99,False
+9823,2023-11-13T22:27,AUD,haussier,"Audusd, Nzdusd, Eurusd a la hausse demain 🌚",0.92,True,0.7,True
+9823,2023-11-13T22:27,USD,baissier,"Audusd, Nzdusd, Eurusd a la hausse demain 🌚",-1.71,True,-2.32,True
+9854,2023-11-14T22:09,GBP,baissier,Je vais vendre gbpaud exactement a 1.92500 🤷🏼‍♂️,-0.34,True,-0.54,True
+9854,2023-11-14T22:09,AUD,haussier,Je vais vendre gbpaud exactement a 1.92500 🤷🏼‍♂️,0.38,True,0.58,True
+9883,2023-11-15T17:25,NZD,haussier,"NZDUSD, AUDUSD, EURUSD jusqu'a preuve de contraire sont dans une tendance haussiere claire et net.",-0.42,False,0.68,True
+9883,2023-11-15T17:25,USD,baissier,"NZDUSD, AUDUSD, EURUSD jusqu'a preuve de contraire sont dans une tendance haussiere claire et net.",-0.13,True,-2.42,True
+9915,2023-11-17T09:26,EUR,baissier,Eur est faible aussi,-0.42,True,-1.92,True
+9956,2023-11-29T17:47,GBP,baissier,Je suis sur gbpaud suite a la baisse du taux d’inflation hier en Australie,-0.46,True,-1.95,True
+9956,2023-11-29T17:47,AUD,haussier,Je suis sur gbpaud suite a la baisse du taux d’inflation hier en Australie,-0.41,False,0.75,True
+10024,2023-12-07T22:47,EUR,haussier,1.07500 je vais acheter Eurusd demain,0.57,True,0.11,True
+10024,2023-12-07T22:47,USD,baissier,1.07500 je vais acheter Eurusd demain,-1.3,True,-1.34,True
+10049,2023-12-12T14:00,USD,haussier,Je pense que dxy est haussier,-1.7,False,-1.54,False
+10052,2023-12-12T14:50,USD,haussier,C’est pourquoi le dxy est haussier.,-1.7,False,-1.54,False
+10061,2023-12-13T21:24,JPY,baissier,Pendant un bon bout de temps j’etais tres tres baissier sur le yen.,-0.57,True,-1.2,True
+10072,2023-12-16T17:44,EUR,haussier,Eurusd devrait normalement continuer sa tendance haussière sans problème,0.27,True,0.73,True
+10072,2023-12-16T17:44,USD,baissier,Eurusd devrait normalement continuer sa tendance haussière sans problème,-0.66,True,0.96,False
+10073,2023-12-16T17:45,USD,baissier,Je vous ai audité le dxy depuis le debut du mois et je vous ai dit qu’il etait condamné a chuter en décembre car la saisonnalité de dxy pend,-0.66,True,0.96,False
+10077,2023-12-16T17:50,NZD,haussier,"NZDUSD, AUDUSD, EURUSD jusqu'a preuve de contraire sont dans une tendance haussiere claire et net.",0.56,True,-0.3,False
+10077,2023-12-16T17:50,USD,baissier,"NZDUSD, AUDUSD, EURUSD jusqu'a preuve de contraire sont dans une tendance haussiere claire et net.",-0.66,True,0.96,False
+10079,2023-12-16T17:58,USD,baissier,"Now, je vous promet que 2024 sera plus interessant que 2023 car nous allons vendre le dollar americain a partir de fevrier.",-0.66,True,0.96,False
+10105,2023-12-20T23:04,EUR,baissier,ce n'est pas du nafiguiya mais Eurnzd va couler 🫢 a 1.75500,-0.1,True,0.71,False
+10105,2023-12-20T23:04,NZD,haussier,ce n'est pas du nafiguiya mais Eurnzd va couler 🫢 a 1.75500,-0.16,False,-1.52,False
+10229,2024-01-01T19:06,USD,haussier,Je vois le dollar etre tres haussier ce mois.,0.84,True,2.01,True
+10257,2024-01-02T13:43,USD,baissier,"Now, je vous promet que 2024 sera plus interessant que 2023 car nous allons vendre le dollar americain a partir de fevrier.",0.39,False,1.46,False
+10433,2024-01-11T14:38,EUR,baissier,eurusd va chuter a mon avis,0.32,False,-0.16,True
+10433,2024-01-11T14:38,USD,haussier,eurusd va chuter a mon avis,1.26,True,1.64,True
+10492,2024-01-23T01:22,GBP,haussier,je suis haussier sur gbpjpy,-0.27,False,-0.08,False
+10492,2024-01-23T01:22,JPY,baissier,je suis haussier sur gbpjpy,0.3,False,-1.06,True
+10524,2024-01-25T14:12,EUR,baissier,Eurjpy va couler hein mes chers amis,-0.21,True,0.13,False
+10524,2024-01-25T14:12,JPY,haussier,Eurjpy va couler hein mes chers amis,0.41,True,-1.44,False
+10527,2024-01-25T18:54,AUD,haussier,Ceux qui sont sur le trade de Audjpy et qui commencent a perdre patience je vous invite a être objectif et vous dire que le marché peut cons,-0.58,False,0.07,True
+10527,2024-01-25T18:54,JPY,baissier,Ceux qui sont sur le trade de Audjpy et qui commencent a perdre patience je vous invite a être objectif et vous dire que le marché peut cons,0.41,False,-1.44,True
+10565,2024-02-01T08:43,USD,haussier,DXY est tres haussier cela veut dire que le message d'hier est clair.,0.99,True,1.13,True
+10596,2024-02-02T10:15,USD,haussier,Je m'attend a un dollar haussier aujourd'hui,-0.0,False,0.37,True
+10621,2024-02-06T03:41,AUD,baissier,Nous allons vendre Audusd 🤭,-0.29,True,0.47,False
+10621,2024-02-06T03:41,USD,haussier,Nous allons vendre Audusd 🤭,0.87,True,-0.1,False
+10622,2024-02-06T04:05,AUD,baissier,"Je vais vendre Audusd a 0.65000, je m'attend a un ton Dovish de la part de la banque centrale Australienne",-0.29,True,0.47,False
+10622,2024-02-06T04:05,USD,haussier,"Je vais vendre Audusd a 0.65000, je m'attend a un ton Dovish de la part de la banque centrale Australienne",0.87,True,-0.1,False
+10754,2024-03-08T10:13,USD,haussier,Je m'attends a un dollar haussier.,0.81,True,1.51,True
+10798,2024-03-19T12:27,AUD,haussier,Ce mouvement haussier sur Audjpy est condamné à continuer jusqu'en fin Avril.,0.65,True,0.36,True
+10798,2024-03-19T12:27,JPY,baissier,Ce mouvement haussier sur Audjpy est condamné à continuer jusqu'en fin Avril.,0.12,False,-0.46,True
+10872,2024-04-03T17:20,EUR,baissier,"Vous devez etre hors de votre tete de vendre EURUSD et GBPUSD, NZDUSD et AUDUSD ce mois.",-0.07,True,-0.31,True
+10872,2024-04-03T17:20,USD,haussier,"Vous devez etre hors de votre tete de vendre EURUSD et GBPUSD, NZDUSD et AUDUSD ce mois.",0.83,True,0.69,True
+10891,2024-04-05T12:46,USD,haussier,Le dollar est tres haussier pour 3 raisons fondamentales:,1.26,True,0.45,True
+10924,2024-04-09T20:54,NZD,baissier,Nzdjpy et nzdusd vont couler normalement ce soir a partir de 2h GMT pour aller prendre le low de lundi,-1.0,True,0.03,False
+10924,2024-04-09T20:54,JPY,haussier,Nzdjpy et nzdusd vont couler normalement ce soir a partir de 2h GMT pour aller prendre le low de lundi,-0.01,False,-1.31,False
+10934,2024-04-10T13:11,USD,haussier,"Maintenant c'est tres clair, le dollar est super haussier et nous avons éventuellement la direction de DXY",0.59,True,-0.28,False
+11080,2024-04-23T07:44,EUR,haussier,Mouvement haussier sur eur etait tres logique,0.26,True,0.38,True
+11088,2024-04-23T11:52,EUR,baissier,EUrjpy risque de couler avec le mouvement,0.26,False,0.38,False
+11088,2024-04-23T11:52,JPY,haussier,EUrjpy risque de couler avec le mouvement,-1.31,False,-2.04,False
+11092,2024-04-23T14:24,JPY,haussier,"Bon ce qui se passe je ne comprend pas hein, genre les traders ont attendu l'intervention de BOJ avant dacheter ou quoi lmaooooo regardez co",-1.31,False,-2.04,False
+11120,2024-04-29T09:55,USD,baissier,Intervention de bank of Japan faisant couler le dollar exactement comme je l'ai dis.,-0.49,True,-0.79,True
+11141,2024-04-30T13:45,EUR,baissier,Demain tout compte fait Eurusd va couler 🤭,-0.23,True,-0.01,True
+11141,2024-04-30T13:45,USD,haussier,Demain tout compte fait Eurusd va couler 🤭,-1.01,False,-1.27,False
+11150,2024-05-01T17:58,USD,haussier,Je m'attends éventuellement a un dollar haussier comme dit hier,-0.38,False,-1.01,False
+11184,2024-05-03T12:58,USD,haussier,Revenons au dollar américain qui est tres haussier durant le mois de Mai.,0.24,True,-0.87,False
+11212,2024-05-08T02:40,USD,haussier,Dxy tres haussier pour nous,-1.16,False,-1.31,False
+11261,2024-05-15T12:23,EUR,baissier,Quand a l'euro je le vois baissier a partir de la fin du mois car on s'attend pour la premiere fois a un rate cut en juin.,0.15,False,-0.95,True
+11368,2024-06-04T22:36,AUD,haussier,sur les 30 dernieres années AUDJPY a toujours eté une paire haussiere au mois d'Avril,0.12,True,1.77,True
+11368,2024-06-04T22:36,JPY,baissier,sur les 30 dernieres années AUDJPY a toujours eté une paire haussiere au mois d'Avril,-0.61,True,-3.32,True
+11385,2024-06-05T21:50,EUR,baissier,Demain l'euro risque de couler.,-0.37,True,0.03,False
+11406,2024-06-10T19:06,EUR,baissier,"De tout ce que j'ai appris de l'analyse fondamentale, l'euro devrait couler pendant les semaines et mois a venir.",-0.32,True,0.34,False
+11408,2024-06-10T19:08,EUR,baissier,EURAUD est condamné a couler,-0.32,True,0.34,False
+11408,2024-06-10T19:08,AUD,haussier,EURAUD est condamné a couler,0.06,True,1.87,True
+11467,2024-07-12T04:09,USD,baissier,"Mais, comme le dollar a un taux d'intérêt élevé et qu'il y a des élections à venir, il ne baissera probablement pas trop.",0.49,False,-0.45,True
+11467,2024-07-12T04:09,GBP,baissier,La livre s'est renforcée grâce à la stabilité politique et à une bonne économie (voir le PIB qui a augmenté plus que prevu) mais toute baiss,-0.12,True,-2.15,True
+11503,2024-07-23T07:08,AUD,baissier,Le dernier point a noter par rapport a la faiblesse de l'aussie est la valeur du cuivre qui a chuté considerablement.,-1.08,True,-0.81,True
+11531,2024-08-02T00:03,EUR,baissier,EURUSD est dans une tendance baissiere clean apres le price avec d'aujourdhui et fondamentalement EURUSD est tres baissier en Aaout.,-0.15,True,-0.56,True
+11531,2024-08-02T00:03,USD,haussier,EURUSD est dans une tendance baissiere clean apres le price avec d'aujourdhui et fondamentalement EURUSD est tres baissier en Aaout.,-0.18,False,-1.99,False
+11539,2024-08-02T00:21,EUR,baissier,Quand tu apprends que Eurusd est entrain de couler 😂,-0.15,True,-0.56,True
+11539,2024-08-02T00:21,USD,haussier,Quand tu apprends que Eurusd est entrain de couler 😂,-0.18,False,-1.99,False
+11567,2024-08-14T10:27,NZD,baissier,La RBNZ a fait un rate cut hier soir donnant un ton dovish.,1.14,False,1.23,False
+11633,2024-08-28T02:33,EUR,baissier,L'euro etait la meiilleure devise a choisir pour moi car on s'attend a une potentielle baisse des taux en europe au mois de septembre.,-0.06,True,-0.04,True
+11789,2024-09-03T16:37,USD,baissier,Avec les elections presidentielles au usa et cette envie de faire tomber les taux dinteret nous permet davoir une perspective dovish sur usd,-0.0,True,-0.53,True
+11789,2024-09-03T16:37,JPY,haussier,Avec les elections presidentielles au usa et cette envie de faire tomber les taux dinteret nous permet davoir une perspective dovish sur usd,2.18,True,-1.36,False
+11798,2024-09-03T22:02,USD,baissier,Il y'a 90% de chance de  voir usdjpy couler demain,-0.0,True,-0.53,True
+11798,2024-09-03T22:02,JPY,haussier,Il y'a 90% de chance de  voir usdjpy couler demain,2.18,True,-1.36,False
+11816,2024-09-04T17:00,JPY,haussier,"Revenons tout d'abord avec la politique monetaire, le yen est tres haussier a cause des incertitudes concernant une recession aux usa mais a",0.95,True,-2.24,False
+11816,2024-09-04T17:00,USD,baissier,"De surcroit, la FED a clairement l'intention de faire une baisse des taux ce qui defavorise le dollar.",0.46,False,0.18,False
+11817,2024-09-04T17:01,USD,baissier,Je vous montre l'extrait du DXY sur notre session de lundi pour voir que ce setup etait deja pre medité et que nous savions en avance qu'il ,0.46,False,0.18,False
+11823,2024-09-05T22:33,AUD,baissier,Le seul trade interessant  demain c'est celui de Audnzd a la baisse,-0.04,True,1.81,False
+11823,2024-09-05T22:33,NZD,haussier,Le seul trade interessant  demain c'est celui de Audnzd a la baisse,-0.44,False,-0.1,False
+11841,2024-09-10T03:11,EUR,baissier,Je me vois vendre EURNZD a l'instant,0.39,False,0.32,False
+11841,2024-09-10T03:11,NZD,haussier,Je me vois vendre EURNZD a l'instant,0.2,True,-0.28,False
+11843,2024-09-10T03:12,EUR,baissier,L'euro devrait couler cette semaine a mon avis,0.39,False,0.32,False
+11848,2024-09-10T12:35,EUR,baissier,Meme la synthèse du récapitulatif de notre session d'hier soir par Zoom savait que j'allais vendre Eurnzd 🤣,0.39,False,0.32,False
+11848,2024-09-10T12:35,NZD,haussier,Meme la synthèse du récapitulatif de notre session d'hier soir par Zoom savait que j'allais vendre Eurnzd 🤣,0.2,True,-0.28,False
+11921,2024-09-16T18:28,USD,baissier,"Bonsoir a tous, comme vous l'avez sans doute remarqué cette semaine sera tres chargée avec les annonces économiques et la seule chose intere",-0.16,True,2.01,False
+11927,2024-09-17T13:02,EUR,baissier,Et pourtant je vais vendre EURNZD hein,-0.45,True,-0.41,True
+11927,2024-09-17T13:02,NZD,haussier,Et pourtant je vais vendre EURNZD hein,1.47,True,-0.2,False
+11945,2024-09-18T16:16,USD,haussier,On aura une premiere reaction de hausse sur EURUSD mais le marché doit eventuellement s'equilibrer car les marchés sont efficients ce qui va,-0.2,False,2.01,True
+11946,2024-09-18T16:18,EUR,baissier,"Ajouté a cela, il faut prendre la saisonnalité en compte qui dit que EURUSD est tres baissier pendant le mois de septembre",-0.06,True,-0.59,True
+11946,2024-09-18T16:18,USD,haussier,"Ajouté a cela, il faut prendre la saisonnalité en compte qui dit que EURUSD est tres baissier pendant le mois de septembre",-0.2,False,2.01,True
+12063,2024-10-10T12:40,USD,haussier,pas vraiment de volatilité mais le dollar reste fort quand meme,0.61,True,1.67,True
+12106,2024-10-17T01:00,EUR,baissier,Mon degré de certitude pour la baisse de EURAUD est passé de 60% a 90%,0.41,False,-0.22,True
+12106,2024-10-17T01:00,AUD,haussier,Mon degré de certitude pour la baisse de EURAUD est passé de 60% a 90%,-0.5,False,-1.1,False
+12359,2024-11-25T15:26,NZD,baissier,La paire de devise a vendre sera NZDJPY avec une certitude de plus de 90%.,0.38,False,-1.29,True
+12359,2024-11-25T15:26,JPY,haussier,La paire de devise a vendre sera NZDJPY avec une certitude de plus de 90%.,2.4,True,-0.27,False
+12362,2024-11-25T15:38,JPY,haussier,"Fondamentalement, LE YEN EST HAUSSIER.",2.4,True,-0.27,False
+12363,2024-11-25T15:41,NZD,baissier,Donc NZD a un sentiment baissier,0.38,False,-1.29,True
+12460,2024-12-08T16:00,USD,baissier,Avant NFP on etait a environ 71% maintenant le marché a priced in plus de 86% de chance de voir un rate cut ce qui va affaiblir le dollar av,0.97,False,2.34,False
+12579,2025-01-05T12:01,USD,haussier,"Les tarifs sont haussiers pour l'USD, et le marché est fortement positionné sur le FX car l'impact politique sur les actions et les obligati",0.67,True,-0.19,False
+12580,2025-01-05T12:05,USD,haussier,Le marché est positionné a l'achat sur l'USD.,0.67,True,-0.19,False
+12597,2025-01-06T12:29,USD,baissier,Ce matin l'equipe de Trump a fait un plan initial pour les tarrifs et on realise que ces tarrifs ne sont pas aussi significatifs que ça c'es,0.74,False,-0.28,True
+12599,2025-01-06T12:30,USD,baissier,Dxy entrain de couler CONSIDÉRABLEMENT!!,0.74,False,-0.28,True
+12605,2025-01-06T15:21,USD,haussier,DXY qui repart a la hausse,0.74,True,-0.28,False
+12630,2025-01-10T08:31,USD,haussier,Le dollar reste extremement haussier a cause de la pensée des differents membres de la FED qui ont eu a faire des discours ces derniers jour,-0.21,False,-1.24,False
+12639,2025-01-10T13:31,GBP,baissier,"nfp superieur a 200k, on va vendre gbpusd au niveau 1.22500",-0.56,True,-0.02,True
+12639,2025-01-10T13:31,USD,haussier,"nfp superieur a 200k, on va vendre gbpusd au niveau 1.22500",-0.21,False,-1.24,False
+12682,2025-01-14T22:57,GBP,baissier,"Pour mon analyse personnelle, je pense avec conviction que la livre sterling va couler peu importe le resultat du CPI.",0.22,False,1.0,False
+12683,2025-01-14T23:04,GBP,baissier,La livre sterling est condamné a couler demain et je vais ajouter a ma position sur GBPUSD et aussi vendre GBPJPY in shaa Allah,0.22,False,1.0,False
+12685,2025-01-15T07:09,GBP,baissier,GBPJPY et GBPUSD sont entrain de couler comme sur des roulettes!,0.21,False,1.28,False
+12685,2025-01-15T07:09,JPY,haussier,GBPJPY et GBPUSD sont entrain de couler comme sur des roulettes!,-0.49,False,0.81,True
+12702,2025-01-15T13:34,USD,baissier,Regardez comment DXY est entrain de couler.,-0.36,True,-1.3,True
+12712,2025-01-16T02:15,GBP,baissier,"Vous voyez, vous n'aviez pas besoin d'une boule de cristal pour savoir que GBPJPY allait couler jusqu'a 190.000",0.4,False,1.1,False
+12712,2025-01-16T02:15,JPY,haussier,"Vous voyez, vous n'aviez pas besoin d'une boule de cristal pour savoir que GBPJPY allait couler jusqu'a 190.000",-1.05,False,0.28,True
+12742,2025-01-20T12:50,JPY,haussier,La decision de BOJ est pour vendredi et le marché a deja priced in plus de 80% de chance de hausse des taux.,0.17,True,1.25,True
+12743,2025-01-20T12:52,USD,baissier,"Pour mon avis personnel, je suis neutre sur le dollar mais je pense que le dollar aussi va primer sur les autres devises du coup le dollar r",-0.06,True,-0.92,True
+12744,2025-01-20T15:57,USD,baissier,DXY entrain de couler suite a un article de wsj.,-0.06,True,-0.92,True
+12760,2025-01-23T12:31,JPY,haussier,Je suis haussier sur le yen et durant la session de New york aujourd'hui beaucoup de personnes commencerons a se positionner sur le marché.,1.47,True,3.05,True
+12760,2025-01-23T12:31,CHF,baissier,La devise la plus facile a trader est CHFJPY a la baisse mais le probleme est que les retails traders aussi sont entrain de la vendre c'est ,-0.09,True,-0.37,True
+12760,2025-01-23T12:31,NZD,baissier,La deuxieme paire a vendre pour moi est NZDJPY.,-0.57,True,-0.32,True
+12787,2025-01-25T13:27,GBP,haussier,"Dans son livre Fooled by Randomness, Nassim Taleb explique que la richesse extrême n’a pas grand-chose à voir avec la compétence ou l’effort",0.05,True,0.21,True
+12792,2025-01-28T12:40,AUD,baissier,Je vois AUDJPY et AUDUSD partir a la baisse.,-0.13,True,-0.34,True
+12792,2025-01-28T12:40,JPY,haussier,Je vois AUDJPY et AUDUSD partir a la baisse.,0.83,True,3.18,True
+12795,2025-01-28T12:54,AUD,haussier,Dans le message precedent je me suis trompé en disant AUDJPY et AUDUSD a la hausse.,-0.13,False,-0.34,False
+12795,2025-01-28T12:54,JPY,baissier,Dans le message precedent je me suis trompé en disant AUDJPY et AUDUSD a la hausse.,0.83,False,3.18,False
+12824,2025-01-29T20:32,AUD,baissier,Je maintiens ma position de vente sur Audusd.,0.2,False,-0.61,True
+12824,2025-01-29T20:32,USD,haussier,Je maintiens ma position de vente sur Audusd.,-0.51,False,-0.47,False
+12830,2025-01-30T13:22,USD,baissier,"Faites attention, dxy risque de couler dans quelques minutes...",-0.67,True,-0.45,True
+12869,2025-02-06T10:41,GBP,baissier,Ce trade etait un trade a tres haute probabilité car on savait en avance que gbp allait devenir faible avant la sortie des taux d'interets a,0.73,False,2.15,False
+12878,2025-02-07T13:36,USD,haussier,Je pense que le dollar est haussier.,-0.84,False,-1.8,False
+12878,2025-02-07T13:36,AUD,baissier,Je vais vendre AUDUSD voir,0.43,False,-1.68,True
+12884,2025-02-07T13:53,USD,haussier,La hausse du dollar est limité a mon avis),-0.84,False,-1.8,False
+12895,2025-02-11T15:34,EUR,baissier,Je vais vendre eurusd dans cette zone,0.04,False,2.82,False
+12895,2025-02-11T15:34,USD,haussier,Je vais vendre eurusd dans cette zone,-0.76,False,-2.09,False
+12978,2025-03-18T15:20,EUR,haussier,Le sentiment du marché à l'égard de l'euro est actuellement modérément haussier à court terme.,-0.78,False,1.11,True
+12978,2025-03-18T15:20,USD,baissier,Ce sentiment positif est largement alimenté par la faiblesse générale observée du dollar américain.,0.62,False,-2.98,True
+12985,2025-03-19T13:31,JPY,baissier,"Le yen japonais a affiché un sentiment affaibli cette semaine, en particulier à la suite de la décision de la Banque du Japon (BoJ) de maint",-0.37,True,1.28,False
+12986,2025-03-20T02:00,USD,haussier,"La tentative de Jerome Powell de rassurer les marchés en qualifiant l'inflation induite par les tarifs douaniers de ""transitoire"" a eu un im",0.31,True,-3.41,False
+12993,2025-03-20T04:03,AUD,baissier,Cela s’est immédiatement reflété par un affaiblissement de l’AUD face aux principales devises sur le marché.,0.28,False,-2.23,True
+12997,2025-03-20T09:22,USD,haussier,Mais en verité je ne trouvais pas le dollar assez haussier,0.31,True,-3.41,False
+12998,2025-03-20T11:01,CHF,baissier,"La réaction immédiate du marché a été un affaiblissement du franc suisse face aux principales devises mondiales, une réaction typique à une ",0.32,False,4.37,False
+13024,2025-03-25T14:47,USD,haussier,Le potentiel de perturbations du commerce mondial et de mesures de rétorsion de la part d'autres nations signifie que l'impact de ces tarifs,0.1,True,-3.21,False
+13034,2025-03-26T11:58,AUD,haussier,Aud est de devenu haussier il faut faire attention,-1.03,False,-1.99,False
+13035,2025-03-26T12:03,AUD,haussier,On devrait continuer a voir une hausse sur Audjpy specialement en Avril,-1.03,False,-1.99,False
+13035,2025-03-26T12:03,JPY,baissier,On devrait continuer a voir une hausse sur Audjpy specialement en Avril,1.01,False,1.39,False
+13069,2025-04-02T00:54,EUR,baissier,"Eurusd a la baisse, AUDusd a la baisse, CADJPY a la baisse, EURCHF a la baisse, AUDJPY a la baisse, NZDJPY a la baisse",0.6,False,0.99,False
+13069,2025-04-02T00:54,USD,haussier,"Eurusd a la baisse, AUDusd a la baisse, CADJPY a la baisse, EURCHF a la baisse, AUDJPY a la baisse, NZDJPY a la baisse",0.18,True,-2.54,False
+13078,2025-04-02T15:07,AUD,haussier,J'aimerai bien voir le marché en risk on mode pour pouvoir me positionner sur Audjpy a l'achat.,-1.95,False,-0.67,False
+13078,2025-04-02T15:07,JPY,baissier,J'aimerai bien voir le marché en risk on mode pour pouvoir me positionner sur Audjpy a l'achat.,0.5,False,-0.86,True
+13086,2025-04-03T07:44,EUR,baissier,Je pense que c'est sensé de vendre EURGBP car l'angleterre est l'un des pays les moins sanctionné par Trump,1.17,False,0.42,False
+13086,2025-04-03T07:44,GBP,haussier,Je pense que c'est sensé de vendre EURGBP car l'angleterre est l'un des pays les moins sanctionné par Trump,-1.5,False,-0.52,False
+13087,2025-04-03T10:13,EUR,haussier,Apparemment l'euro est tres tres haussiere,1.17,True,0.42,True
+13091,2025-04-04T00:07,AUD,haussier,"Il se dit pret a negocier avec les pays, bon signe pour le marché, j'aimerai simplement voir un bon changement de mood du marché grace a Tru",1.05,True,3.08,True
+13091,2025-04-04T00:07,JPY,baissier,"Il se dit pret a negocier avec les pays, bon signe pour le marché, j'aimerai simplement voir un bon changement de mood du marché grace a Tru",-0.51,True,-1.36,True
+13092,2025-04-04T00:09,JPY,baissier,"Demain NFP est attendu a la baisse, ce qui va potentiellement favoriser le yen (risk off mode).",-0.51,True,-1.36,True
+13133,2025-04-10T17:16,USD,baissier,"Tension geo politique entre la chine et les USA, un dollar tres faible a cause de CPI.",-1.45,True,-0.72,True
+13147,2025-04-13T03:29,GBP,haussier,"Biensur, la majeure partie des gens qui voudront acheter ce livre  veulent egalement quelque chose de concret.",0.81,True,1.61,True
+13157,2025-04-16T20:35,JPY,haussier,"Le risque important d'une nouvelle appréciation du yen en raison de la demande de valeurs refuges, combiné aux vulnérabilités fondamentales ",-0.5,False,-1.59,False
+13158,2025-04-17T11:11,JPY,baissier,La faiblesse du yen etait due a un non accord entre le ministère de leconomie japonaise et le gouvernement de Trump.,-0.26,True,-1.23,True
+13179,2025-04-22T23:32,USD,haussier,Le dollar commence a devenir haussier et on commence a avoir un shift de sentiment.,-0.25,False,-0.09,False
+13186,2025-04-23T12:01,EUR,baissier,Je suis pret a vendre eurusd a 1.14288,-0.3,True,-0.46,True
+13186,2025-04-23T12:01,USD,haussier,Je suis pret a vendre eurusd a 1.14288,-0.25,False,-0.04,False
+13249,2025-05-07T18:45,EUR,baissier,EURUSD et GBPUSD risquent de couler hein,-0.21,True,0.26,False
+13249,2025-05-07T18:45,USD,haussier,EURUSD et GBPUSD risquent de couler hein,0.89,True,-1.05,False
+13347,2025-05-30T01:49,USD,baissier,J'ai limpression qu'on aura un dollar baissier demain,-0.34,True,-1.88,True
+13368,2025-06-10T22:02,USD,haussier,Demain on a IPC aux USA et je m'attend a un dollar haussier et des resultats au consensus ou legerement superieur au consensus,0.18,True,-0.64,False
+13410,2025-06-24T14:41,USD,baissier,"D'une part, il y a eu une vente massive et rapide du dollar américain (USD).",-1.11,True,-0.61,True
+13418,2025-07-02T13:47,USD,baissier,Ce qui veut dire que je m'attend a un dollar faible demain.,0.7,False,2.75,False
+13445,2025-07-04T16:01,USD,haussier,"Les tarifs sont haussiers pour l'USD, et le marché est fortement positionné sur le FX car l'impact politique sur les actions et les obligati",0.68,True,1.56,True
+13446,2025-07-04T16:01,USD,haussier,Le marché est positionné a l'achat sur l'USD.,0.68,True,1.56,True
+13489,2025-07-16T01:58,EUR,baissier,J'ai envie de vendre EURNZD,0.16,False,0.29,False
+13489,2025-07-16T01:58,NZD,haussier,J'ai envie de vendre EURNZD,0.69,True,-0.24,False
+13495,2025-07-16T13:38,EUR,baissier,je vais vendre EURNZD,0.16,False,0.29,False
+13495,2025-07-16T13:38,NZD,haussier,je vais vendre EURNZD,0.69,True,-0.24,False
+13503,2025-07-17T17:08,EUR,baissier,Jai lintime conviction que Eurnzd va couler,0.26,False,0.61,False
+13503,2025-07-17T17:08,NZD,haussier,Jai lintime conviction que Eurnzd va couler,0.62,True,-0.51,False
+13506,2025-07-18T13:22,EUR,baissier,Je vais faire une petite video pour vous décortiquer le setup sur Eurnzd et vous expliquer pourquoi  la paire était condamnée à couler.,0.48,False,0.51,False
+13506,2025-07-18T13:22,NZD,haussier,Je vais faire une petite video pour vous décortiquer le setup sur Eurnzd et vous expliquer pourquoi  la paire était condamnée à couler.,0.31,True,-0.59,False
+13520,2025-07-22T11:52,USD,baissier,Les critères techniques pour vendre USDJPY sont alignés au niveau de 147.500.,1.0,False,1.19,False
+13520,2025-07-22T11:52,JPY,haussier,Les critères techniques pour vendre USDJPY sont alignés au niveau de 147.500.,-0.12,False,0.82,True
+13568,2025-08-05T10:33,EUR,haussier,EURJPY est un setup clean a la hausse,0.34,True,0.41,True
+13568,2025-08-05T10:33,JPY,baissier,EURJPY est un setup clean a la hausse,-0.67,True,-0.6,True
+13575,2025-08-05T10:40,JPY,haussier,"Une hausse significative des taux déclencherait une ""appréciation nette du Yen et une baisse des marchés actions, infligeant des pertes déva",-0.67,False,-0.6,False
+13589,2025-08-07T07:43,EUR,haussier,"C'est pareil sur Eurusd, je le prenais a l'achat mais malheureusement le marché ne m'a pas donné de point d'entrée.",0.05,True,0.37,True
+13589,2025-08-07T07:43,USD,baissier,"C'est pareil sur Eurusd, je le prenais a l'achat mais malheureusement le marché ne m'a pas donné de point d'entrée.",0.29,False,0.01,False
+13613,2025-08-12T01:39,EUR,haussier,On se prepare a acheter la paire EURAUD.,0.12,True,-0.05,False
+13613,2025-08-12T01:39,AUD,baissier,On se prepare a acheter la paire EURAUD.,-0.74,True,1.09,False
+13615,2025-08-12T01:48,AUD,haussier,Aud devrait normalement faire un rate cut ce soir ce qui va renforcer cette paire a la hausse.,-0.74,False,1.09,True
+13616,2025-08-12T01:48,EUR,baissier,une baisse des taux sera le catalyste pour un tres bon swing sur EURAUD,0.12,False,-0.05,True
+13616,2025-08-12T01:48,AUD,haussier,une baisse des taux sera le catalyste pour un tres bon swing sur EURAUD,-0.74,False,1.09,True
+13617,2025-08-12T02:08,USD,baissier,Le setup suggere que GBPUSD ira a la baisse demain mais on est obligé de jouer la carte de la patience car le dollar peut surprendre a la ba,0.44,False,-0.27,True
+13627,2025-08-12T12:02,JPY,haussier,"Inversement, l'inflation persistante au Japon contraint la Banque du Japon à signaler un pivot restrictif historique, créant un fort vent fa",0.46,True,0.02,True
+13643,2025-08-13T01:34,CAD,baissier,J'ai ecris dans mon message que les vendeurs dominaient le marché et que CADJPY etait pret a couler.,-0.04,True,-0.87,True
+13643,2025-08-13T01:34,JPY,haussier,J'ai ecris dans mon message que les vendeurs dominaient le marché et que CADJPY etait pret a couler.,0.72,True,-0.35,False
+13645,2025-08-13T01:39,CAD,haussier,Cadjpy etait deja dans une zone de vente pour moi mais je ne voulais pas vendre avant de me rassurer que les vendeurs dominaient le marché.,-0.04,False,-0.87,False
+13645,2025-08-13T01:39,JPY,baissier,Cadjpy etait deja dans une zone de vente pour moi mais je ne voulais pas vendre avant de me rassurer que les vendeurs dominaient le marché.,0.72,False,-0.35,True
+13665,2025-08-14T02:01,EUR,haussier,L'experience de mes interpretations de l'analyse fondamentale porte a croire que EURAUD devrait s'apprecier comme prevu.,0.34,True,0.03,True
+13679,2025-08-19T02:26,EUR,haussier,je suis a l'achat sur EURAUD,-0.12,False,0.32,True
+13679,2025-08-19T02:26,AUD,baissier,je suis a l'achat sur EURAUD,0.54,False,1.78,False
+13714,2025-08-20T07:21,GBP,haussier,je suis a l'achat sur GBPJPY,-0.08,False,-0.24,False
+13714,2025-08-20T07:21,JPY,baissier,je suis a l'achat sur GBPJPY,-0.4,True,-1.36,True
+13717,2025-08-20T07:44,NZD,baissier,Hier la RBNZ a reduit les taux conformément aux attentes et de surcroît elle a renforcé sa pensée dovish.,0.19,False,0.15,False
+13737,2025-08-26T00:23,USD,baissier,"L’indice du Dollar américain (DXY), a chuté de -0,90% le vendredi, passant d’un plus haut de 1,5 semaine à un plus bas de 3,5 semaines, tand",0.11,False,-0.15,True
+13743,2025-08-26T07:24,AUD,baissier,Cela devrait normalement affaiblir la devise AUD.,0.47,False,1.25,False
+13756,2025-08-27T17:14,USD,baissier,Mais je vais vous mettre a jour sur ce qui se passe et pourquoi le dollar chute rapidement comme sa,0.04,False,0.64,False
+13764,2025-08-28T10:15,EUR,haussier,L'euro a l'air de se renforcer ce matin.,0.23,True,0.83,True
+13789,2025-09-02T09:11,USD,haussier,"En septembre, le dollar a toujours eté tres tres haussier",-0.64,False,-0.41,False
+13811,2025-09-15T14:15,USD,baissier,"Le discours dominant fait état d'une faiblesse prononcée du dollar américain, presque entièrement due à la conviction du marché que la Fed r",0.43,False,2.04,False
+13812,2025-09-15T14:16,EUR,baissier,la Banque centrale européenne (BCE) a annoncé la fin de son cycle de baisse des taux alors que la Fed entame le sien.,0.73,False,0.65,False
+13815,2025-09-15T14:19,NZD,haussier,"Cependant, son potentiel de hausse est fortement limité par la Banque centrale de Nouvelle-Zélande (RBNZ), l'une des banques centrales les p",-1.27,False,-2.36,False
+13816,2025-09-15T14:22,EUR,haussier,"Comme vous pouvez le voir, je maintiens ma position d'achat sur EURUSD",0.73,True,0.65,True
+13816,2025-09-15T14:22,USD,baissier,"Comme vous pouvez le voir, je maintiens ma position d'achat sur EURUSD",0.43,False,2.04,False
+13839,2025-09-16T23:51,CAD,baissier,Le facteur le plus déterminant de la faiblesse du dollar canadien à court terme est la trajectoire de la politique monétaire de la Banque du,0.18,False,0.01,False
+13852,2025-09-17T12:54,USD,haussier,Le dollar au lieu de monter en tension geopolitique ne faisait que tomber (chaque fois que Trump mettait de la pression sur les differents p,1.01,True,1.65,True
+13856,2025-09-17T14:56,CAD,baissier,Le marché n'a pas l'air de continuer a vendre le cad pour linstant donc protegez ce que vous avez deja gagné ou mettez vous a BE,0.1,False,-0.33,True
+13871,2025-09-18T00:19,USD,baissier,JE NE VOUS RECOMMANDE PAS DE CONTINUER A VENDRE LE DOLLAR AMERICAIN POUR L'INSTANT.,1.18,False,1.28,False
+13873,2025-09-18T00:26,NZD,baissier,"Aussi, le dernier rapport COT (Commitment of Traders) de la CFTC révèle que les grands spéculateurs ont augmenté leur position courte nette ",-1.01,True,-1.53,True
+13878,2025-09-18T00:45,GBP,haussier,GBP est neutre ou legerement haussiere.,-0.45,False,0.32,True
+13901,2025-09-21T14:25,USD,baissier,JE NE VOUS RECOMMANDE PAS DE CONTINUER A VENDRE LE DOLLAR AMERICAIN POUR L'INSTANT.,0.69,False,0.99,False
+13912,2025-09-22T12:59,USD,baissier,La détérioration sévère des données sur l'emploi est un indicateur avancé puissant qui forcera probablement la Réserve Fédérale à un assoupl,0.61,False,1.42,False
+13929,2025-09-24T13:24,AUD,haussier,"Ce matin, on etait dans une perspective haussiere sur Audusd et c'etait le plus beau setup que j'avais vu en 2025.",0.29,True,-0.18,False
+13929,2025-09-24T13:24,USD,baissier,"Ce matin, on etait dans une perspective haussiere sur Audusd et c'etait le plus beau setup que j'avais vu en 2025.",-0.15,True,0.92,False
+13954,2025-09-26T14:21,CAD,baissier,La réaction positive immédiate du dollar canadien (CAD) à la publication du rapport sur le produit intérieur brut (PIB) représente un événem,-0.58,True,0.01,False
+13966,2025-09-28T23:37,JPY,haussier,"Le Yen Japonais Le yen japonais (JPY) se trouve à un point d'inflexion haussier majeur, porté par une puissante confluence de facteurs macro",0.77,True,-1.8,False
+13967,2025-09-28T23:37,JPY,haussier,"À mesure que cette source de ventes de yens par les entreprises s'atténue, l'influence d'autres facteurs de marché, tels que les flux spécul",0.77,True,-1.8,False
+13974,2025-09-29T13:04,USD,baissier,Cette baisse du dollar ne doit pas vous amener a croire que le dollar Americain est baissier.,-0.09,True,0.43,False
+14004,2025-10-02T09:00,USD,baissier,"Le thème dominant à court terme sur le dollar americain est sans équivoque baissier, sous l'effet conjugué d'un ralentissement rapide du mar",1.21,False,1.5,False
+14039,2025-10-08T01:19,GBP,haussier,Je crois qu'un achat sur GBPNZD est imminent a ce stade.,0.15,True,-0.89,False
+14039,2025-10-08T01:19,NZD,baissier,Je crois qu'un achat sur GBPNZD est imminent a ce stade.,-1.04,True,-1.47,True
+14106,2025-10-26T23:22,CAD,baissier,"Le dollar canadien est confronté à une convergence de facteurs défavorables importants, ce qui établit une tendance baissière claire à court",0.38,False,0.54,False
+14302,2026-01-11T17:52,USD,haussier,Le Dollar Consolide alors que les Rendements se Stabilisent 11 Janvier 2026 Vue d'ensemble Le dollar américain reste ferme en ce début de se,0.06,True,-2.94,False
+14309,2026-01-12T16:59,USD,baissier,"L'indice Dollar (DXY), qui mesure la force du billet vert face à un panier de devises majeures, est sous pression, testant des supports crit",0.05,False,-2.65,True
+14312,2026-01-12T17:08,EUR,haussier,"La monnaie unique se renforce, non pas en raison d'une amélioration spectaculaire des fondamentaux économiques de la zone euro, mais grâce à",-0.18,False,-0.77,False
+14312,2026-01-12T17:08,USD,baissier,"De plus, la faiblesse relative du dollar allège les conditions financières mondiales, ce qui profite indirectement aux multinationales europ",0.05,False,-2.65,True
+14423,2026-02-20T15:59,USD,baissier,"Je pense que ce setup est un excellent setup, Je suis baissier sur le dollar a long terme.",-0.19,True,1.15,False
+14455,2026-03-01T07:52,JPY,haussier,Contrairement à ce que l’analyse fondamentale classique nous enseigne — à savoir que le yen devrait s’apprécier demain à l’ouverture en rais,-0.32,False,0.41,True
+14459,2026-03-01T16:37,AUD,baissier,"Audjpy, gbpjpy, eurjpy seront potentiellement des devises a la baisse",-0.41,True,-1.11,True
+14459,2026-03-01T16:37,JPY,haussier,"Audjpy, gbpjpy, eurjpy seront potentiellement des devises a la baisse",-0.32,False,0.41,True
+14462,2026-03-01T18:05,JPY,haussier,Il faut abandonner l'idée de renforcement du yen pour l'instant,-0.32,False,0.41,True
+14467,2026-03-01T22:08,AUD,haussier,Nous n'allons pas vendre audjpy mais nous allons vendre audusd et audcad,-0.41,False,-1.11,False
+14467,2026-03-01T22:08,JPY,baissier,Nous n'allons pas vendre audjpy mais nous allons vendre audusd et audcad,-0.32,True,0.41,False
+14535,2026-03-08T23:53,EUR,baissier,Meme vendre seulement eurusd au bon point d'entrée technique va vous faire gagner de l'argent,-0.42,True,1.03,False
+14535,2026-03-08T23:53,USD,haussier,Meme vendre seulement eurusd au bon point d'entrée technique va vous faire gagner de l'argent,1.3,True,1.69,True
+14537,2026-03-08T23:54,EUR,baissier,"c'est tres ridicule, le marché est dans un sens unique et tant que le detroit est menacé EURUSD va continuer de chuter",-0.42,True,1.03,False
+14537,2026-03-08T23:54,USD,haussier,"c'est tres ridicule, le marché est dans un sens unique et tant que le detroit est menacé EURUSD va continuer de chuter",1.3,True,1.69,True
+14553,2026-03-11T09:05,USD,haussier,Je pense que le dollar risque d'etre haussier demain hein,0.94,True,0.34,True
+14575,2026-03-17T18:57,EUR,baissier,Eurusd risque de chuter brutalement demain.,0.85,False,1.55,False
+14575,2026-03-17T18:57,USD,haussier,Eurusd risque de chuter brutalement demain.,0.2,True,-0.75,False
+14581,2026-03-18T12:35,EUR,baissier,Je vois eurusd couler a partir d'ici,0.81,False,1.5,False
+14581,2026-03-18T12:35,USD,haussier,Je vois eurusd couler a partir d'ici,-0.04,False,-1.23,False
+14582,2026-03-18T13:06,USD,haussier,Regardez comment le dollar est devenu haussier 💯🎯,-0.04,False,-1.23,False
+14618,2026-03-27T08:14,USD,baissier,Il faut rester hors du marché ou privilégier une vente sur usdjpy a ce prix,0.14,False,-1.94,True
+14618,2026-03-27T08:14,JPY,haussier,Il faut rester hors du marché ou privilégier une vente sur usdjpy a ce prix,0.54,True,-1.37,False
+14632,2026-04-01T22:12,USD,haussier,Je m'attends a une dollar haussier demain !,-0.6,False,-1.87,False
+14634,2026-04-02T02:38,USD,haussier,Regardez comment le dollar est haussier !,-1.17,False,-2.19,False
+14686,2026-04-09T13:22,EUR,haussier,Je vais acheter eurjpy a ce niveau.,0.13,True,-0.6,False
+14686,2026-04-09T13:22,JPY,baissier,Je vais acheter eurjpy a ce niveau.,-0.7,True,0.15,False
+14813,2026-05-07T17:30,EUR,baissier,EURUSD va couler sous peu ainsi que GBPUSD,-0.06,True,0.01,False
+14813,2026-05-07T17:30,USD,haussier,EURUSD va couler sous peu ainsi que GBPUSD,0.54,True,1.79,True
+14815,2026-05-07T17:40,EUR,baissier,"ce trade est un setup A+, nous sommes dans une saisonnalité baissiere pour EURUSD.",-0.06,True,0.01,False
+14815,2026-05-07T17:40,USD,haussier,"ce trade est un setup A+, nous sommes dans une saisonnalité baissiere pour EURUSD.",0.54,True,1.79,True
+14907,2026-05-31T02:13,EUR,haussier,eurjpy a une saisonnalité tres haussière au mois de juin.,0.22,True,0.67,True
+14907,2026-05-31T02:13,JPY,baissier,eurjpy a une saisonnalité tres haussière au mois de juin.,0.71,False,1.05,False
+14940,2026-06-16T01:26,EUR,haussier,185.000 sur eurjpy reste un niveau tres interessant a l'achat pour moi,-0.36,False,-0.75,False
+14940,2026-06-16T01:26,JPY,baissier,185.000 sur eurjpy reste un niveau tres interessant a l'achat pour moi,0.9,False,-0.57,True
+14962,2026-06-22T15:05,USD,baissier,depuis ce matin je parle de cette baisse sur USDJPY,0.39,False,-0.22,True
+14962,2026-06-22T15:05,JPY,haussier,depuis ce matin je parle de cette baisse sur USDJPY,0.17,True,-1.21,False
+14975,2026-06-30T20:54,JPY,baissier,Le yen est condamné à chuter d'ici là.,0.05,False,-0.97,True
+14980,2026-06-30T21:21,AUD,baissier,"Par ailleurs, les indicateurs de crédit publiés au cours de la journée confirment la résilience financière du secteur privé australien, limi",0.03,False,0.13,False
+14981,2026-06-30T21:25,EUR,haussier,Ce repli de près de 40 % du baril de Brent depuis ses sommets de mars a non seulement atténué le spectre d'une crise stagflationniste en Eur,-0.22,False,-0.09,False
+14993,2026-07-01T11:04,AUD,haussier,Audusd a enfin donné un signal d'achat mais je ferai tres attention.,0.27,True,0.52,True
+14993,2026-07-01T11:04,USD,baissier,Audusd a enfin donné un signal d'achat mais je ferai tres attention.,-0.39,True,-1.43,True
+14994,2026-07-01T11:05,EUR,baissier,L'euro est faible,-0.0,True,-0.16,True
+15011,2026-07-02T08:42,JPY,baissier,"Basé sur mes ecrits de l'autre jour, vous avez vu comment les investisseurs ont attendu exactement aujourd'hui pour vendre usdjpy avec le se",-0.76,True,1.28,False
+15050,2026-07-10T13:37,JPY,haussier,Et puis le marché s'inquiétait de voir le gouvernement japonais intervenir dans les décisions de la Banque du Japon (BOJ) pour l'empêcher de,-0.81,False,0.51,True
+15052,2026-07-10T13:39,EUR,baissier,L'euro de l'autre coté est fondamentalement faible.,-0.16,True,0.08,False
+15088,2026-07-14T12:23,EUR,baissier,EURUSD va chuter dans tous les cas apres,-0.05,True,0.18,False
+15088,2026-07-14T12:23,USD,haussier,EURUSD va chuter dans tous les cas apres,0.15,True,-0.73,False
+15089,2026-07-14T12:24,EUR,baissier,Nous allons vendre EURUSD en temps venu,-0.05,True,0.18,False
+15089,2026-07-14T12:24,USD,haussier,Nous allons vendre EURUSD en temps venu,0.15,True,-0.73,False
+15095,2026-07-14T12:32,EUR,baissier,on va toujours vendre eurusd attendez mon signal,-0.05,True,0.18,False
+15095,2026-07-14T12:32,USD,haussier,on va toujours vendre eurusd attendez mon signal,0.15,True,-0.73,False
+15161,2026-07-24T10:22,EUR,baissier,"Je pense que je vais vendre euraud hein, il n'arrive pas a venir en haut du sell d'hier soir.",0.02,False,0.44,False
+15161,2026-07-24T10:22,AUD,haussier,"Je pense que je vais vendre euraud hein, il n'arrive pas a venir en haut du sell d'hier soir.",-0.71,False,0.33,True
+15185,2026-07-29T18:12,EUR,baissier,On aura un excellent point d'entrée sur eurusd a la vente.,-0.34,True,-0.16,True
+15185,2026-07-29T18:12,USD,haussier,On aura un excellent point d'entrée sur eurusd a la vente.,-1.12,False,-1.78,False
+15204,2026-08-12T10:27,USD,haussier,Donc des chiffres positifs aujourd'hui va nous donner de bonnes opportunités et en plus la saisonnalité est haussière sur le dollar en aout,-0.96,False,-0.63,False
+15207,2026-08-12T12:37,AUD,haussier,il n'y aura pas vraiment de volatilité mais audusd risque de continuer de s'apprecier,-0.12,False,0.67,True
+15207,2026-08-12T12:37,USD,baissier,il n'y aura pas vraiment de volatilité mais audusd risque de continuer de s'apprecier,-0.96,True,-0.63,True
+15214,2026-08-17T10:15,JPY,baissier,Ce trade est basé sur le fait que le marché a commencé a priced in l'incapacité de boj a augmenter les taux d'intérêt suite a une baisse du ,-0.43,True,2.86,False
+15269,2026-08-31T13:11,USD,haussier,Je suis haussier sur le dollar Americain donc eurusd sera ma tchiza probablement ce mois,-0.52,False,2.04,True
+15323,2026-09-10T07:50,EUR,baissier,augmentation de taux >>> euro chutera Maintien de taux >>> euro chutera,-0.19,True,-1.21,True
+15362,2026-09-16T12:15,USD,haussier,"Ma pensée est que le dollar va partir à la hausse, car Warsh ne peut pas se permettre de créer un doute dans l'esprit des investisseurs.",0.7,True,1.29,True
+15385,2026-09-17T09:32,GBP,haussier,"Mais pour la livre sterling et les obligations britanniques à court terme, le plus important aujourd’hui devrait être le vote 6-3 ou 5-4 et ",-0.09,False,0.81,True
+15401,2026-09-18T02:41,JPY,baissier,je m'attend a une faiblesse du yen japonnais et le meilleur setup pour linstant est le trade sur nzdjpy.,0.61,False,,
+15415,2026-09-18T03:02,JPY,haussier,"Le marché avait deja integré cette hausse de taux, le forward guidance va determiner le reste de la direction du yen.",0.61,True,,
+15522,2026-10-01T12:36,EUR,baissier,Je viens d'envoyer sur SignalX mon rapport sur les raisons de la faiblesse de l'euro et le choix stratégique de la paire EURCHF.,-0.34,True,,
+15547,2026-10-02T16:34,USD,haussier,"des que le sentiment a changé, je me suis repositionné sur usdjpy a l'achat",0.1,True,,
+15547,2026-10-02T16:34,JPY,baissier,"des que le sentiment a changé, je me suis repositionné sur usdjpy a l'achat",-0.16,True,,
+15578,2026-10-07T07:30,EUR,baissier,L'euro est structurellement faible,-0.17,True,,
+15610,2026-10-10T01:49,GBP,haussier,@thehalalwinningteam_bot pour acheter le livre,0.35,True,,
+15612,2026-10-12T18:19,GBP,haussier,"Pour commencer, j'ai apprécié l'avertissement au début du livre.",,,,
+15625,2026-10-14T12:42,USD,haussier,Le dollar est entrain de se renforcer et est entrain de s'approcher des 160.,,,,
