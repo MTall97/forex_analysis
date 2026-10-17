@@ -32,9 +32,16 @@ TRADES = [
     (15615, 'GBPUSD', 'vente', 1.32371, None, None, '2026-10-12 18:38', '2026-10-12 08:00', 'MT5 #15615 (1,66 lots, +529,54 $)'),
     (15620, 'EURUSD', 'vente', 1.11923, 1.12279, 1.11032, '2026-10-14 12:33', '2026-10-13 14:00', 'TradingView #15620-#15621, MT5 #15623 (1,43 lots, +549,12 $)'),
     (15624, 'GBPJPY', 'vente', 209.997, 210.244, 209.455, '2026-10-14 12:40', None, 'TradingView #15624, #15626 (ordre limite sur le MLQ 210.000)'),
-    # messages du 14/10 au soir, transmis par l'utilisateur en capture d'écran (pas encore dans un export du canal)
-    ('14/10 18h14', 'EURUSD', 'vente', 1.11617, 1.11967, 1.10890, '2026-10-14 18:14', None,
-     'TradingView BYN1sOvd (4h, créé 18h13 UTC), « continuation logique », « setup A+ »'),
+    # messages du 14/10 au soir et du 15/10, récupérés sur la version web du canal (scripts/collecter_canal_public.py)
+    (15631, 'EURUSD', 'vente', 1.11617, 1.11967, 1.10890, '2026-10-14 18:14', None,
+     'TradingView #15631 (4h), « continuation logique », « setup A+ » (#15633) ; « fermez sur eurusd pour l\'instant » (#15636)'),
+    (15641, 'AUDJPY', 'vente', 110.002, 110.253, 109.485, '2026-10-15 00:32', None,
+     'TradingView #15641 et #15642 (ordre limite sur le MLQ 110.000) ; « mieux vaut rater un bon trade » (#15643)'),
+    (15649, 'EURJPY', 'vente', 177.090, 177.347, 176.570, '2026-10-15 12:24', None,
+     '« je vais vendre l\'EURJPY tout de suite » (#15648) ; plan modifié #15650 (177.096 / 177.308 / 176.557) et #15653'),
+    (15655, 'USDJPY', 'achat', 157.500, 157.150, 158.219, '2026-10-15 13:29', None,
+     'annoncé dès #15639 (00h25), annulé #15647, repris #15656 ; #15661 ; « 4 pips » de l\'entrée (#15662, #15666)'),
+    (15664, 'EURUSD', 'vente', 1.12084, 1.12340, 1.11565, '2026-10-15 14:48', None, '« Je vend EURUSD maintenant » (#15665)'),
 ]
 
 
@@ -51,7 +58,7 @@ def rejouer(h, sens, e, sl, tp, debut, limite):
         # ordre limite (repère achat) : exécuté quand le prix descend jusqu'à l'entrée, dans les 5 jours (120 h)
         k = next((i for i in range(min(len(x), 120)) if ll[i] <= E), None)
         if k is None:
-            return ('non déclenché' if len(x) >= 120 else 'pas encore déclenché au 14/10'), None, None
+            return ('non déclenché' if len(x) >= 120 else 'pas encore déclenché'), None, None
         i0 = k
     if SL is None or TP is None:
         return 'sans stop ni objectif', None, None
@@ -60,7 +67,7 @@ def rejouer(h, sens, e, sl, tp, debut, limite):
             return 'stop', x['date'][i], -1.0
         if hh[i] >= TP:
             return 'objectif', x['date'][i], round((TP - E) / (E - SL), 2)
-    return 'en cours au 14/10', None, round((x['close'].iat[-1] * s - E) / (E - SL), 2)
+    return 'en cours', None, round((x['close'].iat[-1] * s - E) / (E - SL), 2)
 
 
 def main():

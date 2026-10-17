@@ -115,7 +115,7 @@ details.method p,details.method li{max-width:80ch;color:var(--muted)}
 
 <script type="application/json" id="donnees">{{DONNEES}}</script>
 <script>
-const LIEN = id => `https://t.me/Thehalalwayamirou/${id}`;
+const LIEN = id => `https://t.me/thehalalwinningteam/${id}`;
 const PIP = p => p.endsWith('JPY') ? 0.01 : 0.0001;
 const fmt = (x, n = 2, s = true) => x == null ? '—' : (s && x > 0 ? '+' : '') + x.toFixed(n).replace('.', ',');
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));

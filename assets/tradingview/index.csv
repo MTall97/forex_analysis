@@ -1,11 +1,15 @@
 id_message,date_utc,id_tradingview,fichier,statut,texte
-15541,2026-10-02T12:21:17,KPxgze5Z,assets/tradingview/2026-10/2026-10-02_12h21_msg15541_KPxgze5Z.png,ok,https://www.tradingview.com/x/KPxgze5Z/
-15546,2026-10-02T16:33:31,989FiqwS,assets/tradingview/2026-10/2026-10-02_16h33_msg15546_989FiqwS.png,ok,https://www.tradingview.com/x/989FiqwS/
-15548,2026-10-02T16:35:43,3tiH55Of,assets/tradingview/2026-10/2026-10-02_16h35_msg15548_3tiH55Of.png,ok,https://www.tradingview.com/x/3tiH55Of/
-15565,2026-10-05T14:19:47,zN0FW6rM,assets/tradingview/2026-10/2026-10-05_14h19_msg15565_zN0FW6rM.png,ok,https://www.tradingview.com/x/zN0FW6rM/
-15569,2026-10-05T14:52:20,gyHm1Ml5,assets/tradingview/2026-10/2026-10-05_14h52_msg15569_gyHm1Ml5.png,ok,https://www.tradingview.com/x/gyHm1Ml5/
-15582,2026-10-07T07:38:46,zN0FW6rM,assets/tradingview/2026-10/2026-10-05_14h19_msg15565_zN0FW6rM.png,ok,https://www.tradingview.com/x/zN0FW6rM/
-15620,2026-10-14T12:33:07,orideAEW,assets/tradingview/2026-10/2026-10-14_12h33_msg15620_orideAEW.png,ok,https://www.tradingview.com/x/orideAEW/
-15621,2026-10-14T12:33:27,c7yjwdq5,assets/tradingview/2026-10/2026-10-14_12h33_msg15621_c7yjwdq5.png,ok,https://www.tradingview.com/x/c7yjwdq5/
-15624,2026-10-14T12:40:34,nmTZFWSn,assets/tradingview/2026-10/2026-10-14_12h40_msg15624_nmTZFWSn.png,ok,https://www.tradingview.com/x/nmTZFWSn/
-15626,2026-10-14T13:02:38,CjD9WPMX,assets/tradingview/2026-10/2026-10-14_13h02_msg15626_CjD9WPMX.png,ok,https://www.tradingview.com/x/CjD9WPMX/
+15620,2026-10-14T12:33:07,orideAEW,assets/tradingview/2026-10/2026-10-14_12h33_msg15620_orideAEW.png,deja_present,https://www.tradingview.com/x/orideAEW/
+15621,2026-10-14T12:33:27,c7yjwdq5,assets/tradingview/2026-10/2026-10-14_12h33_msg15621_c7yjwdq5.png,deja_present,https://www.tradingview.com/x/c7yjwdq5/
+15624,2026-10-14T12:40:34,nmTZFWSn,assets/tradingview/2026-10/2026-10-14_12h40_msg15624_nmTZFWSn.png,deja_present,https://www.tradingview.com/x/nmTZFWSn/
+15626,2026-10-14T13:02:38,CjD9WPMX,assets/tradingview/2026-10/2026-10-14_13h02_msg15626_CjD9WPMX.png,deja_present,https://www.tradingview.com/x/CjD9WPMX/
+15631,2026-10-14T18:14:44,BYN1sOvd,assets/tradingview/2026-10/2026-10-14_18h14_msg15631_BYN1sOvd.png,echec: <urlopen error [Errno 104] Connection reset by peer>,https://www.tradingview.com/x/BYN1sOvd/
+15635,2026-10-14T18:25:44,gMfvBlcb,assets/tradingview/2026-10/2026-10-14_18h25_msg15635_gMfvBlcb.png,ok,https://www.tradingview.com/x/gMfvBlcb/
+15641,2026-10-15T00:32:32,DnDCiD3d,assets/tradingview/2026-10/2026-10-15_00h32_msg15641_DnDCiD3d.png,ok,https://www.tradingview.com/x/DnDCiD3d/
+15642,2026-10-15T01:19:59,lEpVzSsS,assets/tradingview/2026-10/2026-10-15_01h19_msg15642_lEpVzSsS.png,ok,https://www.tradingview.com/x/lEpVzSsS/
+15649,2026-10-15T12:24:10,cTPwxdr4,assets/tradingview/2026-10/2026-10-15_12h24_msg15649_cTPwxdr4.png,ok,https://www.tradingview.com/x/cTPwxdr4/
+15650,2026-10-15T12:39:39,ULkGhwq5,assets/tradingview/2026-10/2026-10-15_12h39_msg15650_ULkGhwq5.png,ok,https://www.tradingview.com/x/ULkGhwq5/
+15653,2026-10-15T13:26:27,tvtIkE0u,assets/tradingview/2026-10/2026-10-15_13h26_msg15653_tvtIkE0u.png,ok,https://www.tradingview.com/x/tvtIkE0u/
+15655,2026-10-15T13:29:51,pBglEprQ,assets/tradingview/2026-10/2026-10-15_13h29_msg15655_pBglEprQ.png,ok,https://www.tradingview.com/x/pBglEprQ/
+15661,2026-10-15T14:21:01,yL0fGGU7,assets/tradingview/2026-10/2026-10-15_14h21_msg15661_yL0fGGU7.png,ok,https://www.tradingview.com/x/yL0fGGU7/
+15664,2026-10-15T14:48:07,IHdfgr4K,assets/tradingview/2026-10/2026-10-15_14h48_msg15664_IHdfgr4K.png,ok,https://www.tradingview.com/x/IHdfgr4K/

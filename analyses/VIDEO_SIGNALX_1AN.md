@@ -74,6 +74,9 @@ Une vidéo qui en contient zéro sur 86 cartes est donc incomplète, ou classe c
 ## 5. « Avant le mouvement. Pas après. »
 Cette promesse ne peut pas être vérifiée pour le groupe SignalX, auquel nous n'avons pas accès. Dans le canal gratuit, en revanche, les trades SignalX sont souvent republiés **après** le mouvement : 67 plans « après coup » contre 78 annoncés sur la période (`analyses/TRADES_TOUS_LES_MOIS.md`). En octobre 2026, huit plans sur onze étaient montrés après coup (`analyses/OCTOBRE_2026.md`).
 
+## 5 bis. Le jour de la publication
+La vidéo est publiée dans le canal le 16/10/2026 (#15667) : « SignalX a 1 an 🎉 86 setups A+ partagés en direct, tous dans la vidéo ». Dans les deux jours précédents, trois plans annoncés dans le canal ont touché leur stop selon les cours, sans que le canal le signale : EURUSD #15631, EURJPY #15649, EURUSD #15664 (`analyses/OCTOBRE_2026.md`).
+
 ## 6. En résumé
 - La vidéo montre **86 setups et aucune perte**. Mais **48 d'entre eux sont seulement « en profit »**, sans résultat final.
 - **Au moins deux pertes reconnues par Amirou lui-même**, le GBPAUD « A+ » du 12/12/2025 et le USDJPY du 01/10/2026, manquent à une liste présentée comme complète, « sans exception, dans l'ordre ». La vidéo est donc trompeuse dans sa présentation.

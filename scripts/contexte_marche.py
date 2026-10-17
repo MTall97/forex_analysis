@@ -18,7 +18,7 @@ FRED_PAYS = {'Euro': 'EUR', 'United Kingdom': 'GBP', 'Japan': 'JPY', 'Australia'
              'Canada': 'CAD', 'Switzerland': 'CHF'}
 YAHOO = {'EUR': ('EURUSD', 1), 'GBP': ('GBPUSD', 1), 'AUD': ('AUDUSD', 1), 'NZD': ('NZDUSD', 1),
          'JPY': ('USDJPY', -1), 'CAD': ('USDCAD', -1), 'CHF': ('USDCHF', -1)}
-LIEN = 'https://t.me/Thehalalwayamirou/{}'
+LIEN = 'https://t.me/thehalalwinningteam/{}'
 
 
 def chemin(p):
