@@ -1,0 +1,43 @@
+strategie,filtre,classe,trades,gagnants,r_moyen,erreur_type
+"englobante, journalier 2012-2026",taux_2_ans,contre,1858,0.428,-0.02,0.025
+"englobante, journalier 2012-2026",taux_2_ans,dans le sens,1671,0.451,0.022,0.027
+"englobante, journalier 2012-2026",taux_2_ans,neutre,2360,0.418,-0.064,0.021
+"englobante, journalier 2012-2026",taux_2_ans,sans objet,3812,0.43,-0.007,0.018
+"englobante, journalier 2012-2026",pente_10_2,contre,1839,0.418,-0.056,0.025
+"englobante, journalier 2012-2026",pente_10_2,dans le sens,1896,0.429,-0.005,0.025
+"englobante, journalier 2012-2026",pente_10_2,neutre,2154,0.442,-0.017,0.023
+"englobante, journalier 2012-2026",pente_10_2,sans objet,3812,0.43,-0.007,0.018
+"englobante, journalier 2012-2026",vix,contre,420,0.445,-0.007,0.052
+"englobante, journalier 2012-2026",vix,dans le sens,353,0.425,-0.012,0.058
+"englobante, journalier 2012-2026",vix,neutre,199,0.462,0.061,0.082
+"englobante, journalier 2012-2026",vix,sans objet,8729,0.429,-0.021,0.011
+"englobante, journalier 2012-2026",vix_stress,VIX <= 25,8784,0.43,-0.018,0.011
+"englobante, journalier 2012-2026",vix_stress,VIX > 25,917,0.437,-0.022,0.035
+"englobante, horaire 2024-2026",taux_2_ans,contre,499,0.363,-0.149,0.046
+"englobante, horaire 2024-2026",taux_2_ans,dans le sens,471,0.484,0.104,0.052
+"englobante, horaire 2024-2026",taux_2_ans,neutre,274,0.456,0.036,0.065
+"englobante, horaire 2024-2026",taux_2_ans,sans objet,2743,0.417,-0.042,0.02
+"englobante, horaire 2024-2026",pente_10_2,contre,368,0.44,0.021,0.059
+"englobante, horaire 2024-2026",pente_10_2,dans le sens,387,0.429,0.043,0.056
+"englobante, horaire 2024-2026",pente_10_2,neutre,489,0.421,-0.081,0.046
+"englobante, horaire 2024-2026",pente_10_2,sans objet,2743,0.417,-0.042,0.02
+"englobante, horaire 2024-2026",vix,contre,218,0.413,-0.022,0.074
+"englobante, horaire 2024-2026",vix,dans le sens,217,0.447,0.027,0.072
+"englobante, horaire 2024-2026",vix,neutre,115,0.478,0.144,0.108
+"englobante, horaire 2024-2026",vix,sans objet,3437,0.418,-0.043,0.018
+"englobante, horaire 2024-2026",vix_stress,VIX <= 25,3761,0.421,-0.03,0.018
+"englobante, horaire 2024-2026",vix_stress,VIX > 25,226,0.42,-0.089,0.062
+"lundi-mardi-mercredi, horaire 2024-2026",taux_2_ans,contre,78,0.538,0.104,0.138
+"lundi-mardi-mercredi, horaire 2024-2026",taux_2_ans,dans le sens,50,0.7,0.38,0.182
+"lundi-mardi-mercredi, horaire 2024-2026",taux_2_ans,neutre,13,0.538,-0.122,0.284
+"lundi-mardi-mercredi, horaire 2024-2026",taux_2_ans,sans objet,211,0.54,0.029,0.082
+"lundi-mardi-mercredi, horaire 2024-2026",pente_10_2,contre,48,0.667,0.259,0.162
+"lundi-mardi-mercredi, horaire 2024-2026",pente_10_2,dans le sens,45,0.689,0.438,0.217
+"lundi-mardi-mercredi, horaire 2024-2026",pente_10_2,neutre,48,0.438,-0.139,0.149
+"lundi-mardi-mercredi, horaire 2024-2026",pente_10_2,sans objet,211,0.54,0.029,0.082
+"lundi-mardi-mercredi, horaire 2024-2026",vix,contre,17,0.412,0.322,0.472
+"lundi-mardi-mercredi, horaire 2024-2026",vix,dans le sens,7,0.571,0.577,0.65
+"lundi-mardi-mercredi, horaire 2024-2026",vix,neutre,11,0.818,0.642,0.323
+"lundi-mardi-mercredi, horaire 2024-2026",vix,sans objet,317,0.562,0.047,0.064
+"lundi-mardi-mercredi, horaire 2024-2026",vix_stress,VIX <= 25,334,0.551,0.036,0.063
+"lundi-mardi-mercredi, horaire 2024-2026",vix_stress,VIX > 25,18,0.778,1.084,0.412

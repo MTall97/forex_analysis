@@ -91,6 +91,7 @@ Tous les scripts se lancent **depuis la racine du dépôt** : `python scripts/<s
 | Setups « A+ » | `python scripts/verifier_setups_a_plus.py` | `data/verification_trades.csv`, `data/octobre_2026/trades.csv` | `data/setups_a_plus.csv`, `analyses/PLAYBOOK_NOTION.md` | non |
 | Checklist A+ du playbook | `python scripts/tester_checklist_a_plus.py` | Yahoo horaire, Dukascopy journalier | `data/checklist_a_plus/`, `analyses/CHECKLIST_A_PLUS.md` | non (cache) |
 | Méthode de retournement | `python scripts/tester_retournement.py` | Dukascopy journalier, Yahoo horaire (4 h) | `data/retournement/`, `analyses/RETOURNEMENT.md` | non (cache) |
+| Notions du Meet (stop élargi 1 R, US02Y, US10Y, VIX) | `python scripts/tester_notions_meet.py` | Dukascopy, Yahoo horaire, FRED (`data/prix/fred_macro/` : DGS10, DGS2, VIXCLS) | `data/notions_meet/`, `analyses/NOTIONS_MEET.md` | oui (FRED) |
 | Figures | `python scripts/figures_rapports.py` | tout | `assets/figures/` | non |
 
 ## 4. Mettre à jour les données
